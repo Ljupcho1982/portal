@@ -1,6 +1,30 @@
 {
- "updated": "2026-08-07T22:56:00.742Z",
+ "updated": "2026-08-07T23:48:42.030Z",
  "items": [
+  {
+   "title": "Donald Trump renews effort to fire Federal Reserve governor Lisa Cook",
+   "link": "https://www.aljazeera.com/news/2026/8/7/donald-trump-renews-effort-to-fire-federal-reserve-governor-lisa-cook?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-07T23:40:16.000Z"
+  },
+  {
+   "title": "ICC body urges Chad and Venezuela to reverse course on withdrawal",
+   "link": "https://www.aljazeera.com/news/2026/8/7/icc-body-urges-chad-and-venezuela-to-reverse-course-on-withdrawal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-07T23:34:50.000Z"
+  },
+  {
+   "title": "Will Pakistan-Saudi-Turkiye alliance actually create a new regional order?",
+   "link": "https://www.aljazeera.com/news/2026/8/7/new-regional-order-pakistan-turkiye-saudi-arabia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-07T23:18:14.000Z"
+  },
+  {
+   "title": "Medics among six Palestinians injured in Israeli attacks across West Bank",
+   "link": "https://www.aljazeera.com/news/2026/8/7/medics-among-six-palestinians-injured-in-israeli-attacks-across-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-07T23:15:01.000Z"
+  },
   {
    "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
    "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
@@ -38,40 +62,16 @@
    "date": "2026-08-07T21:18:20.000Z"
   },
   {
-   "title": "South Koreans beat the heat with ‘silent disco’ pool party",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-07T21:12:45.000Z"
-  },
-  {
-   "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
-   "link": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-07T21:02:31.000Z"
-  },
-  {
    "title": "US police officer accused of killing three people in Mexico arrested at border",
    "link": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
    "source": "Guardian World",
    "date": "2026-08-07T20:49:24.000Z"
   },
   {
-   "title": "Ebola cases top 4,000 in DRC as WHO urges Ervebo vaccine trial",
-   "link": "https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-07T20:41:46.000Z"
-  },
-  {
    "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
    "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-07T20:40:56.000Z"
-  },
-  {
-   "title": "Can diplomacy end the conflict in Libya?",
-   "link": "https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-07T20:39:26.000Z"
   },
   {
    "title": "App Store Rejection of the Week: Dark Hours",
@@ -104,12 +104,6 @@
    "date": "2026-08-07T18:34:34.000Z"
   },
   {
-   "title": "Databricks drove down AI coding spend 70%",
-   "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-   "source": "Hacker News",
-   "date": "2026-08-07T18:25:17.000Z"
-  },
-  {
    "title": "US Senate approves sweeping Russia sanctions bill targeting energy income",
    "link": "http://www.euronews.com/2026/08/07/us-senate-approves-sweeping-russia-sanctions-bill-targeting-energy-income",
    "source": "Euronews",
@@ -120,6 +114,12 @@
    "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
    "source": "Hacker News",
    "date": "2026-08-07T18:01:30.000Z"
+  },
+  {
+   "title": "DeepSeek V4 Flash 0731",
+   "link": "https://arcprize.org/results/deepseek-v4-flash-0731",
+   "source": "Hacker News",
+   "date": "2026-08-07T17:56:20.000Z"
   },
   {
    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",

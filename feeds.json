@@ -1,23 +1,83 @@
 {
- "updated": "2026-08-07T20:04:14.634Z",
+ "updated": "2026-08-07T22:56:00.742Z",
  "items": [
   {
-   "title": "Spain to impose border controls against Italy as row over Ceuta migrant influx intensifies",
+   "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
    "link": "https://www.bbc.co.uk/news/articles/c5yv5l6yr5ko?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-08-07T19:51:16.000Z"
+   "date": "2026-08-07T22:13:55.000Z"
   },
   {
-   "title": "Contaminated water putting Gaza families at risk",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/contaminated-water-putting-gaza-families-at-risk?traffic_source=rss",
+   "title": "Democrats gain momentum in pivotal US Senate and governor’s races in Texas",
+   "link": "https://www.aljazeera.com/news/2026/8/7/democrats-gain-momentum-in-pivotal-us-senate-and-governors-races-in-texas?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-08-07T19:47:42.000Z"
+   "date": "2026-08-07T22:08:49.000Z"
   },
   {
-   "title": "DR Congo releases 15 prisoners to M23 rebels as part of Doha peace process",
-   "link": "https://www.aljazeera.com/news/2026/8/7/dr-congo-releases-15-prisoners-to-m23-rebels-as-part-of-doha-peace-process?traffic_source=rss",
+   "title": "Spain to introduce temporary border checks on visitors from Italy",
+   "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
+   "source": "Guardian World",
+   "date": "2026-08-07T21:44:38.000Z"
+  },
+  {
+   "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
+   "link": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+   "source": "Hacker News",
+   "date": "2026-08-07T21:19:57.000Z"
+  },
+  {
+   "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
+   "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-07T21:19:27.000Z"
+  },
+  {
+   "title": "US appeals court halts White House ballroom construction",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/us-appeals-court-halts-white-house-ballroom-construction?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-08-07T19:21:01.000Z"
+   "date": "2026-08-07T21:18:20.000Z"
+  },
+  {
+   "title": "South Koreans beat the heat with ‘silent disco’ pool party",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/south-koreans-beat-the-heat-with-silent-disco-pool-party?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-07T21:12:45.000Z"
+  },
+  {
+   "title": "Lebanon points to ‘positive progress’ on borders, prisoners in Israel talks",
+   "link": "https://www.aljazeera.com/news/2026/8/7/lebanon-points-to-positive-progress-on-borders-prisoners-in-israel-talks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-07T21:02:31.000Z"
+  },
+  {
+   "title": "US police officer accused of killing three people in Mexico arrested at border",
+   "link": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
+   "source": "Guardian World",
+   "date": "2026-08-07T20:49:24.000Z"
+  },
+  {
+   "title": "Ebola cases top 4,000 in DRC as WHO urges Ervebo vaccine trial",
+   "link": "https://www.aljazeera.com/news/2026/8/7/ebola-cases-top-4000-in-drc-as-who-urges-ervebo-vaccine-trial?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-07T20:41:46.000Z"
+  },
+  {
+   "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
+   "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-07T20:40:56.000Z"
+  },
+  {
+   "title": "Can diplomacy end the conflict in Libya?",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/8/7/can-diplomacy-end-the-conflict-in-libya?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-07T20:39:26.000Z"
+  },
+  {
+   "title": "App Store Rejection of the Week: Dark Hours",
+   "link": "https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours",
+   "source": "Hacker News",
+   "date": "2026-08-07T18:59:08.000Z"
   },
   {
    "title": "US appeals court orders halt to Trump ballroom construction without congressional approval",
@@ -26,10 +86,16 @@
    "date": "2026-08-07T18:55:15.000Z"
   },
   {
-   "title": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-   "link": "https://www.aljazeera.com/news/2026/8/7/several-killed-in-attacks-on-ukraine-as-kyiv-hits-russian-e-commerce-giant?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-07T18:54:55.000Z"
+   "title": "Psychological Warfare in Reverse Engineering (2015)",
+   "link": "https://github.com/xoreaxeaxeax/repsych",
+   "source": "Hacker News",
+   "date": "2026-08-07T18:51:45.000Z"
+  },
+  {
+   "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
+   "link": "https://ancientlibrary.net/",
+   "source": "Hacker News",
+   "date": "2026-08-07T18:51:14.000Z"
   },
   {
    "title": "Judge approves Trump effort to end South Sudan TPS protections",
@@ -38,34 +104,28 @@
    "date": "2026-08-07T18:34:34.000Z"
   },
   {
+   "title": "Databricks drove down AI coding spend 70%",
+   "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+   "source": "Hacker News",
+   "date": "2026-08-07T18:25:17.000Z"
+  },
+  {
    "title": "US Senate approves sweeping Russia sanctions bill targeting energy income",
    "link": "http://www.euronews.com/2026/08/07/us-senate-approves-sweeping-russia-sanctions-bill-targeting-energy-income",
    "source": "Euronews",
    "date": "2026-08-07T18:20:21.000Z"
   },
   {
-   "title": "Inside the results: How redistricting shaped Tennessee’s primary election",
-   "link": "https://www.aljazeera.com/news/2026/8/7/inside-the-results-how-redistricting-shaped-tennessees-primary-election?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-07T18:00:05.000Z"
+   "title": "Assembly Hall of Shame",
+   "link": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+   "source": "Hacker News",
+   "date": "2026-08-07T18:01:30.000Z"
   },
   {
    "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
    "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-07T17:42:54.000Z"
-  },
-  {
-   "title": "New Delhi on red alert as heavy rains pound the city",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/new-delhi-on-red-alert-as-heavy-rains-pound-the-city?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-07T17:19:06.000Z"
-  },
-  {
-   "title": "Mediterranean smuggling network ‘dismantled’ in Spain-led raid, 78 arrested",
-   "link": "https://www.aljazeera.com/news/2026/8/7/mediterranean-smuggling-network-dismantled-in-spain-led-raid-78-arrested?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-07T17:07:29.000Z"
   },
   {
    "title": "Spanish police arrest 78 people in bust of 'one of largest' smuggling networks",
@@ -80,28 +140,16 @@
    "date": "2026-08-07T16:00:29.000Z"
   },
   {
-   "title": "Seven killed after Thai student opens fire at home and school",
-   "link": "https://www.bbc.co.uk/news/articles/c980j3j578do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-07T15:51:16.000Z"
-  },
-  {
-   "title": "Mexico and Peru restore diplomatic relations after asylum row",
-   "link": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-07T15:38:28.000Z"
-  },
-  {
    "title": "Wildfire burns 100 hectares near Narbonne in France",
    "link": "http://www.euronews.com/video/2026/08/07/wildfire-burns-100-hectares-near-narbonne-in-france",
    "source": "Euronews",
    "date": "2026-08-07T14:40:09.000Z"
   },
   {
-   "title": "Colombia on the brink: ELN guerrilla group prepares for return to war",
-   "link": "https://www.theguardian.com/world/ng-interactive/2026/aug/07/colombia-on-the-brink-eln-guerrilla-group-prepares-for-return-to-war",
-   "source": "Guardian World",
-   "date": "2026-08-07T14:00:32.000Z"
+   "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+   "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-07T14:20:27.000Z"
   },
   {
    "title": "Taiwan tests emergency response with air raid drill",
@@ -114,12 +162,6 @@
    "link": "http://www.euronews.com/video/2026/08/07/latest-news-bulletin-august-7th-2026-midday",
    "source": "Euronews",
    "date": "2026-08-07T10:00:16.000Z"
-  },
-  {
-   "title": "Meta fined $567m in largest child safety ruling against social media giant",
-   "link": "https://www.bbc.co.uk/news/articles/cd7lz3wr2rlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-07T09:22:03.000Z"
   },
   {
    "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
@@ -138,12 +180,6 @@
    "link": "https://www.theguardian.com/football/2026/aug/06/top-uganda-footballer-killed-robbery-kampala",
    "source": "Guardian World",
    "date": "2026-08-06T14:30:32.000Z"
-  },
-  {
-   "title": "Nigerian security forces free more than 300 hostages in ‘largest single-day recovery’",
-   "link": "https://www.theguardian.com/world/2026/aug/06/nigerian-security-forces-free-hostages-abducted-by-militants",
-   "source": "Guardian World",
-   "date": "2026-08-06T12:40:32.000Z"
   }
  ]
 }

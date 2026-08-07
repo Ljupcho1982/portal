@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Portal</title>
+<meta name="description" content="A personal start page. No accounts, no keys, no cost.">
+<link rel="stylesheet" href="styles.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🧭</text></svg>">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark">🧭</span>
+    <span class="brand-name">Portal</span>
+  </div>
+
+  <form class="searchbox" id="searchForm" autocomplete="off">
+    <div class="searchrow">
+      <span class="s-ico" id="searchIcon"></span>
+      <input type="text" id="q" placeholder="Search" aria-label="Search">
+      <kbd class="kbd">/</kbd>
+      <button type="submit" id="goBtn" aria-label="Search"></button>
+    </div>
+    <div class="engines" id="engines"></div>
+  </form>
+
+  <div class="topright">
+    <div class="clock">
+      <div class="clock-time" id="clockTime">--:--</div>
+      <div class="clock-date" id="clockDate">&nbsp;</div>
+    </div>
+    <button class="icon-btn" id="addBtn" title="Add a card">+</button>
+    <button class="icon-btn" id="themeBtn" title="Theme">◐</button>
+    <button class="icon-btn" id="settingsBtn" title="Settings">⚙</button>
+  </div>
+</header>
+
+<div class="greeting" id="greeting"></div>
+
+<main class="grid" id="grid"></main>
+
+<footer class="foot">
+  <span id="footNote"></span>
+</footer>
+
+<!-- ── Settings ─────────────────────────────────────────── -->
+<dialog id="settingsDlg" class="dlg">
+  <form method="dialog" class="dlg-body">
+    <h2 data-i18n="settings">Settings</h2>
+
+    <section>
+      <h3 data-i18n="appearance">Appearance</h3>
+      <label class="row"><span data-i18n="theme">Theme</span>
+        <select id="setTheme">
+          <option value="dark">Dark</option>
+          <option value="light">Light</option>
+          <option value="auto">Auto</option>
+        </select>
+      </label>
+      <label class="row"><span data-i18n="language">Language</span>
+        <select id="setLang">
+          <option value="en">English</option>
+          <option value="mk">Македонски</option>
+        </select>
+      </label>
+      <label class="row"><span data-i18n="density">Density</span>
+        <select id="setDensity">
+          <option value="compact">Compact</option>
+          <option value="cozy">Cozy</option>
+        </select>
+      </label>
+    </section>
+
+    <section>
+      <h3 data-i18n="location">Location</h3>
+      <div class="row">
+        <input type="text" id="citySearch" placeholder="City name…">
+        <button type="button" class="btn" id="citySearchBtn" data-i18n="find">Find</button>
+        <button type="button" class="btn" id="geoBtn" title="Use my location"></button>
+      </div>
+      <div id="cityResults" class="city-results"></div>
+      <div class="hint" id="currentLoc"></div>
+    </section>
+
+    <section>
+      <h3 data-i18n="currency">Currency</h3>
+      <label class="row"><span data-i18n="base">Base</span>
+        <input type="text" id="setBase" maxlength="3" style="width:5rem">
+      </label>
+      <label class="row"><span data-i18n="show">Show</span>
+        <input type="text" id="setSymbols" placeholder="USD,GBP,CHF">
+      </label>
+      <p class="hint" data-i18n="ratesHint"></p>
+    </section>
+
+    <section>
+      <h3 data-i18n="mail">Mail</h3>
+      <label class="row"><span data-i18n="mailIdLabel">Google client ID</span>
+        <input type="text" id="setGmailId" placeholder="…apps.googleusercontent.com" spellcheck="false">
+      </label>
+      <label class="row"><span data-i18n="mailPollLabel">Check every (min)</span>
+        <input type="number" id="setMailPoll" min="1" max="60" style="width:6rem">
+      </label>
+      <label class="row"><span data-i18n="mailNotifyLabel">Desktop notification</span>
+        <input type="checkbox" id="setMailNotify">
+      </label>
+      <div class="row wrap">
+        <span class="hint" id="mailState"></span>
+        <button type="button" class="btn danger" id="mailOff" hidden data-i18n="mailDisconnect">Disconnect</button>
+      </div>
+      <p class="hint" data-i18n="mailIdHint"></p>
+    </section>
+
+    <section>
+      <h3 data-i18n="widgets">Widgets</h3>
+      <div id="widgetToggles" class="toggles"></div>
+      <p class="hint" data-i18n="dragHint"></p>
+    </section>
+
+    <section>
+      <h3 data-i18n="feeds">News feeds</h3>
+      <p class="hint" data-i18n="feedsHint"></p>
+    </section>
+
+    <section>
+      <h3 data-i18n="data">Your data</h3>
+      <div class="row wrap">
+        <button type="button" class="btn" id="exportBtn" data-i18n="export">Export</button>
+        <button type="button" class="btn" id="importBtn" data-i18n="import">Import</button>
+        <button type="button" class="btn danger" id="resetBtn" data-i18n="reset">Reset</button>
+        <input type="file" id="importFile" accept="application/json" hidden>
+      </div>
+      <p class="hint" data-i18n="dataHint"></p>
+    </section>
+
+    <div class="dlg-actions">
+      <button value="save" class="btn primary" data-i18n="save">Save</button>
+    </div>
+  </form>
+</dialog>
+
+<!-- ── Link list editor (bookmarks / apps) ──────────────── -->
+<dialog id="listDlg" class="dlg">
+  <form method="dialog" class="dlg-body">
+    <h2 id="listDlgTitle">Edit</h2>
+    <p class="hint" data-i18n="listHint"></p>
+    <textarea id="listText" rows="14" spellcheck="false"></textarea>
+    <div class="dlg-actions">
+      <button value="cancel" class="btn" data-i18n="cancel">Cancel</button>
+      <button value="save" class="btn primary" data-i18n="save">Save</button>
+    </div>
+  </form>
+</dialog>
+
+<!-- ── Add a card ───────────────────────────────────────── -->
+<dialog id="addDlg" class="dlg">
+  <form method="dialog" class="dlg-body">
+    <h2 data-i18n="addCard">Add a card</h2>
+
+    <section>
+      <h3 data-i18n="chooseType">What kind of card?</h3>
+      <div id="typeGrid" class="type-grid"></div>
+    </section>
+
+    <section>
+      <h3 data-i18n="restore">Bring back a hidden card</h3>
+      <div id="hiddenList" class="row wrap"></div>
+    </section>
+
+    <div class="dlg-actions">
+      <button value="close" class="btn" data-i18n="cancel">Cancel</button>
+    </div>
+  </form>
+</dialog>
+
+<!-- ── Edit a card you made ─────────────────────────────── -->
+<dialog id="cardDlg" class="dlg">
+  <form method="dialog" class="dlg-body">
+    <h2 id="cardDlgTitle">Card</h2>
+    <div id="cardFields"></div>
+    <div class="dlg-actions">
+      <button value="delete" class="btn danger" data-i18n="delete">Delete</button>
+      <span style="flex:1"></span>
+      <button value="cancel" class="btn" data-i18n="cancel">Cancel</button>
+      <button value="save" class="btn primary" data-i18n="save">Save</button>
+    </div>
+  </form>
+</dialog>
+
+<datalist id="tzList"></datalist>
+
+<script src="app.js"></script>
+</body>
+</html>

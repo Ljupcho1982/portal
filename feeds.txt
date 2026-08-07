@@ -1,0 +1,17 @@
+# News feeds for the Portal news card.
+# One RSS or Atom URL per line. Lines starting with # are ignored.
+# After editing, run:  node fetch-feeds.js
+#
+# Optional: put a short label before the URL, separated by " | "
+# Example:   BBC | https://feeds.bbci.co.uk/news/world/rss.xml
+
+BBC World      | https://feeds.bbci.co.uk/news/world/rss.xml
+Guardian World | https://www.theguardian.com/world/rss
+Hacker News    | https://hnrss.org/frontpage
+Al Jazeera     | https://www.aljazeera.com/xml/rss/all.xml
+Euronews       | https://www.euronews.com/rss?level=theme&name=news
+
+# Macedonian sources — uncomment or replace with the ones you read
+# МИА          | https://mia.mk/feed/
+# Слободен печат | https://www.slobodenpecat.mk/feed/
+# Мета         | https://meta.mk/feed/

@@ -1,0 +1,27 @@
+name: Refresh news feeds
+
+# Keeps feeds.json fresh for the published site — free on a public repo.
+on:
+  schedule:
+    - cron: '17 * * * *'   # hourly, off the whole-hour rush
+  workflow_dispatch:        # and on demand from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  feeds:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node fetch-feeds.js
+      - name: Commit if changed
+        run: |
+          git config user.name  "feeds-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add feeds.json
+          git diff --cached --quiet || git commit -m "feeds: hourly refresh"
+          git push

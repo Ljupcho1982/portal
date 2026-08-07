@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Portal — tests</title>
+<link rel="stylesheet" href="styles.css">
+<style>
+  #report { position: fixed; inset: 0; overflow: auto; z-index: 999;
+            background: var(--bg); padding: 24px; font: 13px/1.5 ui-monospace, Consolas, monospace; }
+  #report h1 { font-size: 17px; margin: 0 0 4px; font-family: system-ui; }
+  #sum { margin-bottom: 16px; font-size: 14px; }
+  .g { margin: 14px 0 4px; color: var(--txt-2); font-weight: 700; border-bottom: 1px solid var(--line); padding-bottom: 3px; }
+  .p { color: var(--ok); }
+  .f { color: var(--danger); }
+  .f .why { color: var(--txt-dim); padding-left: 22px; display: block; }
+  #stage { opacity: 0; pointer-events: none; position: absolute; width: 1200px; }
+</style>
+</head>
+<body>
+<div id="report"><h1>Portal test suite</h1><div id="sum">running…</div><div id="out"></div></div>
+<div id="stage"></div>
+
+<script>
+/* Boot the real page inside #stage, then load the real app.js against it,
+   then run tests.js. Nothing is mocked except the network. */
+(async () => {
+  const html = await (await fetch('index.html', { cache: 'no-store' })).text();
+  const body = html.slice(html.indexOf('<body>') + 6, html.lastIndexOf('</body>'))
+                   .replace(/<script[\s\S]*?<\/script>/g, '');
+  document.getElementById('stage').innerHTML = body;
+
+  // stub the network before app.js boots so no test hits the internet
+  window.__net = { calls: [], handler: null };
+  window.fetch = (url, opts) => {
+    window.__net.calls.push(String(url));
+    if (window.__net.handler) return window.__net.handler(String(url), opts);
+    return Promise.reject(new Error('offline (test stub)'));
+  };
+
+  const load = src => new Promise((res, rej) => {
+    const s = document.createElement('script');
+    s.src = src; s.onload = res; s.onerror = rej;
+    document.body.append(s);
+  });
+
+  localStorage.removeItem('portal.config.v2');
+  await load('app.js');
+  await load('tests.js');
+})();
+</script>
+</body>
+</html>

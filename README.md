@@ -8,11 +8,10 @@ page, all of it yours to rearrange.
 subscriptions, no ads, no analytics, no tracking, no server. Nothing to pay for
 and nothing to cancel.
 
-The one exception to "no accounts" is the optional Mail card, which signs in to
-**your own** Gmail with an OAuth client ID you create yourself. That is still
-free and still keyless in the sense that matters — nobody but you and Google is
-in the loop, and access is read-only. Every other card works without it, and the
-card can be removed with its ✕.
+The one exception to "no accounts" is the optional Mail card: each person signs
+into **their own** Gmail, read-only, and sees only their own inbox. It is still
+free — nobody but the reader and Google is in the loop. Every other card works
+without it, and the card can be removed with its ✕.
 
 ---
 
@@ -37,7 +36,7 @@ start page and as the new-tab page.
 | Card | Data source | Cost |
 |---|---|---|
 | Weather + 5-day | `api.open-meteo.com` | free, no key |
-| Mail | `gmail.googleapis.com` with your own OAuth client ID | free, no billing |
+| Mail (optional) | `gmail.googleapis.com`, read-only, each reader's own inbox | free, no billing |
 | Sun (rise/set/noon/daylight) | same call as weather | free |
 | Exchange rates | `api.frankfurter.dev` (ECB) | free, no key |
 | News | `feeds.json`, written locally by `fetch-feeds.js` | free |
@@ -83,23 +82,30 @@ authorises is the mailbox that gets shown — the identity comes from Gmail's ow
 profile call, and *Sign in as someone else* on the card switches accounts,
 clearing everything the previous account loaded.
 
-What Google *does* tie down is the client ID that lets a web page talk to
-Gmail at all. Two free ways to have one:
+What Google *does* tie down is the client ID that lets a web page talk to Gmail
+at all. There are two free ways to have one.
 
-- **Each user pastes their own** in Settings → Mail (the card walks through
-  the five steps). Unlimited users, no warning screens, ~5–10 minutes each.
-- **You ship one shared ID** in `DEFAULT_GMAIL_ID` at the top of `app.js` and
-  set that client's consent screen to *In production*. Then anyone who opens
-  your portal just presses Connect — but Google caps an unverified app with a
-  restricted scope at roughly 100 accounts and shows an "unverified app"
-  warning. Removing that cap requires Google's paid annual security review,
-  which is exactly the kind of cost this project refuses.
+### Two ways to run it — both free
 
-For a handful of people — family, a few colleagues — the shared ID is the
-comfortable route. For strangers at scale, per-user IDs are the only route
-that stays free.
+**A. One shared client ID (any visitor signs in with one click).**
+Open `app.js`, find `DEFAULT_GMAIL_ID` near the top, and paste one client ID
+there. Everyone who opens the site then just presses **Connect Gmail** and signs
+into their *own* mailbox — no setup on their side.
 
-### Per-user setup (free, about ten minutes)
+The Google account that owns that client ID **never sees anyone's mail**. It only
+registers the app with Google, which OAuth requires. Use a throwaway account if
+you like; it does not have to be a mailbox you read.
+
+Google limits an unverified app with a restricted scope to roughly 100 accounts
+and shows an "unverified app" warning during sign-in. Lifting either needs a paid
+annual security assessment, so this route suits a site with a modest audience.
+
+**B. Bring your own client ID (unlimited, no warning).**
+Leave `DEFAULT_GMAIL_ID` empty. Each visitor makes their own free client ID with
+the steps below and pastes it into Settings → Mail. No cap, no warning screen,
+about ten minutes per person.
+
+### Creating the client ID (either route)
 
 1. Open [console.cloud.google.com](https://console.cloud.google.com) and create
    a project. Free, no billing details.
@@ -112,8 +118,11 @@ that stays free.
    add exactly:
 
    ```
-   http://localhost:4341
+   http://localhost:4341            ← running it locally
+   https://ljupcho1982.github.io    ← the published site
    ```
+
+   Add both if you use both. The origin is the scheme + host only, no path.
 
 5. Copy the client ID (it ends in `.apps.googleusercontent.com`).
 6. In the portal: **⚙ Settings → Mail** → paste it → Save.
@@ -122,9 +131,9 @@ that stays free.
 
 ### Worth knowing
 
-- **It must be served over `http://localhost:4341`.** `file://` cannot be an
-  OAuth origin, so opening `index.html` from disk gives you every card except
-  mail. Change the port and you must add the new origin in the console too.
+- **It must be served over http(s) from a registered origin.** `file://` cannot
+  be an OAuth origin, so opening `index.html` from disk gives you every card
+  except mail. Any new host or port needs adding in the console too.
 - Google will warn that the app is **unverified**. That is normal for a client
   ID you made for yourself — *Advanced → Continue*. Google also expires consent
   for test-mode apps periodically, so expect to press Connect again now and then.
@@ -157,6 +166,11 @@ Five kinds you can add, as many of each as you like:
 | 🖼️ | **Embedded page** | any URL in an iframe — a map, a dashboard, one of your own apps |
 | ⏳ | **Countdown** | days left until a date, with a caption |
 | 🕐 | **World clock** | the time in another zone, picked from the browser's own list |
+
+The **My apps** launcher starts empty on a deployed site and pre-filled when you
+run it locally: its default tiles are relative paths to the sibling project
+folders, which exist on your machine but not on a public host. Add your own with
+the pencil — they are saved in your browser.
 
 Embedded pages: some sites refuse to be framed (`X-Frame-Options`) and will come
 up blank — that's the site's choice, not a bug. Local files, OpenStreetMap

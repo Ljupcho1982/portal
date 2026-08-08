@@ -1071,6 +1071,27 @@ test('switching accounts shows the new mailbox, not the old one', async () => {
   eq(mail.who, ''); eq(mail.list.length, 0); eq(mail.bodies.size, 0,
     'nothing of the previous account may survive the switch');
 });
+test('a shared built-in client ID lets any visitor connect with no setup', () => {
+  fresh(); cfg.gmailId = '';
+  // simulates the deployed site shipping one client ID for everybody
+  eq(gmailId(), DEFAULT_GMAIL_ID, 'falls back to the built-in ID when the user has set none');
+});
+test('a visitor’s own client ID overrides the shared one', () => {
+  fresh(); cfg.gmailId = 'mine.apps.googleusercontent.com';
+  eq(gmailId(), 'mine.apps.googleusercontent.com');
+});
+test('a client ID is trimmed, so a stray space cannot break sign-in', () => {
+  fresh(); cfg.gmailId = '  spaced.apps.googleusercontent.com  ';
+  eq(gmailId(), 'spaced.apps.googleusercontent.com');
+});
+test('the signed-in address comes from Gmail, never from a hardcoded name', async () => {
+  fresh(); asMail(); mail.who = '';
+  net(url => json(url.includes('/profile')
+    ? { emailAddress: 'someone.else@gmail.com' }
+    : { messages: [] }));
+  await mailRefresh();
+  eq(mail.who, 'someone.else@gmail.com', 'whoever signs in is the mailbox shown');
+});
 test('with a client ID but no session it offers to connect', async () => {
   fresh(); cfg.gmailId = 'x.apps.googleusercontent.com'; cfg.mailConnected = false;
   const b = await paint('mail');

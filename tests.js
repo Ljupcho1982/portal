@@ -746,6 +746,20 @@ test('a card is edited and saved through its dialog', () => {
   eq(cfg.custom[id].text, 'tajna');
   document.querySelector('#cardDlg').close();
 });
+test('the title field starts empty, so typing replaces rather than appends', () => {
+  fresh(); addCard('countdown');
+  const id = Object.keys(cfg.custom)[0];
+  editCard(id);
+  const f = document.querySelector('#fld_title');
+  eq(f.value, '', 'a prefilled type name would be appended to, giving "CountdownMy trip"');
+  eq(f.placeholder, T.t_countdown, 'the type name belongs in the placeholder');
+  document.querySelector('#cardDlg').close();
+});
+test('an untitled card still shows its type name as the heading', () => {
+  fresh(); addCard('clock');
+  const id = Object.keys(cfg.custom)[0];
+  eq(descriptor(id).title(), T.t_clock);
+});
 test('a blank title falls back to the type name', () => {
   fresh(); addCard('note');
   const id = Object.keys(cfg.custom)[0];

@@ -13,6 +13,14 @@ you ask for it** — a fresh page shows no sign-in prompt and makes no contact
 with Google whatsoever. Add it from the **+** menu if you want it; each person
 then signs into *their own* Gmail, read-only, and sees only their own inbox.
 
+## Demo
+
+https://github.com/Ljupcho1982/portal/raw/main/demo/portal-demo.mp4
+
+A 22-second tour: search, the card grid, adding a countdown, light mode,
+settings, and the Macedonian interface. `demo/portal-demo.gif` is the same
+thing as a GIF.
+
 ---
 
 ## Run it

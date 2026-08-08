@@ -1205,7 +1205,7 @@ function addCard(type) {
   // a counter as well as the clock — two cards added in the same
   // millisecond must not share an id and overwrite each other
   const id = 'x:' + Date.now().toString(36) + (seq++).toString(36);
-  cfg.custom[id] = { type, title: t('t_' + type) };
+  cfg.custom[id] = { type };
   TYPES[type].fields.forEach(f => { if (f.def != null) cfg.custom[id][f.k] = f.def; });
   cfg.order.unshift(id);
   save(); renderGrid();
@@ -1225,7 +1225,9 @@ function editCard(id) {
 
   const titleRow = el('label', 'row');
   titleRow.append(el('span', null, t('f_title')));
-  const ti = el('input'); ti.type = 'text'; ti.id = 'fld_title'; ti.value = c.title || '';
+  const ti = el('input'); ti.type = 'text'; ti.id = 'fld_title';
+  ti.value = c.title || '';
+  ti.placeholder = t('t_' + c.type);      // a hint, not text to delete first
   titleRow.append(ti);
   box.append(titleRow);
 

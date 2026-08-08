@@ -1,6 +1,66 @@
 {
- "updated": "2026-08-08T09:54:57.068Z",
+ "updated": "2026-08-08T10:51:46.321Z",
  "items": [
+  {
+   "title": "How Israel’s occupation fuels resistance",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/how-israels-occupation-fuels-resistance?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-08T10:40:11.000Z"
+  },
+  {
+   "title": "Trump’s former personal lawyer narrowly confirmed as US attorney general",
+   "link": "https://www.aljazeera.com/news/2026/8/8/trumps-former-personal-lawyer-narrowly-confirmed-as-us-attorney-general?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-08T10:36:10.000Z"
+  },
+  {
+   "title": "Todd Blanche, Trump's ex-lawyer, confirmed as US attorney general",
+   "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-08T10:19:46.000Z"
+  },
+  {
+   "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
+   "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
+   "source": "Hacker News",
+   "date": "2026-08-08T10:16:01.000Z"
+  },
+  {
+   "title": "Fiji rugby player dies in Japan of suspected heatstroke as high of 35C hit",
+   "link": "https://www.aljazeera.com/sports/2026/8/8/fiji-rugby-player-dies-in-japan-of-suspected-heatstroke-as-high-of-35c-hit?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-08T10:13:30.000Z"
+  },
+  {
+   "title": "Mount Etna ash suspends arrivals at Italy’s Catania airport",
+   "link": "https://www.aljazeera.com/news/2026/8/8/mount-etna-ash-suspends-arrivals-at-italys-catania-airport?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-08T10:10:13.000Z"
+  },
+  {
+   "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
+   "link": "https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html",
+   "source": "Hacker News",
+   "date": "2026-08-08T10:07:06.000Z"
+  },
+  {
+   "title": "US Military's Cyber Command Unit Grapples with Cluster of Deaths by Suicide",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-06/us-military-s-cyber-command-unit-grapples-with-cluster-of-deaths-by-suicide",
+   "source": "Hacker News",
+   "date": "2026-08-08T10:04:25.000Z"
+  },
+  {
+   "title": "Latest news bulletin | August 8th, 2026 – Midday",
+   "link": "http://www.euronews.com/video/2026/08/08/latest-news-bulletin-august-8th-2026-midday",
+   "source": "Euronews",
+   "date": "2026-08-08T10:00:16.000Z"
+  },
+  {
+   "title": "Europe's free satellite service just made it easier to track wildfires",
+   "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+   "source": "Hacker News",
+   "date": "2026-08-08T09:58:41.000Z"
+  },
   {
    "title": "Newcastle say they “didn’t want to sell” Guimaraes, as Arsenal move looms",
    "link": "https://www.aljazeera.com/sports/2026/8/8/newcastle-say-they-didnt-want-to-sell-guimaraes-as-arsenal-move-looms?traffic_source=rss",
@@ -12,30 +72,6 @@
    "link": "https://www.aljazeera.com/news/2026/8/8/us-announces-400m-investment-in-australian-rare-earth-mine?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-08T09:30:12.000Z"
-  },
-  {
-   "title": "Messi will decide when he retires, says Argentina FA chief",
-   "link": "https://www.aljazeera.com/sports/2026/8/8/argentina-fa-chief-says-messi-is-the-only-one-to-decide-when-he-retires?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-08T08:59:28.000Z"
-  },
-  {
-   "title": "Typhoon Dolphin hits Japan, heads towards China",
-   "link": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-08T08:50:49.000Z"
-  },
-  {
-   "title": "Afghanistan’s Rashid takes six wickets in ODI thrashing of Ireland",
-   "link": "https://www.aljazeera.com/sports/2026/8/8/afghanistans-rashid-takes-six-wickets-in-odi-thrashing-of-ireland?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-08T08:06:35.000Z"
-  },
-  {
-   "title": "South Korea FA apologises over ‘sexual services’ allegations",
-   "link": "https://www.aljazeera.com/sports/2026/8/8/south-korea-football-association-apologises-over-sexual-services-allegations?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-08T07:49:21.000Z"
   },
   {
    "title": "US intends to send $1 billion in aid to Colombia following de la Espriella's inauguration",
@@ -74,12 +110,6 @@
    "date": "2026-08-08T01:49:11.000Z"
   },
   {
-   "title": "The Nixpkgs core team has disbanded",
-   "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
-   "source": "Hacker News",
-   "date": "2026-08-08T01:12:45.000Z"
-  },
-  {
    "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
    "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
@@ -90,12 +120,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c4gyrzn8p94o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-07T23:23:12.000Z"
-  },
-  {
-   "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-   "link": "https://genesisopenmodels.anl.gov/",
-   "source": "Hacker News",
-   "date": "2026-08-07T22:24:27.000Z"
   },
   {
    "title": "Spain imposes border controls against Italy as row over Ceuta migrant influx intensifies",
@@ -110,12 +134,6 @@
    "date": "2026-08-07T21:44:38.000Z"
   },
   {
-   "title": "Water system controllers don't belong on the internet, says ex-NSA chief",
-   "link": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
-   "source": "Hacker News",
-   "date": "2026-08-07T21:19:57.000Z"
-  },
-  {
    "title": "Thai PM vows to introduce stricter gun laws after eight killed in shooting",
    "link": "https://www.bbc.co.uk/news/articles/cdewx6rew04o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
@@ -126,12 +144,6 @@
    "link": "http://www.euronews.com/2026/08/07/us-appeals-court-orders-halt-to-trump-ballroom-construction-without-congressional-approval",
    "source": "Euronews",
    "date": "2026-08-07T18:55:15.000Z"
-  },
-  {
-   "title": "Psychological Warfare in Reverse Engineering (2015)",
-   "link": "https://github.com/xoreaxeaxeax/repsych",
-   "source": "Hacker News",
-   "date": "2026-08-07T18:51:45.000Z"
   },
   {
    "title": "Judge approves Trump effort to end South Sudan TPS protections",
@@ -150,18 +162,6 @@
    "link": "http://www.euronews.com/video/2026/08/07/latest-news-bulletin-august-7th-2026-evening",
    "source": "Euronews",
    "date": "2026-08-07T16:00:29.000Z"
-  },
-  {
-   "title": "Wildfire burns 100 hectares near Narbonne in France",
-   "link": "http://www.euronews.com/video/2026/08/07/wildfire-burns-100-hectares-near-narbonne-in-france",
-   "source": "Euronews",
-   "date": "2026-08-07T14:40:09.000Z"
-  },
-  {
-   "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
-   "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-07T14:20:27.000Z"
   },
   {
    "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",

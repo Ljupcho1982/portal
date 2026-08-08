@@ -49,6 +49,11 @@ publish a MKD rate. It is labelled `peg` in the table.
 Weather and rates are cached in `localStorage`, so the page still shows the last
 known values with no connection.
 
+**Location on a first visit** is worked out from the browser's own time zone —
+`Europe/Berlin` becomes Berlin, `Asia/Tokyo` becomes Tokyo — geocoded once by
+Open-Meteo's free endpoint. No permission prompt, no IP lookup, no third party.
+Pick a city in Settings and that choice is never overwritten.
+
 ## News feeds
 
 1. Edit `feeds.txt` — one RSS/Atom URL per line, optional `Label | URL`.

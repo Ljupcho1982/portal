@@ -292,6 +292,47 @@ test('all four rows are labelled', async () => {
   const h = (await paint('sun')).textContent;
   [T.sunrise, T.sunset, T.noon, T.daylight].forEach(l => has(h, l));
 });
+test('a first visit resolves the city from the browser time zone', async () => {
+  fresh(); cfg.locFrom = 'default';
+  net(url => json(url.includes('geocoding')
+    ? { results: [{ name: 'Berlin', country_code: 'DE', latitude: 52.52, longitude: 13.4 }] }
+    : WX));
+  await detectLocation();
+  eq(cfg.loc.name, 'Berlin', 'a stranger must not be shown the author’s city');
+  eq(cfg.locFrom, 'auto');
+  has(window.__net.calls[0], 'geocoding-api.open-meteo.com');
+});
+test('a city the user chose is never overwritten by detection', async () => {
+  fresh(); cfg.locFrom = 'user';
+  cfg.loc = { name: 'Ohrid', lat: 41.117, lon: 20.801 };
+  net(() => json({ results: [{ name: 'Berlin', latitude: 1, longitude: 1 }] }));
+  await detectLocation();
+  eq(cfg.loc.name, 'Ohrid');
+  eq(window.__net.calls.length, 0, 'it should not even ask');
+});
+test('detection runs only once, not on every load', async () => {
+  fresh(); cfg.locFrom = 'auto';
+  net(() => json({ results: [{ name: 'Berlin', latitude: 1, longitude: 1 }] }));
+  await detectLocation();
+  eq(window.__net.calls.length, 0);
+});
+test('a failed lookup leaves a usable default rather than breaking', async () => {
+  fresh(); cfg.locFrom = 'default';
+  net(dead);
+  await detectLocation();
+  eq(cfg.loc.name, DEFAULTS.loc.name);
+  eq(typeof cfg.loc.lat, 'number', 'the weather card still has coordinates to work with');
+});
+test('an unrecognised city leaves the default in place', async () => {
+  fresh(); cfg.locFrom = 'default';
+  net(() => json({ results: [] }));
+  await detectLocation();
+  eq(cfg.locFrom, 'default'); eq(cfg.loc.name, DEFAULTS.loc.name);
+});
+test('a nonsense locFrom is repaired on load', () => {
+  localStorage.setItem(KEY, JSON.stringify({ locFrom: 'whatever' }));
+  eq(load().locFrom, 'default');
+});
 test('the weather card feeds the sun card', async () => {
   fresh(); sunData = null; net(() => json(WX));
   await paint('weather');

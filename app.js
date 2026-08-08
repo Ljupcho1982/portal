@@ -184,6 +184,9 @@ const DEFAULTS = {
   density: 'compact',
   engine: 'ddg',
   loc: { name: 'Skopje', country: 'MK', lat: 41.9981, lon: 21.4254 },
+  /* 'default' = never resolved, 'auto' = guessed from the time zone,
+     'user' = deliberately chosen. Only 'default' gets overwritten. */
+  locFrom: 'default',
   units: 'metric',
   base: 'EUR',
   symbols: 'USD,GBP,CHF,MKD',
@@ -243,6 +246,7 @@ function sane(raw) {
   if (!isObj(c.custom)) c.custom = {};
   if (!isObj(c.loc) || typeof c.loc.lat !== 'number' || typeof c.loc.lon !== 'number')
     c.loc = structuredClone(DEFAULTS.loc);
+  if (!['default', 'auto', 'user'].includes(c.locFrom)) c.locFrom = DEFAULTS.locFrom;
 
   c.order = c.order.filter(x => typeof x === 'string');
   c.off   = c.off.filter(x => typeof x === 'string');
@@ -1450,6 +1454,7 @@ $('#citySearchBtn').onclick = async () => {
       b.type = 'button';
       b.onclick = () => {
         cfg.loc = { name: r.name, country: r.country_code, lat: r.latitude, lon: r.longitude };
+        cfg.locFrom = 'user';
         save();
         $('#currentLoc').textContent = `${r.name} (${r.latitude.toFixed(3)}, ${r.longitude.toFixed(3)})`;
         out.innerHTML = '';
@@ -1463,6 +1468,7 @@ $('#citySearchBtn').onclick = async () => {
 $('#geoBtn').onclick = () => {
   if (!navigator.geolocation) return;
   navigator.geolocation.getCurrentPosition(p => {
+    cfg.locFrom = 'user';
     cfg.loc = { name: cfg.lang === 'mk' ? 'Моја локација' : 'My location',
                 lat: p.coords.latitude, lon: p.coords.longitude };
     save();
@@ -1498,6 +1504,29 @@ $('#resetBtn').onclick = () => {
   $('#settingsDlg').close();
 };
 
+/* First visit: work out the city from the browser's own time zone. No
+   permission prompt, no IP lookup, no third party — a zone name is already a
+   place ("Europe/Berlin"), and Open-Meteo's free geocoder turns it into
+   coordinates. Without this, a stranger opening the published page would see
+   the author's weather instead of their own. */
+async function detectLocation() {
+  if (cfg.locFrom !== 'default') return;      // guessed once, or chosen outright
+  let zone = '';
+  try { zone = Intl.DateTimeFormat().resolvedOptions().timeZone || ''; } catch {}
+  const city = zone.split('/').pop().replace(/_/g, ' ').trim();
+  if (!city) return;
+  try {
+    const d = await getJSON('https://geocoding-api.open-meteo.com/v1/search?name=' +
+      encodeURIComponent(city) + '&count=1&language=' + cfg.lang + '&format=json');
+    const r = d.results?.[0];
+    if (!r) return;
+    cfg.loc = { name: r.name, country: r.country_code, lat: r.latitude, lon: r.longitude };
+    cfg.locFrom = 'auto';
+    save();
+    renderWidget('weather');                  // which republishes the sun times too
+  } catch { /* keep the default; the card still works */ }
+}
+
 /* ═══════════ boot ═══════════ */
 
 applyChrome();
@@ -1505,6 +1534,7 @@ fillTimeZones();
 renderEngines();
 renderGrid();
 tickClock();
+detectLocation();          // first visit only, and never over a chosen city
 setInterval(tickClock, 15000);
 setInterval(() => { renderWidget('weather'); renderWidget('news'); }, 20 * 60 * 1000);
 

@@ -1,11 +1,53 @@
 {
- "updated": "2026-08-08T02:22:02.561Z",
+ "updated": "2026-08-08T04:28:36.438Z",
  "items": [
+  {
+   "title": "Russian strikes near Ukrainian capital kill three, including child",
+   "link": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-08T04:18:45.000Z"
+  },
+  {
+   "title": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
+   "link": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
+   "source": "Guardian World",
+   "date": "2026-08-08T04:08:18.000Z"
+  },
+  {
+   "title": "Saudi intelligence chief meets Iraqi PM, renews Riyadh visit invitation",
+   "link": "https://www.aljazeera.com/news/2026/8/8/saudi-intelligence-chief-meets-iraqi-pm-renews-riyadh-visit-invitation?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-08T03:42:43.000Z"
+  },
+  {
+   "title": "Mythos social engineering AISI INC-2026-07-28-01",
+   "link": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+   "source": "Hacker News",
+   "date": "2026-08-08T03:41:56.000Z"
+  },
+  {
+   "title": "US Senate passes Russia sanctions that could hurt India and China",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-08T03:20:41.000Z"
+  },
+  {
+   "title": "Submerged Indonesian village re-emerges as drought lowers water levels",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-2026-indonesia-drought-sv?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-08T02:54:02.000Z"
+  },
   {
    "title": "US courts clear way for deportations of South Sudan, Myanmar nationals",
    "link": "https://www.aljazeera.com/news/2026/8/8/us-courts-clear-way-for-deportations-of-south-sudan-myanmar-nationals?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-08T02:08:28.000Z"
+  },
+  {
+   "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+   "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+   "source": "Hacker News",
+   "date": "2026-08-08T01:49:11.000Z"
   },
   {
    "title": "What could the Mecca defence pact mean for the US role in the Middle East?",
@@ -14,34 +56,16 @@
    "date": "2026-08-08T01:29:14.000Z"
   },
   {
-   "title": "Trump shifts blame to Republicans for waning support from public",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/trump-shifts-blame-to-republicans-for-waning-support-from-public?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-08T01:28:39.000Z"
-  },
-  {
-   "title": "Colombia’s new president takes office vowing to ‘crush’ narco-terrorism",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/08-08-sv-de-la-espriella-co?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-08T01:15:53.000Z"
-  },
-  {
    "title": "The Nixpkgs core team has disbanded",
    "link": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
    "source": "Hacker News",
    "date": "2026-08-08T01:12:45.000Z"
   },
   {
-   "title": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
-   "link": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-08T00:31:52.000Z"
-  },
-  {
-   "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
-   "link": "https://www.aljazeera.com/news/2026/8/8/sudans-war-threatens-an-entire-generations-future-un-warns?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-08T00:24:42.000Z"
+   "title": "Show HN: Modern C++ Build Tools for Module Feature",
+   "link": "https://github.com/mcpp-community/mcpp",
+   "source": "Hacker News",
+   "date": "2026-08-08T00:30:52.000Z"
   },
   {
    "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
@@ -74,12 +98,6 @@
    "date": "2026-08-07T21:19:27.000Z"
   },
   {
-   "title": "US police officer accused of killing three people in Mexico arrested at border",
-   "link": "https://www.theguardian.com/us-news/2026/aug/07/chad-eberle-arrested-police-killings",
-   "source": "Guardian World",
-   "date": "2026-08-07T20:49:24.000Z"
-  },
-  {
    "title": "Kidnapped rare Serbian eagle freed into wild after rescue",
    "link": "https://www.bbc.co.uk/news/articles/cdewxgw69exo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
@@ -92,28 +110,10 @@
    "date": "2026-08-07T18:55:15.000Z"
   },
   {
-   "title": "Psychological Warfare in Reverse Engineering (2015)",
-   "link": "https://github.com/xoreaxeaxeax/repsych",
-   "source": "Hacker News",
-   "date": "2026-08-07T18:51:45.000Z"
-  },
-  {
-   "title": "Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",
-   "link": "https://ancientlibrary.net/",
-   "source": "Hacker News",
-   "date": "2026-08-07T18:51:14.000Z"
-  },
-  {
    "title": "Judge approves Trump effort to end South Sudan TPS protections",
    "link": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
    "source": "Guardian World",
    "date": "2026-08-07T18:34:34.000Z"
-  },
-  {
-   "title": "Managing AI Coding Costs at Scale",
-   "link": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-   "source": "Hacker News",
-   "date": "2026-08-07T18:25:17.000Z"
   },
   {
    "title": "US Senate approves sweeping Russia sanctions bill targeting energy income",

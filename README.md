@@ -8,10 +8,10 @@ page, all of it yours to rearrange.
 subscriptions, no ads, no analytics, no tracking, no server. Nothing to pay for
 and nothing to cancel.
 
-The one exception to "no accounts" is the optional Mail card: each person signs
-into **their own** Gmail, read-only, and sees only their own inbox. It is still
-free — nobody but the reader and Google is in the loop. Every other card works
-without it, and the card can be removed with its ✕.
+There is one optional card that can sign in: Mail. **It is switched off until
+you ask for it** — a fresh page shows no sign-in prompt and makes no contact
+with Google whatsoever. Add it from the **+** menu if you want it; each person
+then signs into *their own* Gmail, read-only, and sees only their own inbox.
 
 ---
 
@@ -71,8 +71,12 @@ A feed that dies just prints `fail` and is skipped — it never breaks the page.
 
 ## Mail
 
-The Mail card shows unread inbox messages, opens the full text of any of them
-in place, and raises a desktop notification when something new arrives. It
+**Mail is off by default.** Nothing invites a Google sign-in until you add the
+card yourself from the **+** menu → *Add a built-in card* → Mail. Until then the
+page never loads Google's sign-in script and never calls the Gmail API.
+
+Once added, the card shows unread inbox messages, opens the full text of any of
+them in place, and raises a desktop notification when something new arrives. It
 talks to the Gmail API straight from the browser — no server, no secret, no
 third party in between, and **read-only**: the scope granted is
 `gmail.readonly`, so the portal cannot send, delete or change anything.

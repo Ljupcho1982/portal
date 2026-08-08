@@ -38,8 +38,8 @@ const I18N = {
     morning:'Good morning', afternoon:'Good afternoon', evening:'Good evening', night:'Good night',
     updated:'updated', free:'No accounts · no keys · no tracking · works offline',
     /* add / remove cards */
-    addCard:'Add a card', chooseType:'What kind of card?', restore:'Bring back a hidden card',
-    nothingHidden:'Nothing is hidden.', remove:'Remove', delete:'Delete',
+    addCard:'Add a card', chooseType:'What kind of card?', restore:'Add a built-in card',
+    nothingHidden:'All built-in cards are already on the page.', remove:'Remove', delete:'Delete',
     delAsk:'Delete this card and its content?',
     t_note:'Note', t_links:'Link list', t_embed:'Embedded page', t_countdown:'Countdown', t_clock:'World clock',
     d_note:'Free text that stays where you put it',
@@ -99,8 +99,8 @@ const I18N = {
     morning:'Добро утро', afternoon:'Добар ден', evening:'Добра вечер', night:'Добра ноќ',
     updated:'освежено', free:'Без сметки · без клучеви · без следење · работи офлајн',
     /* додавање / бришење картички */
-    addCard:'Додај картичка', chooseType:'Каква картичка?', restore:'Врати сокриена картичка',
-    nothingHidden:'Нема сокриени картички.', remove:'Тргни', delete:'Избриши',
+    addCard:'Додај картичка', chooseType:'Каква картичка?', restore:'Додај вградена картичка',
+    nothingHidden:'Сите вградени картички се веќе на страницата.', remove:'Тргни', delete:'Избриши',
     delAsk:'Да се избрише картичката заедно со содржината?',
     t_note:'Белешка', t_links:'Список линкови', t_embed:'Вгнездена страница', t_countdown:'Одбројување', t_clock:'Светски часовник',
     d_note:'Слободен текст што останува каде што ќе го ставиш',
@@ -188,7 +188,9 @@ const DEFAULTS = {
   base: 'EUR',
   symbols: 'USD,GBP,CHF,MKD',
   order: ['weather', 'mail', 'news', 'apps', 'sun', 'bookmarks', 'todo', 'rates', 'notes'],
-  off: [],
+  /* Mail starts switched off on purpose: nothing should invite a Google
+     sign-in until someone deliberately asks for it. Add it from the + menu. */
+  off: ['mail'],
   custom: {},          // cards you add yourself: id → { type, title, … }
   gmailId: '',         // your own OAuth client ID — public, not a secret
   mailPoll: 5,         // minutes between checks
@@ -1183,7 +1185,7 @@ function openAdd() {
   hidden.forEach(id => {
     const b = el('button', 'btn');
     b.type = 'button';
-    b.textContent = '↩ ' + descriptor(id).title();
+    b.textContent = '+ ' + descriptor(id).title();
     b.onclick = () => {
       cfg.off = cfg.off.filter(x => x !== id);
       save(); renderGrid(); openAdd();

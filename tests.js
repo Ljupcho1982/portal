@@ -763,13 +763,14 @@ test('a hidden card is offered for restoring', () => {
 });
 test('restoring brings it back', () => {
   fresh(); removeCard('news'); openAdd();
-  document.querySelector('#hiddenList button').click();
+  [...document.querySelectorAll('#hiddenList button')]
+    .find(b => b.textContent.includes(T.news)).click();
   no(cfg.off.includes('news'));
   ok(document.querySelector('#grid .card[data-id="news"]'));
   document.querySelector('#addDlg').close();
 });
 test('nothing hidden shows a message, not an empty box', () => {
-  fresh(); openAdd();
+  fresh(); cfg.off = []; openAdd();
   has(document.querySelector('#hiddenList').textContent, T.nothingHidden);
   document.querySelector('#addDlg').close();
 });
@@ -1071,6 +1072,53 @@ test('switching accounts shows the new mailbox, not the old one', async () => {
   eq(mail.who, ''); eq(mail.list.length, 0); eq(mail.bodies.size, 0,
     'nothing of the previous account may survive the switch');
 });
+test('Mail is switched off on a fresh install', () => {
+  localStorage.removeItem(KEY);
+  ok(load().off.includes('mail'), 'nothing should invite a Google sign-in unasked');
+});
+test('a first-time visitor sees no Mail card at all', () => {
+  fresh(); renderGrid();
+  eq(document.querySelector('#grid .card[data-id="mail"]'), null);
+});
+test('a fresh page never contacts Google', () => {
+  fresh();
+  net(dead);
+  renderGrid();
+  const google = window.__net.calls.filter(u => /google/i.test(u));
+  eq(google, [], 'no Gmail API call and no sign-in script until asked');
+});
+test('the Google sign-in script is only fetched when someone asks to connect', () => {
+  fresh();
+  no(document.querySelector('script[src*="accounts.google.com"]'),
+     'GIS must not be loaded just because the page opened');
+});
+test('Mail is offered in the add-a-card menu', () => {
+  fresh(); openAdd();
+  has(document.querySelector('#hiddenList').textContent, T.mail);
+  document.querySelector('#addDlg').close();
+});
+test('adding Mail from the menu puts it on the page', () => {
+  fresh(); openAdd();
+  [...document.querySelectorAll('#hiddenList button')]
+    .find(b => b.textContent.includes(T.mail)).click();
+  document.querySelector('#addDlg').close();
+  no(cfg.off.includes('mail'));
+  ok(document.querySelector('#grid .card[data-id="mail"]'), 'it appears once chosen');
+});
+test('removing Mail again puts it back in the menu, not into the void', () => {
+  fresh(); cfg.off = []; renderGrid();
+  removeCard('mail');
+  ok(cfg.off.includes('mail'));
+  openAdd();
+  has(document.querySelector('#hiddenList').textContent, T.mail);
+  document.querySelector('#addDlg').close();
+});
+test('every other card is still on by default', () => {
+  localStorage.removeItem(KEY);
+  const off = load().off;
+  Object.keys(WIDGETS).filter(id => id !== 'mail')
+    .forEach(id => no(off.includes(id), id + ' should be visible by default'));
+});
 test('a shared built-in client ID lets any visitor connect with no setup', () => {
   fresh(); cfg.gmailId = '';
   // simulates the deployed site shipping one client ID for everybody
@@ -1162,7 +1210,7 @@ test('a signed-out card offers no header tools', () => {
   eq(descriptor('mail').tools.length, 0);
 });
 test('the sign-out tool carries its own tooltip, not the refresh one', () => {
-  fresh(); cfg.gmailId = 'x'; cfg.mailConnected = true;
+  fresh(); cfg.off = []; cfg.gmailId = 'x'; cfg.mailConnected = true;
   renderGrid();
   const card = document.querySelector('#grid .card[data-id="mail"]');
   const titles = [...card.querySelectorAll('.card-head .tool')].map(b => b.title);

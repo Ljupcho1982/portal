@@ -1,6 +1,18 @@
 {
- "updated": "2026-08-08T07:15:35.465Z",
+ "updated": "2026-08-08T08:02:33.510Z",
  "items": [
+  {
+   "title": "US intends to send $1 billion in aid to Colombia following de la Espriella's inauguration",
+   "link": "http://www.euronews.com/2026/08/08/us-intends-to-send-1-billion-in-aid-to-colombia-following-de-la-espriellas-inauguration",
+   "source": "Euronews",
+   "date": "2026-08-08T07:33:08.000Z"
+  },
+  {
+   "title": "Hardware backdoors in some x86 CPUs",
+   "link": "https://github.com/xoreaxeaxeax/rosenbridge",
+   "source": "Hacker News",
+   "date": "2026-08-08T07:04:51.000Z"
+  },
   {
    "title": "Child among three killed in Russian missile attacks near Kyiv",
    "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
@@ -62,7 +74,7 @@
    "date": "2026-08-08T03:41:56.000Z"
   },
   {
-   "title": "NASA to keep its 48-year-old Voyager 2 probe running for yet another year",
+   "title": "NASA figured out how to keep its Voyager 2 probe running for another year",
    "link": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
    "source": "Hacker News",
    "date": "2026-08-08T01:49:11.000Z"
@@ -116,12 +128,6 @@
    "date": "2026-08-07T18:55:15.000Z"
   },
   {
-   "title": "Psychological Warfare in Reverse Engineering (2015)",
-   "link": "https://github.com/xoreaxeaxeax/repsych",
-   "source": "Hacker News",
-   "date": "2026-08-07T18:51:45.000Z"
-  },
-  {
    "title": "Judge approves Trump effort to end South Sudan TPS protections",
    "link": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
    "source": "Guardian World",
@@ -156,12 +162,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-07T14:20:27.000Z"
-  },
-  {
-   "title": "Taiwan tests emergency response with air raid drill",
-   "link": "http://www.euronews.com/video/2026/08/07/taiwan-tests-emergency-response-with-air-raid-drill",
-   "source": "Euronews",
-   "date": "2026-08-07T13:36:27.000Z"
   },
   {
    "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",

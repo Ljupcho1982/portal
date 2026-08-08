@@ -63,7 +63,7 @@ const I18N = {
     mailStep4:'Credentials → Create OAuth client ID → Web application, and add this page’s address as an authorised JavaScript origin.',
     mailStep5:'Paste the client ID into Settings → Mail, then press Connect.',
     mailOpenConsole:'Google Cloud console', mailOrigin:'This page’s address:',
-    mailSwitch:'Sign in as someone else',
+    mailSwitch:'Sign in as someone else', mailSignOut:'Sign out',
     mailIdLabel:'Google client ID', mailPollLabel:'Check every (min)',
     mailNotifyLabel:'Desktop notification',
     mailIdHint:'Create a free OAuth client ID (type: Web application) at console.cloud.google.com, enable the Gmail API, and add this page’s address as an authorised JavaScript origin. Nothing is paid and no secret is needed.',
@@ -124,7 +124,7 @@ const I18N = {
     mailStep4:'Credentials → Create OAuth client ID → Web application, и додај ја адресата на оваа страница како дозволен JavaScript origin.',
     mailStep5:'Залепи го client ID во Поставки → Пошта и притисни Поврзи.',
     mailOpenConsole:'Google Cloud конзола', mailOrigin:'Адреса на оваа страница:',
-    mailSwitch:'Најави се како друг',
+    mailSwitch:'Најави се како друг', mailSignOut:'Одјави се',
     mailIdLabel:'Google client ID', mailPollLabel:'Проверувај на (мин)',
     mailNotifyLabel:'Известување на екран',
     mailIdHint:'Направи бесплатен OAuth client ID (тип: Web application) на console.cloud.google.com, вклучи го Gmail API и додај ја адресата на оваа страница како дозволен JavaScript origin. Ништо не се плаќа и не треба тајна лозинка.',
@@ -331,7 +331,8 @@ const ICON = {
   embed:     '<rect x="3" y="4.5" width="18" height="15" rx="2.5"/><path d="M3 9.5h18M6.5 7h.01M9.5 7h.01"/>',
   countdown: '<path d="M7 3h10M7 21h10"/><path d="M17 3v3.4a5 5 0 0 1-10 0V3"/><path d="M7 21v-3.4a5 5 0 0 1 10 0V21"/>',
   clock:     '<circle cx="12" cy="12" r="8.5"/><path d="M12 7.2V12l3.2 2"/>',
-  mail:      '<rect x="3" y="5" width="18" height="14" rx="2.5"/><path d="M3.6 7l7.3 5.2a2 2 0 0 0 2.2 0L20.4 7"/>'
+  mail:      '<rect x="3" y="5" width="18" height="14" rx="2.5"/><path d="M3.6 7l7.3 5.2a2 2 0 0 0 2.2 0L20.4 7"/>',
+  signout:   '<path d="M15 4.5h3.5a1.5 1.5 0 0 1 1.5 1.5v12a1.5 1.5 0 0 1-1.5 1.5H15"/><path d="M10.5 8.5L7 12l3.5 3.5"/><path d="M7 12h9"/>'
 };
 
 const svg = (name, size = 16) =>
@@ -606,6 +607,7 @@ async function mailConnect() {
     await gmailAuth(true);
     cfg.mailConnected = true; save();
     mail.primed = false;
+    renderGrid();                         // the header gains its sign-out tool
     await mailRefresh();
     mailSchedule();
   } catch (e) {
@@ -614,12 +616,31 @@ async function mailConnect() {
   }
 }
 
+/* Hands the token back to Google and wipes every trace of the mailbox from
+   this browser: subjects, senders, message bodies, and the record of which
+   ids have already been notified — that last one is per-account, and leaving
+   it behind would mute the next person's first genuinely new mail. */
 function mailDisconnect() {
   try { google.accounts.oauth2.revoke(mail.token, () => {}); } catch {}
-  mail.token = null; mail.exp = 0; mail.list = []; mail.who = ''; mail.bodies.clear();
+  mail.token = null; mail.exp = 0; mail.list = []; mail.who = '';
+  mail.bodies.clear(); mail.open = null; mail.err = '';
+  mail.primed = false;                    // the next sign-in primes quietly
+  try { localStorage.removeItem('portal.cache.mailSeen'); } catch {}
   cfg.mailConnected = false; save();
   clearInterval(mail.timer);
-  renderWidget('mail');
+}
+
+/* Sign out and stay out. */
+function mailSignOut() {
+  mailDisconnect();
+  renderGrid();                           // the header tools change, not just the body
+}
+
+/* Sign out, then straight back in as whoever the user picks. */
+function mailSwitchAccount() {
+  mailDisconnect();
+  renderGrid();
+  mailConnect();
 }
 
 /* Shown when no client ID is available anywhere: the whole setup, in the
@@ -860,7 +881,14 @@ const WIDGETS = {
     title: () => mail.list.length ? `${t('mail')} · ${mail.list.length}` : t('mail'),
     tight: true,
     scroll: true,
-    tools: [{ icon: 'refresh', act: () => mailRefresh() }],
+    /* a getter, not a fixed array: sign-out only exists once signed in, and
+       the header must never scroll away behind a long list */
+    get tools() {
+      return cfg.mailConnected
+        ? [{ icon: 'refresh', title: 'refresh', act: () => mailRefresh() },
+           { icon: 'signout', title: 'mailSignOut', act: () => mailSignOut() }]
+        : [];
+    },
     render(body) {
       if (!gmailId()) { mailSetupPanel(body); return; }
       if (!cfg.mailConnected) {
@@ -884,8 +912,9 @@ const WIDGETS = {
       }
       if (!mail.list.length) {
         body.innerHTML = `<div class="empty">${esc(t('mailEmpty'))}</div>
-          <p class="hint mail-who">${esc(mail.who)} · <button type="button" class="linkish" id="mailSwap">${esc(t('mailSwitch'))}</button></p>`;
-        $('#mailSwap', body).onclick = () => { mailDisconnect(); mailConnect(); };
+          <p class="hint mail-who">${esc(mail.who)} · <button type="button" class="linkish" id="mailOut">${esc(t('mailSignOut'))}</button> · <button type="button" class="linkish" id="mailSwap">${esc(t('mailSwitch'))}</button></p>`;
+        $('#mailSwap', body).onclick = mailSwitchAccount;
+        $('#mailOut', body).onclick = mailSignOut;
         return;
       }
 
@@ -904,9 +933,10 @@ const WIDGETS = {
             <div class="mail-foot"><a href="https://mail.google.com/mail/u/0/#inbox/${esc(m.id)}"
                target="_blank" rel="noopener">${t('mailOpenGmail')} ↗</a></div>` : ''}
         </li>`).join('')}</ul>
-        <p class="hint mail-who">${esc(mail.who)} · <button type="button" class="linkish" id="mailSwap">${esc(t('mailSwitch'))}</button></p>`;
+        <p class="hint mail-who">${esc(mail.who)} · <button type="button" class="linkish" id="mailOut">${esc(t('mailSignOut'))}</button> · <button type="button" class="linkish" id="mailSwap">${esc(t('mailSwitch'))}</button></p>`;
 
-      $('#mailSwap', body).onclick = () => { mailDisconnect(); mailConnect(); };
+      $('#mailSwap', body).onclick = mailSwitchAccount;
+      $('#mailOut', body).onclick = mailSignOut;
       $$('.mail-item', body).forEach(li => {
         $('.mail-row', li).onclick = async () => {
           const id = li.dataset.id;
@@ -1076,7 +1106,7 @@ function renderGrid() {
     (w.tools || []).forEach(tool => {
       const b = el('button', 'tool', svg(tool.icon, 15));
       b.type = 'button';
-      b.title = t(tool.icon === 'edit' ? 'edit' : 'refresh');
+      b.title = t(tool.title || (tool.icon === 'edit' ? 'edit' : 'refresh'));
       b.onclick = () => tool.act(id);
       head.append(b);
     });
@@ -1401,7 +1431,7 @@ $('#settingsDlg').addEventListener('close', () => {
   save(); applyChrome(); renderEngines(); renderGrid(); tickClock(); mailSchedule();
 });
 
-$('#mailOff').onclick = () => { mailDisconnect(); $('#settingsDlg').close(); };
+$('#mailOff').onclick = () => { mailSignOut(); $('#settingsDlg').close(); };
 
 /* city lookup — Open-Meteo geocoding, free and keyless */
 $('#citySearchBtn').onclick = async () => {

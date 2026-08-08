@@ -146,6 +146,14 @@ about ten minutes per person.
 - Message bodies are rendered as **plain text, never as HTML**. An email is
   untrusted input; text cannot carry a script or a tracking pixel.
 - Checks every 5 minutes by default; adjustable in Settings.
+- **Signing out** is on the card in two places: an icon in the header (which
+  never scrolls away behind a long list) and *Sign out* in the footer next to
+  the signed-in address, plus a Disconnect button in Settings → Mail. It hands
+  the token back to Google and erases every trace of the mailbox from the
+  browser — senders, subjects, message bodies, and the record of which mail has
+  already been notified. *Sign in as someone else* does the same and reopens the
+  Google picker, so several people can share one browser without seeing each
+  other's mail.
 
 ## Adding and removing cards
 

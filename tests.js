@@ -1152,6 +1152,60 @@ test('the access token is never written to storage', async () => {
   const dump = JSON.stringify(localStorage);
   hasnt(dump, 'test-token', 'the token must live in memory only');
 });
+test('a signed-in card offers refresh and sign-out in its header', () => {
+  fresh(); cfg.gmailId = 'x'; cfg.mailConnected = true;
+  const icons = descriptor('mail').tools.map(t2 => t2.icon);
+  eq(icons, ['refresh', 'signout'], 'sign-out must sit in the header, which never scrolls away');
+});
+test('a signed-out card offers no header tools', () => {
+  fresh(); cfg.gmailId = 'x'; cfg.mailConnected = false;
+  eq(descriptor('mail').tools.length, 0);
+});
+test('the sign-out tool carries its own tooltip, not the refresh one', () => {
+  fresh(); cfg.gmailId = 'x'; cfg.mailConnected = true;
+  renderGrid();
+  const card = document.querySelector('#grid .card[data-id="mail"]');
+  const titles = [...card.querySelectorAll('.card-head .tool')].map(b => b.title);
+  has(titles.join('|'), T.mailSignOut);
+});
+test('signing out wipes every trace of the mailbox from the browser', () => {
+  fresh(); asMail(); cfg.mailConnected = true;
+  mail.who = 'someone@gmail.com';
+  mail.list = [{ id: '1', from: 'a', subject: 'secret subject', snippet: 's', date: '' }];
+  mail.bodies.set('1', 'secret body text');
+  mail.open = '1';
+  cache.set('mailSeen', ['1', '2']);
+  mailSignOut();
+  eq(mail.token, null); eq(mail.who, ''); eq(mail.list.length, 0);
+  eq(mail.bodies.size, 0); eq(mail.open, null);
+  eq(cfg.mailConnected, false);
+  eq(cache.get('mailSeen'), null, 'the seen-ids record is per-account and must go too');
+  hasnt(JSON.stringify(localStorage), 'secret', 'nothing readable left behind');
+});
+test('after signing out, the next account primes quietly instead of alerting', () => {
+  fresh(); asMail(); cfg.mailConnected = true; mail.primed = true;
+  mailSignOut();
+  no(mail.primed, 'a fresh sign-in must not fire a notification per existing unread mail');
+});
+test('signing out stops the background polling', () => {
+  fresh(); cfg.mailConnected = true; cfg.mailPoll = 1;
+  mailSchedule();
+  ok(mail.timer, 'polling was running');
+  mailSignOut();
+  net(dead);
+  eq(window.__net.calls.length, 0, 'no further calls are scheduled');
+});
+test('signing out leaves the card offering to connect again', async () => {
+  fresh(); cfg.gmailId = 'x'; asMail(); cfg.mailConnected = true;
+  mailSignOut();
+  ok((await paint('mail')).querySelector('#mailGo'), 'the way back in stays visible');
+});
+test('the client ID survives signing out, so getting back in is one press', () => {
+  fresh(); cfg.gmailId = 'keepme.apps.googleusercontent.com'; asMail(); cfg.mailConnected = true;
+  mailSignOut();
+  eq(cfg.gmailId, 'keepme.apps.googleusercontent.com');
+  eq(JSON.parse(localStorage.getItem(KEY)).mailConnected, false, 'the signed-out state persists a reload');
+});
 test('disconnecting clears the session and the cached messages', () => {
   fresh(); asMail(); cfg.mailConnected = true;
   mail.list = [{ id: '1', from: 'a', subject: 'b', snippet: '', date: '' }];

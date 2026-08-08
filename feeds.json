@@ -1,11 +1,23 @@
 {
- "updated": "2026-08-08T13:12:59.550Z",
+ "updated": "2026-08-08T13:57:51.530Z",
  "items": [
   {
-   "title": "US Senate narrowly confirms Todd Blanche as attorney general",
+   "title": "US gifts $1bn to Colombia on new right-wing president's first day of office",
+   "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-08T13:49:09.000Z"
+  },
+  {
+   "title": "Child among three killed in Russian missile attacks near Kyiv",
+   "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-08T13:29:38.000Z"
+  },
+  {
+   "title": "Trump's ex-lawyer Todd Blanche narrowly confirmed as US attorney general",
    "link": "https://www.bbc.co.uk/news/articles/cewr898jy8go?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-08-08T13:12:07.000Z"
+   "date": "2026-08-08T13:23:16.000Z"
   },
   {
    "title": "Ivory Coast’s ‘talking drum’ returns to home village after 110 years",
@@ -20,12 +32,6 @@
    "date": "2026-08-08T12:30:52.000Z"
   },
   {
-   "title": "The CPU is back: Rethinking the CPU-GPU split for LLM inference",
-   "link": "https://www.redhat.com/en/blog/cpu-back-rethinking-cpu-gpu-split-llm-inference",
-   "source": "Hacker News",
-   "date": "2026-08-08T12:16:03.000Z"
-  },
-  {
    "title": "Police bodycam and CCTV catches Idaho mall shooting as it unfolds",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/police-bodycam-and-cctv-catches-idaho-mall-shooting-as-it-unfolds?traffic_source=rss",
    "source": "Al Jazeera",
@@ -36,12 +42,6 @@
    "link": "https://www.bbc.co.uk/sport/basketball/articles/czekj4wg41po?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-08T12:05:04.000Z"
-  },
-  {
-   "title": "US pledges $1bn support to Colombia as Trump-backed president sworn in",
-   "link": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-08T12:01:42.000Z"
   },
   {
    "title": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
@@ -68,10 +68,10 @@
    "date": "2026-08-08T10:57:44.000Z"
   },
   {
-   "title": "Apple Introduces Leasing Program for iPhones and Other Devices",
-   "link": "https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html",
+   "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+   "link": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
    "source": "Hacker News",
-   "date": "2026-08-08T10:16:01.000Z"
+   "date": "2026-08-08T10:16:07.000Z"
   },
   {
    "title": "New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.",
@@ -104,10 +104,10 @@
    "date": "2026-08-08T07:33:08.000Z"
   },
   {
-   "title": "Child among three killed in Russian missile attacks near Kyiv",
-   "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-08T06:12:56.000Z"
+   "title": "Hardware backdoors in some x86 CPUs",
+   "link": "https://github.com/xoreaxeaxeax/rosenbridge",
+   "source": "Hacker News",
+   "date": "2026-08-08T07:04:51.000Z"
   },
   {
    "title": "‘I couldn’t breathe’: the deadly health burden of wildfire smoke",

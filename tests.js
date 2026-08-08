@@ -30,6 +30,9 @@ function hasnt(hay, needle, msg) {
 /* ── helpers ──────────────────────────────────────────── */
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
+/* local calendar day, N days from now — never UTC, or tests break after
+   midnight in any timezone east of Greenwich */
+const dayOff = n => isoDay(new Date(Date.now() + n * 864e5));
 const div = () => document.createElement('div');
 
 const fresh = () => { cfg = structuredClone(DEFAULTS); T = I18N.en; save(); };
@@ -272,7 +275,7 @@ test('the progress bar is clamped to 100% after sunset', async () => {
 });
 test('the progress bar is clamped to 0% before sunrise', async () => {
   fresh();
-  const future = new Date(Date.now() + 864e5).toISOString().slice(0, 10);
+  const future = dayOff(1);
   sunData = { daily: { sunrise: [future + 'T05:30'], sunset: [future + 'T19:45'] } };
   eq(parseFloat((await paint('sun')).querySelector('.sun-bar i').style.width), 0);
 });
@@ -470,6 +473,21 @@ test('an empty list shows a placeholder rather than nothing', async () => {
   fresh(); cfg.bookmarks = [];
   ok((await paint('bookmarks')).textContent.trim().length > 0);
 });
+test('an empty app launcher explains itself instead of showing a bare dash', async () => {
+  fresh(); cfg.apps = [];
+  has((await paint('apps')).textContent, T.appsEmpty);
+});
+test('isLocalHost recognises localhost, 127.0.0.1 and .local, nothing else', () => {
+  ok(isLocalHost('localhost')); ok(isLocalHost('127.0.0.1')); ok(isLocalHost('mybox.local'));
+  no(isLocalHost('ljupcho1982.github.io'));
+  no(isLocalHost('example.com'));
+});
+test('the shipped app-launcher defaults never point off-site on a public deployment', () => {
+  // this file is itself served from localhost during the test run, so the
+  // guard is exercised directly rather than through the live default
+  no(isLocalHost('ljupcho1982.github.io'), 'sanity: the real deployment host is not local');
+  ok(LOCAL_APPS.every(a => a.url.startsWith('../')), 'every local-only tile is a relative sibling path');
+});
 test('the editor round-trips a list through its text form', () => {
   fresh();
   const text = cfg.bookmarks.map(x => [x.title, x.url, x.icon].filter(Boolean).join(' | ')).join('\n');
@@ -631,19 +649,19 @@ test('an empty card explains what to do', () => {
 });
 test('a countdown counts the days to a future date', () => {
   fresh(); const b = div();
-  const d = new Date(Date.now() + 10 * 864e5).toISOString().slice(0, 10);
+  const d = dayOff(10);
   TYPES.countdown.render(b, { type: 'countdown', date: d });
   has(b.querySelector('.cd-num').textContent, '10');
   has(b.textContent, T.daysLeft);
 });
 test('a countdown says "today" on the day', () => {
   fresh(); const b = div();
-  TYPES.countdown.render(b, { type: 'countdown', date: new Date().toISOString().slice(0, 10) });
+  TYPES.countdown.render(b, { type: 'countdown', date: dayOff(0) });
   has(b.textContent, T.today);
 });
 test('a past countdown counts backwards and is dimmed', () => {
   fresh(); const b = div();
-  const d = new Date(Date.now() - 3 * 864e5).toISOString().slice(0, 10);
+  const d = dayOff(-3);
   TYPES.countdown.render(b, { type: 'countdown', date: d });
   has(b.textContent, T.daysAgo);
   ok(b.querySelector('.cd').classList.contains('past'));

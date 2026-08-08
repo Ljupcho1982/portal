@@ -72,7 +72,8 @@ const I18N = {
     mailSignedIn:'Signed in as', mailFailed:'Gmail refused the request. Try connecting again.',
     mailNotifyTitle:'New mail', mailNoNotifyPerm:'The browser blocked notifications.',
     mailFileOrigin:'Gmail sign-in needs the page served over http, not opened from disk.',
-    mailReadOnly:'Read-only access. The portal can never send or delete mail.'
+    mailReadOnly:'Read-only access. The portal can never send or delete mail.',
+    appsEmpty:'No app tiles yet — press the pencil above to add your own.'
   },
   mk: {
     settings:'Поставки', appearance:'Изглед', theme:'Тема', language:'Јазик',
@@ -132,7 +133,8 @@ const I18N = {
     mailSignedIn:'Најавен како', mailFailed:'Gmail го одби барањето. Обиди се да се поврзеш повторно.',
     mailNotifyTitle:'Нова пошта', mailNoNotifyPerm:'Прелистувачот ги блокира известувањата.',
     mailFileOrigin:'Најавата на Gmail бара страницата да е сервирана преку http, не отворена од диск.',
-    mailReadOnly:'Пристап само за читање. Порталот никогаш не може да испрати или избрише пошта.'
+    mailReadOnly:'Пристап само за читање. Порталот никогаш не може да испрати или избрише пошта.',
+    appsEmpty:'Сè уште нема плочки — притисни го моливот погоре за да додадеш свои.'
   }
 };
 
@@ -142,6 +144,39 @@ const t = k => T[k] || k;
 /* ═══════════ config ═══════════ */
 
 const KEY = 'portal.config.v2';
+
+/* The app launcher's default tiles use paths relative to this file — they
+   only resolve when the sibling project folders actually sit next to
+   portal/, which is true on this machine but not on a public deployment
+   (only portal/ gets published, so ../nevreme/… is a 404 for a stranger).
+   Ship them only when the page is plainly running locally; a deployed copy
+   starts with an empty launcher that anyone can fill with their own links. */
+function isLocalHost(host) {
+  return host === 'localhost' || host === '127.0.0.1' || host === '' || host.endsWith('.local');
+}
+const LOCAL_APPS = [
+  { title: 'Nevreme',      url: '../nevreme/index.html',                 icon: '⛈️' },
+  { title: 'What to Wear', url: '../what-to-wear/index.html',            icon: '👕' },
+  { title: 'Expira',       url: '../expira/www/index.html',              icon: '⏳' },
+  { title: 'My Diary',     url: '../my-diary/www/index.html',            icon: '📔' },
+  { title: 'Parkinson',    url: '../parkinson-app/index.html',           icon: '💊' },
+  { title: 'Kitchen',      url: '../kitchen-assistant/index.html',       icon: '🍳' },
+  { title: 'ProofLog',     url: '../prooflog/www/index.html',            icon: '🔒' },
+  { title: 'Break Point',  url: '../break-point/index.html',             icon: '⏱️' },
+  { title: 'Mirror Hours', url: '../mirror-hours/index.html',            icon: '🕚' },
+  { title: 'Kairos',       url: '../kairos/docs/index.html',             icon: '🔮' },
+  { title: 'Tishina',      url: '../tishina/docs/index.html',            icon: '🧘' },
+  { title: 'Wave',         url: '../wave/www/index.html',                icon: '🌊' },
+  { title: 'Sunrise',      url: '../sunrise-circadian/index.html',       icon: '🌅' },
+  { title: 'Landed',       url: '../landed/index.html',                  icon: '🛬' },
+  { title: 'Nearby',       url: '../nearby-places/index.html',           icon: '📍' },
+  { title: 'Rent Manager', url: '../rent-manager/index.html',            icon: '🏠' },
+  { title: 'Faktura Pro',  url: '../faktura-pro/docs/index.html',        icon: '🧾' },
+  { title: 'Health Diary', url: '../health-diary/web/index.html',        icon: '🩺' },
+  { title: 'Prodrome',     url: '../prodrome/www/index.html',            icon: '📡' },
+  { title: 'BorderWatch',  url: '../borderwatch/index.html',             icon: '🛂' }
+];
+const DEFAULT_APPS = isLocalHost(location.hostname) ? LOCAL_APPS : [];
 
 const DEFAULTS = {
   lang: 'en',
@@ -171,28 +206,7 @@ const DEFAULTS = {
     { title: 'Time.mk',        url: 'https://time.mk',                icon: '📰' },
     { title: 'НБРМ курс',      url: 'https://www.nbrm.mk/kursna_lista.nspx', icon: '💱' }
   ],
-  apps: [
-    { title: 'Nevreme',      url: '../nevreme/index.html',                 icon: '⛈️' },
-    { title: 'What to Wear', url: '../what-to-wear/index.html',            icon: '👕' },
-    { title: 'Expira',       url: '../expira/www/index.html',              icon: '⏳' },
-    { title: 'My Diary',     url: '../my-diary/www/index.html',            icon: '📔' },
-    { title: 'Parkinson',    url: '../parkinson-app/index.html',           icon: '💊' },
-    { title: 'Kitchen',      url: '../kitchen-assistant/index.html',       icon: '🍳' },
-    { title: 'ProofLog',     url: '../prooflog/www/index.html',            icon: '🔒' },
-    { title: 'Break Point',  url: '../break-point/index.html',             icon: '⏱️' },
-    { title: 'Mirror Hours', url: '../mirror-hours/index.html',            icon: '🕚' },
-    { title: 'Kairos',       url: '../kairos/docs/index.html',             icon: '🔮' },
-    { title: 'Tishina',      url: '../tishina/docs/index.html',            icon: '🧘' },
-    { title: 'Wave',         url: '../wave/www/index.html',                icon: '🌊' },
-    { title: 'Sunrise',      url: '../sunrise-circadian/index.html',       icon: '🌅' },
-    { title: 'Landed',       url: '../landed/index.html',                  icon: '🛬' },
-    { title: 'Nearby',       url: '../nearby-places/index.html',           icon: '📍' },
-    { title: 'Rent Manager', url: '../rent-manager/index.html',            icon: '🏠' },
-    { title: 'Faktura Pro',  url: '../faktura-pro/docs/index.html',        icon: '🧾' },
-    { title: 'Health Diary', url: '../health-diary/web/index.html',        icon: '🩺' },
-    { title: 'Prodrome',     url: '../prodrome/www/index.html',            icon: '📡' },
-    { title: 'BorderWatch',  url: '../borderwatch/index.html',             icon: '🛂' }
-  ],
+  apps: DEFAULT_APPS,
 };
 
 let cfg = load();
@@ -271,6 +285,11 @@ const esc = s => String(s).replace(/[&<>"']/g, c =>
 
 const hhmm = d => d.toLocaleTimeString(cfg.lang === 'mk' ? 'mk-MK' : 'en-GB',
   { hour: '2-digit', minute: '2-digit', hour12: false });
+
+/* YYYY-MM-DD in the *local* calendar. toISOString() converts to UTC first,
+   so east of Greenwich it reports yesterday for the hours after midnight. */
+const isoDay = (d = new Date()) =>
+  `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
 
 async function getJSON(url, ms = 9000) {
   const c = new AbortController();
@@ -726,7 +745,7 @@ const WIDGETS = {
       try {
         d = ask.length
           ? await getJSON(`https://api.frankfurter.dev/v1/latest?base=${base}&symbols=${ask.join(',')}`)
-          : { base, date: new Date().toISOString().slice(0, 10), rates: {} };
+          : { base, date: isoDay(), rates: {} };
         if (!usable(d)) throw new Error('unexpected response');
         cache.set('fx', d);
       } catch {
@@ -778,7 +797,7 @@ const WIDGETS = {
             `<a class="tile" href="${esc(safeUrl(x.url))}" target="_blank" rel="noopener" title="${esc(x.title)}">
                <span class="ico">${esc(x.icon || '📦')}</span><span class="lbl">${esc(x.title)}</span>
              </a>`).join('')}</div>`
-        : `<div class="empty">—</div>`;
+        : `<div class="empty">${esc(t('appsEmpty'))}</div>`;
     }
   },
 
@@ -1425,7 +1444,7 @@ $('#exportBtn').onclick = () => {
   const blob = new Blob([JSON.stringify(cfg, null, 2)], { type: 'application/json' });
   const a = el('a');
   a.href = URL.createObjectURL(blob);
-  a.download = `portal-backup-${new Date().toISOString().slice(0, 10)}.json`;
+  a.download = `portal-backup-${isoDay()}.json`;
   a.click();
   setTimeout(() => URL.revokeObjectURL(a.href), 2000);
 };

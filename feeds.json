@@ -1,17 +1,59 @@
 {
- "updated": "2026-08-09T20:51:55.311Z",
+ "updated": "2026-08-09T21:48:24.982Z",
  "items": [
   {
-   "title": "Poland now 6th-largest EU economy, ahead of Switzerland and Belgium",
-   "link": "https://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium",
-   "source": "Hacker News",
-   "date": "2026-08-09T20:13:38.000Z"
+   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
+   "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-09T21:25:04.000Z"
   },
   {
-   "title": "Deletes all instances of Microsoft's GDID and prevents minting of new ones",
-   "link": "https://github.com/yegors/deGDID",
+   "title": "Is it all just vapourware?",
+   "link": "https://kirahowe.com/2026/aug/8/is-it-all-just-vapourware",
    "source": "Hacker News",
-   "date": "2026-08-09T20:06:51.000Z"
+   "date": "2026-08-09T21:03:43.000Z"
+  },
+  {
+   "title": "I've yet to see any\"My AI went rogue and caused us to recognise a workers union",
+   "link": "https://mastodon.neilzone.co.uk/@neil/117061512483182546",
+   "source": "Hacker News",
+   "date": "2026-08-09T21:01:31.000Z"
+  },
+  {
+   "title": "Suspected crime boss Daniel Kinahan appears in court after extradition",
+   "link": "https://www.bbc.co.uk/news/articles/c62qd5plzp6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-09T20:58:18.000Z"
+  },
+  {
+   "title": "Tuxedo No. 2 – Cocktail recipes",
+   "link": "https://tuxedono2.com",
+   "source": "Hacker News",
+   "date": "2026-08-09T20:48:46.000Z"
+  },
+  {
+   "title": "New Zealand lost its music media, and what we're building to replace it",
+   "link": "https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media",
+   "source": "Hacker News",
+   "date": "2026-08-09T20:42:29.000Z"
+  },
+  {
+   "title": "Germany warns of ‘daily hybrid warfare’ after explosive-laden drone found",
+   "link": "https://www.aljazeera.com/news/2026/8/9/germany-warns-of-daily-hybrid-warfare-following-suspected-drone-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-09T20:40:25.000Z"
+  },
+  {
+   "title": "Archival Resource Key (Ark) Alliance",
+   "link": "https://arks.org/",
+   "source": "Hacker News",
+   "date": "2026-08-09T20:28:54.000Z"
+  },
+  {
+   "title": "The Hacker's Renaissance",
+   "link": "https://phrack.org/issues/72/19#article",
+   "source": "Hacker News",
+   "date": "2026-08-09T20:18:44.000Z"
   },
   {
    "title": "Palestinians say Netanyahu’s decision leaves ‘no clear path’ to peace",
@@ -20,40 +62,16 @@
    "date": "2026-08-09T20:02:57.000Z"
   },
   {
-   "title": "Nigerian army says it safely rescued 33 people kidnapped by gunmen",
-   "link": "https://www.bbc.co.uk/news/articles/c89nkkvx2veo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-09T19:57:28.000Z"
-  },
-  {
    "title": "Israel is ‘trying to make Palestine disappear’: The Elders",
    "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/9/israel-is-trying-to-make-palestine-disappear-the-elders?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-09T19:30:00.000Z"
   },
   {
-   "title": "Ransomware gangs skip the CEO, head straight for the 40-something IT manager",
-   "link": "https://www.theregister.com/security/2026/08/09/ransomware-gangs-skip-the-ceo-head-straight-for-the-40-something-it-manager/5284499",
-   "source": "Hacker News",
-   "date": "2026-08-09T19:20:40.000Z"
-  },
-  {
-   "title": "How I use LLMs to learn complex topics",
-   "link": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
-   "source": "Hacker News",
-   "date": "2026-08-09T19:16:49.000Z"
-  },
-  {
    "title": "Can the Doha Framework end the conflict in eastern DRC?",
    "link": "https://www.aljazeera.com/video/inside-story/2026/8/9/can-the-doha-framework-end-the-conflict-in-eastern-drc?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-09T19:07:35.000Z"
-  },
-  {
-   "title": "A zero-dependency, ultra-lightweight database time machine for SQLite",
-   "link": "https://github.com/nsrht/time-travel-sqlite-debugger",
-   "source": "Hacker News",
-   "date": "2026-08-09T18:59:53.000Z"
   },
   {
    "title": "Hundreds of anti-tourism Spanish protesters march in Mallorca’s Soller",
@@ -66,12 +84,6 @@
    "link": "http://www.euronews.com/video/2026/08/09/messi-says-farewell-to-his-father-in-hometown-rosario",
    "source": "Euronews",
    "date": "2026-08-09T18:58:58.000Z"
-  },
-  {
-   "title": "Plug-In Solar Panels Starting to Sprout in U.S. Backyards",
-   "link": "https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html",
-   "source": "Hacker News",
-   "date": "2026-08-09T18:51:57.000Z"
   },
   {
    "title": "Where does Iran stand on Saudi-Pakistan-Turkiye pact?",
@@ -92,12 +104,6 @@
    "date": "2026-08-09T18:03:55.000Z"
   },
   {
-   "title": "Jannik Sinner withdraws from Cincinnati Open with knee injury",
-   "link": "https://www.aljazeera.com/sports/2026/8/9/jannik-sinner-withdraws-from-cincinnati-open-with-knee-injury?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-09T16:53:53.000Z"
-  },
-  {
    "title": "Drones spotted over German base days after Leipzig bomb incident",
    "link": "https://www.bbc.co.uk/news/articles/cwyeg1ljp2eo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
@@ -114,12 +120,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cgjeznj6979o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-09T15:34:04.000Z"
-  },
-  {
-   "title": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-   "link": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-09T14:18:10.000Z"
   },
   {
    "title": "Over 20,000 flee wildfires as British Columbia declares state of emergency",

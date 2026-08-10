@@ -1,11 +1,53 @@
 {
- "updated": "2026-08-10T19:17:35.584Z",
+ "updated": "2026-08-10T21:02:35.543Z",
  "items": [
   {
    "title": "More than 100 dead and buildings collapsed after 7.4-magnitude earthquake shakes Colombia – latest news",
    "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
    "source": "Guardian World",
-   "date": "2026-08-10T19:03:29.000Z"
+   "date": "2026-08-10T20:52:18.000Z"
+  },
+  {
+   "title": "Illinois Just Passed a Law That Puts Linux on the Hook for Age Verification",
+   "link": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
+   "source": "Hacker News",
+   "date": "2026-08-10T20:20:06.000Z"
+  },
+  {
+   "title": "Russia bars only party opposing war in Ukraine from parliamentary vote",
+   "link": "https://www.aljazeera.com/news/2026/8/10/russia-bars-only-party-opposing-war-in-ukraine-from-parliamentary-vote?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-10T19:47:13.000Z"
+  },
+  {
+   "title": "Trump administration has revoked over 175,000 visas: US State Department",
+   "link": "https://www.aljazeera.com/news/2026/8/10/trump-administration-revoked-over-175000-visas-us-state-department?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-10T19:46:34.000Z"
+  },
+  {
+   "title": "US Congresswoman Nancy Mace calls Muslim officials ‘threat’ to US",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/us-congresswoman-nancy-mace-calls-muslim-officials-threat-to-us?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-10T19:30:29.000Z"
+  },
+  {
+   "title": "Todd Blanche sworn in as US attorney general after bruising confirmation fight",
+   "link": "http://www.euronews.com/2026/08/10/todd-blanche-sworn-in-as-us-attorney-general-after-bruising-confirmation-fight",
+   "source": "Euronews",
+   "date": "2026-08-10T19:29:32.000Z"
+  },
+  {
+   "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",
+   "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-10T19:17:11.000Z"
+  },
+  {
+   "title": "Migrant children go days without food in Ceuta amid asylum crisis",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/migrant-children-go-days-without-food-in-ceuta-amid-asylum-crisis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-10T19:08:08.000Z"
   },
   {
    "title": "111 dead after Colombia quakes leave trail of destruction",
@@ -26,30 +68,6 @@
    "date": "2026-08-10T18:37:07.000Z"
   },
   {
-   "title": "Netanyahu’s veto and the limits of American power",
-   "link": "https://www.aljazeera.com/opinions/2026/8/10/netanyahus-veto-and-the-limits-of-american-power?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-10T18:35:31.000Z"
-  },
-  {
-   "title": "Iran hierarchy consolidation as IRGC veteran tapped for key security role",
-   "link": "https://www.aljazeera.com/news/2026/8/10/iran-hierarchy-consolidation-as-irgc-veteran-tapped-for-key-security-role?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-10T18:34:25.000Z"
-  },
-  {
-   "title": "Russian court bars only anti-war party from standing in parliamentary elections",
-   "link": "https://www.bbc.co.uk/news/articles/cy9w1l5jr7lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-10T18:19:41.000Z"
-  },
-  {
-   "title": "Oman trying to contain extensive oil spill from stricken tanker",
-   "link": "https://www.aljazeera.com/news/2026/8/10/oman-trying-to-contain-extensive-oil-spill-from-stricken-tanker?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-10T18:15:23.000Z"
-  },
-  {
    "title": "Rust SIMD on the GPU",
    "link": "https://www.vectorware.com/blog/simd-on-gpu/",
    "source": "Hacker News",
@@ -62,34 +80,28 @@
    "date": "2026-08-10T18:11:52.000Z"
   },
   {
-   "title": "Zuckerberg’s yacht crew did not hear call for help, says spokesperson",
-   "link": "https://www.aljazeera.com/news/2026/8/10/zuckerbergs-yacht-crew-did-not-hear-call-for-help-says-spokesperson?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-10T17:51:18.000Z"
-  },
-  {
    "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
    "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-10T17:50:29.000Z"
   },
   {
-   "title": "Learning more about Claude's mathematical capabilities",
-   "link": "https://www.anthropic.com/research/riemann-zeta",
+   "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+   "link": "https://cactuscompute.com/needle",
    "source": "Hacker News",
-   "date": "2026-08-10T17:41:13.000Z"
+   "date": "2026-08-10T17:22:07.000Z"
+  },
+  {
+   "title": "30 years later, a former gang member will stand trial for Tupac's murder",
+   "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-10T16:52:47.000Z"
   },
   {
    "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
    "link": "https://www.stoaexchange.com",
    "source": "Hacker News",
    "date": "2026-08-10T16:35:27.000Z"
-  },
-  {
-   "title": "'Total incinerated destruction': Canada wildfire evacuees wonder if they still have homes",
-   "link": "https://www.bbc.co.uk/news/articles/cx2lwv032j9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-10T16:10:56.000Z"
   },
   {
    "title": "Exploiting System Management Mode with a very long interrupt",
@@ -104,12 +116,6 @@
    "date": "2026-08-10T16:00:29.000Z"
   },
   {
-   "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
-   "link": "https://github.com/AntigmaLabs/ante",
-   "source": "Hacker News",
-   "date": "2026-08-10T15:59:23.000Z"
-  },
-  {
    "title": "Netanyahu's rejection of Trump's 15-point Gaza plan unlikely to be final word",
    "link": "https://www.bbc.co.uk/news/articles/ce3q5282ep3o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
@@ -122,7 +128,7 @@
    "date": "2026-08-10T14:34:25.000Z"
   },
   {
-   "title": "At least 111 confirmed dead after major earthquake rocks Colombia and neighbours",
+   "title": "State of emergency declared as 111 confirmed dead in major earthquake in Colombia",
    "link": "http://www.euronews.com/2026/08/10/powerful-66-magnitude-quake-rocks-colombia-geological-agency-says",
    "source": "Euronews",
    "date": "2026-08-10T13:42:57.000Z"
@@ -138,12 +144,6 @@
    "link": "http://www.euronews.com/2026/08/10/saudi-factory-fire-kills-16-bangladeshis-dhaka-announces",
    "source": "Euronews",
    "date": "2026-08-10T12:56:56.000Z"
-  },
-  {
-   "title": "Days of heavy rain leave at least 13 dead in Philippines, rescuers say",
-   "link": "http://www.euronews.com/2026/08/10/days-of-heavy-rain-leave-at-least-13-dead-in-philippines-rescuers-say",
-   "source": "Euronews",
-   "date": "2026-08-10T12:37:15.000Z"
   },
   {
    "title": "World's oceans hit record-high July temperatures",

@@ -1,11 +1,47 @@
 {
- "updated": "2026-08-10T22:56:45.193Z",
+ "updated": "2026-08-10T23:51:16.826Z",
  "items": [
   {
    "title": "Colombia earthquake live updates: more than 100 dead and buildings collapsed after 7.4-magnitude quake",
    "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
    "source": "Guardian World",
-   "date": "2026-08-10T22:19:59.000Z"
+   "date": "2026-08-10T23:29:25.000Z"
+  },
+  {
+   "title": "Inside a secret launch site for Ukraine’s deep-strike drones",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-10T23:18:53.000Z"
+  },
+  {
+   "title": "Moment of terror as powerful earthquake shakes airport in Colombia",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/moment-of-terror-as-powerful-earthquake-shakes-airport-in-colombia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-10T22:46:32.000Z"
+  },
+  {
+   "title": "World Train Map – 1247 train routes around the world",
+   "link": "https://worldtrainmap.com/",
+   "source": "Hacker News",
+   "date": "2026-08-10T22:42:14.000Z"
+  },
+  {
+   "title": "Ceuta mayor calls for migrant detention amid mass influx crisis",
+   "link": "https://www.aljazeera.com/news/2026/8/10/ceuta-mayor-calls-for-migrant-detention-amid-mass-influx-crisis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-10T22:41:03.000Z"
+  },
+  {
+   "title": "Google Search Is Dying. What Comes Next Is Worse",
+   "link": "https://thewalrus.ca/google-search-is-dying/",
+   "source": "Hacker News",
+   "date": "2026-08-10T22:36:30.000Z"
+  },
+  {
+   "title": "Al Jazeera reporter on the ground as Colombia quake death toll rises",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/08-11-2026-colombia-alessandro-rampietti-mp4?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-10T22:35:48.000Z"
   },
   {
    "title": "Competitors squeal like pigs at French village championship",
@@ -32,34 +68,10 @@
    "date": "2026-08-10T21:26:16.000Z"
   },
   {
-   "title": "Wildfires burn across Indonesia as officials cite El Nino as a cause",
-   "link": "https://www.aljazeera.com/news/2026/8/10/wildfires-burn-across-indonesia-as-officials-cite-el-nino-as-a-cause?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-10T21:15:41.000Z"
-  },
-  {
-   "title": "Turkiye approves pardon-like bill for thousands of PKK fighters",
-   "link": "https://www.aljazeera.com/news/2026/8/10/turkiye-approves-pardon-like-bill-for-thousands-of-pkk-fighters?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-10T21:14:16.000Z"
-  },
-  {
    "title": "Canada flight cancelled after child refuses to wear seat belt",
    "link": "https://www.bbc.co.uk/news/articles/cj6307x3wdgo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-10T21:06:27.000Z"
-  },
-  {
-   "title": "Trump says relationship is good even as Netanyahu rejects Gaza peace plan",
-   "link": "https://www.aljazeera.com/news/2026/8/10/trump-says-relationship-is-good-even-as-netanyahu-rejects-gaza-peace-plan?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-10T21:03:53.000Z"
-  },
-  {
-   "title": "US appeals court says social media addiction lawsuits can proceed",
-   "link": "https://www.aljazeera.com/news/2026/8/10/us-appeals-court-says-social-media-addiction-lawsuits-can-proceed?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-10T21:02:06.000Z"
   },
   {
    "title": "Confessions of a Long-Distance Sailor",
@@ -98,22 +110,10 @@
    "date": "2026-08-10T18:42:45.000Z"
   },
   {
-   "title": "Rust SIMD on the GPU",
-   "link": "https://www.vectorware.com/blog/simd-on-gpu/",
-   "source": "Hacker News",
-   "date": "2026-08-10T18:12:49.000Z"
-  },
-  {
    "title": "We are chasing Ebola virus - it is ahead of us, WHO warns",
    "link": "https://www.bbc.co.uk/news/articles/c5ydx7m8gzeo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-10T17:50:29.000Z"
-  },
-  {
-   "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
-   "link": "https://cactuscompute.com/needle",
-   "source": "Hacker News",
-   "date": "2026-08-10T17:22:07.000Z"
   },
   {
    "title": "30 years later, a former gang member will stand trial for Tupac's murder",

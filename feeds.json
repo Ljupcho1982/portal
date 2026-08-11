@@ -1,6 +1,42 @@
 {
- "updated": "2026-08-11T06:04:41.634Z",
+ "updated": "2026-08-11T07:37:51.423Z",
  "items": [
+  {
+   "title": "Donald Trump says replacing Gianni Infantino would be a ‘terrible mistake’",
+   "link": "https://www.aljazeera.com/sports/2026/8/11/donald-trump-says-replacing-gianni-infantino-would-be-a-terrible-mistake?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-11T07:13:29.000Z"
+  },
+  {
+   "title": "Russian attacks kill six in Ukraine’s Zaporizhzhia",
+   "link": "https://www.aljazeera.com/news/2026/8/11/russian-attacks-kill-six-in-ukraines-zaporizhzhia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-11T07:07:51.000Z"
+  },
+  {
+   "title": "Rescuers search rubble in Cali as Colombia’s strongest quake in decades hits",
+   "link": "http://www.euronews.com/video/2026/08/11/rescuers-search-rubble-in-cali-as-colombias-strongest-quake-in-decades-hits",
+   "source": "Euronews",
+   "date": "2026-08-11T06:53:49.000Z"
+  },
+  {
+   "title": "At least 132 dead, 570 injured after Colombia quake: Cali and Pereira impose curfew",
+   "link": "http://www.euronews.com/2026/08/11/at-least-132-dead-570-injured-after-colombia-quake-cali-and-pereira-impose-curfew",
+   "source": "Euronews",
+   "date": "2026-08-11T06:45:36.000Z"
+  },
+  {
+   "title": "Spain’s Huelva blaze threatens homes, 800 evacuated amid severe drought",
+   "link": "http://www.euronews.com/video/2026/08/11/spains-huelva-blaze-threatens-homes-800-evacuated-amid-severe-drought",
+   "source": "Euronews",
+   "date": "2026-08-11T06:38:24.000Z"
+  },
+  {
+   "title": "Yemen’s Houthis launch ballistic missile attacks on al-Makha and Marib",
+   "link": "https://www.aljazeera.com/news/2026/8/11/yemens-houthis-launch-ballistic-missile-attacks-on-al-makha-and-marib?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-11T06:05:07.000Z"
+  },
   {
    "title": "Colombia quake leaves more than 110 dead – as it happened",
    "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
@@ -8,13 +44,7 @@
    "date": "2026-08-11T05:32:08.000Z"
   },
   {
-   "title": "DeepSeek: Reverse Engineering an AI Assistant by Interviewing Itself",
-   "link": "https://manish.sh/writings/models/inside-deepseek-reverse-engineering-an-ai-assistant-by-interviewing-itself",
-   "source": "Hacker News",
-   "date": "2026-08-11T05:30:24.000Z"
-  },
-  {
-   "title": "Show HN: Mcptoon – MCP CLI client that cuts tool discovery tokens by 97%",
+   "title": "Show HN: Mcptoon – Token-efficient MCP CLI client",
    "link": "https://github.com/activeing123/mcptoon",
    "source": "Hacker News",
    "date": "2026-08-11T05:26:58.000Z"
@@ -24,6 +54,12 @@
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_somali-referee-arrives-for-uefa-super-cup-110826?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-11T05:12:05.000Z"
+  },
+  {
+   "title": "Russia's Supreme Court bars anti-war party Yabloko from parliamentary elections",
+   "link": "http://www.euronews.com/2026/08/11/russias-supreme-court-bars-anti-war-party-yabloko-from-parliamentary-elections",
+   "source": "Euronews",
+   "date": "2026-08-11T05:05:21.000Z"
   },
   {
    "title": "Family watches helplessly as Colombia quake destroys home",
@@ -50,58 +86,10 @@
    "date": "2026-08-11T04:52:07.000Z"
   },
   {
-   "title": "Huge fire breaks out at Libya’s Zawiya refinery after drone attack",
-   "link": "https://www.aljazeera.com/news/2026/8/11/huge-fire-breaks-out-at-libyas-zawiya-refinery-after-drone-attack?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-11T04:37:27.000Z"
-  },
-  {
-   "title": "China’s Long March 7A rocket explodes after lift-off",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-china-rocket-explodes-clip?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-11T04:34:50.000Z"
-  },
-  {
-   "title": "Trump signs order calling for fewer childhood vaccines, going against medical groups’ advice",
-   "link": "http://www.euronews.com/health/2026/08/11/trump-signs-order-calling-for-fewer-childhood-vaccines-going-against-medical-groups-advice",
-   "source": "Euronews",
-   "date": "2026-08-11T04:31:18.000Z"
-  },
-  {
-   "title": "Microsoft Responds to Outcry After Quiet Enterprise Install of Beta 'Photos' App",
-   "link": "https://www.neowin.net/news/windows-11-admins-unhappy-as-microsoft-found-installing-unexpected-new-onedrive-photos-app/",
-   "source": "Hacker News",
-   "date": "2026-08-11T04:18:37.000Z"
-  },
-  {
-   "title": "Hundreds more flights cancelled as Tropical Storm Dolphin causes flooding in eastern China",
-   "link": "http://www.euronews.com/2026/08/11/hundreds-more-flights-cancelled-as-tropical-storm-dolphin-causes-flooding-in-eastern-china",
-   "source": "Euronews",
-   "date": "2026-08-11T04:14:13.000Z"
-  },
-  {
-   "title": "Fire rages after drone strikes Libya’s largest oil refinery",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-11T04:09:10.000Z"
-  },
-  {
    "title": "At least 132 killed in Colombia's largest earthquake in years",
    "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-11T04:06:07.000Z"
-  },
-  {
-   "title": "Updated GPG Key for Signing Firefox and Thunderbird Releases",
-   "link": "https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/",
-   "source": "Hacker News",
-   "date": "2026-08-11T04:04:36.000Z"
-  },
-  {
-   "title": "Why My Father Is Wrong: A Defense of Guitar Hero",
-   "link": "https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/",
-   "source": "Hacker News",
-   "date": "2026-08-11T03:52:39.000Z"
   },
   {
    "title": "Hyperspace",
@@ -110,10 +98,28 @@
    "date": "2026-08-11T02:04:35.000Z"
   },
   {
-   "title": "Competitors squeal like pigs at French village championship",
-   "link": "http://www.euronews.com/video/2026/08/11/competitors-squeal-like-pigs-at-french-village-championship",
-   "source": "Euronews",
-   "date": "2026-08-10T22:19:54.000Z"
+   "title": "Recycle – Floppydisks",
+   "link": "https://www.floppydisk.com/recycle",
+   "source": "Hacker News",
+   "date": "2026-08-11T02:01:01.000Z"
+  },
+  {
+   "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+   "link": "https://github.com/antirez/h3.c",
+   "source": "Hacker News",
+   "date": "2026-08-11T01:22:09.000Z"
+  },
+  {
+   "title": "Chicken Scheme 6.0",
+   "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
+   "source": "Hacker News",
+   "date": "2026-08-11T00:24:15.000Z"
+  },
+  {
+   "title": "The UK's war on anonymity has come to America",
+   "link": "https://www.effort.news/uk-lobby",
+   "source": "Hacker News",
+   "date": "2026-08-10T23:45:50.000Z"
   },
   {
    "title": "Canada flight cancelled after child refuses to wear seat belt",
@@ -126,12 +132,6 @@
    "link": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-10T20:45:29.000Z"
-  },
-  {
-   "title": "Todd Blanche sworn in as US attorney general after bruising confirmation fight",
-   "link": "http://www.euronews.com/2026/08/10/todd-blanche-sworn-in-as-us-attorney-general-after-bruising-confirmation-fight",
-   "source": "Euronews",
-   "date": "2026-08-10T19:29:32.000Z"
   },
   {
    "title": "'We've had a lot of close calls': Canada wildfire evacuees wonder if they still have homes",

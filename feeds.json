@@ -1,6 +1,24 @@
 {
- "updated": "2026-08-11T22:05:08.666Z",
+ "updated": "2026-08-11T23:03:33.093Z",
  "items": [
+  {
+   "title": "WorldClaw Agentic 3D open-world generation at scale",
+   "link": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+   "source": "Hacker News",
+   "date": "2026-08-11T21:56:18.000Z"
+  },
+  {
+   "title": "pg_clickhouse v0.10: Subquery pushdown and 1000x faster TPC-H queries",
+   "link": "https://clickhouse.com/blog/pg_clickhouse-whats-new-july-2026",
+   "source": "Hacker News",
+   "date": "2026-08-11T21:54:25.000Z"
+  },
+  {
+   "title": "Suzanne: AI tool for designing and manufacturing physical products",
+   "link": "https://www.suzanne3d.com/",
+   "source": "Hacker News",
+   "date": "2026-08-11T21:28:26.000Z"
+  },
   {
    "title": "Father and sons forced to manually clear rubble in Gaza",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/father-and-sons-forced-to-manually-clear-rubble-in-gaza?traffic_source=rss",
@@ -14,16 +32,16 @@
    "date": "2026-08-11T21:14:56.000Z"
   },
   {
+   "title": "Emergent Introspective Awareness in Large Language Models",
+   "link": "https://arxiv.org/abs/2601.01828",
+   "source": "Hacker News",
+   "date": "2026-08-11T21:14:10.000Z"
+  },
+  {
    "title": "Relatives mourn victims of Pakistan avalanche",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/relatives-mourn-victims-of-pakistan-avalanche?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-11T20:56:30.000Z"
-  },
-  {
-   "title": "OpenAI launches ChatGPT desktop app for Linux",
-   "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
-   "source": "Hacker News",
-   "date": "2026-08-11T20:54:25.000Z"
   },
   {
    "title": "Belarusian opposition politician and scientist Aliaksandr Milinkevich dies at 79",
@@ -80,28 +98,10 @@
    "date": "2026-08-11T19:37:20.000Z"
   },
   {
-   "title": "Nvidia Nemotron 3.5 Lightning and NeMo Switchyard",
-   "link": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
-   "source": "Hacker News",
-   "date": "2026-08-11T19:35:52.000Z"
-  },
-  {
    "title": "Rescuers scramble for survivors with 180 dead in Colombia earthquake",
    "link": "https://www.bbc.co.uk/news/articles/c20dqd9qwq4o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-11T19:09:52.000Z"
-  },
-  {
-   "title": "Making holograms with a pen plotter",
-   "link": "https://blog.jordan.matelsky.com/Penplotter-holography/",
-   "source": "Hacker News",
-   "date": "2026-08-11T18:51:35.000Z"
-  },
-  {
-   "title": "How we used to get jobs: A newspaper classifieds story",
-   "link": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
-   "source": "Hacker News",
-   "date": "2026-08-11T18:09:56.000Z"
   },
   {
    "title": "Russia frees former US Marine Robert Gilman after more than four years in prison",

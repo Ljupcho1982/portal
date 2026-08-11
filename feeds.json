@@ -1,17 +1,89 @@
 {
- "updated": "2026-08-11T02:28:20.402Z",
+ "updated": "2026-08-11T04:40:18.754Z",
  "items": [
+  {
+   "title": "Trump signs order calling for fewer childhood vaccines, going against medical groups’ advice",
+   "link": "http://www.euronews.com/2026/08/11/trump-signs-order-calling-for-fewer-childhood-vaccines-going-against-medical-groups-advice",
+   "source": "Euronews",
+   "date": "2026-08-11T04:31:18.000Z"
+  },
   {
    "title": "Colombia earthquake live updates: rescuers race to free people from building rubble after more than 110 killed",
    "link": "https://www.theguardian.com/world/live/2026/aug/10/74-magnitude-earthquake-shakes-colombia-causing-serious-damage-latest-news",
    "source": "Guardian World",
-   "date": "2026-08-11T02:05:57.000Z"
+   "date": "2026-08-11T04:19:05.000Z"
+  },
+  {
+   "title": "Hundreds more flights cancelled as Tropical Storm Dolphin causes flooding in eastern China",
+   "link": "http://www.euronews.com/2026/08/11/hundreds-more-flights-cancelled-as-tropical-storm-dolphin-causes-flooding-in-eastern-china",
+   "source": "Euronews",
+   "date": "2026-08-11T04:14:13.000Z"
+  },
+  {
+   "title": "Fire rages after drone strikes Libya’s largest oil refinery",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-11T04:09:10.000Z"
   },
   {
    "title": "At least 132 killed in Colombia's largest earthquake in years",
    "link": "https://www.bbc.co.uk/news/articles/c20e360lx0vo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-08-11T01:59:40.000Z"
+   "date": "2026-08-11T04:06:07.000Z"
+  },
+  {
+   "title": "Updated GPG Key for Signing Firefox and Thunderbird Releases",
+   "link": "https://blog.mozilla.org/security/2026/08/10/updated-gpg-key-for-signing-firefox-and-thunderbird-releases/",
+   "source": "Hacker News",
+   "date": "2026-08-11T04:04:36.000Z"
+  },
+  {
+   "title": "Why My Father Is Wrong: A Defense of Guitar Hero",
+   "link": "https://whatever.scalzi.com/2026/08/10/why-my-father-is-wrong-a-defense-of-guitar-hero/",
+   "source": "Hacker News",
+   "date": "2026-08-11T03:52:39.000Z"
+  },
+  {
+   "title": "Where did all the money go if the US is running out of weapons?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/where-did-all-the-money-go-if-the-us-is-running-out-of-weapons?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-11T03:32:57.000Z"
+  },
+  {
+   "title": "Colombia’s far-right government recognises Israeli claim over Golan Heights",
+   "link": "https://www.aljazeera.com/news/2026/8/11/colombias-far-right-government-recognises-israeli-claim-over-golan-heights?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-11T02:44:39.000Z"
+  },
+  {
+   "title": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
+   "link": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-11T02:32:47.000Z"
+  },
+  {
+   "title": "Trump orders fewer childhood vaccinations including splitting up MMR",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_trump-orders-fewer-child-vaccines-and-splitting-mmr-100826?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-11T02:08:55.000Z"
+  },
+  {
+   "title": "Hyperspace",
+   "link": "https://hypercritical.co/hyperspace/",
+   "source": "Hacker News",
+   "date": "2026-08-11T02:04:35.000Z"
+  },
+  {
+   "title": "Recycle – Floppydisks",
+   "link": "https://www.floppydisk.com/recycle",
+   "source": "Hacker News",
+   "date": "2026-08-11T02:01:01.000Z"
+  },
+  {
+   "title": "H3-metal – Native MiniMax-H3 inference for Apple Silicon",
+   "link": "https://github.com/antirez/h3.c",
+   "source": "Hacker News",
+   "date": "2026-08-11T01:22:09.000Z"
   },
   {
    "title": "Soldiers take cover as Colombia quake flattens military barracks",
@@ -20,58 +92,10 @@
    "date": "2026-08-11T01:06:36.000Z"
   },
   {
-   "title": "Turkiye passes law giving thousands of PKK members chance at amnesty",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/11/08-11-2026-turkiye-pkk-bill-sv-mp4?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-11T00:55:09.000Z"
-  },
-  {
-   "title": "Seventy years after South Africa’s women’s march, the struggle is not over",
-   "link": "https://www.aljazeera.com/features/2026/8/11/seventy-years-after-south-africas-womens-march-the-struggle-is-not-over?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-11T00:26:02.000Z"
-  },
-  {
    "title": "Chicken Scheme 6.0",
    "link": "https://code.call-cc.org/releases/6.0.0/NEWS",
    "source": "Hacker News",
    "date": "2026-08-11T00:24:15.000Z"
-  },
-  {
-   "title": "Can Netanyahu defy Trump on his Gaza peace plan?",
-   "link": "https://www.aljazeera.com/video/inside-story/2026/8/11/can-netanyahu-defy-trump-on-his-gaza-peace-plan?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-11T00:00:19.000Z"
-  },
-  {
-   "title": "Iran war live: Trump claims Hormuz Strait open, seeks Iranian compensation",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/8/11/iran-war-live-trump-claims-the-strait-is-open-seeks-iranian-compensation?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-11T00:00:00.000Z"
-  },
-  {
-   "title": "The UK's War on Anonymity Has Come to America",
-   "link": "https://www.effort.news/uk-lobby",
-   "source": "Hacker News",
-   "date": "2026-08-10T23:45:50.000Z"
-  },
-  {
-   "title": "Inside a secret launch site for Ukraine’s deep-strike drones",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/10/aje-onl-nf_secret-launch-site-for-ukraines-deep-strike-drone-100826?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-10T23:18:53.000Z"
-  },
-  {
-   "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
-   "link": "https://everycube.alen.is/",
-   "source": "Hacker News",
-   "date": "2026-08-10T23:16:25.000Z"
-  },
-  {
-   "title": "World Train Map – 1247 train routes around the world",
-   "link": "https://worldtrainmap.com/",
-   "source": "Hacker News",
-   "date": "2026-08-10T22:42:14.000Z"
   },
   {
    "title": "Competitors squeal like pigs at French village championship",
@@ -86,16 +110,10 @@
    "date": "2026-08-10T21:06:27.000Z"
   },
   {
-   "title": "Confessions of a Long-Distance Sailor",
-   "link": "https://arachnoid.com/lutusp/sailbook.html",
-   "source": "Hacker News",
-   "date": "2026-08-10T20:52:55.000Z"
-  },
-  {
-   "title": "Stop Killing Games: It's time to sue Sony, join us",
-   "link": "https://www.massaschadeconsument.nl/collectieve-acties/playstation/",
-   "source": "Hacker News",
-   "date": "2026-08-10T20:47:13.000Z"
+   "title": "Watch: What we know about Tupac murder suspect Duane 'Keffe D' Davis",
+   "link": "https://www.bbc.co.uk/news/videos/cjd48zkg5n9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-10T20:45:29.000Z"
   },
   {
    "title": "Todd Blanche sworn in as US attorney general after bruising confirmation fight",
@@ -116,12 +134,6 @@
    "date": "2026-08-10T18:42:45.000Z"
   },
   {
-   "title": "30 years later, a former gang member will stand trial for Tupac's murder",
-   "link": "https://www.bbc.co.uk/news/articles/cgmkl1j3dwvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-10T16:52:47.000Z"
-  },
-  {
    "title": "Latest news bulletin | August 10th, 2026 – Evening",
    "link": "http://www.euronews.com/video/2026/08/10/latest-news-bulletin-august-10th-2026-evening",
    "source": "Euronews",
@@ -138,18 +150,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cvgjvgv926po?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-10T14:34:25.000Z"
-  },
-  {
-   "title": "State of emergency declared as 111 confirmed dead in major earthquake in Colombia",
-   "link": "http://www.euronews.com/2026/08/10/powerful-66-magnitude-quake-rocks-colombia-geological-agency-says",
-   "source": "Euronews",
-   "date": "2026-08-10T13:42:57.000Z"
-  },
-  {
-   "title": "'Chess player' Iran says Hormuz stays shut until US pays up",
-   "link": "http://www.euronews.com/2026/08/10/chess-player-iran-says-hormuz-stays-shut-until-us-pays-up",
-   "source": "Euronews",
-   "date": "2026-08-10T13:26:49.000Z"
   },
   {
    "title": "Spain to introduce temporary border checks on visitors from Italy",

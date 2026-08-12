@@ -1,11 +1,47 @@
 {
- "updated": "2026-08-12T17:12:48.899Z",
+ "updated": "2026-08-12T18:07:33.875Z",
  "items": [
+  {
+   "title": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
+   "link": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-12T17:47:01.000Z"
+  },
+  {
+   "title": "White House construction project to cost almost $1bn",
+   "link": "https://www.aljazeera.com/news/2026/8/12/white-house-construction-project-to-cost-almost-1bn?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-12T17:23:45.000Z"
+  },
   {
    "title": "US inflation eases as food and fuel costs cool",
    "link": "https://www.bbc.co.uk/news/articles/c0qv2nn1gpeo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-12T17:03:05.000Z"
+  },
+  {
+   "title": "Reflex (YC W23) Is hiring Growth and GTM Roles",
+   "link": "https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer",
+   "source": "Hacker News",
+   "date": "2026-08-12T17:00:21.000Z"
+  },
+  {
+   "title": "Drought exposes Nazi-era warship wrecks beneath the Danube",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/12/drought-exposes-nazi-era-warship-wrecks-beneath-the-danube?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-12T16:58:16.000Z"
+  },
+  {
+   "title": "SpaceXAI's Grok 4.6 Scores 61 on the Artificial Analysis Intelligence Index",
+   "link": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+   "source": "Hacker News",
+   "date": "2026-08-12T16:54:25.000Z"
+  },
+  {
+   "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+   "link": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+   "source": "Hacker News",
+   "date": "2026-08-12T16:51:25.000Z"
   },
   {
    "title": "Glaciers on the Climate Dashboard",
@@ -14,16 +50,16 @@
    "date": "2026-08-12T16:38:25.000Z"
   },
   {
-   "title": "DeepSeek V4 Pro 0813 quietly released",
-   "link": "https://api-docs.deepseek.com/guides/responses_api/",
-   "source": "Hacker News",
-   "date": "2026-08-12T16:37:13.000Z"
-  },
-  {
    "title": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
    "link": "https://www.bbc.co.uk/news/articles/c4g306eln8wo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-12T16:34:01.000Z"
+  },
+  {
+   "title": "Qwen3.8-2.4T",
+   "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
+   "source": "Hacker News",
+   "date": "2026-08-12T16:26:16.000Z"
   },
   {
    "title": "Trump remarks on diminishing impact of pro-Israel groups in Congress",
@@ -38,16 +74,10 @@
    "date": "2026-08-12T16:22:27.000Z"
   },
   {
-   "title": "Trump hails 'wall of steel' blocakade, says US will keep control of Strait of Hormuz",
+   "title": "Trump hails 'wall of steel' blockade, says US will keep control of Strait of Hormuz",
    "link": "http://www.euronews.com/2026/08/12/trump-hails-wall-of-steel-blocakade-says-us-will-keep-control-of-strait-of-hormuz",
    "source": "Euronews",
    "date": "2026-08-12T16:20:39.000Z"
-  },
-  {
-   "title": "Bike Bureau: Report Bike Lane Obstructions",
-   "link": "https://loudbicycle.com/bb",
-   "source": "Hacker News",
-   "date": "2026-08-12T16:20:22.000Z"
   },
   {
    "title": "Israeli settlers besieging Palestinian families in West Bank village",
@@ -60,12 +90,6 @@
    "link": "https://www.bbc.co.uk/sport/basketball/articles/c04k2dn422xo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-12T16:11:04.000Z"
-  },
-  {
-   "title": "DeepSeek V4 Pro 0813",
-   "link": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-   "source": "Hacker News",
-   "date": "2026-08-12T16:04:50.000Z"
   },
   {
    "title": "PSG vs Aston Villa LIVE: UEFA Super Cup 2026",
@@ -98,24 +122,6 @@
    "date": "2026-08-12T15:39:37.000Z"
   },
   {
-   "title": "Is Russia’s economy cracking despite the Iran war windfall?",
-   "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-12T15:36:33.000Z"
-  },
-  {
-   "title": "WHO chief says Trump vaccine push goes against ‘decades of evidence’",
-   "link": "https://www.aljazeera.com/news/2026/8/12/who-chief-says-trump-vaccine-push-goes-against-decades-of-evidence?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-12T15:30:18.000Z"
-  },
-  {
-   "title": "Qwen/Qwen3.8-2.4T-A95B",
-   "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-   "source": "Hacker News",
-   "date": "2026-08-12T15:01:17.000Z"
-  },
-  {
    "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
    "link": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
    "source": "Guardian World",
@@ -132,12 +138,6 @@
    "link": "https://www.theguardian.com/world/2026/aug/12/zimbabwe-lake-kariba-ferry-capsize",
    "source": "Guardian World",
    "date": "2026-08-12T12:21:08.000Z"
-  },
-  {
-   "title": "Danube river's low water levels reveal remains of WWII soldiers and motorcycle",
-   "link": "https://www.bbc.co.uk/news/articles/cm2gp3zmkpmo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-12T11:28:05.000Z"
   },
   {
    "title": "Woman pulled alive from rubble 36 hours after Colombia quake",

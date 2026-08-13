@@ -1,6 +1,12 @@
 {
- "updated": "2026-08-13T22:03:23.051Z",
+ "updated": "2026-08-13T23:03:09.793Z",
  "items": [
+  {
+   "title": "US sells 30-year bonds at highest borrowing costs since 2001",
+   "link": "https://www.ft.com/content/9c9c948f-dc8b-4385-a9b9-4b98dc1eadd9",
+   "source": "Hacker News",
+   "date": "2026-08-13T22:24:47.000Z"
+  },
   {
    "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
    "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
@@ -96,12 +102,6 @@
    "link": "https://github.com/systemd/systemd/issues/40262",
    "source": "Hacker News",
    "date": "2026-08-13T18:41:01.000Z"
-  },
-  {
-   "title": "Accelerating GPT-5.6 Sol Ultrafast",
-   "link": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
-   "source": "Hacker News",
-   "date": "2026-08-13T18:10:02.000Z"
   },
   {
    "title": "Survivors tell of horror of Zimbabwe ferry sinking as police say death toll hits 46",

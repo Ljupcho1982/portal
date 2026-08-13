@@ -1,6 +1,48 @@
 {
- "updated": "2026-08-13T15:15:10.334Z",
+ "updated": "2026-08-13T16:11:41.553Z",
  "items": [
+  {
+   "title": "Latest news bulletin | August 13th, 2026 – Evening",
+   "link": "http://www.euronews.com/video/2026/08/13/latest-news-bulletin-august-13th-2026-evening",
+   "source": "Euronews",
+   "date": "2026-08-13T16:00:29.000Z"
+  },
+  {
+   "title": "Zambian president Hichilema votes as he seeks second term",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/zambian-president-hichilema-votes-as-he-seeks-second-term?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-13T15:51:52.000Z"
+  },
+  {
+   "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
+   "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-13T15:40:31.000Z"
+  },
+  {
+   "title": "One dead, several injured in Rotterdam port blast at Gunvor refinery",
+   "link": "http://www.euronews.com/video/2026/08/13/one-dead-several-injured-in-rotterdam-port-blast-at-gunvor-refinery",
+   "source": "Euronews",
+   "date": "2026-08-13T15:31:09.000Z"
+  },
+  {
+   "title": "Person fined after using foghorn to wake sleeping polar bear",
+   "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-13T15:30:57.000Z"
+  },
+  {
+   "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
+   "link": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-13T15:27:52.000Z"
+  },
+  {
+   "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+   "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
+   "source": "Guardian World",
+   "date": "2026-08-13T15:17:13.000Z"
+  },
   {
    "title": "Brussels unveils giant flower carpet inspired by Hokusai masterpiece",
    "link": "http://www.euronews.com/video/2026/08/13/brussels-unveils-giant-flower-carpet-inspired-by-hokusai-masterpiece",
@@ -12,6 +54,12 @@
    "link": "https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-13T15:07:42.000Z"
+  },
+  {
+   "title": "Text AI watermarks will always be trivial to remove",
+   "link": "https://www.seangoedecke.com/text-ai-watermarks/",
+   "source": "Hacker News",
+   "date": "2026-08-13T15:07:10.000Z"
   },
   {
    "title": "UK defends seizing shadow fleet tanker after Putin threat",
@@ -26,18 +74,6 @@
    "date": "2026-08-13T14:59:42.000Z"
   },
   {
-   "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-   "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-13T14:58:09.000Z"
-  },
-  {
-   "title": "Four Canadian hockey stars remain suspended after sexual assault acquittal",
-   "link": "https://www.bbc.co.uk/news/articles/cj9dpdmr77do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-13T14:51:44.000Z"
-  },
-  {
    "title": "Pro-Palestine football fans lament West Ham for signing Manor Solomon",
    "link": "https://www.aljazeera.com/news/2026/8/13/pro-palestine-football-fans-lament-west-ham-for-signing-manor-solomon?traffic_source=rss",
    "source": "Al Jazeera",
@@ -50,16 +86,16 @@
    "date": "2026-08-13T14:37:51.000Z"
   },
   {
+   "title": "Flock Safety changes system defaults in response to criticisms",
+   "link": "https://www.flocksafety.com/blog/flock-guardrails-address-lpr-privacy-concerns-and-police-transparency",
+   "source": "Hacker News",
+   "date": "2026-08-13T14:37:29.000Z"
+  },
+  {
    "title": "Oman says massive oil spill reaches coastline: What damage could it do?",
    "link": "https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-13T14:29:58.000Z"
-  },
-  {
-   "title": "Ukraine attacks key Russian grain terminal on Black Sea port",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-sv-ukraine-russia-grain-attack-ur?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-13T14:29:20.000Z"
   },
   {
    "title": "Kubernetes on Oxide: How Customer Needs Shaped Our Integrations",
@@ -86,24 +122,6 @@
    "date": "2026-08-13T14:18:34.000Z"
   },
   {
-   "title": "Spaghettifying DRAM",
-   "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-   "source": "Hacker News",
-   "date": "2026-08-13T14:17:13.000Z"
-  },
-  {
-   "title": "Ebola outbreak caused by new ‘animal transmission’: What that means",
-   "link": "https://www.aljazeera.com/news/2026/8/13/ebola-outbreak-caused-by-new-animal-transmission-what-that-means?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-13T14:16:44.000Z"
-  },
-  {
-   "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
-   "link": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
-   "source": "Hacker News",
-   "date": "2026-08-13T14:11:51.000Z"
-  },
-  {
    "title": "Hungary unveils new 'clean up' plan as governemnt takes first steps to unlocking frozen EU funds",
    "link": "http://www.euronews.com/2026/08/13/hungary-unveils-new-clean-up-plan-as-governemnt-takes-first-steps-to-unlocking-frozen-eu-f",
    "source": "Euronews",
@@ -120,18 +138,6 @@
    "link": "http://www.euronews.com/business/2026/08/13/azerbaijan-bets-on-the-pomegranate-as-its-next-big-export",
    "source": "Euronews",
    "date": "2026-08-13T12:14:53.000Z"
-  },
-  {
-   "title": "France accues Iran of 'bloodshed' over use of death penalty",
-   "link": "http://www.euronews.com/2026/08/13/france-accues-iran-of-bloodshed-over-use-of-death-penalty",
-   "source": "Euronews",
-   "date": "2026-08-13T12:03:14.000Z"
-  },
-  {
-   "title": "Who is Mohsen Rezaei, Iran's new security chief with an Interpol Red Notice?",
-   "link": "http://www.euronews.com/2026/08/13/who-is-mohsen-rezaei-irans-new-security-chief-with-an-interpol-red-notice",
-   "source": "Euronews",
-   "date": "2026-08-13T11:27:40.000Z"
   },
   {
    "title": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
@@ -174,12 +180,6 @@
    "link": "https://www.theguardian.com/global-development/2026/aug/12/african-armyworm-crop-pest-discovery-fungus-science-hope-farmers",
    "source": "Guardian World",
    "date": "2026-08-12T11:00:27.000Z"
-  },
-  {
-   "title": "Spain to introduce temporary border checks on visitors from Italy",
-   "link": "https://www.theguardian.com/world/2026/aug/07/spain-to-introduce-temporary-border-checks-on-visitors-from-italy",
-   "source": "Guardian World",
-   "date": "2026-08-07T21:44:38.000Z"
   }
  ]
 }

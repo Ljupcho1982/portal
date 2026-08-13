@@ -1,11 +1,65 @@
 {
- "updated": "2026-08-13T17:13:03.149Z",
+ "updated": "2026-08-13T18:08:01.786Z",
  "items": [
+  {
+   "title": "Gaza mural for Burger King worker fired for shouting ‘Free Palestine’",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/gaza-mural-for-burger-king-worker-fired-for-shouting-free?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-13T17:57:21.000Z"
+  },
+  {
+   "title": "Where did the old web go? We followed 657,607 links to find out",
+   "link": "https://0.mk/blog/link-rot",
+   "source": "Hacker News",
+   "date": "2026-08-13T17:49:18.000Z"
+  },
+  {
+   "title": "Choose Boring Technology (2015)",
+   "link": "https://mcfunley.com/choose-boring-technology",
+   "source": "Hacker News",
+   "date": "2026-08-13T17:48:13.000Z"
+  },
+  {
+   "title": "Trump administration ‘gutted’ federal civil rights enforcement, HRW says",
+   "link": "https://www.aljazeera.com/news/2026/8/13/trump-administration-gutted-federal-civil-rights-enforcement-hrw-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-13T17:46:18.000Z"
+  },
+  {
+   "title": "Donkey.bas is 45 Years Old – 131 line of Glory",
+   "link": "https://donkeybas.com/",
+   "source": "Hacker News",
+   "date": "2026-08-13T17:45:50.000Z"
+  },
+  {
+   "title": "Gemini 3.7 Flash",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+   "source": "Hacker News",
+   "date": "2026-08-13T17:23:22.000Z"
+  },
   {
    "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
    "link": "https://www.bbc.co.uk/news/articles/cyvl2d5j52lo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-08-13T17:01:50.000Z"
+   "date": "2026-08-13T17:21:00.000Z"
+  },
+  {
+   "title": "DR Congo Ebola outbreak spreads to a sixth province",
+   "link": "https://www.aljazeera.com/news/2026/8/13/dr-congo-ebola-outbreak-spreads-to-a-sixth-province?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-13T17:18:01.000Z"
+  },
+  {
+   "title": "Tocharian Online",
+   "link": "https://lrc.la.utexas.edu/eieol/tokol/0",
+   "source": "Hacker News",
+   "date": "2026-08-13T17:15:46.000Z"
+  },
+  {
+   "title": "Mistral OCR 4.1",
+   "link": "https://docs.mistral.ai/models/ocr-4-1",
+   "source": "Hacker News",
+   "date": "2026-08-13T17:05:12.000Z"
   },
   {
    "title": "Survivors tell of horror of Zimbabwe ferry sinking as police say death toll hits 46",
@@ -44,12 +98,6 @@
    "date": "2026-08-13T16:00:29.000Z"
   },
   {
-   "title": "Zambian president Hichilema votes as he seeks second term",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/13/zambian-president-hichilema-votes-as-he-seeks-second-term?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-13T15:51:52.000Z"
-  },
-  {
    "title": "One dead, several injured in Rotterdam port blast at Gunvor refinery",
    "link": "http://www.euronews.com/video/2026/08/13/one-dead-several-injured-in-rotterdam-port-blast-at-gunvor-refinery",
    "source": "Euronews",
@@ -60,12 +108,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cx2k1r97vx7o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-13T15:30:57.000Z"
-  },
-  {
-   "title": "Will all-out war in Yemen reignite as the Houthis escalate attacks?",
-   "link": "https://www.aljazeera.com/news/2026/8/13/will-all-out-war-in-yemen-reignite-as-houthis-escalate-attacks?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-13T15:27:52.000Z"
   },
   {
    "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
@@ -80,52 +122,10 @@
    "date": "2026-08-13T15:09:07.000Z"
   },
   {
-   "title": "Turkiye’s AK Party turns 25: A journey of change and renewal",
-   "link": "https://www.aljazeera.com/opinions/2026/8/13/turkiyes-ak-party-turns-25-a-journey-of-change-and-renewal?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-13T15:07:42.000Z"
-  },
-  {
-   "title": "Text AI watermarks will always be trivial to remove",
-   "link": "https://www.seangoedecke.com/text-ai-watermarks/",
-   "source": "Hacker News",
-   "date": "2026-08-13T15:07:10.000Z"
-  },
-  {
-   "title": "I requested a copy of my data from McDonald’s loyalty program",
-   "link": "https://www.wired.com/story/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
-   "source": "Hacker News",
-   "date": "2026-08-13T14:37:51.000Z"
-  },
-  {
-   "title": "Kubernetes on Oxide: How customer needs shaped our integrations",
-   "link": "https://oxide.computer/blog/kubernetes-on-oxide",
-   "source": "Hacker News",
-   "date": "2026-08-13T14:26:41.000Z"
-  },
-  {
-   "title": "Graduate student proves a quantum uncertainty principle for fractals",
-   "link": "https://www.quantamagazine.org/graduate-student-proves-the-fractal-uncertainty-principle-20260812/",
-   "source": "Hacker News",
-   "date": "2026-08-13T14:22:54.000Z"
-  },
-  {
    "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
    "link": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
    "source": "Guardian World",
    "date": "2026-08-13T14:21:52.000Z"
-  },
-  {
-   "title": "We eliminated 1,400 CVEs in NanoClaw's container images",
-   "link": "https://www.echo.ai/blog/echo-xnanoclaw-under-the-hood",
-   "source": "Hacker News",
-   "date": "2026-08-13T14:18:34.000Z"
-  },
-  {
-   "title": "Spaghettifying DRAM",
-   "link": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
-   "source": "Hacker News",
-   "date": "2026-08-13T14:17:13.000Z"
   },
   {
    "title": "Hungary unveils new 'clean up' plan as governemnt takes new steps to unlocking frozen EU funds",

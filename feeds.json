@@ -1,11 +1,83 @@
 {
- "updated": "2026-08-14T16:06:23.762Z",
+ "updated": "2026-08-14T17:11:49.796Z",
  "items": [
+  {
+   "title": "Analysis: Israel’s government can’t disown West Bank settler violence",
+   "link": "https://www.aljazeera.com/news/2026/8/14/analysis-israels-government-cant-disown-west-bank-settler-violence?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-14T16:46:30.000Z"
+  },
+  {
+   "title": "What’s next for far-right Reform UK after Farage’s by-election win?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/whats-next-for-far-right-reform-uk-after-farages-by-election-win?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-14T16:35:45.000Z"
+  },
+  {
+   "title": "Zambia vote counting resumes after pause over alleged attacks on polling staff",
+   "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-14T16:28:59.000Z"
+  },
+  {
+   "title": "Canadian plasma clinics pause collections after deaths of two donors",
+   "link": "https://www.theguardian.com/world/2026/aug/14/canadian-plasma-clinics-pause-collections-after-deaths-of-donors-grifols",
+   "source": "Guardian World",
+   "date": "2026-08-14T16:21:39.000Z"
+  },
+  {
+   "title": "US backs Japanese sovereignty over disputed islands after Putin visit",
+   "link": "http://www.euronews.com/2026/08/14/us-backs-japanese-sovereignty-over-disputed-islands-after-putin-visit",
+   "source": "Euronews",
+   "date": "2026-08-14T16:19:52.000Z"
+  },
+  {
+   "title": "RustDesk now supports true unattended remote access on Wayland",
+   "link": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+   "source": "Hacker News",
+   "date": "2026-08-14T16:12:52.000Z"
+  },
+  {
+   "title": "Philippines drug war victims seek justice through truth commission",
+   "link": "https://www.aljazeera.com/features/2026/8/14/philippines-drug-war-victims-seek-justice-through-truth-commission?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-14T16:08:07.000Z"
+  },
+  {
+   "title": "France blocks social media ban because it would require adults to prove age",
+   "link": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
+   "source": "Hacker News",
+   "date": "2026-08-14T16:06:49.000Z"
+  },
+  {
+   "title": "RayforceDB – a pure C analytics database with a Lisp-like syntax",
+   "link": "https://rayforcedb.com/",
+   "source": "Hacker News",
+   "date": "2026-08-14T16:02:20.000Z"
+  },
+  {
+   "title": "Latest news bulletin | August 14th, 2026 – Evening",
+   "link": "http://www.euronews.com/video/2026/08/14/latest-news-bulletin-august-14th-2026-evening",
+   "source": "Euronews",
+   "date": "2026-08-14T16:00:29.000Z"
+  },
+  {
+   "title": "AI by Hand",
+   "link": "https://www.byhand.ai/",
+   "source": "Hacker News",
+   "date": "2026-08-14T15:58:59.000Z"
+  },
   {
    "title": "Top French court upholds assisted dying law, rejects teen social media ban",
    "link": "https://www.aljazeera.com/news/2026/8/14/top-french-court-upholds-assisted-dying-law-rejects-teen-social-media-ban?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-14T15:52:57.000Z"
+  },
+  {
+   "title": "Show HN: Online SNMP MIB database - upload/view your own MIBs",
+   "link": "https://mib-viewer.com/",
+   "source": "Hacker News",
+   "date": "2026-08-14T15:49:33.000Z"
   },
   {
    "title": "\"Solving a largely imaginary user goal\"",
@@ -26,58 +98,16 @@
    "date": "2026-08-14T15:40:27.000Z"
   },
   {
-   "title": "Qatar challenges AFC over open letter attacking FIFA President Infantino",
-   "link": "https://www.aljazeera.com/sports/2026/8/14/qatar-challenges-afc-over-open-letter-attacking-fifa-president-infantino?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-14T15:36:58.000Z"
-  },
-  {
-   "title": "‘The party of the Cubans’: How Republicans courted a key South Florida vote",
-   "link": "https://www.aljazeera.com/news/longform/2026/8/14/the-party-of-the-cubans-how-republicans-courted-a-key-south-florida-vote?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-14T15:25:11.000Z"
-  },
-  {
-   "title": "Show HN: Graft – Claude Code hooks that cut grep tokens by 42%",
-   "link": "https://github.com/NanoNets/Graft",
-   "source": "Hacker News",
-   "date": "2026-08-14T15:22:02.000Z"
-  },
-  {
-   "title": "AV1 vs. AV2: Which Video Codec Should You Use in 2026?",
-   "link": "https://www.red5.net/blog/av1-vs-av2/",
-   "source": "Hacker News",
-   "date": "2026-08-14T15:21:07.000Z"
-  },
-  {
-   "title": "Introducing Toast 1",
-   "link": "https://www.mixedbread.com/blog/toast-1",
-   "source": "Hacker News",
-   "date": "2026-08-14T15:07:57.000Z"
+   "title": "Trump asks Supreme Court to allow ballroom work to continue",
+   "link": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-14T15:10:41.000Z"
   },
   {
    "title": "Croatia wildfire near Omiš injures residents and disrupts holiday travel",
    "link": "http://www.euronews.com/video/2026/08/14/croatia-wildfire-near-omis-injures-residents-and-disrupts-holiday-travel",
    "source": "Euronews",
    "date": "2026-08-14T15:07:01.000Z"
-  },
-  {
-   "title": "Unsloth Qwen3.8-27B GGUF files",
-   "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-   "source": "Hacker News",
-   "date": "2026-08-14T15:04:17.000Z"
-  },
-  {
-   "title": "Qwen3.8-27B",
-   "link": "https://twitter.com/alibaba_qwen/status/2088280182356611304",
-   "source": "Hacker News",
-   "date": "2026-08-14T15:03:54.000Z"
-  },
-  {
-   "title": "Ahmed al-Sharaa: A New Vision for Syria",
-   "link": "https://www.aljazeera.com/video/al-jazeera-world/2026/8/14/ahmed-al-sharaa-a-new-vision-for-syria?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-14T15:00:00.000Z"
   },
   {
    "title": "American missionary kidnapped in Niger freed after nine months",
@@ -90,12 +120,6 @@
    "link": "http://www.euronews.com/video/2026/08/14/war-in-ukraine-deadly-russian-air-raid-on-kramatorsk-leaves-1-dead-and-17-wounded",
    "source": "Euronews",
    "date": "2026-08-14T14:22:17.000Z"
-  },
-  {
-   "title": "BP to develop offshore gasfield in Venezuela with firms linked to Trump administration",
-   "link": "https://www.theguardian.com/business/2026/aug/14/bp-offshore-gasfield-venezuela-donald-trump",
-   "source": "Guardian World",
-   "date": "2026-08-14T14:04:49.000Z"
   },
   {
    "title": "Rome’s Colosseum extends cool night tours as heatwaves scorch city",
@@ -122,40 +146,16 @@
    "date": "2026-08-14T12:19:21.000Z"
   },
   {
-   "title": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
-   "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-14T11:37:31.000Z"
-  },
-  {
    "title": "Stolen Matisse artworks recovered by police in Brazil",
    "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-14T10:55:39.000Z"
   },
   {
-   "title": "Tehran brings back cleric behind 2009 protest crackdown to head its Basij militia",
-   "link": "http://www.euronews.com/2026/08/14/tehran-brings-back-cleric-behind-2009-protest-crackdown-to-head-its-basij-militia",
-   "source": "Euronews",
-   "date": "2026-08-14T10:52:20.000Z"
-  },
-  {
-   "title": "Tourists flock to Mount Etna to witness eruption despite safety warnings",
-   "link": "http://www.euronews.com/video/2026/08/14/tourists-flock-to-mount-etna-to-witness-eruption-despite-safety-warnings",
-   "source": "Euronews",
-   "date": "2026-08-14T10:51:55.000Z"
-  },
-  {
    "title": "'Unprecedented' rain in Japan kills eight people",
    "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-14T10:36:14.000Z"
-  },
-  {
-   "title": "US says dozens of countries helped China dodge Trump's tariffs",
-   "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-14T08:39:46.000Z"
   },
   {
    "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",

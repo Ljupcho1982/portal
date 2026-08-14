@@ -1,6 +1,30 @@
 {
- "updated": "2026-08-14T11:11:11.254Z",
+ "updated": "2026-08-14T11:57:32.758Z",
  "items": [
+  {
+   "title": "Presidential vote counting halted in Zambia over alleged attacks on polling staff",
+   "link": "https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-14T11:37:31.000Z"
+  },
+  {
+   "title": "Man City tight-lipped on Rodri transfer amid Barcelona and Real Madrid link",
+   "link": "https://www.aljazeera.com/sports/2026/8/14/man-city-tightlipped-on-rodri-transfer-amid-barcelona-and-real-madrid-link?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-14T11:18:22.000Z"
+  },
+  {
+   "title": "US threatens ‘indefinite’ blockade against Iran: How long can it last?",
+   "link": "https://www.aljazeera.com/news/2026/8/14/us-threatens-indefinite-blockade-against-iran-how-long-can-it-last?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-14T11:06:59.000Z"
+  },
+  {
+   "title": "Russian ballistic attacks intensify as Kyiv claims Dnipropetrovsk advance",
+   "link": "https://www.aljazeera.com/news/2026/8/14/ukraine-liberates-dnipropetrovsk-as-russia-intensifies-missile-attacks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-14T11:04:40.000Z"
+  },
   {
    "title": "Stolen Matisse artworks recovered by police in Brazil",
    "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
@@ -14,22 +38,16 @@
    "date": "2026-08-14T10:52:20.000Z"
   },
   {
+   "title": "Record-breaking rain in Japan leaves several dead, thousands stranded",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/14-08-sv-japan-floods-chiba-jp?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-14T10:52:15.000Z"
+  },
+  {
    "title": "Tourists flock to Mount Etna to witness eruption despite safety warnings",
    "link": "http://www.euronews.com/video/2026/08/14/tourists-flock-to-mount-etna-to-witness-eruption-despite-safety-warnings",
    "source": "Euronews",
    "date": "2026-08-14T10:51:55.000Z"
-  },
-  {
-   "title": "Everyone talks about AI agents. This is what one looks from the inside",
-   "link": "https://pssah4.github.io/vault-operator/guides/capabilities",
-   "source": "Hacker News",
-   "date": "2026-08-14T10:44:12.000Z"
-  },
-  {
-   "title": "For the love of god stop using CPU limits in Kubernetes",
-   "link": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
-   "source": "Hacker News",
-   "date": "2026-08-14T10:41:21.000Z"
   },
   {
    "title": "'Unprecedented' rain in Japan kills eight people",
@@ -50,12 +68,6 @@
    "date": "2026-08-14T10:28:34.000Z"
   },
   {
-   "title": "US missionary released following kidnap in Niger, Christian group says",
-   "link": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-14T10:18:02.000Z"
-  },
-  {
    "title": "Why does Opus 5 feel worse to work with?",
    "link": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
    "source": "Hacker News",
@@ -66,12 +78,6 @@
    "link": "http://www.euronews.com/video/2026/08/14/in-quake-hit-cali-hugs-here-station-brings-comfort-amid-rubble",
    "source": "Euronews",
    "date": "2026-08-14T10:11:24.000Z"
-  },
-  {
-   "title": "Major oil slick washes up on Iran coast after Hormuz ship strike",
-   "link": "https://www.bbc.com/news/articles/cr7kpdkg13zo",
-   "source": "Hacker News",
-   "date": "2026-08-14T10:10:15.000Z"
   },
   {
    "title": "Latest news bulletin | August 14th, 2026 – Midday",
@@ -104,30 +110,6 @@
    "date": "2026-08-14T09:36:48.000Z"
   },
   {
-   "title": "New Zealand break ranks with Oceania as FIFA’s Infantino divide grows",
-   "link": "https://www.aljazeera.com/sports/2026/8/14/new-zealand-break-ranks-with-oceania-as-fifas-infantino-divide-grows?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-14T09:35:06.000Z"
-  },
-  {
-   "title": "Russia says hit Ukrainian railway and port facilities in new strikes",
-   "link": "https://www.aljazeera.com/news/2026/8/14/russia-says-hit-ukrainian-railway-and-port-facilities-in-new-strikes?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-14T09:28:03.000Z"
-  },
-  {
-   "title": "Swiatek defeats Rybakina to claim Canadian Open title​",
-   "link": "https://www.aljazeera.com/sports/2026/8/14/swiatek-defeats-rybakina-to-claim-canadian-open?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-14T09:26:54.000Z"
-  },
-  {
-   "title": "UK far-right leader Farage re-elected in boycotted by-election",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/uk-far-right-leader-farage-re-elected-in-boycotted-by-election?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-14T09:24:24.000Z"
-  },
-  {
    "title": "US says dozens of countries helped China dodge Trump's tariffs",
    "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
@@ -138,6 +120,24 @@
    "link": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
    "source": "Hacker News",
    "date": "2026-08-14T06:09:04.000Z"
+  },
+  {
+   "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+   "link": "https://z.ai/blog/glm-5.3",
+   "source": "Hacker News",
+   "date": "2026-08-14T05:19:59.000Z"
+  },
+  {
+   "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
+   "link": "https://github.com/JustVugg/lumabri",
+   "source": "Hacker News",
+   "date": "2026-08-14T00:47:04.000Z"
+  },
+  {
+   "title": "Bluesky Protocol Services",
+   "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
+   "source": "Hacker News",
+   "date": "2026-08-14T00:14:28.000Z"
   },
   {
    "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",

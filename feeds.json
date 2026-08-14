@@ -1,11 +1,89 @@
 {
- "updated": "2026-08-14T10:16:48.888Z",
+ "updated": "2026-08-14T11:11:11.254Z",
  "items": [
+  {
+   "title": "Stolen Matisse artworks recovered by police in Brazil",
+   "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-14T10:55:39.000Z"
+  },
+  {
+   "title": "Tehran brings back cleric behind 2009 protest crackdown to head its Basij militia",
+   "link": "http://www.euronews.com/2026/08/14/tehran-brings-back-cleric-behind-2009-protest-crackdown-to-head-its-basij-militia",
+   "source": "Euronews",
+   "date": "2026-08-14T10:52:20.000Z"
+  },
+  {
+   "title": "Tourists flock to Mount Etna to witness eruption despite safety warnings",
+   "link": "http://www.euronews.com/video/2026/08/14/tourists-flock-to-mount-etna-to-witness-eruption-despite-safety-warnings",
+   "source": "Euronews",
+   "date": "2026-08-14T10:51:55.000Z"
+  },
+  {
+   "title": "Everyone talks about AI agents. This is what one looks from the inside",
+   "link": "https://pssah4.github.io/vault-operator/guides/capabilities",
+   "source": "Hacker News",
+   "date": "2026-08-14T10:44:12.000Z"
+  },
+  {
+   "title": "For the love of god stop using CPU limits in Kubernetes",
+   "link": "https://github.com/inevolin/k8s-cpu-limits-analyzed",
+   "source": "Hacker News",
+   "date": "2026-08-14T10:41:21.000Z"
+  },
+  {
+   "title": "'Unprecedented' rain in Japan kills eight people",
+   "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-14T10:36:14.000Z"
+  },
+  {
+   "title": "Scrutiny over Farage’s finances has ‘hurt Reform UK support’",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/14/scrutiny-over-farages-finances-has-hurt-reform-uk?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-14T10:32:22.000Z"
+  },
+  {
+   "title": "Seven killed in tunnel accident at Indian hydropower project",
+   "link": "https://www.aljazeera.com/news/2026/8/14/seven-killed-in-tunnel-accident-at-indian-hydropower-project?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-14T10:28:34.000Z"
+  },
+  {
+   "title": "US missionary released following kidnap in Niger, Christian group says",
+   "link": "https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-14T10:18:02.000Z"
+  },
+  {
+   "title": "Why does Opus 5 feel worse to work with?",
+   "link": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+   "source": "Hacker News",
+   "date": "2026-08-14T10:12:48.000Z"
+  },
+  {
+   "title": "In quake-hit Cali, ‘hugs here’ station brings comfort amid rubble",
+   "link": "http://www.euronews.com/video/2026/08/14/in-quake-hit-cali-hugs-here-station-brings-comfort-amid-rubble",
+   "source": "Euronews",
+   "date": "2026-08-14T10:11:24.000Z"
+  },
+  {
+   "title": "Major oil slick washes up on Iran coast after Hormuz ship strike",
+   "link": "https://www.bbc.com/news/articles/cr7kpdkg13zo",
+   "source": "Hacker News",
+   "date": "2026-08-14T10:10:15.000Z"
+  },
   {
    "title": "Latest news bulletin | August 14th, 2026 – Midday",
    "link": "http://www.euronews.com/video/2026/08/14/latest-news-bulletin-august-14th-2026-midday",
    "source": "Euronews",
    "date": "2026-08-14T10:00:16.000Z"
+  },
+  {
+   "title": "DeepSeek peak/off-peak pricing update",
+   "link": "https://api-docs.deepseek.com/news/news260813/",
+   "source": "Hacker News",
+   "date": "2026-08-14T09:55:33.000Z"
   },
   {
    "title": "Colombia earthquake: Dog rescued alive as 72-hour window closes",
@@ -50,88 +128,16 @@
    "date": "2026-08-14T09:24:24.000Z"
   },
   {
-   "title": "La Liga: Barcelona key talking points heading into new 2026-27 season",
-   "link": "https://www.aljazeera.com/sports/2026/8/14/la-liga-barcelona-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-14T09:20:37.000Z"
-  },
-  {
-   "title": "A year after student protests that shook Valjevo: Serbia at a crossroads",
-   "link": "https://www.aljazeera.com/news/2026/8/14/a-year-after-the-violence-in-serbias-valjevo-at-a-crossroads?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-14T09:18:25.000Z"
-  },
-  {
    "title": "US says dozens of countries helped China dodge Trump's tariffs",
    "link": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-14T08:39:46.000Z"
   },
   {
-   "title": "Stolen Matisse artworks recovered by police in Brazil",
-   "link": "https://www.bbc.co.uk/news/articles/c1l1ym96ydvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-14T08:34:19.000Z"
-  },
-  {
-   "title": "Unprecedented rainfall in Japan leaves at least four dead in Chiba prefecture",
-   "link": "http://www.euronews.com/video/2026/08/14/unprecedented-rainfall-in-japan-leaves-at-least-four-dead-in-chiba-prefecture",
-   "source": "Euronews",
-   "date": "2026-08-14T08:32:04.000Z"
-  },
-  {
-   "title": "US military pushes back on reports of mental health crisis aboard the USS Abraham Lincoln",
-   "link": "http://www.euronews.com/2026/08/14/us-military-pushes-back-on-reports-of-mental-health-crisis-aboard-the-uss-abraham-lincoln",
-   "source": "Euronews",
-   "date": "2026-08-14T07:58:56.000Z"
-  },
-  {
-   "title": "France wildfire forces 525 people to flee as Landes forest burns",
-   "link": "http://www.euronews.com/video/2026/08/14/france-wildfire-forces-525-people-to-flee-as-landes-forest-burns",
-   "source": "Euronews",
-   "date": "2026-08-14T07:52:14.000Z"
-  },
-  {
-   "title": "Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun",
-   "link": "https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil",
-   "source": "Hacker News",
-   "date": "2026-08-14T07:03:56.000Z"
-  },
-  {
-   "title": "'Unprecedented' rain in Japan kills six people",
-   "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-14T07:00:56.000Z"
-  },
-  {
    "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
    "link": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
    "source": "Hacker News",
    "date": "2026-08-14T06:09:04.000Z"
-  },
-  {
-   "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-   "link": "https://z.ai/blog/glm-5.3",
-   "source": "Hacker News",
-   "date": "2026-08-14T05:19:59.000Z"
-  },
-  {
-   "title": "Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri",
-   "link": "https://github.com/JustVugg/lumabri",
-   "source": "Hacker News",
-   "date": "2026-08-14T00:47:04.000Z"
-  },
-  {
-   "title": "Bluesky Protocol Services",
-   "link": "https://atproto.com/blog/introducing-bluesky-protocol-services",
-   "source": "Hacker News",
-   "date": "2026-08-14T00:14:28.000Z"
-  },
-  {
-   "title": "Blog about things you don't understand yet",
-   "link": "https://www.seangoedecke.com/blog-about-things-you-dont-understand-yet/",
-   "source": "Hacker News",
-   "date": "2026-08-13T23:39:33.000Z"
   },
   {
    "title": "Conditions on US aircraft carrier at sea for more than 250 days raise alarms",
@@ -144,12 +150,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-13T21:43:47.000Z"
-  },
-  {
-   "title": "Palestinians told to leave homes in village where Israeli settlers besieged houses",
-   "link": "https://www.bbc.co.uk/news/articles/cj4kppdk2qwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-13T20:12:17.000Z"
   },
   {
    "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",

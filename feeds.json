@@ -1,11 +1,29 @@
 {
- "updated": "2026-08-15T18:47:38.065Z",
+ "updated": "2026-08-15T19:34:32.848Z",
  "items": [
+  {
+   "title": "Morocco detains dozens of migrants trying to cross into Ceuta",
+   "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-15T19:16:40.000Z"
+  },
+  {
+   "title": "Death toll from Zimbabwe ferry disaster rises to 69",
+   "link": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-15T19:10:06.000Z"
+  },
   {
    "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
    "link": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
    "source": "Hacker News",
    "date": "2026-08-15T18:33:25.000Z"
+  },
+  {
+   "title": "La Liga: Real Madrid key talking points heading into new 2026-27 season",
+   "link": "https://www.aljazeera.com/sports/2026/8/15/la-liga-real-madrid-key-talking-points-heading-into-new-2026-27-season?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-15T18:19:23.000Z"
   },
   {
    "title": "AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
@@ -20,10 +38,22 @@
    "date": "2026-08-15T18:11:12.000Z"
   },
   {
+   "title": "Thunderbird's Desktop Calendar Visual Redesign",
+   "link": "https://blog.thunderbird.net/2026/08/desktop-calendar-a-design-journey/",
+   "source": "Hacker News",
+   "date": "2026-08-15T18:09:42.000Z"
+  },
+  {
    "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
    "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
    "source": "Guardian World",
    "date": "2026-08-15T18:08:21.000Z"
+  },
+  {
+   "title": "BriskDB",
+   "link": "https://github.com/schapman1974/briskdb",
+   "source": "Hacker News",
+   "date": "2026-08-15T17:56:57.000Z"
   },
   {
    "title": "US aircraft carrier expected to relieve USS Lincoln in Middle East",
@@ -54,30 +84,6 @@
    "link": "https://www.bbc.com/news/articles/c4gxy0wqqd9o",
    "source": "Hacker News",
    "date": "2026-08-15T17:21:26.000Z"
-  },
-  {
-   "title": "UK PM Burnham reacts to death of former Cambridge professor",
-   "link": "https://www.aljazeera.com/news/2026/8/15/uk-pm-burnham-reacts-to-death-of-former-cambridge-professor?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T17:19:12.000Z"
-  },
-  {
-   "title": "The Dutch Community Where People Live on Strips of Land in a Lake",
-   "link": "https://www.core77.com/posts/144869",
-   "source": "Hacker News",
-   "date": "2026-08-15T16:53:47.000Z"
-  },
-  {
-   "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
-   "link": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T16:39:52.000Z"
-  },
-  {
-   "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
-   "link": "https://www.nature.com/articles/d41586-026-02448-x",
-   "source": "Hacker News",
-   "date": "2026-08-15T16:38:34.000Z"
   },
   {
    "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
@@ -138,12 +144,6 @@
    "link": "http://www.euronews.com/2026/08/15/iran-says-strait-of-hormuz-will-remain-iranian-after-trump-warning",
    "source": "Euronews",
    "date": "2026-08-15T07:04:58.000Z"
-  },
-  {
-   "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
-   "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-15T00:01:53.000Z"
   },
   {
    "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",

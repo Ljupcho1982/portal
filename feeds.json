@@ -1,6 +1,24 @@
 {
- "updated": "2026-08-15T13:44:04.901Z",
+ "updated": "2026-08-15T14:39:25.862Z",
  "items": [
+  {
+   "title": "Secondhand book sales are booming. Is it because of AI?",
+   "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
+   "source": "Hacker News",
+   "date": "2026-08-15T14:08:55.000Z"
+  },
+  {
+   "title": "Show HN: Quasicrystals Animation Playground with WebXR",
+   "link": "https://hypnagogic-quasicrystals.github.io/",
+   "source": "Hacker News",
+   "date": "2026-08-15T13:48:43.000Z"
+  },
+  {
+   "title": "Yadda 3.0.0: BDD in the Age of AI Agents",
+   "link": "http://www.stephen-cresswell.com/2026/08/15/Yadda-3.0.0-BDD-in-the-Age-of-AI-Agents.html",
+   "source": "Hacker News",
+   "date": "2026-08-15T13:43:46.000Z"
+  },
   {
    "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
    "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
@@ -24,6 +42,12 @@
    "link": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
    "source": "Hacker News",
    "date": "2026-08-15T13:18:27.000Z"
+  },
+  {
+   "title": "388 years ago, Galileo worked out why human giants can't exist",
+   "link": "https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/",
+   "source": "Hacker News",
+   "date": "2026-08-15T13:15:48.000Z"
   },
   {
    "title": "Afghans mark five years of Taliban rule",
@@ -56,18 +80,6 @@
    "date": "2026-08-15T12:57:08.000Z"
   },
   {
-   "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
-   "link": "https://netflixtechblog.com/genrec-towards-llm-native-recommendation-at-netflix-f20be6f643e3",
-   "source": "Hacker News",
-   "date": "2026-08-15T12:56:56.000Z"
-  },
-  {
-   "title": "Strait of Hormuz Live Traffic Tracking",
-   "link": "https://hormuz.now/",
-   "source": "Hacker News",
-   "date": "2026-08-15T12:54:43.000Z"
-  },
-  {
    "title": "Five years on, how will Taliban deal with armed opposition?",
    "link": "https://www.aljazeera.com/news/2026/8/15/five-years-on-how-will-taliban-deal-with-armed-opposition?traffic_source=rss",
    "source": "Al Jazeera",
@@ -78,18 +90,6 @@
    "link": "https://www.aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-15T12:14:30.000Z"
-  },
-  {
-   "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-   "link": "https://sankalp.bearblog.dev/autoresearch/",
-   "source": "Hacker News",
-   "date": "2026-08-15T11:00:02.000Z"
-  },
-  {
-   "title": "Working with AI Feels More Like Leadership Than Coding",
-   "link": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-   "source": "Hacker News",
-   "date": "2026-08-15T10:39:41.000Z"
   },
   {
    "title": "Latest news bulletin | August 15th, 2026 – Midday",

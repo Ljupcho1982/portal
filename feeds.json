@@ -1,11 +1,59 @@
 {
- "updated": "2026-08-15T14:39:25.862Z",
+ "updated": "2026-08-15T15:35:22.978Z",
  "items": [
+  {
+   "title": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
+   "link": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-15T15:25:51.000Z"
+  },
+  {
+   "title": "How blind football is helping women overcome barriers in Mexico",
+   "link": "https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-15T15:15:45.000Z"
+  },
+  {
+   "title": "Lebanon president says Israeli strikes that killed 11 send 'clear message' on negotiations",
+   "link": "http://www.euronews.com/2026/08/15/lebanon-president-says-israeli-strikes-that-killed-11-send-clear-message-on-negotiations",
+   "source": "Euronews",
+   "date": "2026-08-15T14:52:09.000Z"
+  },
+  {
+   "title": "South Korea proposes talks to officially end war with North",
+   "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-15T14:40:15.000Z"
+  },
+  {
+   "title": "The next Yemen war might be different",
+   "link": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-15T14:32:07.000Z"
+  },
+  {
+   "title": "Gen Z has rediscovered the joy of going to the movies",
+   "link": "https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies",
+   "source": "Hacker News",
+   "date": "2026-08-15T14:29:50.000Z"
+  },
   {
    "title": "Secondhand book sales are booming. Is it because of AI?",
    "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
    "source": "Hacker News",
    "date": "2026-08-15T14:08:55.000Z"
+  },
+  {
+   "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
+   "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+   "source": "Hacker News",
+   "date": "2026-08-15T14:04:49.000Z"
+  },
+  {
+   "title": "Writergate: Zig I/O Interface Overhaul",
+   "link": "https://alexrios.me/blog/writergate/",
+   "source": "Hacker News",
+   "date": "2026-08-15T13:59:47.000Z"
   },
   {
    "title": "Show HN: Quasicrystals Animation Playground with WebXR",
@@ -38,18 +86,6 @@
    "date": "2026-08-15T13:35:57.000Z"
   },
   {
-   "title": "Brazilian election filter in X For You timeline",
-   "link": "https://github.com/xai-org/x-algorithm/blob/main/home-mixer/filters/brazil_2026_election_filter.rs",
-   "source": "Hacker News",
-   "date": "2026-08-15T13:18:27.000Z"
-  },
-  {
-   "title": "388 years ago, Galileo worked out why human giants can't exist",
-   "link": "https://www.scientificamerican.com/article/388-years-ago-galileo-worked-out-why-human-giants-cant-exist-and-explained-a-law-of-nature/",
-   "source": "Hacker News",
-   "date": "2026-08-15T13:15:48.000Z"
-  },
-  {
    "title": "Afghans mark five years of Taliban rule",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
    "source": "Al Jazeera",
@@ -62,46 +98,16 @@
    "date": "2026-08-15T13:11:31.000Z"
   },
   {
-   "title": "Brain turns listening inward during REM sleep, EEG recordings suggest",
-   "link": "https://medicalxpress.com/news/2026-07-brain-rem-eeg.html",
-   "source": "Hacker News",
-   "date": "2026-08-15T13:09:28.000Z"
-  },
-  {
    "title": "Vienna woman sues city for discrimination over toilet fees",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-15T13:01:31.000Z"
   },
   {
-   "title": "Five wounded in shooting at Virginia State University, multiple suspects",
-   "link": "https://www.aljazeera.com/news/2026/8/15/five-wounded-in-shooting-at-virginia-state?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T12:57:08.000Z"
-  },
-  {
-   "title": "Five years on, how will Taliban deal with armed opposition?",
-   "link": "https://www.aljazeera.com/news/2026/8/15/five-years-on-how-will-taliban-deal-with-armed-opposition?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T12:44:30.000Z"
-  },
-  {
-   "title": "Afghan refugees face an uncertain future as Europe shifts to the right",
-   "link": "https://www.aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T12:14:30.000Z"
-  },
-  {
    "title": "Latest news bulletin | August 15th, 2026 – Midday",
    "link": "http://www.euronews.com/video/2026/08/15/latest-news-bulletin-august-15th-2026-midday",
    "source": "Euronews",
    "date": "2026-08-15T10:00:16.000Z"
-  },
-  {
-   "title": "South Korea proposes talks to officially end war with North",
-   "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-15T09:35:23.000Z"
   },
   {
    "title": "Watch: Chaos as powerful earthquake hits Indonesia",
@@ -126,12 +132,6 @@
    "link": "http://www.euronews.com/2026/08/15/uk-hits-back-after-netanyahu-labels-it-the-islamic-republic-of-britain",
    "source": "Euronews",
    "date": "2026-08-15T06:16:02.000Z"
-  },
-  {
-   "title": "Latest news bulletin | August 15th, 2026 – Morning",
-   "link": "http://www.euronews.com/video/2026/08/15/latest-news-bulletin-august-15th-2026-morning",
-   "source": "Euronews",
-   "date": "2026-08-15T05:00:33.000Z"
   },
   {
    "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",

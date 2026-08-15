@@ -1,6 +1,36 @@
 {
- "updated": "2026-08-15T15:35:22.978Z",
+ "updated": "2026-08-15T16:41:43.293Z",
  "items": [
+  {
+   "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
+   "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-15T16:02:49.000Z"
+  },
+  {
+   "title": "Latest news bulletin | August 15th, 2026 – Evening",
+   "link": "http://www.euronews.com/video/2026/08/15/latest-news-bulletin-august-15th-2026-evening",
+   "source": "Euronews",
+   "date": "2026-08-15T16:00:29.000Z"
+  },
+  {
+   "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
+   "link": "https://www.aljazeera.com/news/2026/8/15/ukraine-hits-russian-starlink-style-network-moscow-tracks-arms-package?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-15T15:50:06.000Z"
+  },
+  {
+   "title": "Israeli settlers besiege Palestinian families in occupied West Bank",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-15T15:48:07.000Z"
+  },
+  {
+   "title": "AI Can Now Design Functional Viruses. Should We Worry?",
+   "link": "https://spectrum.ieee.org/ai-designed-virus",
+   "source": "Hacker News",
+   "date": "2026-08-15T15:32:25.000Z"
+  },
   {
    "title": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
    "link": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
@@ -32,28 +62,16 @@
    "date": "2026-08-15T14:32:07.000Z"
   },
   {
-   "title": "Gen Z has rediscovered the joy of going to the movies",
-   "link": "https://www.economist.com/culture/2026/08/11/gen-z-has-rediscovered-the-joy-of-going-to-the-movies",
+   "title": "The AI Situation in Software Development",
+   "link": "https://srikanth.ch/posts/the-ai-situation/",
    "source": "Hacker News",
-   "date": "2026-08-15T14:29:50.000Z"
-  },
-  {
-   "title": "Secondhand book sales are booming. Is it because of AI?",
-   "link": "https://www.bbc.co.uk/news/articles/cp3rprx2wl4o",
-   "source": "Hacker News",
-   "date": "2026-08-15T14:08:55.000Z"
+   "date": "2026-08-15T14:12:27.000Z"
   },
   {
    "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
    "link": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
    "source": "Hacker News",
    "date": "2026-08-15T14:04:49.000Z"
-  },
-  {
-   "title": "Writergate: Zig I/O Interface Overhaul",
-   "link": "https://alexrios.me/blog/writergate/",
-   "source": "Hacker News",
-   "date": "2026-08-15T13:59:47.000Z"
   },
   {
    "title": "Show HN: Quasicrystals Animation Playground with WebXR",
@@ -74,34 +92,22 @@
    "date": "2026-08-15T13:41:09.000Z"
   },
   {
-   "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-   "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-15T13:38:53.000Z"
-  },
-  {
    "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
    "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-15T13:35:57.000Z"
   },
   {
+   "title": "Could a computer scientist build a brain?",
+   "link": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
+   "source": "Hacker News",
+   "date": "2026-08-15T13:26:28.000Z"
+  },
+  {
    "title": "Afghans mark five years of Taliban rule",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-15T13:12:51.000Z"
-  },
-  {
-   "title": "Black professor at centre of Cambridge plagiarism row found dead",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/black-professor-at-centre-of-cambridge-plagiarism-row-found-dead?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T13:11:31.000Z"
-  },
-  {
-   "title": "Vienna woman sues city for discrimination over toilet fees",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/vienna-woman-sues-city-for-discrimination-over-toilet-fees?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T13:01:31.000Z"
   },
   {
    "title": "Latest news bulletin | August 15th, 2026 – Midday",
@@ -126,12 +132,6 @@
    "link": "http://www.euronews.com/2026/08/15/iran-says-strait-of-hormuz-will-remain-iranian-after-trump-warning",
    "source": "Euronews",
    "date": "2026-08-15T07:04:58.000Z"
-  },
-  {
-   "title": "UK hits back after Netanyahu labels it 'the Islamic republic of Britain'",
-   "link": "http://www.euronews.com/2026/08/15/uk-hits-back-after-netanyahu-labels-it-the-islamic-republic-of-britain",
-   "source": "Euronews",
-   "date": "2026-08-15T06:16:02.000Z"
   },
   {
    "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",

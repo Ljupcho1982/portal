@@ -1,11 +1,35 @@
 {
- "updated": "2026-08-15T21:34:56.678Z",
+ "updated": "2026-08-15T22:37:32.513Z",
  "items": [
   {
-   "title": "Cornell: Pro Palestine Students Targeted by ICE: Come Back to US or Lose Funding",
-   "link": "https://theintercept.com/2026/08/14/cornell-pro-palestine-student-targeting-ice/",
+   "title": "Why is the latest Ebola outbreak worsening?",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/8/15/why-is-the-latest-ebola-outbreak-worsening?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-15T22:00:42.000Z"
+  },
+  {
+   "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+   "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-15T21:49:12.000Z"
+  },
+  {
+   "title": "Bede Liu, a digital signal processing pioneer, has died",
+   "link": "https://spectrum.ieee.org/digital-signal-processing",
    "source": "Hacker News",
-   "date": "2026-08-15T21:07:44.000Z"
+   "date": "2026-08-15T21:45:54.000Z"
+  },
+  {
+   "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
+   "link": "https://en.wikipedia.org/wiki/Wow!_signal",
+   "source": "Hacker News",
+   "date": "2026-08-15T21:42:47.000Z"
+  },
+  {
+   "title": "Abdominal fat predicts heart disease risk better than BMI",
+   "link": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+   "source": "Hacker News",
+   "date": "2026-08-15T21:14:34.000Z"
   },
   {
    "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
@@ -26,7 +50,7 @@
    "date": "2026-08-15T20:55:29.000Z"
   },
   {
-   "title": "Cultivating a state of mind where new ideas are born",
+   "title": "Cultivating a state of mind where new ideas are born (2023)",
    "link": "https://www.henrikkarlsson.xyz/p/good-ideas",
    "source": "Hacker News",
    "date": "2026-08-15T20:54:11.000Z"
@@ -44,22 +68,22 @@
    "date": "2026-08-15T20:21:14.000Z"
   },
   {
+   "title": "Humazon",
+   "link": "https://hughhowey.com/humazon/",
+   "source": "Hacker News",
+   "date": "2026-08-15T20:18:37.000Z"
+  },
+  {
    "title": "Canadian petition to expel US ambassador gains over 170,000 signatures",
    "link": "https://www.aljazeera.com/news/2026/8/15/canadian-petition-to-expel-us-ambassador-gains-over-170000-signatures?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-15T20:09:33.000Z"
   },
   {
-   "title": "Moroccan Police Intercept Migrants Heading for Ceuta Enclave",
+   "title": "Moroccan police intercept migrants heading for Ceuta enclave",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moroccan-police-intercept-migrants-heading-for-ceuta-enclave?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-15T20:07:07.000Z"
-  },
-  {
-   "title": "Powerful magnitude 7.7 earthquake kills at least 47 in Indonesia",
-   "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-15T20:00:15.000Z"
   },
   {
    "title": "Europe’s tallest Virgin Mary statue unveiled in Polish village",
@@ -80,7 +104,7 @@
    "date": "2026-08-15T19:41:57.000Z"
   },
   {
-   "title": "Twenty-two more bodies recovered after Zimbabwe boat accident",
+   "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
    "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
    "source": "Guardian World",
    "date": "2026-08-15T19:39:07.000Z"
@@ -92,34 +116,10 @@
    "date": "2026-08-15T19:34:22.000Z"
   },
   {
-   "title": "Israeli PR wants to answer your ChatGPT questions",
-   "link": "https://www.politico.com/newsletters/politico-influence/2026/08/14/israeli-pr-wants-to-answer-your-chatgpt-questions-01038138",
-   "source": "Hacker News",
-   "date": "2026-08-15T19:26:33.000Z"
-  },
-  {
-   "title": "AI in drug discovery — what it is, where we stand and the path forward",
-   "link": "https://www.nature.com/articles/s41573-026-01496-2",
+   "title": "AI in drug discovery – what it is, where we stand and the path forward",
+   "link": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
    "source": "Hacker News",
    "date": "2026-08-15T19:12:53.000Z"
-  },
-  {
-   "title": "Death toll from Zimbabwe ferry disaster rises to 72",
-   "link": "https://www.aljazeera.com/news/2026/8/15/death-toll-from-zimbabwe-ferry-disaster-rises-to-69?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T19:10:06.000Z"
-  },
-  {
-   "title": "Tess's Android Wayland Compositor",
-   "link": "https://github.com/wmww/tawc",
-   "source": "Hacker News",
-   "date": "2026-08-15T18:34:26.000Z"
-  },
-  {
-   "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
-   "link": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
-   "source": "Hacker News",
-   "date": "2026-08-15T18:33:25.000Z"
   },
   {
    "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",

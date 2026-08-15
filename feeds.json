@@ -1,6 +1,12 @@
 {
- "updated": "2026-08-15T09:41:09.432Z",
+ "updated": "2026-08-15T10:39:46.439Z",
  "items": [
+  {
+   "title": "Latest news bulletin | August 15th, 2026 – Midday",
+   "link": "http://www.euronews.com/video/2026/08/15/latest-news-bulletin-august-15th-2026-midday",
+   "source": "Euronews",
+   "date": "2026-08-15T10:00:16.000Z"
+  },
   {
    "title": "South Korea proposes talks to officially end war with North",
    "link": "https://www.bbc.co.uk/news/articles/c8en2z9jp2xo?at_medium=RSS&at_campaign=rss",
@@ -44,10 +50,10 @@
    "date": "2026-08-15T08:22:09.000Z"
   },
   {
-   "title": "Jason Arday, professor at centre of Cambridge plagiarism row, found dead",
-   "link": "https://www.theguardian.com/uk-news/2026/aug/14/jason-arday-found-dead-after-resigning-from-cambridge-over-plagiarism-claims",
+   "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+   "link": "https://uecker.codeberg.page/2026-07-14.html",
    "source": "Hacker News",
-   "date": "2026-08-15T08:11:20.000Z"
+   "date": "2026-08-15T07:59:42.000Z"
   },
   {
    "title": "Powerful 7.7-magnitude earthquake strikes Indonesia, killing at least 38",
@@ -62,13 +68,7 @@
    "date": "2026-08-15T07:44:35.000Z"
   },
   {
-   "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-   "link": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
-   "source": "Hacker News",
-   "date": "2026-08-15T07:31:46.000Z"
-  },
-  {
-   "title": "FIFA’s Infantino gets Giuliani backing in World Cup selloff fallout",
+   "title": "FIFA’s Infantino gets backing of White House chief Giuliani over World Cup",
    "link": "https://www.aljazeera.com/sports/2026/8/15/fifas-infantino-gets-giuliani-backing-in-world-cup-selloff-fallout?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-15T07:27:59.000Z"
@@ -84,6 +84,12 @@
    "link": "http://www.euronews.com/2026/08/15/uk-hits-back-after-netanyahu-labels-it-the-islamic-republic-of-britain",
    "source": "Euronews",
    "date": "2026-08-15T06:16:02.000Z"
+  },
+  {
+   "title": "Ask HN: How do you keep up with HN these days?",
+   "link": "https://news.ycombinator.com/item?id=49308059",
+   "source": "Hacker News",
+   "date": "2026-08-15T05:59:12.000Z"
   },
   {
    "title": "Latest news bulletin | August 15th, 2026 – Morning",
@@ -108,12 +114,6 @@
    "link": "https://app.deltix.ai",
    "source": "Hacker News",
    "date": "2026-08-15T02:42:14.000Z"
-  },
-  {
-   "title": "Mysterious elephant deaths in Kenya leave experts searching for answers",
-   "link": "http://www.euronews.com/2026/08/15/mysterious-elephant-deaths-in-kenya-leave-experts-searching-for-answers",
-   "source": "Euronews",
-   "date": "2026-08-15T02:34:53.000Z"
   },
   {
    "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",

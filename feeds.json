@@ -1,11 +1,35 @@
 {
- "updated": "2026-08-15T11:34:03.034Z",
+ "updated": "2026-08-15T12:59:44.402Z",
  "items": [
   {
-   "title": "Seven killed in Israeli strike on southern Lebanon, country's PM says",
+   "title": "Powerful magnitude 7.7 earthquake kills at least 38 in Indonesia",
+   "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-15T12:31:55.000Z"
+  },
+  {
+   "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
    "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-08-15T11:24:24.000Z"
+   "date": "2026-08-15T12:25:11.000Z"
+  },
+  {
+   "title": "Afghan refugees face an uncertain future as Europe shifts to the right",
+   "link": "https://www.aljazeera.com/news/2026/8/15/afghan-refugees-face-uncertain-future-as-europe-shifts-to-the-right?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-15T12:14:30.000Z"
+  },
+  {
+   "title": "Is China seeking to copy Iran’s Strait of Hormuz blockade around Taiwan?",
+   "link": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-15T11:30:00.000Z"
+  },
+  {
+   "title": "Modi threatens to target ‘intellectual Naxals’ in Independence Day speech",
+   "link": "https://www.aljazeera.com/news/2026/8/15/modi-threatens-to-target-intellectual-naxals-in-independence-day-speech?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-15T11:27:11.000Z"
   },
   {
    "title": "Aftermath of deadly Indonesia earthquake",
@@ -26,28 +50,22 @@
    "date": "2026-08-15T11:07:05.000Z"
   },
   {
+   "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+   "link": "https://sankalp.bearblog.dev/autoresearch/",
+   "source": "Hacker News",
+   "date": "2026-08-15T11:00:02.000Z"
+  },
+  {
    "title": "Family stranded at sea for 16 hours after jet ski capsized in Thailand",
    "link": "https://www.bbc.co.uk/news/articles/cy0j60p0d29o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-15T10:56:22.000Z"
   },
   {
-   "title": "World Cup winner Ferran Torres joins Paris Saint-Germain from Barcelona",
-   "link": "https://www.aljazeera.com/sports/2026/8/15/world-cup-winner-ferran-torres-joins-paris-saint-germain-from-barcelona?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T10:48:41.000Z"
-  },
-  {
-   "title": "Arsenal vs Manchester City: Community Shield – prediction, lineups, teams",
-   "link": "https://www.aljazeera.com/sports/2026/8/15/arsenal-vs-manchester-city-community-shield-prediction-lineups-teams?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T10:43:09.000Z"
-  },
-  {
-   "title": "At scene of deadly Israeli strike on Lebanon home",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/at-scene-of-deadly-israeli-strike-on-lebanon-home?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T10:18:40.000Z"
+   "title": "OpenAI rolling out ads for Europe later this month",
+   "link": "https://openai.com/policies/eu-privacy-policy-preview/",
+   "source": "Hacker News",
+   "date": "2026-08-15T10:52:36.000Z"
   },
   {
    "title": "Latest news bulletin | August 15th, 2026 – Midday",
@@ -68,13 +86,19 @@
    "date": "2026-08-15T09:26:28.000Z"
   },
   {
-   "title": "Powerful 7.7-magnitude earthquake kills at least 38 in Indonesia",
-   "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-15T08:52:55.000Z"
+   "title": "Debian has begun voting on the future of AI/LLM contributions",
+   "link": "https://lists.debian.org/debian-devel-announce/2026/08/msg00002.html",
+   "source": "Hacker News",
+   "date": "2026-08-15T09:20:07.000Z"
   },
   {
-   "title": "Powerful 7.7-magnitude earthquake strikes Indonesia, killing at least 38",
+   "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
+   "link": "https://uecker.codeberg.page/2026-07-14.html",
+   "source": "Hacker News",
+   "date": "2026-08-15T07:59:42.000Z"
+  },
+  {
+   "title": "Powerful 7.7-magnitude earthquake strikes Indonesia, killing at least 40",
    "link": "http://www.euronews.com/2026/08/15/powerful-77-magnitude-earthquake-strikes-indonesia-killing-at-least-20",
    "source": "Euronews",
    "date": "2026-08-15T07:46:18.000Z"
@@ -96,6 +120,18 @@
    "link": "http://www.euronews.com/video/2026/08/15/latest-news-bulletin-august-15th-2026-morning",
    "source": "Euronews",
    "date": "2026-08-15T05:00:33.000Z"
+  },
+  {
+   "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+   "link": "https://chenxiachan.github.io/thoughtdag/",
+   "source": "Hacker News",
+   "date": "2026-08-15T04:42:07.000Z"
+  },
+  {
+   "title": "The other Sean Byrne doesn't exist",
+   "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+   "source": "Hacker News",
+   "date": "2026-08-15T04:18:44.000Z"
   },
   {
    "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",

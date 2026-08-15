@@ -1,6 +1,36 @@
 {
- "updated": "2026-08-15T04:47:35.322Z",
+ "updated": "2026-08-15T05:42:23.609Z",
  "items": [
+  {
+   "title": "How a Sudanese refugee became a head teacher in a Chadian camp",
+   "link": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-15T05:14:40.000Z"
+  },
+  {
+   "title": "Latest news bulletin | August 15th, 2026 – Morning",
+   "link": "http://www.euronews.com/video/2026/08/15/latest-news-bulletin-august-15th-2026-morning",
+   "source": "Euronews",
+   "date": "2026-08-15T05:00:33.000Z"
+  },
+  {
+   "title": "Morocco boosts Ceuta security amid calls for mass migrant crossing",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-15-26-morocco-ceuta-foritfication-clip-mp4?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-15T04:54:53.000Z"
+  },
+  {
+   "title": "On the ground in Indonesia following 7.7 magnitude earthquake",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/on-the-ground-in-indonesia-following-7-7-magnitude-earthquake?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-15T04:49:47.000Z"
+  },
+  {
+   "title": "Taiwan passes defence budget after record delay, retains drone funding",
+   "link": "https://www.aljazeera.com/economy/2026/8/15/taiwan-passes-defence-budget-after-record-delay-retains-drone-funding?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-15T04:44:14.000Z"
+  },
   {
    "title": "Iran says no decision yet on a return to talks with the US",
    "link": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
@@ -14,22 +44,16 @@
    "date": "2026-08-15T04:21:07.000Z"
   },
   {
-   "title": "Did the US really destroy Iran’s ballistic missile capability?",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T03:52:08.000Z"
+   "title": "The other Sean Byrne doesn't exist",
+   "link": "https://conic.al/writing/the-other-sean-byrne-doesnt-exist/",
+   "source": "Hacker News",
+   "date": "2026-08-15T04:18:44.000Z"
   },
   {
-   "title": "India marks 80th Independence Day with military display",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/india-marks-80th-independence-day-with-military-display?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T03:39:06.000Z"
-  },
-  {
-   "title": "HRW says US civil rights enforcement reduced under Trump: What to know",
-   "link": "https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T03:04:20.000Z"
+   "title": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
+   "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-15T04:12:55.000Z"
   },
   {
    "title": "AI Driven Testing",
@@ -44,12 +68,6 @@
    "date": "2026-08-15T02:34:53.000Z"
   },
   {
-   "title": "US President Trump says he will declare Strait of Hormuz US territory",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/us-president-trump-says-he-will-declare-strait-of-hormuz-us-territory?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T02:25:09.000Z"
-  },
-  {
    "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
    "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
    "source": "Hacker News",
@@ -62,16 +80,16 @@
    "date": "2026-08-15T00:55:31.000Z"
   },
   {
-   "title": "NSA and IETF, Part 9",
-   "link": "https://blog.cr.yp.to/20260814-update.html",
-   "source": "Hacker News",
-   "date": "2026-08-15T00:54:01.000Z"
-  },
-  {
    "title": "Simplifying and Refactoring Introductory Calculus",
    "link": "https://arxiv.org/abs/1811.03459",
    "source": "Hacker News",
    "date": "2026-08-15T00:15:23.000Z"
+  },
+  {
+   "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
+   "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-15T00:01:53.000Z"
   },
   {
    "title": "eigendrum",
@@ -116,12 +134,6 @@
    "date": "2026-08-14T17:26:04.000Z"
   },
   {
-   "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
-   "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-14T17:03:17.000Z"
-  },
-  {
    "title": "US backs Japanese sovereignty over disputed islands after Putin visit",
    "link": "http://www.euronews.com/2026/08/14/us-backs-japanese-sovereignty-over-disputed-islands-after-putin-visit",
    "source": "Euronews",
@@ -134,12 +146,6 @@
    "date": "2026-08-14T16:00:29.000Z"
   },
   {
-   "title": "Croatia wildfire near Omiš injures residents and disrupts holiday travel",
-   "link": "http://www.euronews.com/video/2026/08/14/croatia-wildfire-near-omis-injures-residents-and-disrupts-holiday-travel",
-   "source": "Euronews",
-   "date": "2026-08-14T15:07:01.000Z"
-  },
-  {
    "title": "American missionary kidnapped in Niger freed after nine months",
    "link": "https://www.theguardian.com/world/2026/aug/14/american-missionary-kevin-rideout-niger-released-kidnapping",
    "source": "Guardian World",
@@ -150,12 +156,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c89n20wj9kko?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-14T12:19:21.000Z"
-  },
-  {
-   "title": "'Unprecedented' rain in Japan kills eight people",
-   "link": "https://www.bbc.co.uk/news/articles/cq561gpen8lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-14T10:36:14.000Z"
   },
   {
    "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",

@@ -1,6 +1,30 @@
 {
- "updated": "2026-08-15T16:41:43.293Z",
+ "updated": "2026-08-15T17:35:34.306Z",
  "items": [
+  {
+   "title": "Erdogan says Egypt could join Turkiye-Saudi-Pakistan defence pact",
+   "link": "https://www.aljazeera.com/news/2026/8/15/erdogan-says-egypt-could-join-turkiye-saudi-pakistan-defence-pact?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-15T16:39:52.000Z"
+  },
+  {
+   "title": "A controversial Alzheimer's surgery is said to reverse symptoms",
+   "link": "https://www.nature.com/articles/d41586-026-02448-x",
+   "source": "Hacker News",
+   "date": "2026-08-15T16:38:34.000Z"
+  },
+  {
+   "title": "One killed, dozens injured after wildfire hits Croatian coast",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/one-killed-dozens-injured-after-wildfire-hits-croatian-coast?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-15T16:33:05.000Z"
+  },
+  {
+   "title": "Sudan’s al-Burhan pledges immunity for dialogue, rules out Hemedti return",
+   "link": "https://www.aljazeera.com/news/2026/8/15/sudans-al-burhan-pledges-immunity-for-dialogue-rules-out-hemedti-return?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-15T16:17:43.000Z"
+  },
   {
    "title": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
    "link": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
@@ -12,6 +36,12 @@
    "link": "http://www.euronews.com/video/2026/08/15/latest-news-bulletin-august-15th-2026-evening",
    "source": "Euronews",
    "date": "2026-08-15T16:00:29.000Z"
+  },
+  {
+   "title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
+   "link": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+   "source": "Hacker News",
+   "date": "2026-08-15T15:58:53.000Z"
   },
   {
    "title": "Ukraine hits Russian Starlink-style network, Moscow tracks arms package",
@@ -26,25 +56,13 @@
    "date": "2026-08-15T15:48:07.000Z"
   },
   {
-   "title": "AI Can Now Design Functional Viruses. Should We Worry?",
-   "link": "https://spectrum.ieee.org/ai-designed-virus",
-   "source": "Hacker News",
-   "date": "2026-08-15T15:32:25.000Z"
-  },
-  {
    "title": "Sedition to anthem: Many lives of ‘Azadi’ chants in India’s youth protests",
    "link": "https://www.aljazeera.com/features/2026/8/15/sedition-to-anthem-many-lives-of-aazadi-chants-in-indias-youth-protests?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-15T15:25:51.000Z"
   },
   {
-   "title": "How blind football is helping women overcome barriers in Mexico",
-   "link": "https://www.aljazeera.com/news/longform/2026/8/15/how-blind-football-is-helping-women-overcome-barriers-in-mexico?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T15:15:45.000Z"
-  },
-  {
-   "title": "Lebanon president says Israeli strikes that killed 11 send 'clear message' on negotiations",
+   "title": "Israeli strikes that killed 11 send 'clear message' on negotiations, says Lebanese president",
    "link": "http://www.euronews.com/2026/08/15/lebanon-president-says-israeli-strikes-that-killed-11-send-clear-message-on-negotiations",
    "source": "Euronews",
    "date": "2026-08-15T14:52:09.000Z"
@@ -56,16 +74,10 @@
    "date": "2026-08-15T14:40:15.000Z"
   },
   {
-   "title": "The next Yemen war might be different",
-   "link": "https://www.aljazeera.com/features/2026/8/15/the-next-yemen-war-might-be-different?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T14:32:07.000Z"
-  },
-  {
-   "title": "The AI Situation in Software Development",
-   "link": "https://srikanth.ch/posts/the-ai-situation/",
+   "title": "A Spectre Is Haunting Unicode",
+   "link": "https://www.dampfkraft.com/ghost-characters.html",
    "source": "Hacker News",
-   "date": "2026-08-15T14:12:27.000Z"
+   "date": "2026-08-15T14:34:04.000Z"
   },
   {
    "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
@@ -98,18 +110,6 @@
    "date": "2026-08-15T13:35:57.000Z"
   },
   {
-   "title": "Could a computer scientist build a brain?",
-   "link": "https://stankerstjens.github.io/could-a-computer-scientist-build-a-brain/",
-   "source": "Hacker News",
-   "date": "2026-08-15T13:26:28.000Z"
-  },
-  {
-   "title": "Afghans mark five years of Taliban rule",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/afghans-mark-five-years-of-taliban-rule?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T13:12:51.000Z"
-  },
-  {
    "title": "Latest news bulletin | August 15th, 2026 – Midday",
    "link": "http://www.euronews.com/video/2026/08/15/latest-news-bulletin-august-15th-2026-midday",
    "source": "Euronews",
@@ -128,7 +128,7 @@
    "date": "2026-08-15T07:46:18.000Z"
   },
   {
-   "title": "Iran says Strait of Hormuz 'will remain Iranian' after Trump warning",
+   "title": "Tehran: Strait of Hormuz 'will remain Iranian' after Trump warning",
    "link": "http://www.euronews.com/2026/08/15/iran-says-strait-of-hormuz-will-remain-iranian-after-trump-warning",
    "source": "Euronews",
    "date": "2026-08-15T07:04:58.000Z"

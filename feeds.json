@@ -1,6 +1,36 @@
 {
- "updated": "2026-08-15T05:42:23.609Z",
+ "updated": "2026-08-15T06:58:14.721Z",
  "items": [
+  {
+   "title": "At least 14 dead after 7.7-magnitude earthquake strikes Indonesia",
+   "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-15T06:21:31.000Z"
+  },
+  {
+   "title": "UK hits back after Netanyahu labels it 'the Islamic republic of Britain'",
+   "link": "http://www.euronews.com/2026/08/15/uk-hits-back-after-netanyahu-labels-it-the-islamic-republic-of-britain",
+   "source": "Euronews",
+   "date": "2026-08-15T06:16:02.000Z"
+  },
+  {
+   "title": "Small-scale projects offer hope for Gaza farmers rebuilding lives",
+   "link": "https://www.aljazeera.com/economy/2026/8/15/small-scale-projects-offer-hope-for-gaza-farmers-rebuilding-lives?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-15T06:10:07.000Z"
+  },
+  {
+   "title": "\"That's not SoC 2 compliant\"",
+   "link": "https://ampcode.com/notes/thats-not-soc-2-compliant",
+   "source": "Hacker News",
+   "date": "2026-08-15T06:01:19.000Z"
+  },
+  {
+   "title": "Ask HN: How do you keep up with HN these days?",
+   "link": "https://news.ycombinator.com/item?id=49308059",
+   "source": "Hacker News",
+   "date": "2026-08-15T05:59:12.000Z"
+  },
   {
    "title": "How a Sudanese refugee became a head teacher in a Chadian camp",
    "link": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
@@ -32,16 +62,16 @@
    "date": "2026-08-15T04:44:14.000Z"
   },
   {
+   "title": "Show HN: ThoughtDAG – An editable context graph for LLM conversations",
+   "link": "https://chenxiachan.github.io/thoughtdag/",
+   "source": "Hacker News",
+   "date": "2026-08-15T04:42:07.000Z"
+  },
+  {
    "title": "Iran says no decision yet on a return to talks with the US",
    "link": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-15T04:24:02.000Z"
-  },
-  {
-   "title": "What we know about the crisis aboard the USS Lincoln",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/what-we-know-about-the-crisis-aboard-the-uss-lincoln?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T04:21:07.000Z"
   },
   {
    "title": "The other Sean Byrne doesn't exist",
@@ -50,13 +80,13 @@
    "date": "2026-08-15T04:18:44.000Z"
   },
   {
-   "title": "Five dead after 7.7 magnitude earthquake strikes Indonesia",
-   "link": "https://www.bbc.co.uk/news/articles/c5y0zz63gero?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-15T04:12:55.000Z"
+   "title": "The End of Mathematics",
+   "link": "https://www.daniellitt.com/blog/2026/8/11/the-end-of-mathematics",
+   "source": "Hacker News",
+   "date": "2026-08-15T03:37:00.000Z"
   },
   {
-   "title": "AI Driven Testing",
+   "title": "Show HN: Deltix – AI Driven Testing",
    "link": "https://app.deltix.ai",
    "source": "Hacker News",
    "date": "2026-08-15T02:42:14.000Z"
@@ -68,34 +98,10 @@
    "date": "2026-08-15T02:34:53.000Z"
   },
   {
-   "title": "Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia",
-   "link": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
-   "source": "Hacker News",
-   "date": "2026-08-15T01:14:05.000Z"
-  },
-  {
-   "title": "The Ploopy A+ Trackball Is Here",
-   "link": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
-   "source": "Hacker News",
-   "date": "2026-08-15T00:55:31.000Z"
-  },
-  {
-   "title": "Simplifying and Refactoring Introductory Calculus",
-   "link": "https://arxiv.org/abs/1811.03459",
-   "source": "Hacker News",
-   "date": "2026-08-15T00:15:23.000Z"
-  },
-  {
    "title": "BBC seeks to subpoena Trump's family members in Panorama lawsuit",
    "link": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-15T00:01:53.000Z"
-  },
-  {
-   "title": "eigendrum",
-   "link": "https://eigendrum.com/#p=circle",
-   "source": "Hacker News",
-   "date": "2026-08-14T22:15:12.000Z"
   },
   {
    "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",
@@ -138,12 +144,6 @@
    "link": "http://www.euronews.com/2026/08/14/us-backs-japanese-sovereignty-over-disputed-islands-after-putin-visit",
    "source": "Euronews",
    "date": "2026-08-14T16:19:52.000Z"
-  },
-  {
-   "title": "Latest news bulletin | August 14th, 2026 – Evening",
-   "link": "http://www.euronews.com/video/2026/08/14/latest-news-bulletin-august-14th-2026-evening",
-   "source": "Euronews",
-   "date": "2026-08-14T16:00:29.000Z"
   },
   {
    "title": "American missionary kidnapped in Niger freed after nine months",

@@ -1,6 +1,18 @@
 {
- "updated": "2026-08-16T13:01:08.635Z",
+ "updated": "2026-08-16T13:45:09.073Z",
  "items": [
+  {
+   "title": "Tasklet (YC P26) Is Hiring a Head of Design Engineering",
+   "link": "https://tasklet.ai/careers/head-of-design-engineering",
+   "source": "Hacker News",
+   "date": "2026-08-16T13:30:27.000Z"
+  },
+  {
+   "title": "Firefox for iOS now has a native adblocker",
+   "link": "https://support.mozilla.org/en-US/kb/block-ads-firefox-ios",
+   "source": "Hacker News",
+   "date": "2026-08-16T12:58:10.000Z"
+  },
   {
    "title": "Hurricane Lala sparks flash floods in Hawaii as strong winds and rain persist",
    "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
@@ -8,10 +20,34 @@
    "date": "2026-08-16T12:53:43.000Z"
   },
   {
+   "title": "Is the industry ready for tokens-constrained work?",
+   "link": "https://blog.alaindichiappari.dev/p/what-to-do-when-tokens-run-out",
+   "source": "Hacker News",
+   "date": "2026-08-16T12:51:58.000Z"
+  },
+  {
+   "title": "Banned Words List",
+   "link": "https://pen.org/banned-words-list/",
+   "source": "Hacker News",
+   "date": "2026-08-16T12:50:31.000Z"
+  },
+  {
+   "title": "Claude: System Prompts",
+   "link": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+   "source": "Hacker News",
+   "date": "2026-08-16T12:48:21.000Z"
+  },
+  {
    "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
    "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-16T12:37:21.000Z"
+  },
+  {
+   "title": "Belgium’s largest wildfire on record spreads towards German border",
+   "link": "https://www.aljazeera.com/news/2026/8/16/belgiums-largest-wildfire-on-record-spreads-towards-german-border?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-16T12:35:31.000Z"
   },
   {
    "title": "World’s Ugliest Dog contest crowns its 2026 winner",
@@ -32,12 +68,6 @@
    "date": "2026-08-16T12:01:39.000Z"
   },
   {
-   "title": "Gooseworks (YC W23) Is Hiring a Founding Builder / Engineer",
-   "link": "https://www.ycombinator.com/companies/gooseworks/jobs/UJ4vH2F-founding-engineer",
-   "source": "Hacker News",
-   "date": "2026-08-16T12:00:23.000Z"
-  },
-  {
    "title": "Taliban mark five-year anniversary of regaining power in Afghanistan",
    "link": "http://www.euronews.com/2026/08/16/taliban-mark-five-year-anniversary-of-regaining-power-in-afghanistan",
    "source": "Euronews",
@@ -50,12 +80,6 @@
    "date": "2026-08-16T11:54:55.000Z"
   },
   {
-   "title": "Access to telemetry data: Automotive industry criticizes intelligence reform",
-   "link": "https://www.heise.de/en/news/Access-to-telemetry-data-Automotive-industry-criticizes-intelligence-reform-11414994.html",
-   "source": "Hacker News",
-   "date": "2026-08-16T11:52:23.000Z"
-  },
-  {
    "title": "‘Limited options’ for many Iranians as war with US chokes economy",
    "link": "https://www.aljazeera.com/news/2026/8/16/limited-options-for-many-iranians-as-war-with-us-chokes-economy?traffic_source=rss",
    "source": "Al Jazeera",
@@ -66,12 +90,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cn5nnlq2pwpo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-16T11:35:25.000Z"
-  },
-  {
-   "title": "Leave your screen unlocked, meet developers paypal.com",
-   "link": "https://anthony.dev.profullstack.com/blog/012-post.html",
-   "source": "Hacker News",
-   "date": "2026-08-16T11:26:42.000Z"
   },
   {
    "title": "Trump threatens to make the Strait of Hormuz a US territory: Can he?",
@@ -104,28 +122,16 @@
    "date": "2026-08-16T10:52:08.000Z"
   },
   {
-   "title": "Premier League: Key talking points heading into the new 2026-27 season",
-   "link": "https://www.aljazeera.com/sports/2026/8/16/premier-league-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-16T10:33:42.000Z"
-  },
-  {
    "title": "Latest news bulletin | August 16th, 2026 – Midday",
    "link": "http://www.euronews.com/video/2026/08/16/latest-news-bulletin-august-16th-2026-midday",
    "source": "Euronews",
    "date": "2026-08-16T10:00:16.000Z"
   },
   {
-   "title": "Show HN: Grafana agent observability for Hermes Agent",
-   "link": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes",
-   "source": "Hacker News",
-   "date": "2026-08-16T08:40:50.000Z"
-  },
-  {
-   "title": "What happens when an LLM never sees material beyond fifth grade?",
-   "link": "https://littlelearner-ll.github.io/",
-   "source": "Hacker News",
-   "date": "2026-08-16T07:37:53.000Z"
+   "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+   "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-16T09:27:58.000Z"
   },
   {
    "title": "At least 12 people killed in Polish tourist bus crash in Hungary",
@@ -138,12 +144,6 @@
    "link": "http://www.euronews.com/video/2026/08/16/latest-news-bulletin-august-16th-2026-morning",
    "source": "Euronews",
    "date": "2026-08-16T05:00:33.000Z"
-  },
-  {
-   "title": "Morocco detains dozens of migrants trying to cross into Ceuta, reports say",
-   "link": "https://www.bbc.co.uk/news/articles/ckg44x2ey1ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-15T20:58:31.000Z"
   },
   {
    "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",

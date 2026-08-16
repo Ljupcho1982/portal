@@ -1,6 +1,30 @@
 {
- "updated": "2026-08-16T04:00:43.668Z",
+ "updated": "2026-08-16T04:50:19.629Z",
  "items": [
+  {
+   "title": "The quirky personal homepages of programming language creators",
+   "link": "https://breck.lol/plMakers.html",
+   "source": "Hacker News",
+   "date": "2026-08-16T04:24:00.000Z"
+  },
+  {
+   "title": "Rescuers search for survivors of powerful Indonesia earthquake",
+   "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-16T04:13:32.000Z"
+  },
+  {
+   "title": "Yemeni government forces hit back after new Houthi offensive",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-2026-houthis-yemen-sv?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-16T04:09:01.000Z"
+  },
+  {
+   "title": "I checked 30 frontier model cards. Here are the benchmarks labs report",
+   "link": "https://koutian.is-a.dev/benchmark-radar/?view=leaderboard",
+   "source": "Hacker News",
+   "date": "2026-08-16T04:02:38.000Z"
+  },
   {
    "title": "Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis",
    "link": "https://www.aljazeera.com/news/2026/8/16/who-killed-tupac-what-to-know-about-the-trial-of-duane-keffe-d-davis?traffic_source=rss",
@@ -54,30 +78,6 @@
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-16T00:50:12.000Z"
-  },
-  {
-   "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
-   "link": "https://www.micdrop.gg/",
-   "source": "Hacker News",
-   "date": "2026-08-16T00:46:29.000Z"
-  },
-  {
-   "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
-   "link": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-16T00:44:59.000Z"
-  },
-  {
-   "title": "Big Pickle on SWE Atlas – Codebase QnA",
-   "link": "https://github.com/PhillipChaffee/big-pickle-swe-atlas",
-   "source": "Hacker News",
-   "date": "2026-08-16T00:10:48.000Z"
-  },
-  {
-   "title": "Rescuers search for survivors of powerful Indonesia earthquake",
-   "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-15T21:49:12.000Z"
   },
   {
    "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",

@@ -1,6 +1,18 @@
 {
- "updated": "2026-08-16T01:57:37.634Z",
+ "updated": "2026-08-16T03:13:25.474Z",
  "items": [
+  {
+   "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-16T02:26:54.000Z"
+  },
+  {
+   "title": "As petrol prices soar, electric bikes gain ground in Nigeria",
+   "link": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-16T01:43:57.000Z"
+  },
   {
    "title": "Army drops roses on Syrian crowds in a far cry from war",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
@@ -8,10 +20,28 @@
    "date": "2026-08-16T00:50:12.000Z"
   },
   {
+   "title": "Show HN: Mic Drop, a real-time multiplayer karaoke game",
+   "link": "https://www.micdrop.gg/",
+   "source": "Hacker News",
+   "date": "2026-08-16T00:46:29.000Z"
+  },
+  {
    "title": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
    "link": "https://www.aljazeera.com/news/2026/8/16/hamas-leader-heads-to-cairo-for-gaza-talks-ahead-of-kushner-visit?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-16T00:44:59.000Z"
+  },
+  {
+   "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
+   "link": "https://waku.sh",
+   "source": "Hacker News",
+   "date": "2026-08-16T00:38:44.000Z"
+  },
+  {
+   "title": "Big Pickle on SWE Atlas – Codebase QnA",
+   "link": "https://github.com/PhillipChaffee/big-pickle-swe-atlas",
+   "source": "Hacker News",
+   "date": "2026-08-16T00:10:48.000Z"
   },
   {
    "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
@@ -32,52 +62,22 @@
    "date": "2026-08-15T23:27:10.000Z"
   },
   {
-   "title": "At least five reported dead amid flooding in US state of Indiana",
-   "link": "https://www.aljazeera.com/news/2026/8/15/at-least-five-reported-dead-amid-flooding-in-us-state-of-indiana?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T23:19:34.000Z"
-  },
-  {
-   "title": "Colombia asks Trump to suspend tariffs as country reels from earthquake",
-   "link": "https://www.aljazeera.com/news/2026/8/15/colombia-asks-trump-to-suspend-tariffs-as-country-reels-from-earthquake?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T23:04:47.000Z"
-  },
-  {
-   "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
-   "link": "https://sugartrack-beta.vercel.app/",
+   "title": "Decoding smell: Study reveals how odor signals shapeshift in the wind",
+   "link": "https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind",
    "source": "Hacker News",
-   "date": "2026-08-15T22:28:14.000Z"
+   "date": "2026-08-15T22:55:50.000Z"
   },
   {
-   "title": "Modeling and Verification of Keeta's Consensus [pdf]",
-   "link": "https://xescu.re/keeta-consensus.pdf",
+   "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+   "link": "https://arxiv.org/abs/2608.13122",
    "source": "Hacker News",
-   "date": "2026-08-15T21:49:45.000Z"
+   "date": "2026-08-15T22:41:51.000Z"
   },
   {
    "title": "Rescuers search for survivors of powerful Indonesia earthquake",
    "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-15T21:49:12.000Z"
-  },
-  {
-   "title": "Were Touch Bar's problems software rather than hardware?",
-   "link": "https://unsung.aresluna.org/deeper-dive-were-touch-bars-problems-software-rather-than-hardware/",
-   "source": "Hacker News",
-   "date": "2026-08-15T21:47:56.000Z"
-  },
-  {
-   "title": "Bede Liu, a digital signal processing pioneer, has died",
-   "link": "https://spectrum.ieee.org/digital-signal-processing",
-   "source": "Hacker News",
-   "date": "2026-08-15T21:45:54.000Z"
-  },
-  {
-   "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
-   "link": "https://en.wikipedia.org/wiki/Wow!_signal",
-   "source": "Hacker News",
-   "date": "2026-08-15T21:42:47.000Z"
   },
   {
    "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",

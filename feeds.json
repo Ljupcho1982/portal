@@ -1,6 +1,30 @@
 {
- "updated": "2026-08-16T03:13:25.474Z",
+ "updated": "2026-08-16T04:00:43.668Z",
  "items": [
+  {
+   "title": "Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis",
+   "link": "https://www.aljazeera.com/news/2026/8/16/who-killed-tupac-what-to-know-about-the-trial-of-duane-keffe-d-davis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-16T03:47:43.000Z"
+  },
+  {
+   "title": "Observers say Zambia’s election marred by reports of intimidation, violence",
+   "link": "https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-16T03:39:32.000Z"
+  },
+  {
+   "title": "Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb",
+   "link": "https://nntaleb.substack.com/p/have-another-drink",
+   "source": "Hacker News",
+   "date": "2026-08-16T03:23:34.000Z"
+  },
+  {
+   "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
+   "link": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
+   "source": "Hacker News",
+   "date": "2026-08-16T02:36:10.000Z"
+  },
   {
    "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
@@ -8,10 +32,22 @@
    "date": "2026-08-16T02:26:54.000Z"
   },
   {
+   "title": "Patterns and problems in emerging multi-agent systems",
+   "link": "https://www.anthropic.com/research/multiagent-systems",
+   "source": "Hacker News",
+   "date": "2026-08-16T02:12:53.000Z"
+  },
+  {
    "title": "As petrol prices soar, electric bikes gain ground in Nigeria",
    "link": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-16T01:43:57.000Z"
+  },
+  {
+   "title": "Guiding Ships with Moire Patterns",
+   "link": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
+   "source": "Hacker News",
+   "date": "2026-08-16T01:26:44.000Z"
   },
   {
    "title": "Army drops roses on Syrian crowds in a far cry from war",
@@ -32,46 +68,10 @@
    "date": "2026-08-16T00:44:59.000Z"
   },
   {
-   "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
-   "link": "https://waku.sh",
-   "source": "Hacker News",
-   "date": "2026-08-16T00:38:44.000Z"
-  },
-  {
    "title": "Big Pickle on SWE Atlas – Codebase QnA",
    "link": "https://github.com/PhillipChaffee/big-pickle-swe-atlas",
    "source": "Hacker News",
    "date": "2026-08-16T00:10:48.000Z"
-  },
-  {
-   "title": "Iran war live: Talks on Hormuz Strait continue; Israel kills 11 in Lebanon",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/8/16/iran-war-live-talks-on-hormuz-strait-continue-israel-kills-11-in-lebanon?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-16T00:00:45.000Z"
-  },
-  {
-   "title": "Tea5767-Radio-Tuner",
-   "link": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
-   "source": "Hacker News",
-   "date": "2026-08-15T23:54:35.000Z"
-  },
-  {
-   "title": "Yemen’s government says Houthi strikes hit residential areas in Marib",
-   "link": "https://www.aljazeera.com/news/2026/8/15/yemens-government-says-houthi-strikes-hit-residential-areas-in-marib?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-15T23:27:10.000Z"
-  },
-  {
-   "title": "Decoding smell: Study reveals how odor signals shapeshift in the wind",
-   "link": "https://www.colorado.edu/today/2026/08/10/decoding-smell-study-reveals-how-odor-signals-shapeshift-wind",
-   "source": "Hacker News",
-   "date": "2026-08-15T22:55:50.000Z"
-  },
-  {
-   "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-   "link": "https://arxiv.org/abs/2608.13122",
-   "source": "Hacker News",
-   "date": "2026-08-15T22:41:51.000Z"
   },
   {
    "title": "Rescuers search for survivors of powerful Indonesia earthquake",

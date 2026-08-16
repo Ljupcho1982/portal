@@ -1,17 +1,65 @@
 {
- "updated": "2026-08-16T20:38:24.989Z",
+ "updated": "2026-08-16T21:34:13.876Z",
  "items": [
   {
-   "title": "Senegal’s Saint-Louis Regatta keeps centuries of tradition alive",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-16T20:04:51.000Z"
+   "title": "Trump says US will scale back military drills with South Korea",
+   "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-16T21:27:42.000Z"
   },
   {
-   "title": "Anti-corruption raids in Baghdad as dozens of officials arrested",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
+   "title": "Anwar Ibrahim: Malaysia between the superpowers",
+   "link": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-08-16T20:02:09.000Z"
+   "date": "2026-08-16T21:23:03.000Z"
+  },
+  {
+   "title": "Death toll rises to 84 from capsized ferry in Zimbabwe",
+   "link": "https://www.aljazeera.com/news/2026/8/16/death-toll-rises-to-84-from-capsized-ferry-in-zimbabwe?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-16T21:03:53.000Z"
+  },
+  {
+   "title": "Israelis harass Palestinian-owned cafe in Iceland, tear down Palestine map",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israelis-harass-palestinian-owned-cafe-in-iceland-tear-down-palestine-map?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-16T21:02:08.000Z"
+  },
+  {
+   "title": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-16T20:55:19.000Z"
+  },
+  {
+   "title": "US admiral praises USS Lincoln crew amid reported mental health concerns",
+   "link": "https://www.aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-16T20:46:01.000Z"
+  },
+  {
+   "title": "The Case Against Formal Verification, 50 Years Later",
+   "link": "https://ivan-gavran.github.io/0-social-processes-paper",
+   "source": "Hacker News",
+   "date": "2026-08-16T20:38:58.000Z"
+  },
+  {
+   "title": "Brazil: Lula, Bolsonaro return to strongholds to launch runs for president",
+   "link": "https://www.aljazeera.com/news/2026/8/16/brazil-lula-bolsonaro-return-to-strongholds-to-launch-runs-for-president?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-16T20:36:32.000Z"
+  },
+  {
+   "title": "Stripe Clinches over $7B Deal to Buy AI Firm OpenRouter",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
+   "source": "Hacker News",
+   "date": "2026-08-16T20:31:16.000Z"
+  },
+  {
+   "title": "ICE Shot a Journalist and Threw Him in Detention. He's Approaching 300 Days",
+   "link": "https://theintercept.com/2026/08/16/ricardo-parias-ice-detention-journalist-los-angeles/",
+   "source": "Hacker News",
+   "date": "2026-08-16T20:05:24.000Z"
   },
   {
    "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
@@ -30,24 +78,6 @@
    "link": "https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/",
    "source": "Hacker News",
    "date": "2026-08-16T19:41:18.000Z"
-  },
-  {
-   "title": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-16T19:29:31.000Z"
-  },
-  {
-   "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
-   "link": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-16T19:23:28.000Z"
-  },
-  {
-   "title": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-16T19:18:24.000Z"
   },
   {
    "title": "Models Are Getting Dumber on Purpose",
@@ -86,40 +116,10 @@
    "date": "2026-08-16T18:44:41.000Z"
   },
   {
-   "title": "MathCode, Mathematical Coding Agent",
-   "link": "https://math-ai-org.github.io/mathcode/",
-   "source": "Hacker News",
-   "date": "2026-08-16T18:17:10.000Z"
-  },
-  {
-   "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
-   "link": "https://news.ycombinator.com/item?id=49322107",
-   "source": "Hacker News",
-   "date": "2026-08-16T17:49:46.000Z"
-  },
-  {
-   "title": "Former Israeli captive asks Ben-Gvir to let him execute Palestinian prisone",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/former-israeli-captive-asks-ben-gvir-to-let-him-execute-palestinian-prisone?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-16T17:46:21.000Z"
-  },
-  {
-   "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-   "link": "https://rvembedded.com/blog_post/12/",
-   "source": "Hacker News",
-   "date": "2026-08-16T17:01:07.000Z"
-  },
-  {
    "title": "Latest news bulletin | August 16th, 2026 – Evening",
    "link": "http://www.euronews.com/video/2026/08/16/latest-news-bulletin-august-16th-2026-evening",
    "source": "Euronews",
    "date": "2026-08-16T16:00:29.000Z"
-  },
-  {
-   "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
-   "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-16T12:37:21.000Z"
   },
   {
    "title": "World’s Ugliest Dog contest crowns its 2026 winner",

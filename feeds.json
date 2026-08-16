@@ -1,6 +1,36 @@
 {
- "updated": "2026-08-16T04:50:19.629Z",
+ "updated": "2026-08-16T05:43:38.284Z",
  "items": [
+  {
+   "title": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
+   "link": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-16T05:14:00.000Z"
+  },
+  {
+   "title": "Latest news bulletin | August 16th, 2026 – Morning",
+   "link": "http://www.euronews.com/video/2026/08/16/latest-news-bulletin-august-16th-2026-morning",
+   "source": "Euronews",
+   "date": "2026-08-16T05:00:33.000Z"
+  },
+  {
+   "title": "Russian strikes kill Ukrainian woman as NATO jet downs drone over Romania",
+   "link": "https://www.aljazeera.com/news/2026/8/16/russian-strikes-kill-ukrainian-woman-as-nato-jet-downs-drone-over-romania?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-16T04:54:33.000Z"
+  },
+  {
+   "title": "Israel strikes south Lebanon again as families flee north",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-16T04:43:21.000Z"
+  },
+  {
+   "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
+   "link": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-16T04:35:26.000Z"
+  },
   {
    "title": "The quirky personal homepages of programming language creators",
    "link": "https://breck.lol/plMakers.html",
@@ -20,10 +50,10 @@
    "date": "2026-08-16T04:09:01.000Z"
   },
   {
-   "title": "I checked 30 frontier model cards. Here are the benchmarks labs report",
-   "link": "https://koutian.is-a.dev/benchmark-radar/?view=leaderboard",
+   "title": "21,000 MCP servers exposed: the protocol reaches a security inflection point",
+   "link": "https://forkast.news/the-model-context-protocol-reaches-a-security-inflection-point/",
    "source": "Hacker News",
-   "date": "2026-08-16T04:02:38.000Z"
+   "date": "2026-08-16T04:07:18.000Z"
   },
   {
    "title": "Who killed Tupac? What to know about the trial of Duane ‘Keffe D’ Davis",
@@ -32,10 +62,10 @@
    "date": "2026-08-16T03:47:43.000Z"
   },
   {
-   "title": "Observers say Zambia’s election marred by reports of intimidation, violence",
-   "link": "https://www.aljazeera.com/news/2026/8/16/observers-say-zambias-election-marred-by-reports-of-intimidation-violence?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-16T03:39:32.000Z"
+   "title": "Targeted marine cloud brightening weakens subsequent El Niño",
+   "link": "https://www.science.org/doi/10.1126/sciadv.adx3012",
+   "source": "Hacker News",
+   "date": "2026-08-16T03:40:05.000Z"
   },
   {
    "title": "Government sponsored study on alcohol doesn't stand up to scrutiny: Nassim Taleb",
@@ -44,40 +74,16 @@
    "date": "2026-08-16T03:23:34.000Z"
   },
   {
+   "title": "ProofRun – a local verification receipt for AI coding agents",
+   "link": "https://github.com/yebiguo/ProofRun",
+   "source": "Hacker News",
+   "date": "2026-08-16T03:22:15.000Z"
+  },
+  {
    "title": "Zapping Rocks Unlocks Stimulated Geologic Hydrogen",
    "link": "https://spectrum.ieee.org/stimulated-geologic-hydrogen",
    "source": "Hacker News",
    "date": "2026-08-16T02:36:10.000Z"
-  },
-  {
-   "title": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-16T02:26:54.000Z"
-  },
-  {
-   "title": "Patterns and problems in emerging multi-agent systems",
-   "link": "https://www.anthropic.com/research/multiagent-systems",
-   "source": "Hacker News",
-   "date": "2026-08-16T02:12:53.000Z"
-  },
-  {
-   "title": "As petrol prices soar, electric bikes gain ground in Nigeria",
-   "link": "https://www.aljazeera.com/news/2026/8/16/as-petrol-prices-soar-electric-bikes-gain-ground-in-nigeria?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-16T01:43:57.000Z"
-  },
-  {
-   "title": "Guiding Ships with Moire Patterns",
-   "link": "https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/",
-   "source": "Hacker News",
-   "date": "2026-08-16T01:26:44.000Z"
-  },
-  {
-   "title": "Army drops roses on Syrian crowds in a far cry from war",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/08-16-26-damascus-summer-festival-sv?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-16T00:50:12.000Z"
   },
   {
    "title": "Qatar denies capturing three Iranian pilots after downing fighter jets",
@@ -150,12 +156,6 @@
    "link": "http://www.euronews.com/video/2026/08/15/watch-chaos-as-powerful-earthquake-hits-indonesia",
    "source": "Euronews",
    "date": "2026-08-15T09:26:28.000Z"
-  },
-  {
-   "title": "Powerful 7.7-magnitude earthquake strikes Indonesia, killing at least 40",
-   "link": "http://www.euronews.com/2026/08/15/powerful-77-magnitude-earthquake-strikes-indonesia-killing-at-least-20",
-   "source": "Euronews",
-   "date": "2026-08-15T07:46:18.000Z"
   },
   {
    "title": "Ontario free to axe Toronto bike lanes, region’s top court rules",

@@ -1,11 +1,11 @@
 {
- "updated": "2026-08-16T22:37:04.836Z",
+ "updated": "2026-08-16T23:34:28.707Z",
  "items": [
   {
    "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
    "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-08-16T22:34:10.000Z"
+   "date": "2026-08-16T23:28:14.000Z"
   },
   {
    "title": "What could stop Israeli settler attacks on Palestinians?",
@@ -20,16 +20,16 @@
    "date": "2026-08-16T21:53:43.000Z"
   },
   {
-   "title": "Claude Seems Down",
-   "link": "https://news.ycombinator.com/item?id=49324078",
-   "source": "Hacker News",
-   "date": "2026-08-16T21:52:59.000Z"
-  },
-  {
    "title": "Hundreds of migrants arrested near Ceuta border in latest crackdown",
    "link": "https://www.aljazeera.com/news/2026/8/16/hundreds-of-migrants-arrested-near-ceuta-border-in-latest-crackdown?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-16T21:51:39.000Z"
+  },
+  {
+   "title": "Stop Turning every purchase into a tip request",
+   "link": "https://www.foxnews.com/opinion/america-needs-stop-turning-every-purchase-uncomfortable-tip-request",
+   "source": "Hacker News",
+   "date": "2026-08-16T21:28:59.000Z"
   },
   {
    "title": "Anwar Ibrahim: Malaysia between the superpowers",
@@ -56,12 +56,6 @@
    "date": "2026-08-16T21:02:08.000Z"
   },
   {
-   "title": "Anthropic IPO valuation hinges on $190-200B 2028 revenue forecast",
-   "link": "https://www.reuters.com/business/anthropic-ipo-valuation-hinges-190-200-billion-2028-revenue-forecast-sources-say-2026-08-15/",
-   "source": "Hacker News",
-   "date": "2026-08-16T21:00:25.000Z"
-  },
-  {
    "title": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
    "source": "Al Jazeera",
@@ -78,6 +72,12 @@
    "link": "https://www.bloomberg.com/news/articles/2026-08-16/stripe-nears-deal-to-buy-ai-firm-openrouter-for-over-7-billion",
    "source": "Hacker News",
    "date": "2026-08-16T20:31:16.000Z"
+  },
+  {
+   "title": "An open-source, candle-only crypto pump detector–looking for ML contributors",
+   "link": "https://github.com/aleks-ent/pump-dump-crypto-screener",
+   "source": "Hacker News",
+   "date": "2026-08-16T20:16:30.000Z"
   },
   {
    "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",

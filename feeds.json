@@ -1,6 +1,60 @@
 {
- "updated": "2026-08-16T19:34:01.669Z",
+ "updated": "2026-08-16T20:38:24.989Z",
  "items": [
+  {
+   "title": "Senegal’s Saint-Louis Regatta keeps centuries of tradition alive",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-sv-senegal-boat-tradition-sn?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-16T20:04:51.000Z"
+  },
+  {
+   "title": "Anti-corruption raids in Baghdad as dozens of officials arrested",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-16T20:02:09.000Z"
+  },
+  {
+   "title": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+   "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-16T19:58:14.000Z"
+  },
+  {
+   "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+   "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-16T19:50:36.000Z"
+  },
+  {
+   "title": "The Trumps' Crypto Project Just Got One Step Closer to Becoming a Bank",
+   "link": "https://www.motherjones.com/politics/2026/08/donald-trump-world-liberty-regulatory-approval/",
+   "source": "Hacker News",
+   "date": "2026-08-16T19:41:18.000Z"
+  },
+  {
+   "title": "Erdogan says Israeli attacks on Lebanon are a serious concern for Türkiye",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/erdogan-says-israeli-attacks-on-lebanon-are-a-serious-concern-for-turkiye?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-16T19:29:31.000Z"
+  },
+  {
+   "title": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
+   "link": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-16T19:23:28.000Z"
+  },
+  {
+   "title": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-16T19:18:24.000Z"
+  },
+  {
+   "title": "Models Are Getting Dumber on Purpose",
+   "link": "https://w4g1.dev/blog/models-are-getting-dumber-on-purpose",
+   "source": "Hacker News",
+   "date": "2026-08-16T19:04:26.000Z"
+  },
   {
    "title": "Russia says at least seven killed in largest Ukrainian attack of 2026",
    "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
@@ -12,6 +66,12 @@
    "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-16T19:00:23.000Z"
+  },
+  {
+   "title": "Protobuf has LSP support. You're welcome",
+   "link": "https://buf.build/blog/protobuf-lsp",
+   "source": "Hacker News",
+   "date": "2026-08-16T18:48:27.000Z"
   },
   {
    "title": "One dead, homes swept away after Hurricane Lala lashes Hawaii",
@@ -44,70 +104,16 @@
    "date": "2026-08-16T17:46:21.000Z"
   },
   {
-   "title": "Israeli army besieges Palestinian homes in occupied West Bank",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israeli-army-besieges-palestinian-homes-in-occupied-west-bank?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-16T17:45:52.000Z"
-  },
-  {
-   "title": "Two dead and hundreds evacuated as twin fires break out on Greek island",
-   "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-16T17:44:23.000Z"
-  },
-  {
-   "title": "Why are sandwiches more regulated than AI?",
-   "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/16/why-are-sandwiches-more-regulated-than-ai?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-16T17:36:02.000Z"
-  },
-  {
-   "title": "‘Water and salt’: Qusra residents trapped in Israeli settler siege",
-   "link": "https://www.aljazeera.com/news/2026/8/16/water-and-salt-qusra-residents-trapped-in-israeli-settler-siege?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-16T17:18:00.000Z"
-  },
-  {
-   "title": "Cristiano Ronaldo hints at retirement at end of season",
-   "link": "https://www.aljazeera.com/sports/2026/8/16/cristiano-ronaldo-hints-at-retirement-at-the-end-of-the-football-season?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-16T17:03:18.000Z"
-  },
-  {
    "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
    "link": "https://rvembedded.com/blog_post/12/",
    "source": "Hacker News",
    "date": "2026-08-16T17:01:07.000Z"
   },
   {
-   "title": "Arsenal cruise to win over Manchester City in Community Shield",
-   "link": "https://www.aljazeera.com/sports/2026/8/16/arsenal-cruise-to-3-0-win-over-manchester-city-in-community-shield?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-16T16:17:36.000Z"
-  },
-  {
-   "title": "NIH is ending a key grant for budding clinical researchers",
-   "link": "https://www.science.org/content/article/nih-ending-key-grant-budding-clinical-researchers",
-   "source": "Hacker News",
-   "date": "2026-08-16T16:14:55.000Z"
-  },
-  {
    "title": "Latest news bulletin | August 16th, 2026 – Evening",
    "link": "http://www.euronews.com/video/2026/08/16/latest-news-bulletin-august-16th-2026-evening",
    "source": "Euronews",
    "date": "2026-08-16T16:00:29.000Z"
-  },
-  {
-   "title": "The weekend is 100 years old",
-   "link": "https://www.theguardian.com/money/2026/aug/16/the-weekend-is-100-years-old-skiveday-fridays-and-hybrid-working-ruined-it",
-   "source": "Hacker News",
-   "date": "2026-08-16T15:30:15.000Z"
-  },
-  {
-   "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-   "link": "https://www.wptv.com/news/treasure-coast/region-st-lucie-county/saint-lucie-nuclear-power-plant-unit-1-manually-shut-down-after-3-control-rods-drop-into-reactor-core",
-   "source": "Hacker News",
-   "date": "2026-08-16T15:16:06.000Z"
   },
   {
    "title": "Thousands displaced by deadly Indonesia earthquake as rescue efforts continue",
@@ -132,12 +138,6 @@
    "link": "http://www.euronews.com/2026/08/16/taliban-mark-five-year-anniversary-of-regaining-power-in-afghanistan",
    "source": "Euronews",
    "date": "2026-08-16T11:57:24.000Z"
-  },
-  {
-   "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-   "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-16T10:53:50.000Z"
   },
   {
    "title": "Latest news bulletin | August 16th, 2026 – Midday",

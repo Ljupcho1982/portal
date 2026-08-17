@@ -1,35 +1,113 @@
 {
- "updated": "2026-08-17T17:45:15.496Z",
+ "updated": "2026-08-17T18:57:57.289Z",
  "items": [
   {
-   "title": "Tributes paid to Hayden Panettiere's 'amazing talent' after actress dies at 36",
+   "title": "Russia maintains election ban on opposition Yabloko, jails deputy head",
+   "link": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-17T18:46:12.000Z"
+  },
+  {
+   "title": "The Lonely Men Who Work in Patagonia, at the End of the World",
+   "link": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
+   "source": "Hacker News",
+   "date": "2026-08-17T18:34:09.000Z"
+  },
+  {
+   "title": "US Supreme Court again rejects Trump's request to overturn sex assault judgement",
+   "link": "http://www.euronews.com/2026/08/17/us-supreme-court-again-rejects-trumps-request-to-overturn-sex-assault-judgement",
+   "source": "Euronews",
+   "date": "2026-08-17T18:15:51.000Z"
+  },
+  {
+   "title": "How I Over-Engineered My Book",
+   "link": "https://ben.balter.com/2026/08/17/how-i-over-engineered-my-book/",
+   "source": "Hacker News",
+   "date": "2026-08-17T18:15:27.000Z"
+  },
+  {
+   "title": "Meta faces 'astronomical' consequences as legal fight reaches critical moment",
+   "link": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+   "source": "Hacker News",
+   "date": "2026-08-17T18:06:30.000Z"
+  },
+  {
+   "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
+   "link": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-17T18:03:23.000Z"
+  },
+  {
+   "title": "CAIR slams Texas governor’s ‘anti-Muslim stunt’ on airport washing stations",
+   "link": "https://www.aljazeera.com/news/2026/8/17/cair-slams-texas-governors-anti-muslim-stunt-on-airport-washing-stations?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-17T18:02:15.000Z"
+  },
+  {
+   "title": "French PM heckled over wildfire response as blazes continue across Europe",
+   "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-17T18:00:55.000Z"
+  },
+  {
+   "title": "Kushner's Gaza peace plan talks end without breakthrough",
+   "link": "http://www.euronews.com/2026/08/17/kushners-gaza-peace-plan-talks-end-without-breakthrough",
+   "source": "Euronews",
+   "date": "2026-08-17T18:00:17.000Z"
+  },
+  {
+   "title": "Llama.cpp v0.1.0",
+   "link": "https://github.com/ggml-org/llama.cpp/releases/tag/v0.1.0",
+   "source": "Hacker News",
+   "date": "2026-08-17T17:56:06.000Z"
+  },
+  {
+   "title": "We Are Forking dotenvy into dotenv-ng",
+   "link": "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/",
+   "source": "Hacker News",
+   "date": "2026-08-17T17:55:24.000Z"
+  },
+  {
+   "title": "GPU Offload in Rust: Portable, Safe, and Fast",
+   "link": "https://arxiv.org/abs/2608.13759",
+   "source": "Hacker News",
+   "date": "2026-08-17T17:54:59.000Z"
+  },
+  {
+   "title": "Russia upholds Yabloko party's election ban and jails its deputy chair",
+   "link": "http://www.euronews.com/2026/08/17/russia-upholds-yabloko-partys-election-ban-and-jails-its-deputy-chair",
+   "source": "Euronews",
+   "date": "2026-08-17T17:51:07.000Z"
+  },
+  {
+   "title": "Clashes between government and opposition fighters in Somalia’s Baidoa",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/clashes-between-government-and-opposition-fighters-in-somalias-baidoa?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-17T17:42:02.000Z"
+  },
+  {
+   "title": "Syria launches probe into death of ‘White Helmet’ rescuer in police custody",
+   "link": "https://www.aljazeera.com/news/2026/8/17/syria-launches-probe-into-death-of-man-in-police-custody?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-17T17:37:31.000Z"
+  },
+  {
+   "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
    "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-17T17:31:36.000Z"
   },
   {
-   "title": "Netanyahu’s Likud Party holds primaries ahead of Israel’s general elections",
-   "link": "https://www.aljazeera.com/news/2026/8/17/netanyahus-likud-party-holds-primaries-ahead-of-israels-general-elections?traffic_source=rss",
+   "title": "Explosion reported at school in Afghan capital Kabul",
+   "link": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-08-17T17:07:29.000Z"
+   "date": "2026-08-17T17:30:11.000Z"
   },
   {
-   "title": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
+   "title": "Britain deploys military as wildfires spread across Europe",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/britain-deploys-military-as-wildfires-spread-across-europe?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-08-17T16:50:15.000Z"
-  },
-  {
-   "title": "British PM Burnham duped by White House impostor",
-   "link": "https://www.aljazeera.com/news/2026/8/17/british-pm-burnham-duped-by-white-house-impostor?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-17T16:48:24.000Z"
-  },
-  {
-   "title": "Buy Your Friends Batteries",
-   "link": "https://domenkozar.com/2026/08/17/buy-your-friends-batteries/",
-   "source": "Hacker News",
-   "date": "2026-08-17T16:45:11.000Z"
+   "date": "2026-08-17T17:25:37.000Z"
   },
   {
    "title": "Tokyo festival turns streets into a giant water fight",
@@ -38,28 +116,10 @@
    "date": "2026-08-17T16:39:36.000Z"
   },
   {
-   "title": "Sun Clock",
-   "link": "https://sunclock.net/",
-   "source": "Hacker News",
-   "date": "2026-08-17T16:37:54.000Z"
-  },
-  {
-   "title": "War on Iran: Phase II, Day 37",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/war-on-iran-phase-ii-day-37?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-17T16:27:48.000Z"
-  },
-  {
    "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
    "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-17T16:26:34.000Z"
-  },
-  {
-   "title": "Somali army clashes with rebel forces for control of key city Baidoa",
-   "link": "https://www.aljazeera.com/news/2026/8/17/somali-army-clashes-with-rebel-forces-for-control-of-key-city-baidoa?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-17T16:24:43.000Z"
   },
   {
    "title": "Russia's prominent anti-war politician jailed for 11 years",
@@ -68,22 +128,10 @@
    "date": "2026-08-17T16:17:34.000Z"
   },
   {
-   "title": "Democrats rebuke Trump over scaling back military drills with South Korea",
-   "link": "https://www.aljazeera.com/news/2026/8/17/democrats-rebuke-trump-over-scaling-back-military-drills-with-south-korea?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-17T16:14:07.000Z"
-  },
-  {
    "title": "Latest news bulletin | August 17th, 2026 – Evening",
    "link": "http://www.euronews.com/video/2026/08/17/latest-news-bulletin-august-17th-2026-evening",
    "source": "Euronews",
    "date": "2026-08-17T16:00:29.000Z"
-  },
-  {
-   "title": "Universal Health Coverage Could Save $1T and 114k Lives a Year, Yale Study",
-   "link": "https://ysph.yale.edu/news-article/universal-health-coverage-could-save-one-trillion-dollars-and-114000-lives-every-year/",
-   "source": "Hacker News",
-   "date": "2026-08-17T15:49:57.000Z"
   },
   {
    "title": "7,200 eggs cracked for giant omelette at Belgian festival",
@@ -92,64 +140,16 @@
    "date": "2026-08-17T15:39:12.000Z"
   },
   {
-   "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-   "link": "https://speko.ai/",
-   "source": "Hacker News",
-   "date": "2026-08-17T15:36:18.000Z"
-  },
-  {
-   "title": "Anthropic's War on open source AI",
-   "link": "https://twitter.com/TheAhmadOsman/status/2065307070044234186",
-   "source": "Hacker News",
-   "date": "2026-08-17T15:24:34.000Z"
-  },
-  {
-   "title": "Hayden Panettiere: Authorities investigating cause of death as US media speculate on 'overdose'",
-   "link": "http://www.euronews.com/2026/08/17/hayden-panettiere-authorities-investigating-cause-of-death-as-us-media-speculate-on-overdo",
-   "source": "Euronews",
-   "date": "2026-08-17T15:22:36.000Z"
-  },
-  {
-   "title": "The only known trebuchet casualty in history",
-   "link": "https://arstechnica.com/science/2026/08/meet-the-only-known-trebuchet-casualty-in-history/",
-   "source": "Hacker News",
-   "date": "2026-08-17T14:26:19.000Z"
-  },
-  {
    "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",
    "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
    "source": "Guardian World",
    "date": "2026-08-17T14:07:31.000Z"
   },
   {
-   "title": "Trump threatens to bomb Oman if it impedes US-Iran Strait of Hormuz talks",
-   "link": "http://www.euronews.com/2026/08/17/trump-threatens-to-bomb-oman-if-it-impedes-us-iran-strait-of-hormuz-talks",
-   "source": "Euronews",
-   "date": "2026-08-17T13:28:15.000Z"
-  },
-  {
    "title": "Russia and Ukraine trade more deadly strikes",
    "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-17T13:16:50.000Z"
-  },
-  {
-   "title": "Venezuela seeks return of 31 tonnes of gold worth €4bn from Bank of England",
-   "link": "http://www.euronews.com/2026/08/17/venezuela-seeks-return-of-31-tonnes-of-gold-worth-4bn-from-bank-of-england",
-   "source": "Euronews",
-   "date": "2026-08-17T13:09:27.000Z"
-  },
-  {
-   "title": "US hiker dies after being struck by lightning on Mount Etna",
-   "link": "https://www.bbc.co.uk/news/articles/ce34rlkw6q7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-17T12:23:26.000Z"
-  },
-  {
-   "title": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
-   "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-17T06:24:31.000Z"
   },
   {
    "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",

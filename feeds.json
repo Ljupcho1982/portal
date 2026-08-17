@@ -1,6 +1,48 @@
 {
- "updated": "2026-08-17T20:44:08.228Z",
+ "updated": "2026-08-17T21:41:21.756Z",
  "items": [
+  {
+   "title": "Palestinian American reunites with family under siege in West Bank",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-17T20:57:19.000Z"
+  },
+  {
+   "title": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
+   "link": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-17T20:54:03.000Z"
+  },
+  {
+   "title": "Trump says Iran will not make the deal he believes is necessary",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-17T20:49:30.000Z"
+  },
+  {
+   "title": "Trump loses second Supreme Court bid over E Jean Carroll sex abuse case",
+   "link": "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-17T20:46:34.000Z"
+  },
+  {
+   "title": "Torrential rains flood homes and roads across Lima, Peru",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/torrential-rains-flood-homes-and-roads-across-lima-peru?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-17T20:41:39.000Z"
+  },
+  {
+   "title": "Trump’s approval rating sinks to new low",
+   "link": "https://www.aljazeera.com/economy/2026/8/17/trumps-approval-rating-sinks-to-new-low?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-17T20:41:31.000Z"
+  },
+  {
+   "title": "The Origin of Consciousness (2008)",
+   "link": "https://blog.plover.com/brain/Jaynes.html",
+   "source": "Hacker News",
+   "date": "2026-08-17T20:12:58.000Z"
+  },
   {
    "title": "Will you have spent more of your life with computers than your family?",
    "link": "https://beachfront.bearblog.dev/will-you-have-spent-more-of-your-life-with-computers-than-your-family/",
@@ -12,18 +54,6 @@
    "link": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
    "source": "Hacker News",
    "date": "2026-08-17T19:47:15.000Z"
-  },
-  {
-   "title": "Why did Trump scale back war games with South Korea?",
-   "link": "https://www.aljazeera.com/video/inside-story/2026/8/17/why-did-trump-scale-back-war-games-with-south-korea?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-17T19:34:20.000Z"
-  },
-  {
-   "title": "Gaza flotilla sets sail from the UK in bid to break Israeli siege",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/gaza-flotilla-sets-sail-from-the-uk-in-bid-to-break-israeli-siege?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-17T19:32:06.000Z"
   },
   {
    "title": "Rhine River remains low amid ongoing drought in Germany",
@@ -44,37 +74,7 @@
    "date": "2026-08-17T19:25:05.000Z"
   },
   {
-   "title": "Photos: Search for Indonesia earthquake victims continues",
-   "link": "https://www.aljazeera.com/gallery/2026/8/17/photos-search-for-indonesia-earthquake-victims-continues?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-17T19:22:54.000Z"
-  },
-  {
-   "title": "At least 92 dead in Zimbabwe after Lake Kariba ferry disaster",
-   "link": "https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-17T19:12:19.000Z"
-  },
-  {
-   "title": "AirTag reveals Amazon is trashing rare books to train AI",
-   "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
-   "source": "Hacker News",
-   "date": "2026-08-17T19:06:11.000Z"
-  },
-  {
-   "title": "Russian politician sentenced to 11 years for opposing war in Ukraine",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-17T18:53:06.000Z"
-  },
-  {
-   "title": "Russia maintains election ban on opposition Yabloko, jails deputy head",
-   "link": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-17T18:46:12.000Z"
-  },
-  {
-   "title": "The Lonely Men Who Work in Patagonia, at the End of the World",
+   "title": "Los Puesteros, solitary men who look after ranches and livestock in Patagonia",
    "link": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
    "source": "Hacker News",
    "date": "2026-08-17T18:34:09.000Z"

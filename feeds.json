@@ -1,6 +1,36 @@
 {
- "updated": "2026-08-17T18:57:57.289Z",
+ "updated": "2026-08-17T19:42:36.683Z",
  "items": [
+  {
+   "title": "Rhine River remains low amid ongoing drought in Germany",
+   "link": "http://www.euronews.com/video/2026/08/17/rhine-river-remains-low-amid-ongoing-drought-in-germany",
+   "source": "Euronews",
+   "date": "2026-08-17T19:27:27.000Z"
+  },
+  {
+   "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+   "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-17T19:25:05.000Z"
+  },
+  {
+   "title": "Death toll from capsized ferry in Zimbabwe rises to 92",
+   "link": "https://www.aljazeera.com/news/2026/8/17/death-toll-from-capsized-ferry-in-zimbabwe-rises-to-92?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-17T19:12:19.000Z"
+  },
+  {
+   "title": "AirTag reveals Amazon is trashing rare books to train AI",
+   "link": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai/",
+   "source": "Hacker News",
+   "date": "2026-08-17T19:06:11.000Z"
+  },
+  {
+   "title": "Russian politician sentenced to 11 years for opposing war in Ukraine",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/russian-politician-sentenced-to-11-years-for-opposing-war-in-ukraine?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-17T18:53:06.000Z"
+  },
   {
    "title": "Russia maintains election ban on opposition Yabloko, jails deputy head",
    "link": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss",
@@ -12,6 +42,12 @@
    "link": "https://www.newyorker.com/culture/photo-booth/the-lonely-men-at-the-end-of-the-world",
    "source": "Hacker News",
    "date": "2026-08-17T18:34:09.000Z"
+  },
+  {
+   "title": "Roboflow Playground: Try and Compare 30 Computer Vision Models",
+   "link": "https://blog.roboflow.com/roboflow-playground/",
+   "source": "Hacker News",
+   "date": "2026-08-17T18:28:07.000Z"
   },
   {
    "title": "US Supreme Court again rejects Trump's request to overturn sex assault judgement",
@@ -26,10 +62,10 @@
    "date": "2026-08-17T18:15:27.000Z"
   },
   {
-   "title": "Meta faces 'astronomical' consequences as legal fight reaches critical moment",
-   "link": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+   "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+   "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
    "source": "Hacker News",
-   "date": "2026-08-17T18:06:30.000Z"
+   "date": "2026-08-17T18:10:16.000Z"
   },
   {
    "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
@@ -62,18 +98,6 @@
    "date": "2026-08-17T17:56:06.000Z"
   },
   {
-   "title": "We Are Forking dotenvy into dotenv-ng",
-   "link": "https://secretspec.dev/blog/we-are-forking-dotenvy-into-dotenv-ng/",
-   "source": "Hacker News",
-   "date": "2026-08-17T17:55:24.000Z"
-  },
-  {
-   "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-   "link": "https://arxiv.org/abs/2608.13759",
-   "source": "Hacker News",
-   "date": "2026-08-17T17:54:59.000Z"
-  },
-  {
    "title": "Russia upholds Yabloko party's election ban and jails its deputy chair",
    "link": "http://www.euronews.com/2026/08/17/russia-upholds-yabloko-partys-election-ban-and-jails-its-deputy-chair",
    "source": "Euronews",
@@ -98,28 +122,10 @@
    "date": "2026-08-17T17:31:36.000Z"
   },
   {
-   "title": "Explosion reported at school in Afghan capital Kabul",
-   "link": "https://www.aljazeera.com/news/2026/8/17/explosion-reported-at-school-in-afghan-capital-kabul?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-17T17:30:11.000Z"
-  },
-  {
-   "title": "Britain deploys military as wildfires spread across Europe",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/britain-deploys-military-as-wildfires-spread-across-europe?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-17T17:25:37.000Z"
-  },
-  {
    "title": "Tokyo festival turns streets into a giant water fight",
    "link": "http://www.euronews.com/video/2026/08/17/tokyo-festival-turns-streets-into-a-giant-water-fight",
    "source": "Euronews",
    "date": "2026-08-17T16:39:36.000Z"
-  },
-  {
-   "title": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-   "link": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-17T16:26:34.000Z"
   },
   {
    "title": "Russia's prominent anti-war politician jailed for 11 years",
@@ -132,12 +138,6 @@
    "link": "http://www.euronews.com/video/2026/08/17/latest-news-bulletin-august-17th-2026-evening",
    "source": "Euronews",
    "date": "2026-08-17T16:00:29.000Z"
-  },
-  {
-   "title": "7,200 eggs cracked for giant omelette at Belgian festival",
-   "link": "http://www.euronews.com/video/2026/08/17/7200-eggs-cracked-for-giant-omelette-at-belgian-festival",
-   "source": "Euronews",
-   "date": "2026-08-17T15:39:12.000Z"
   },
   {
    "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",

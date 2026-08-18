@@ -1,11 +1,41 @@
 {
- "updated": "2026-08-18T16:49:00.598Z",
+ "updated": "2026-08-18T17:43:50.137Z",
  "items": [
   {
-   "title": "Claude: Degraded Performance for Multiple Models",
+   "title": "Tropical Storm Lala leaves Hawaii flooded and without power",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/tropical-storm-lala-leaves-hawaii-flooded-and-without-power?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-18T17:22:38.000Z"
+  },
+  {
+   "title": "Italian town carries towering Virgin Mary structure through streets",
+   "link": "http://www.euronews.com/video/2026/08/18/italian-town-carries-towering-virgin-mary-structure-through-streets",
+   "source": "Euronews",
+   "date": "2026-08-18T17:15:48.000Z"
+  },
+  {
+   "title": "Why your Amazon order confirmation emails have become so unhelpful",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+   "source": "Hacker News",
+   "date": "2026-08-18T16:54:42.000Z"
+  },
+  {
+   "title": "Diesel Margins Top $100 a Barrel to Reach Record High as Supply Crunch Grows",
+   "link": "https://www.bloomberg.com/news/articles/2026-08-18/diesel-margins-top-100-a-barrel-to-reach-record-high-as-supply-crunch-grows",
+   "source": "Hacker News",
+   "date": "2026-08-18T16:40:07.000Z"
+  },
+  {
+   "title": "Degraded performance for multiple models",
    "link": "https://status.claude.com/incidents/q7txxvbsftgq",
    "source": "Hacker News",
    "date": "2026-08-18T16:28:20.000Z"
+  },
+  {
+   "title": "Superpowers, Not Superintelligence",
+   "link": "https://bond.now/news/superpowers-not-superintelligence",
+   "source": "Hacker News",
+   "date": "2026-08-18T16:27:41.000Z"
   },
   {
    "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
@@ -18,12 +48,6 @@
    "link": "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-18T16:21:49.000Z"
-  },
-  {
-   "title": "Apple announces changes for apps in the European Union",
-   "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
-   "source": "Hacker News",
-   "date": "2026-08-18T16:21:34.000Z"
   },
   {
    "title": "Champagne harvest starts early in France as heatwave speeds ripening",
@@ -68,34 +92,16 @@
    "date": "2026-08-18T15:53:38.000Z"
   },
   {
-   "title": "“I fear for my family’s lives” says Loui Ridi as settlers besiege home",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/i-fear-for-my-familys-lives-says-loui-ridi-as-settlers-besiege-home?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-18T15:53:12.000Z"
-  },
-  {
    "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
    "link": "https://github.com/therepanic/openleetcode",
    "source": "Hacker News",
    "date": "2026-08-18T15:30:40.000Z"
   },
   {
-   "title": "UAE issues alert warning of 'potential missile threats'",
+   "title": "UAE says Iran targeted its territory with two missiles after first alert in months",
    "link": "http://www.euronews.com/2026/08/18/uae-issues-alert-warning-of-potential-missile-threats",
    "source": "Euronews",
    "date": "2026-08-18T15:28:23.000Z"
-  },
-  {
-   "title": "Code-native generation of highly programmable 3D assets (2026)",
-   "link": "https://arxiv.org/abs/2607.22738",
-   "source": "Hacker News",
-   "date": "2026-08-18T14:54:44.000Z"
-  },
-  {
-   "title": "The coolest anti-surveillance tools at Defcon [video]",
-   "link": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
-   "source": "Hacker News",
-   "date": "2026-08-18T14:49:19.000Z"
   },
   {
    "title": "South Korea and Japan stress stress 'critical' US alliance as Trump slashes military drills",
@@ -126,12 +132,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-18T12:04:11.000Z"
-  },
-  {
-   "title": "Latest news bulletin | August 18th, 2026 – Midday",
-   "link": "http://www.euronews.com/video/2026/08/18/latest-news-bulletin-august-18th-2026-midday",
-   "source": "Euronews",
-   "date": "2026-08-18T10:00:16.000Z"
   },
   {
    "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",

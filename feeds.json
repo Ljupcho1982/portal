@@ -1,29 +1,89 @@
 {
- "updated": "2026-08-18T15:46:48.264Z",
+ "updated": "2026-08-18T16:49:00.598Z",
  "items": [
+  {
+   "title": "Claude: Degraded Performance for Multiple Models",
+   "link": "https://status.claude.com/incidents/q7txxvbsftgq",
+   "source": "Hacker News",
+   "date": "2026-08-18T16:28:20.000Z"
+  },
+  {
+   "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+   "link": "https://machine0.io",
+   "source": "Hacker News",
+   "date": "2026-08-18T16:26:42.000Z"
+  },
+  {
+   "title": "Iran prepares to keep economy alive as US threatens further sanctions",
+   "link": "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-18T16:21:49.000Z"
+  },
+  {
+   "title": "Apple announces changes for apps in the European Union",
+   "link": "https://www.apple.com/newsroom/2026/08/apple-announces-changes-for-apps-in-the-european-union/",
+   "source": "Hacker News",
+   "date": "2026-08-18T16:21:34.000Z"
+  },
+  {
+   "title": "Champagne harvest starts early in France as heatwave speeds ripening",
+   "link": "http://www.euronews.com/video/2026/08/18/champagne-harvest-starts-early-in-france-as-heatwave-speeds-ripening",
+   "source": "Euronews",
+   "date": "2026-08-18T16:15:25.000Z"
+  },
+  {
+   "title": "Disney sues US regulator, claiming political retaliation over ABC stations",
+   "link": "https://www.aljazeera.com/economy/2026/8/18/disney-sues-us-regulator-claiming-political-retaliation-over-abc-stations?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-18T16:12:15.000Z"
+  },
+  {
+   "title": "Real Madrid officially present Mourinho in bizarre closed-door ceremony",
+   "link": "https://www.aljazeera.com/sports/2026/8/18/real-madrid-officially-presents-mourinho-in-bizarre-closed-door-ceremony?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-18T16:09:49.000Z"
+  },
+  {
+   "title": "Pakistan top court orders ex-PM Imran Khan be moved to hospital from jail",
+   "link": "https://www.bbc.co.uk/news/articles/cy4kzzlydrro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-18T16:00:30.000Z"
+  },
+  {
+   "title": "Latest news bulletin | August 18th, 2026 – Evening",
+   "link": "http://www.euronews.com/video/2026/08/18/latest-news-bulletin-august-18th-2026-evening",
+   "source": "Euronews",
+   "date": "2026-08-18T16:00:29.000Z"
+  },
+  {
+   "title": "Spain builds tent cities for the thousands stuck in Ceuta",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/spain-builds-tent-cities-for-the-thousands-stuck-in-ceuta?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-18T15:53:42.000Z"
+  },
+  {
+   "title": "Palestinian living in caves older than Israel",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-living-in-caves-older-than-israel?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-18T15:53:38.000Z"
+  },
+  {
+   "title": "“I fear for my family’s lives” says Loui Ridi as settlers besiege home",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/i-fear-for-my-familys-lives-says-loui-ridi-as-settlers-besiege-home?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-18T15:53:12.000Z"
+  },
+  {
+   "title": "Show HN: Openleetcode – local LeetCode runner where tests live in the repo",
+   "link": "https://github.com/therepanic/openleetcode",
+   "source": "Hacker News",
+   "date": "2026-08-18T15:30:40.000Z"
+  },
   {
    "title": "UAE issues alert warning of 'potential missile threats'",
    "link": "http://www.euronews.com/2026/08/18/uae-issues-alert-warning-of-potential-missile-threats",
    "source": "Euronews",
    "date": "2026-08-18T15:28:23.000Z"
-  },
-  {
-   "title": "One Oakland police officer made $490k in overtime",
-   "link": "https://oaklandside.org/2026/01/29/oakland-police-overtime/",
-   "source": "Hacker News",
-   "date": "2026-08-18T15:24:05.000Z"
-  },
-  {
-   "title": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
-   "link": "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-18T15:14:17.000Z"
-  },
-  {
-   "title": "US cites India on voter IDs, but are elections under Modi clean?",
-   "link": "https://www.aljazeera.com/news/2026/8/18/us-cites-india-on-voter-ids-but-are-elections-under-modi-clean?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-18T15:04:24.000Z"
   },
   {
    "title": "Code-native generation of highly programmable 3D assets (2026)",
@@ -32,52 +92,10 @@
    "date": "2026-08-18T14:54:44.000Z"
   },
   {
-   "title": "Why is Russia threatening UK with ‘consequences’ over Ukraine drones?",
-   "link": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-18T14:49:56.000Z"
-  },
-  {
-   "title": "Patrick Vieira appointed Senegal head coach with AFCON qualifiers looming",
-   "link": "https://www.aljazeera.com/sports/2026/8/18/patrick-vieira-appointed-senegal-head-coach-with-afcon-qualifiers-looming?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-18T14:46:59.000Z"
-  },
-  {
-   "title": "JPEG XL converter and .jxl viewer",
-   "link": "https://jpegxlconvert.com/en/",
+   "title": "The coolest anti-surveillance tools at Defcon [video]",
+   "link": "https://www.youtube.com/watch?v=-2uAsJ5EPAw",
    "source": "Hacker News",
-   "date": "2026-08-18T14:46:36.000Z"
-  },
-  {
-   "title": "An Engineer's Old Cooking Trick Is Going Viral, Divides the Internet",
-   "link": "https://pleated-jeans.com/2026/08/15/engineers-forgotten-recipe-hack-viral-divides-internet/",
-   "source": "Hacker News",
-   "date": "2026-08-18T14:40:42.000Z"
-  },
-  {
-   "title": "What to watch in the Alaska and Wyoming primary elections",
-   "link": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-18T14:29:11.000Z"
-  },
-  {
-   "title": "Babies born under sugar rationing grew into adults with lower cancer risk",
-   "link": "https://theconversation.com/babies-born-under-sugar-rationing-grew-into-adults-with-lower-cancer-risk-289873",
-   "source": "Hacker News",
-   "date": "2026-08-18T14:06:50.000Z"
-  },
-  {
-   "title": "Hichilema re-elected as Zambia president amid opposition concerns over vote",
-   "link": "https://www.aljazeera.com/news/2026/8/18/hichilema-re-elected-as-zambia-president-amid-opposition-concerns-over-vote?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-18T14:01:47.000Z"
-  },
-  {
-   "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
-   "link": "https://opensource.posit.co/resources/cheatsheets/polars/",
-   "source": "Hacker News",
-   "date": "2026-08-18T13:38:23.000Z"
+   "date": "2026-08-18T14:49:19.000Z"
   },
   {
    "title": "South Korea and Japan stress stress 'critical' US alliance as Trump slashes military drills",
@@ -104,40 +122,22 @@
    "date": "2026-08-18T12:36:11.000Z"
   },
   {
+   "title": "Kariba ferry death toll rises to 93, making it Zimbabwe's deadliest transport disaster",
+   "link": "https://www.bbc.co.uk/news/articles/cjwx58n1153o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-18T12:04:11.000Z"
+  },
+  {
    "title": "Latest news bulletin | August 18th, 2026 – Midday",
    "link": "http://www.euronews.com/video/2026/08/18/latest-news-bulletin-august-18th-2026-midday",
    "source": "Euronews",
    "date": "2026-08-18T10:00:16.000Z"
   },
   {
-   "title": "Trump says 'no talks' taking place with Iran and claims Strait of Hormuz is 'open and operating'",
-   "link": "http://www.euronews.com/2026/08/18/ship-hit-in-hormuz-as-irans-top-negotiator-says-strait-to-stay-shut",
-   "source": "Euronews",
-   "date": "2026-08-18T09:52:08.000Z"
-  },
-  {
    "title": "Hayden Panettiere's ex Wladimir Klitschko says family in 'profound shock and grief'",
    "link": "https://www.bbc.co.uk/news/articles/c5ywe951z80o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-18T08:44:10.000Z"
-  },
-  {
-   "title": "Spain and France battle wildfires as 17,000 hectares burn in Aragon",
-   "link": "http://www.euronews.com/video/2026/08/18/spain-and-france-battle-wildfires-as-17000-hectares-burn-in-aragon",
-   "source": "Euronews",
-   "date": "2026-08-18T08:17:44.000Z"
-  },
-  {
-   "title": "IVF staff accused of misleading UK parents about sperm and egg donors in northern Cyprus",
-   "link": "https://www.bbc.co.uk/news/articles/c75gv9xnr3po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-18T08:07:37.000Z"
-  },
-  {
-   "title": "China censors public mourning as it holds former premier's funeral",
-   "link": "https://www.bbc.co.uk/news/articles/c8dn3rqlyrgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-18T07:17:07.000Z"
   },
   {
    "title": "Inside secret police warehouse as Germany targets small boats gangs",

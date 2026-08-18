@@ -1,11 +1,59 @@
 {
- "updated": "2026-08-17T23:36:51.759Z",
+ "updated": "2026-08-18T01:51:33.650Z",
  "items": [
+  {
+   "title": "Vigil held in central London for late Cambridge professor Jason Arday",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/18/08-18-26-arday-vigil-london-sv-mp4?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-18T01:26:31.000Z"
+  },
+  {
+   "title": "Zambia’s Hichilema wins second term as president",
+   "link": "https://www.aljazeera.com/news/2026/8/18/zambias-hichilema-wins-second-term-as-president?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-18T01:17:50.000Z"
+  },
+  {
+   "title": "Russia warns UK over supplying drones to Ukraine",
+   "link": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-18T01:16:41.000Z"
+  },
+  {
+   "title": "Iran war live: Trump rejects MoU extension as US claims control of Hormuz",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-18T00:00:00.000Z"
+  },
+  {
+   "title": "BBC breaks down Trump's latest shift on North and South Korea",
+   "link": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-17T23:42:38.000Z"
+  },
   {
    "title": "Tributes to actress Hayden Panettiere as coroner finds 'no signs of trauma'",
    "link": "https://www.bbc.co.uk/news/articles/cq5665zgg1po?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-17T23:28:54.000Z"
+  },
+  {
+   "title": "Repair Cafe – Fix Your Broken Items",
+   "link": "https://www.repaircafe.org/",
+   "source": "Hacker News",
+   "date": "2026-08-17T23:28:28.000Z"
+  },
+  {
+   "title": "‘We will not allow Gaza to be rebuilt’ until Hamas disarms, Kushner says",
+   "link": "https://www.aljazeera.com/news/2026/8/17/we-will-not-allow-gaza-to-be-rebuilt-until-hamas-disarms-kushner-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-17T23:25:17.000Z"
+  },
+  {
+   "title": "Puppy PPE",
+   "link": "http://amosdudley.com/weblog/Designing-PPE-for-Hilde",
+   "source": "Hacker News",
+   "date": "2026-08-17T23:10:06.000Z"
   },
   {
    "title": "As rubble clears, Colombia begins focusing on recovery after the earthquake",
@@ -26,12 +74,6 @@
    "date": "2026-08-17T22:18:05.000Z"
   },
   {
-   "title": "Colorado River plummets as lakes Powell and Mead drop to record lows",
-   "link": "https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html",
-   "source": "Hacker News",
-   "date": "2026-08-17T22:15:38.000Z"
-  },
-  {
    "title": "Quake Shareware, a CD-ROM just a little too full",
    "link": "https://fabiensanglard.net/quake_shareware_cd/index.html",
    "source": "Hacker News",
@@ -44,40 +86,16 @@
    "date": "2026-08-17T22:01:17.000Z"
   },
   {
-   "title": "My friends all hate AI; I just joined an AI startup",
-   "link": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
-   "source": "Hacker News",
-   "date": "2026-08-17T21:47:30.000Z"
-  },
-  {
    "title": "‘Truth or fiction’: US trial of Tupac Shakur’s accused killer begins",
    "link": "https://www.aljazeera.com/news/2026/8/17/truth-or-fiction-us-trial-of-tupac-shakurs-accused-killer-begins?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-17T21:39:22.000Z"
   },
   {
-   "title": "Palestinian American reunites with family under siege in West Bank",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-17T20:57:19.000Z"
-  },
-  {
-   "title": "Civilians paying price as Israeli military raises stakes in Lebanon: UNIFIL",
-   "link": "https://www.aljazeera.com/news/2026/8/17/civilians-pay-price-as-israeli-military-activity-rises-in-lebanon-unifil?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-17T20:54:03.000Z"
-  },
-  {
-   "title": "Trump says Iran will not make the deal he believes is necessary",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-says-iran-will-not-make-the-deal-he-believes-is-necessary?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-17T20:49:30.000Z"
-  },
-  {
-   "title": "Trump loses second Supreme Court bid over E Jean Carroll sex abuse case",
-   "link": "https://www.aljazeera.com/news/2026/8/17/trump-loses-second-supreme-court-bid-over-e-jean-carroll-sex-abuse-case?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-17T20:46:34.000Z"
+   "title": "Norway's king admitted to hospital and put on sick leave",
+   "link": "https://www.bbc.co.uk/news/articles/c4g3qdj1z77o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-17T21:34:26.000Z"
   },
   {
    "title": "Rhine River remains low amid ongoing drought in Germany",
@@ -96,18 +114,6 @@
    "link": "http://www.euronews.com/2026/08/17/us-supreme-court-again-rejects-trumps-request-to-overturn-sex-assault-judgement",
    "source": "Euronews",
    "date": "2026-08-17T18:15:51.000Z"
-  },
-  {
-   "title": "Mushroom murderer Erin Patterson is appealing - here's what you need to know",
-   "link": "https://www.bbc.co.uk/news/articles/cj9dx03jrgjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-17T18:03:23.000Z"
-  },
-  {
-   "title": "French PM heckled over wildfire response as blazes continue across Europe",
-   "link": "https://www.bbc.co.uk/news/articles/cx2rzx5g5yro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-17T18:00:55.000Z"
   },
   {
    "title": "Kushner's Gaza peace plan talks end without breakthrough",
@@ -144,12 +150,6 @@
    "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
    "source": "Guardian World",
    "date": "2026-08-17T14:07:31.000Z"
-  },
-  {
-   "title": "Russia and Ukraine trade more deadly strikes",
-   "link": "https://www.bbc.co.uk/news/articles/cn7n4lm11vro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-17T13:16:50.000Z"
   },
   {
    "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",

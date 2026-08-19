@@ -1,41 +1,71 @@
 {
- "updated": "2026-08-19T13:09:18.262Z",
+ "updated": "2026-08-19T13:57:56.010Z",
  "items": [
   {
-   "title": "US war on Iran puts Cambodian children’s education at risk",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/us-war-on-iran-puts-cambodian-childrens-education-at-risk?traffic_source=rss",
+   "title": "Israel confirms it opened fire on vehicle carrying five-year-old Hind Rajab in Gaza",
+   "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-19T13:53:51.000Z"
+  },
+  {
+   "title": "Adviser to far-right Latin American leaders arrested for allegedly plotting to kill girlfriend",
+   "link": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
+   "source": "Guardian World",
+   "date": "2026-08-19T13:44:57.000Z"
+  },
+  {
+   "title": "Moderna reports first positive Phase 3 for mRNA neoantigen therapy in melanoma",
+   "link": "https://twitter.com/NoubarAfeyan/status/2090050162441752787",
+   "source": "Hacker News",
+   "date": "2026-08-19T13:33:35.000Z"
+  },
+  {
+   "title": "Mourinho fires Real Madrid shot at Barcelona saying he ‘didn’t need’ Rodri",
+   "link": "https://www.aljazeera.com/sports/2026/8/19/mourinho-fires-real-madrid-shot-at-barcelona-saying-he-didnt-need-rodri?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-08-19T12:56:52.000Z"
+   "date": "2026-08-19T13:24:34.000Z"
+  },
+  {
+   "title": "PostgreSQL for Everything",
+   "link": "https://www.raphaelbauer.com:443/posts/postgresql-everything/",
+   "source": "Hacker News",
+   "date": "2026-08-19T13:21:21.000Z"
+  },
+  {
+   "title": "Israeli forces mark Palestinians with numbers amid mass arrests",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israeli-forces-mark-palestinians-with-numbers-amid-mass-arrests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-19T13:20:08.000Z"
+  },
+  {
+   "title": "Why aid entering Gaza may not reach those who need it",
+   "link": "https://www.aljazeera.com/news/2026/8/19/why-aid-entering-gaza-may-not-reach-those-who-need-it?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-19T13:01:39.000Z"
+  },
+  {
+   "title": "War on Iran: Iran allegedly targets the UAE",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/war-on-iran-iran-allegedly-targets-the-uae?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-19T13:01:05.000Z"
+  },
+  {
+   "title": "Palestinian factions explore broad alliance for November elections",
+   "link": "https://www.aljazeera.com/news/2026/8/19/palestinian-factions-explore-broad-alliance-for-november-elections?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-19T13:00:43.000Z"
+  },
+  {
+   "title": "ICC condemns US sanctions as ‘flagrant attack’ on court’s independence",
+   "link": "https://www.aljazeera.com/news/2026/8/19/icc-condemns-us-sanctions-as-flagrant-attack-on-courts-independence?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-19T12:59:57.000Z"
   },
   {
    "title": "Ukrainian man arrested in Croatia over Nord Stream pipeline blasts",
    "link": "https://www.bbc.co.uk/news/articles/c78gp7l5348o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-19T12:47:53.000Z"
-  },
-  {
-   "title": "What’s happening in Lebanon’s ‘pilot zones’?",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/whats-happening-in-lebanons-pilot?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-19T12:47:52.000Z"
-  },
-  {
-   "title": "Israeli army orders criminal investigation into killing of Palestinian girl Hind Rajab in Gaza",
-   "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-19T12:41:46.000Z"
-  },
-  {
-   "title": "Dozens killed after gold mine collapse in Central African Republic",
-   "link": "https://www.aljazeera.com/news/2026/8/19/dozens-killed-after-gold-mine-collapse-in-central-african-republic?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-19T12:38:22.000Z"
-  },
-  {
-   "title": "UAE trade embargo could shut Iran’s key economic escape route: Here’s why",
-   "link": "https://www.aljazeera.com/news/2026/8/19/uae-trade-embargo-could-shut-irans-key-economic-escape-route-heres-why?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-19T12:37:40.000Z"
   },
   {
    "title": "Geolocating a random island using geometry and CUDA programming",
@@ -56,22 +86,16 @@
    "date": "2026-08-19T12:01:42.000Z"
   },
   {
-   "title": "In Ukraine, forcible military recruitment efforts escalate into violence",
-   "link": "https://www.aljazeera.com/news/2026/8/19/in-ukraine-forcible-military-recruitment-efforts-escalate-into-violence?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-19T11:47:44.000Z"
-  },
-  {
-   "title": "Pakistan challenges top court order to move Imran Khan to private hospital",
-   "link": "https://www.aljazeera.com/news/2026/8/19/pakistan-challenges-top-court-order-to-move-imran-khan-to-private-hospital?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-19T11:47:35.000Z"
-  },
-  {
    "title": "GrapheneOS in 2027 available on high-end Motorola phones",
    "link": "https://grapheneos.social/@GrapheneOS/117078064184215730",
    "source": "Hacker News",
    "date": "2026-08-19T11:46:58.000Z"
+  },
+  {
+   "title": "A joke domain purchase turned in geopolitical warfare",
+   "link": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+   "source": "Hacker News",
+   "date": "2026-08-19T11:21:50.000Z"
   },
   {
    "title": "Sacked Ukrainian defence minister calls for presidential election",
@@ -110,28 +134,10 @@
    "date": "2026-08-19T09:00:34.000Z"
   },
   {
-   "title": "Activist forced out of US after criticising Trump-aligned Colombian politician",
-   "link": "https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician",
-   "source": "Guardian World",
-   "date": "2026-08-19T09:00:12.000Z"
-  },
-  {
    "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
    "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-19T08:25:03.000Z"
-  },
-  {
-   "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
-   "link": "https://www.modular.com/blog/modcon-announcements",
-   "source": "Hacker News",
-   "date": "2026-08-19T07:47:19.000Z"
-  },
-  {
-   "title": "λλ: A Programming Language for Silicon Photonics",
-   "link": "https://dl.acm.org/doi/10.1145/3789240.3829151",
-   "source": "Hacker News",
-   "date": "2026-08-19T06:09:16.000Z"
   },
   {
    "title": "South Korea shortens war games with US, citing Washington request",
@@ -144,12 +150,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-19T03:56:35.000Z"
-  },
-  {
-   "title": "Palomar: A registry of Lean verified mathematics",
-   "link": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
-   "source": "Hacker News",
-   "date": "2026-08-19T02:41:50.000Z"
   },
   {
    "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",

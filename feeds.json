@@ -1,6 +1,30 @@
 {
- "updated": "2026-08-19T10:46:15.322Z",
+ "updated": "2026-08-19T11:40:38.957Z",
  "items": [
+  {
+   "title": "Sacked Ukrainian defence minister calls for presidential election",
+   "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-19T11:00:21.000Z"
+  },
+  {
+   "title": "Humanitarianism is not collapsing. It is being traded and compromised",
+   "link": "https://www.aljazeera.com/opinions/2026/8/19/humanitarianism-is-not-collapsing-it-is-being-traded-and-compromised?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-19T10:59:09.000Z"
+  },
+  {
+   "title": "‘Tit for tat’: Why is Trump cozying up to North Korea’s Kim Jong Un again?",
+   "link": "https://www.aljazeera.com/news/2026/8/19/tit-for-tat-why-is-trump-cozying-up-to-north-koreas-kim-jong-un-again?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-19T10:57:57.000Z"
+  },
+  {
+   "title": "Top India court allows passive euthanasia, but few aware of ‘living wills’",
+   "link": "https://www.aljazeera.com/news/2026/8/19/top-india-court-allows-passive-euthanasia-but-few-aware-of-living-wills?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-19T10:53:01.000Z"
+  },
   {
    "title": "Why White House envoys cannot sway Israel’s war leader",
    "link": "https://www.aljazeera.com/opinions/2026/8/19/why-white-house-envoys-cannot-sway-israels-war-leader?traffic_source=rss",
@@ -8,10 +32,22 @@
    "date": "2026-08-19T10:24:26.000Z"
   },
   {
+   "title": "Air Theremin – a browser theremin you play by waving at your webcam",
+   "link": "https://theremin.bizibah.com/",
+   "source": "Hacker News",
+   "date": "2026-08-19T10:15:00.000Z"
+  },
+  {
    "title": "Russians pull billions from banks fearing Kremlin will seize savings for war",
    "link": "http://www.euronews.com/2026/08/19/russians-pull-billions-from-banks-fearing-kremlin-will-seize-savings-for-war",
    "source": "Euronews",
    "date": "2026-08-19T10:10:19.000Z"
+  },
+  {
+   "title": "Apparent human remains found in US reservoir as water levels hit record low",
+   "link": "https://www.bbc.co.uk/news/articles/cp87gvmedlmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-19T10:10:09.000Z"
   },
   {
    "title": "Manav Suthar takes 10-wicket haul as India beat Sri Lanka in 600th Test",
@@ -36,30 +72,6 @@
    "link": "https://www.aljazeera.com/news/2026/8/19/at-least-five-killed-in-russian-air-attacks-on-ukraine?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-19T09:34:38.000Z"
-  },
-  {
-   "title": "Nick Kyrgios provisionally suspended after positive test for cocaine",
-   "link": "https://www.aljazeera.com/sports/2026/8/19/nick-kyrgios-provisionally-suspended-after-positive-test-for-cocaine?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-19T09:29:41.000Z"
-  },
-  {
-   "title": "Anti-Muslim protesters call for ‘Christian Crusade’ in Dearborn, US",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/anti-muslim-protesters-call-for-christian-crusade-in-dearborn-us?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-19T09:26:16.000Z"
-  },
-  {
-   "title": "Diego Maradona’s doctors missed renal red flag, Argentinian court told",
-   "link": "https://www.aljazeera.com/sports/2026/8/19/maradonas-doctors-missed-renal-red-flag-court-in-argentina-told?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-19T09:23:17.000Z"
-  },
-  {
-   "title": "Sacked Ukrainian defence minister calls for presidential election",
-   "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-19T09:02:08.000Z"
   },
   {
    "title": "Fire in building housing several hotels in eastern India kills at least nine, injures six",
@@ -116,12 +128,6 @@
    "date": "2026-08-19T05:53:53.000Z"
   },
   {
-   "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
-   "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-19T05:00:39.000Z"
-  },
-  {
    "title": "Trump pauses new tariffs on Canada for three days, saying deal close",
    "link": "https://www.bbc.co.uk/news/articles/cy9wz79ze29o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
@@ -138,12 +144,6 @@
    "link": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
    "source": "Hacker News",
    "date": "2026-08-19T02:24:34.000Z"
-  },
-  {
-   "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
-   "link": "https://github.com/katiahayati/lucasartsifier/",
-   "source": "Hacker News",
-   "date": "2026-08-19T01:58:33.000Z"
   },
   {
    "title": "Meta hooked children on Facebook and Instagram, US court hears",

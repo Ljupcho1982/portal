@@ -1,6 +1,36 @@
 {
- "updated": "2026-08-19T07:54:08.896Z",
+ "updated": "2026-08-19T08:55:12.043Z",
  "items": [
+  {
+   "title": "First jellyfish museum in the US opens in Pompano Beach",
+   "link": "http://www.euronews.com/video/2026/08/19/first-jellyfish-museum-in-the-us-opens-in-pompano-beach",
+   "source": "Euronews",
+   "date": "2026-08-19T08:42:35.000Z"
+  },
+  {
+   "title": "Mushroom murderer trial undermined by 'catastrophic' hotel mix-up, appeal court told",
+   "link": "https://www.bbc.co.uk/news/articles/czjlxenlgkko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-19T08:25:03.000Z"
+  },
+  {
+   "title": "The Mojo language (by Modular, now Qualcomm) is now open-source",
+   "link": "https://www.modular.com/blog/modcon-announcements",
+   "source": "Hacker News",
+   "date": "2026-08-19T07:47:19.000Z"
+  },
+  {
+   "title": "Where Human Sleep Went Wrong",
+   "link": "https://nautil.us/where-human-sleep-went-wrong-1283797",
+   "source": "Hacker News",
+   "date": "2026-08-19T07:40:32.000Z"
+  },
+  {
+   "title": "\"Sabotage\": Experts, lawmakers blast RFK Jr. for destroying healthcare research",
+   "link": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
+   "source": "Hacker News",
+   "date": "2026-08-19T07:35:59.000Z"
+  },
   {
    "title": "Indonesian authorities seize 2.6 tonnes of meth in major bust, narcotics official says",
    "link": "http://www.euronews.com/2026/08/19/indonesian-authorities-seize-26-tonnes-of-meth-in-major-bust-narcotics-official-says",
@@ -20,10 +50,10 @@
    "date": "2026-08-19T07:10:28.000Z"
   },
   {
-   "title": "Show HN: Privacy focused client side password generator",
-   "link": "https://password-generator.aaqa.dev/",
+   "title": "Berd",
+   "link": "https://berd.xyz",
    "source": "Hacker News",
-   "date": "2026-08-19T06:55:36.000Z"
+   "date": "2026-08-19T07:06:31.000Z"
   },
   {
    "title": "US criticises Israel over 'unnecessary escalation' after strikes on Syrian airbase",
@@ -42,6 +72,12 @@
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/scaling-back-us-south-korea-drills-may-fail-to-woo-kim-away-from-china?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-19T06:16:53.000Z"
+  },
+  {
+   "title": "λλ: A Programming Language for Silicon Photonics",
+   "link": "https://dl.acm.org/doi/10.1145/3789240.3829151",
+   "source": "Hacker News",
+   "date": "2026-08-19T06:09:16.000Z"
   },
   {
    "title": "Ukraine’s ousted defence minister calls for elections during war",
@@ -80,22 +116,10 @@
    "date": "2026-08-19T05:12:54.000Z"
   },
   {
-   "title": "Thai teen found in suitcase died from suffocation, police reveal",
-   "link": "https://www.bbc.co.uk/news/articles/c141605846jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-19T05:04:27.000Z"
-  },
-  {
    "title": "French civil servant drugged us to make us urinate on ourselves, say accusers",
    "link": "https://www.bbc.co.uk/news/articles/crrv48lenwgo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-19T05:00:39.000Z"
-  },
-  {
-   "title": "Latest news bulletin | August 19th, 2026 – Morning",
-   "link": "http://www.euronews.com/video/2026/08/19/latest-news-bulletin-august-19th-2026-morning",
-   "source": "Euronews",
-   "date": "2026-08-19T05:00:33.000Z"
   },
   {
    "title": "South Korea, US scale back annual military drills after Trump’s order",
@@ -116,34 +140,10 @@
    "date": "2026-08-19T03:47:12.000Z"
   },
   {
-   "title": "Japan's Gen X workers are struggling",
-   "link": "https://www.economist.com/asia/2026/08/18/japans-gen-x-workers-are-struggling",
-   "source": "Hacker News",
-   "date": "2026-08-19T03:02:43.000Z"
-  },
-  {
    "title": "Palomar: A registry of Lean verified mathematics",
    "link": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
    "source": "Hacker News",
    "date": "2026-08-19T02:41:50.000Z"
-  },
-  {
-   "title": "Meta's blockbuster trial draws parallels to big tobacco",
-   "link": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
-   "source": "Hacker News",
-   "date": "2026-08-19T02:24:34.000Z"
-  },
-  {
-   "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
-   "link": "https://github.com/katiahayati/lucasartsifier/",
-   "source": "Hacker News",
-   "date": "2026-08-19T01:58:33.000Z"
-  },
-  {
-   "title": "OpenLogi",
-   "link": "https://openlogi.org/en",
-   "source": "Hacker News",
-   "date": "2026-08-19T01:58:28.000Z"
   },
   {
    "title": "Meta hooked children on Facebook and Instagram, US court hears",

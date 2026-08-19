@@ -1,6 +1,60 @@
 {
- "updated": "2026-08-19T16:47:01.928Z",
+ "updated": "2026-08-19T17:40:52.800Z",
  "items": [
+  {
+   "title": "South Korea shortens war games with US, citing Washington request",
+   "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-19T17:39:49.000Z"
+  },
+  {
+   "title": "Sacked Ukrainian defence minister calls for presidential election",
+   "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-19T17:23:42.000Z"
+  },
+  {
+   "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
+   "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-19T17:16:28.000Z"
+  },
+  {
+   "title": "Hamas condemns ‘new war crime’ as Israel kills 10 in crowded Gaza hubs",
+   "link": "https://www.aljazeera.com/news/2026/8/19/hamas-condemns-new-war-crime-as-israel-kills-10-in-crowded-gaza-hubs?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-19T17:14:21.000Z"
+  },
+  {
+   "title": "US pressure on Israel needed for peace in Syria",
+   "link": "https://www.aljazeera.com/features/2026/8/19/us-pressure-on-israel-needed-for-peace-in-syria?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-19T17:12:11.000Z"
+  },
+  {
+   "title": "Show HN: Frugal Tokens – explore costs and usage across coding agents",
+   "link": "https://demo.frugaltokens.com/",
+   "source": "Hacker News",
+   "date": "2026-08-19T17:07:35.000Z"
+  },
+  {
+   "title": "Trump says he will meet North Korean leader Kim Jong-un later this year",
+   "link": "http://www.euronews.com/2026/08/19/trump-says-north-korea-has-57-very-powerful-nuclear-weapons",
+   "source": "Euronews",
+   "date": "2026-08-19T17:07:18.000Z"
+  },
+  {
+   "title": "US and Canada reach ‘very fair’ trade agreement, Trump says",
+   "link": "https://www.aljazeera.com/economy/2026/8/19/us-and-canada-reach-very-fair-trade-agreement-trump-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-19T16:55:57.000Z"
+  },
+  {
+   "title": "Israel opens criminal probes into killings of Hind Rajab and Palestinian medics",
+   "link": "http://www.euronews.com/2026/08/19/israel-opens-criminal-probes-into-killings-of-hind-rajab-and-palestinian-medics",
+   "source": "Euronews",
+   "date": "2026-08-19T16:49:03.000Z"
+  },
   {
    "title": "Why extreme heat is much more dangerous for the elderly than we realised",
    "link": "https://www.aljazeera.com/news/2026/8/19/why-extreme-heat-is-much-more-dangerous-for-the-elderly-than-we-realised?traffic_source=rss",
@@ -20,7 +74,25 @@
    "date": "2026-08-19T16:29:02.000Z"
   },
   {
-   "title": "Civic Hygiene – avoid building technologies that could be used by a police state",
+   "title": "Extensible Software in the Age of LLMs",
+   "link": "https://jeremymorrell.dev/blog/extensible-software-in-the-age-of-llms/",
+   "source": "Hacker News",
+   "date": "2026-08-19T16:26:05.000Z"
+  },
+  {
+   "title": "How Kubernetes Probes Work",
+   "link": "https://ngrok.com/blog/probes",
+   "source": "Hacker News",
+   "date": "2026-08-19T16:25:37.000Z"
+  },
+  {
+   "title": "Chain-of-Thought Reasoning in the Wild Is Not Always Faithful",
+   "link": "https://arxiv.org/abs/2503.08679",
+   "source": "Hacker News",
+   "date": "2026-08-19T16:18:57.000Z"
+  },
+  {
+   "title": "Civic Hygiene – avoid building technologies that could be used by a police state (2013)",
    "link": "https://shkspr.mobi/blog/2013/11/civic-hygiene/",
    "source": "Hacker News",
    "date": "2026-08-19T16:07:14.000Z"
@@ -30,12 +102,6 @@
    "link": "http://www.euronews.com/video/2026/08/19/latest-news-bulletin-august-19th-2026-evening",
    "source": "Euronews",
    "date": "2026-08-19T16:00:29.000Z"
-  },
-  {
-   "title": "Israel opens up tenders for controversial West Bank settlement project",
-   "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-19T15:50:22.000Z"
   },
   {
    "title": "India rout Pakistan at Hockey World Cup 2026 to qualify for second round",
@@ -56,12 +122,6 @@
    "date": "2026-08-19T15:46:05.000Z"
   },
   {
-   "title": "Israel admits firing on car carrying Hind Rajab, symbol of Gaza’s suffering",
-   "link": "https://www.aljazeera.com/news/2026/8/19/israel-admits-firing-on-car-carrying-hind-rajab-symbol-of-gazas-suffering?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-19T15:44:02.000Z"
-  },
-  {
    "title": "At least 100 people may have died after gold mine collapsed in Central African Republic",
    "link": "http://www.euronews.com/2026/08/19/at-least-100-people-may-have-died-after-gold-mine-collapsed-in-central-african-republic",
    "source": "Euronews",
@@ -72,42 +132,6 @@
    "link": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-19T15:33:32.000Z"
-  },
-  {
-   "title": "Remote workers report the highest well-being in study of 7,700 employees",
-   "link": "https://www.colorado.edu/today/2026/08/12/remote-workers-report-highest-well-being-study-7700-employees",
-   "source": "Hacker News",
-   "date": "2026-08-19T15:32:08.000Z"
-  },
-  {
-   "title": "New Casio F-B100W – Upgrade to the iconic F-91W after 40 years",
-   "link": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-   "source": "Hacker News",
-   "date": "2026-08-19T15:28:01.000Z"
-  },
-  {
-   "title": "Mathematics in the Age of AI",
-   "link": "https://arxiv.org/abs/2608.16753",
-   "source": "Hacker News",
-   "date": "2026-08-19T15:14:25.000Z"
-  },
-  {
-   "title": "Palestinian refugee and two relatives drown off English coast",
-   "link": "https://www.aljazeera.com/news/2026/8/19/three-people-from-palestinian-british-family-drown-off-uks-sussex-coast?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-19T14:52:39.000Z"
-  },
-  {
-   "title": "Israel numbers Palestinian detainee foreheads: What we know",
-   "link": "https://www.aljazeera.com/news/2026/8/19/israel-numbers-palestinian-detainee-foreheads-what-we-know?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-19T14:48:55.000Z"
-  },
-  {
-   "title": "Ornith-1.5: From Self-Scaffolding to Self-Improvement",
-   "link": "https://ornith.ai/ornith_1_5.html",
-   "source": "Hacker News",
-   "date": "2026-08-19T14:48:39.000Z"
   },
   {
    "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",
@@ -122,12 +146,6 @@
    "date": "2026-08-19T14:23:36.000Z"
   },
   {
-   "title": "South Korea shortens war games with US, citing Washington request",
-   "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-19T14:16:27.000Z"
-  },
-  {
    "title": "UAE halts all trade and financial dealings with Iran",
    "link": "http://www.euronews.com/2026/08/19/uae-halts-all-trade-and-financial-dealings-with-iran",
    "source": "Euronews",
@@ -138,24 +156,6 @@
    "link": "https://www.theguardian.com/world/2026/aug/19/fernando-cerimedo-adviser-far-right-latin-american-leaders-arrested-allegedly-plotting-kill-girlfriend",
    "source": "Guardian World",
    "date": "2026-08-19T13:44:57.000Z"
-  },
-  {
-   "title": "Harvard agrees to pay $53 million after former morgue manager sold donated body parts",
-   "link": "http://www.euronews.com/2026/08/19/harvard-agrees-to-pay-53-million-after-former-morgue-manager-sold-donated-body-parts",
-   "source": "Euronews",
-   "date": "2026-08-19T13:42:40.000Z"
-  },
-  {
-   "title": "Neon lights and lanterns glow in new Hikari area at Tivoli, Denmark",
-   "link": "http://www.euronews.com/video/2026/08/19/neon-lights-and-lanterns-glow-in-new-hikari-area-at-tivoli-denmark",
-   "source": "Euronews",
-   "date": "2026-08-19T13:35:18.000Z"
-  },
-  {
-   "title": "Sacked Ukrainian defence minister calls for presidential election",
-   "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-19T11:00:21.000Z"
   },
   {
    "title": "Ebola outbreak in Democratic Republic of the Congo now deadliest in country’s history",

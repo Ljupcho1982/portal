@@ -1,6 +1,42 @@
 {
- "updated": "2026-08-20T01:51:42.419Z",
+ "updated": "2026-08-20T03:10:18.494Z",
  "items": [
+  {
+   "title": "Former Liberian vice president charged in drug-trafficking probe",
+   "link": "https://www.bbc.co.uk/news/articles/clyx028ryy6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-20T03:09:24.000Z"
+  },
+  {
+   "title": "Russian strike kills 3 in Ukraine as Zelenskyy faces pressure at home",
+   "link": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T02:50:17.000Z"
+  },
+  {
+   "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
+   "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-20T02:16:49.000Z"
+  },
+  {
+   "title": "Fears grow in Amazon village as Brazilian drug gangs push into Bolivia",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/fears-grow-in-amazon-village-as-brazilian-drug-gangs-push-into-bolivia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T02:16:17.000Z"
+  },
+  {
+   "title": "Giant whales move into Greenland waters as ice disappears",
+   "link": "https://www.bbc.co.uk/news/articles/cq6dn9gj7eno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-20T02:05:20.000Z"
+  },
+  {
+   "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
+   "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T01:56:41.000Z"
+  },
   {
    "title": "Bodycam captures police team falling when deck collapses in Missouri",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss",
@@ -8,16 +44,10 @@
    "date": "2026-08-20T01:37:08.000Z"
   },
   {
-   "title": "Trump threatens 'tremendous economic consequences' on any country helping Iran",
-   "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-20T01:02:51.000Z"
-  },
-  {
-   "title": "Israel opens up bids for highly-sensitive West Bank settlement project",
-   "link": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-20T00:53:20.000Z"
+   "title": "Turns are Better than Radians",
+   "link": "https://www.computerenhance.com/p/turns-are-better-than-radians",
+   "source": "Hacker News",
+   "date": "2026-08-20T01:29:12.000Z"
   },
   {
    "title": "Australia 'outraged' after Israeli decision not to prosecute over killing of aid worker in Gaza",
@@ -44,34 +74,10 @@
    "date": "2026-08-20T00:14:17.000Z"
   },
   {
-   "title": "Harry Kane scores goal by winning Golden Shoe for the second time",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/harry-kane-scores-goal-by-winning-golden-shoe-for-the-second-time?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T00:12:59.000Z"
-  },
-  {
-   "title": "Nigeria’s election campaign begins with Tinubu facing a reform test",
-   "link": "https://www.aljazeera.com/news/2026/8/20/nigerias-election-campaign-begins-with-tinubus-reform-test?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T00:06:05.000Z"
-  },
-  {
    "title": "Universality of Gradient Descent Neural Network Training",
    "link": "https://arxiv.org/abs/2007.13664",
    "source": "Hacker News",
    "date": "2026-08-20T00:05:12.000Z"
-  },
-  {
-   "title": "Iran war live: Trump announces ‘most crushing’ Iran sanctions",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T00:00:00.000Z"
-  },
-  {
-   "title": "Collaborative Human Agent Protocol (CHAP)",
-   "link": "https://github.com/BrightbeamAI/chap",
-   "source": "Hacker News",
-   "date": "2026-08-19T22:09:16.000Z"
   },
   {
    "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
@@ -90,12 +96,6 @@
    "link": "https://os8088.com/spotlight/",
    "source": "Hacker News",
    "date": "2026-08-19T21:11:31.000Z"
-  },
-  {
-   "title": "Sacked Ukrainian defence minister calls for presidential election",
-   "link": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-19T20:34:39.000Z"
   },
   {
    "title": "DFlash 2: Keep Drafting Parallel",

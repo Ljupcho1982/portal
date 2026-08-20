@@ -1,11 +1,35 @@
 {
- "updated": "2026-08-20T21:43:46.653Z",
+ "updated": "2026-08-20T22:45:47.717Z",
  "items": [
+  {
+   "title": "Scientists Release Biggest 2D Map of the Universe",
+   "link": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+   "source": "Hacker News",
+   "date": "2026-08-20T21:42:51.000Z"
+  },
+  {
+   "title": "Citizen Devs: Everyone is an engineer now",
+   "link": "https://www.massdriver.cloud/blogs/the-citizen-developer",
+   "source": "Hacker News",
+   "date": "2026-08-20T21:25:48.000Z"
+  },
+  {
+   "title": "Code as an Artifact",
+   "link": "https://pradeeproark.com/posts/code-as-an-artifact-means-to-an-end/",
+   "source": "Hacker News",
+   "date": "2026-08-20T21:24:57.000Z"
+  },
   {
    "title": "Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail",
    "link": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-20T21:18:10.000Z"
+  },
+  {
+   "title": "The Wonders of the Male Human Pelvis",
+   "link": "https://nautil.us/the-wonders-of-the-male-human-pelvis-1283947",
+   "source": "Hacker News",
+   "date": "2026-08-20T21:01:24.000Z"
   },
   {
    "title": "US pummels Cuban economy with new sanctions on mining, construction",
@@ -68,34 +92,10 @@
    "date": "2026-08-20T19:52:48.000Z"
   },
   {
-   "title": "Stop eating Lady Gaga's Oreos",
-   "link": "https://www.experimental-history.com/p/stop-eating-lady-gagas-oreos",
-   "source": "Hacker News",
-   "date": "2026-08-20T19:46:06.000Z"
-  },
-  {
-   "title": "GitHub, autoscaling, and the component substitution fallacy",
-   "link": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
-   "source": "Hacker News",
-   "date": "2026-08-20T19:28:18.000Z"
-  },
-  {
    "title": "The August 17 outage, and the work ahead",
    "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
    "source": "Hacker News",
    "date": "2026-08-20T19:22:24.000Z"
-  },
-  {
-   "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
-   "link": "https://tidalcycles.org/",
-   "source": "Hacker News",
-   "date": "2026-08-20T19:21:45.000Z"
-  },
-  {
-   "title": "SpacetimeDB: A Short Technical Review",
-   "link": "https://strn.cat/posts/spacetime/",
-   "source": "Hacker News",
-   "date": "2026-08-20T19:19:53.000Z"
   },
   {
    "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",

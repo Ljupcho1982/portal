@@ -1,6 +1,54 @@
 {
- "updated": "2026-08-20T14:55:12.835Z",
+ "updated": "2026-08-20T15:49:35.401Z",
  "items": [
+  {
+   "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
+   "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
+   "source": "Guardian World",
+   "date": "2026-08-20T15:42:39.000Z"
+  },
+  {
+   "title": "Clean up Claude 5's token vomit with a separate LLM",
+   "link": "https://github.com/zachahn/vomit",
+   "source": "Hacker News",
+   "date": "2026-08-20T15:26:02.000Z"
+  },
+  {
+   "title": "Can US, Middle Eastern powers unite Libya 15 years after Gaddafi overthrow?",
+   "link": "https://www.aljazeera.com/news/2026/8/20/can-us-middle-eastern-powers-unite-libya-15-years-after-gaddafi-overthrow?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T15:24:42.000Z"
+  },
+  {
+   "title": "Landslide kills 13 at illegal gold mine in Colombia’s southwest",
+   "link": "https://www.aljazeera.com/news/2026/8/20/13-workers-killed-in-colombia-mine-landslide-local-official?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T15:08:16.000Z"
+  },
+  {
+   "title": "Anti-AI fonts are useless and harmful",
+   "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
+   "source": "Hacker News",
+   "date": "2026-08-20T15:06:53.000Z"
+  },
+  {
+   "title": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
+   "link": "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T15:00:43.000Z"
+  },
+  {
+   "title": "How China and Russia could hobble Trump’s plans to isolate Iran",
+   "link": "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T14:55:47.000Z"
+  },
+  {
+   "title": "Governments brace for historic El Nino impacts on global weather extremes",
+   "link": "https://www.aljazeera.com/news/2026/8/20/governments-brace-for-historic-el-nino-impacts-on-global-weather-extremes?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T14:45:55.000Z"
+  },
   {
    "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
    "link": "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
@@ -8,16 +56,16 @@
    "date": "2026-08-20T14:40:51.000Z"
   },
   {
-   "title": "USS Washington arrives in Middle East after aircraft carrier outcry",
-   "link": "https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T14:36:35.000Z"
+   "title": "Show HN: Open-source Stripe Connect alternative",
+   "link": "https://zoneless.com",
+   "source": "Hacker News",
+   "date": "2026-08-20T14:38:45.000Z"
   },
   {
-   "title": "Harvest hikes bills by 1500% after purchased by Bending Spoons",
-   "link": "https://www.bbc.com/news/articles/clyq011414eo",
+   "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
+   "link": "https://pub.doub.ly/",
    "source": "Hacker News",
-   "date": "2026-08-20T14:18:16.000Z"
+   "date": "2026-08-20T14:38:28.000Z"
   },
   {
    "title": "An elliptic curve of rank ≥ 30",
@@ -32,52 +80,10 @@
    "date": "2026-08-20T14:10:12.000Z"
   },
   {
-   "title": "Trump’s war on Stars and Stripes: Why has military newspaper chief quit?",
-   "link": "https://www.aljazeera.com/news/2026/8/20/trumps-war-on-stars-and-stripes-why-has-military-newspaper-chief-quit?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T14:10:01.000Z"
-  },
-  {
-   "title": "Hacking with Claude on a $27 Smart Watch",
-   "link": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-   "source": "Hacker News",
-   "date": "2026-08-20T14:08:09.000Z"
-  },
-  {
-   "title": "Stwipe Acquires OpenWouter",
-   "link": "https://stwipe.com/",
-   "source": "Hacker News",
-   "date": "2026-08-20T14:04:46.000Z"
-  },
-  {
-   "title": "Every Model Cheats",
-   "link": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
-   "source": "Hacker News",
-   "date": "2026-08-20T13:56:59.000Z"
-  },
-  {
    "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
    "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-20T13:56:25.000Z"
-  },
-  {
-   "title": "Funeral for 50 Palestinians recovered from Gaza rubble",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T13:39:38.000Z"
-  },
-  {
-   "title": "Ex-defence chief’s call for wartime election raises pressure on Zelenskyy",
-   "link": "https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T13:32:55.000Z"
-  },
-  {
-   "title": "Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat",
-   "link": "https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T13:18:35.000Z"
   },
   {
    "title": "Tokyo-bound express train hits and kills four workers at railway station in Japan",
@@ -174,12 +180,6 @@
    "link": "https://www.theguardian.com/world/2026/aug/17/ebola-outbreak-drc-democratic-republic-of-congo-deadliest-in-history",
    "source": "Guardian World",
    "date": "2026-08-17T14:07:31.000Z"
-  },
-  {
-   "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
-   "link": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
-   "source": "Guardian World",
-   "date": "2026-08-15T19:39:07.000Z"
   }
  ]
 }

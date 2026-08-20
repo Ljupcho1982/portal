@@ -1,6 +1,54 @@
 {
- "updated": "2026-08-20T13:11:37.550Z",
+ "updated": "2026-08-20T14:00:17.100Z",
  "items": [
+  {
+   "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+   "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-20T13:56:25.000Z"
+  },
+  {
+   "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+   "link": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+   "source": "Hacker News",
+   "date": "2026-08-20T13:23:12.000Z"
+  },
+  {
+   "title": "Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat",
+   "link": "https://www.aljazeera.com/news/2026/8/20/why-a-trump-envoys-kashmir-visit-has-led-to-us-pakistan-spat?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T13:18:35.000Z"
+  },
+  {
+   "title": "US debt hits $40 trillion: Who does Washington owe and why does it matter?",
+   "link": "https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T13:18:31.000Z"
+  },
+  {
+   "title": "War on Iran: Trump announces a new campaign to isolate Iran economically",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T13:14:14.000Z"
+  },
+  {
+   "title": "West Ham urges fans to stop chanting ‘anti-Palestine message’",
+   "link": "https://www.aljazeera.com/sports/2026/8/20/west-ham-urges-fans-to-stop-chant-containing-anti-palestine-message?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T13:13:24.000Z"
+  },
+  {
+   "title": "Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
+   "link": "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/",
+   "source": "Hacker News",
+   "date": "2026-08-20T13:12:21.000Z"
+  },
+  {
+   "title": "Myanmar military chief visits Bangkok as diplomatic offensive continues",
+   "link": "https://www.aljazeera.com/news/2026/8/20/myanmar-military-chief-visits-bangkok-as-diplomatic-offensive-continues?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T13:10:50.000Z"
+  },
   {
    "title": "Tokyo-bound express train hits and kills four workers at railway station in Japan",
    "link": "http://www.euronews.com/2026/08/20/tokyo-bound-express-train-hits-and-kills-four-workers-at-railway-station-in-japan",
@@ -8,16 +56,22 @@
    "date": "2026-08-20T13:10:27.000Z"
   },
   {
+   "title": "Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war",
+   "link": "https://www.aljazeera.com/news/2026/8/20/gaza-holds-mass-funeral-for-50-palestinians-killed-in-israeli-genocidal-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T13:05:05.000Z"
+  },
+  {
+   "title": "UK internet age checks have boosted rogue adult sites, says Pornhub",
+   "link": "https://www.ft.com/content/295c2eba-da29-434d-84e0-e9de3b0b1cc2",
+   "source": "Hacker News",
+   "date": "2026-08-20T13:01:40.000Z"
+  },
+  {
    "title": "Drought on Serbia's Sava River reveals long-lost WWII shipwreck",
    "link": "http://www.euronews.com/video/2026/08/20/drought-on-serbias-sava-river-reveals-long-lost-wwii-shipwreck",
    "source": "Euronews",
    "date": "2026-08-20T12:54:43.000Z"
-  },
-  {
-   "title": "Alarms blare in South Korea during annual air raid defence drill",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/alarms-blare-in-south-korea-during-annual-air-raid-defence-drill?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T12:46:35.000Z"
   },
   {
    "title": "Browser De-Slop",
@@ -38,64 +92,10 @@
    "date": "2026-08-20T12:00:23.000Z"
   },
   {
-   "title": "Bangladesh’s government under pressure as youth demand jobs",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/20-08-reported-tanvir-chowdhury-bangladesh-bn?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T11:49:36.000Z"
-  },
-  {
-   "title": "Who was Hind Rajab and why is Israel investigating her killing?",
-   "link": "https://www.aljazeera.com/news/2026/8/20/who-was-hind-rajab-and-why-is-israel-investigating-her-killing?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T11:48:18.000Z"
-  },
-  {
-   "title": "Israel is betting on Islamophobia to save its standing in the West",
-   "link": "https://www.aljazeera.com/opinions/2026/8/20/israel-is-betting-on-islamophobia-to-save-its-standing-in-the-west?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T11:44:15.000Z"
-  },
-  {
-   "title": "Australia passes law to levy tech giants that fail to pay for local news",
-   "link": "https://www.reuters.com/legal/litigation/australia-passes-law-levy-tech-giants-that-fail-pay-local-news-2026-08-20/",
-   "source": "Hacker News",
-   "date": "2026-08-20T11:23:43.000Z"
-  },
-  {
-   "title": "PSG forced to move opening league match as heatwave in France damages pitch",
-   "link": "https://www.aljazeera.com/sports/2026/8/20/psg-forced-to-move-opening-league-match-as-heatwave-in-france-damages-pitch?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T11:21:50.000Z"
-  },
-  {
-   "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-   "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-20T11:06:54.000Z"
-  },
-  {
-   "title": "Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery",
-   "link": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/",
-   "source": "Hacker News",
-   "date": "2026-08-20T11:03:29.000Z"
-  },
-  {
-   "title": "How Myanmar’s war drives the Rohingya crisis",
-   "link": "https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T11:00:00.000Z"
-  },
-  {
    "title": "Tibetan protesters in New Dehli denounce China with shaved heads and prayers",
    "link": "http://www.euronews.com/video/2026/08/20/tibetan-protesters-in-new-dehli-denounce-china-with-shaved-heads-and-prayers",
    "source": "Euronews",
    "date": "2026-08-20T10:54:59.000Z"
-  },
-  {
-   "title": "Risk Engineering",
-   "link": "https://risk-engineering.org/",
-   "source": "Hacker News",
-   "date": "2026-08-20T10:18:58.000Z"
   },
   {
    "title": "Belgian car salesman becomes prince after royal parentage confirmed",

@@ -1,11 +1,71 @@
 {
- "updated": "2026-08-20T15:49:35.401Z",
+ "updated": "2026-08-20T16:51:11.518Z",
  "items": [
+  {
+   "title": "Spanish police evict hundreds of migrants from Ceuta beach to shelters",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T16:22:46.000Z"
+  },
+  {
+   "title": "Syria detains policeman over death of White Helmets rescuer hit in custody",
+   "link": "https://www.aljazeera.com/news/2026/8/20/syria-detains-policeman-over-death-of-white-helmets-rescuer-hit-in-custody?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T16:19:30.000Z"
+  },
+  {
+   "title": "New US carrier strike group arrives in Middle East to relieve long-deployed USS Abraham Lincoln",
+   "link": "http://www.euronews.com/2026/08/20/new-us-carrier-strike-group-arrives-in-middle-east-to-relieve-long-deployed-uss-abraham-li",
+   "source": "Euronews",
+   "date": "2026-08-20T16:01:42.000Z"
+  },
+  {
+   "title": "Latest news bulletin | August 20th, 2026 – Evening",
+   "link": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-evening",
+   "source": "Euronews",
+   "date": "2026-08-20T16:00:29.000Z"
+  },
+  {
+   "title": "One geography, two states: Saudi Arabia’s security approach to Sudan",
+   "link": "https://www.aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T15:51:46.000Z"
+  },
+  {
+   "title": "How to compromise your system with a job interview",
+   "link": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
+   "source": "Hacker News",
+   "date": "2026-08-20T15:50:57.000Z"
+  },
   {
    "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
    "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
    "source": "Guardian World",
    "date": "2026-08-20T15:42:39.000Z"
+  },
+  {
+   "title": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T15:41:56.000Z"
+  },
+  {
+   "title": "Generic Methods in Go 1.27",
+   "link": "https://dominik.info/blog/go-generic-methods",
+   "source": "Hacker News",
+   "date": "2026-08-20T15:41:48.000Z"
+  },
+  {
+   "title": "Gunmen seize tanker off Yemen amid resurgence of Somali piracy",
+   "link": "https://www.aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T15:36:59.000Z"
+  },
+  {
+   "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
+   "link": "https://github.com/runvendo/vendo",
+   "source": "Hacker News",
+   "date": "2026-08-20T15:29:52.000Z"
   },
   {
    "title": "Clean up Claude 5's token vomit with a separate LLM",
@@ -20,64 +80,16 @@
    "date": "2026-08-20T15:24:42.000Z"
   },
   {
-   "title": "Landslide kills 13 at illegal gold mine in Colombia’s southwest",
-   "link": "https://www.aljazeera.com/news/2026/8/20/13-workers-killed-in-colombia-mine-landslide-local-official?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T15:08:16.000Z"
-  },
-  {
    "title": "Anti-AI fonts are useless and harmful",
    "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
    "source": "Hacker News",
    "date": "2026-08-20T15:06:53.000Z"
   },
   {
-   "title": "Man Utd preview: Five key talking points for 2026-27 Premier League season",
-   "link": "https://www.aljazeera.com/sports/2026/8/20/man-utd-preview-five-key-talking-points-for-2026-27-premier-league-season?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T15:00:43.000Z"
-  },
-  {
-   "title": "How China and Russia could hobble Trump’s plans to isolate Iran",
-   "link": "https://www.aljazeera.com/news/2026/8/20/how-china-and-russia-could-hobble-trumps-plans-to-isolate-iran?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T14:55:47.000Z"
-  },
-  {
-   "title": "Governments brace for historic El Nino impacts on global weather extremes",
-   "link": "https://www.aljazeera.com/news/2026/8/20/governments-brace-for-historic-el-nino-impacts-on-global-weather-extremes?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T14:45:55.000Z"
-  },
-  {
-   "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
-   "link": "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T14:40:51.000Z"
-  },
-  {
    "title": "Show HN: Open-source Stripe Connect alternative",
    "link": "https://zoneless.com",
    "source": "Hacker News",
    "date": "2026-08-20T14:38:45.000Z"
-  },
-  {
-   "title": "Show HN: Check if any of the $656M in unclaimed royalties at The MLC is yours",
-   "link": "https://pub.doub.ly/",
-   "source": "Hacker News",
-   "date": "2026-08-20T14:38:28.000Z"
-  },
-  {
-   "title": "An elliptic curve of rank ≥ 30",
-   "link": "https://elliptic-rank.icarm.cloud/curve/273",
-   "source": "Hacker News",
-   "date": "2026-08-20T14:14:39.000Z"
-  },
-  {
-   "title": "Bun 1.4",
-   "link": "https://bun.com/blog/bun-v1.4",
-   "source": "Hacker News",
-   "date": "2026-08-20T14:10:12.000Z"
   },
   {
    "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
@@ -120,18 +132,6 @@
    "link": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-midday",
    "source": "Euronews",
    "date": "2026-08-20T10:00:16.000Z"
-  },
-  {
-   "title": "ICC separates Taliban probe from US case as Afghan women's fate stays uncertain",
-   "link": "http://www.euronews.com/2026/08/20/icc-separates-taliban-probe-from-us-case-as-afghan-womens-fate-stays-uncertain",
-   "source": "Euronews",
-   "date": "2026-08-20T09:44:05.000Z"
-  },
-  {
-   "title": "Sirens, shelters and scaled-back war games: South Korea rehearses for crisis",
-   "link": "http://www.euronews.com/video/2026/08/20/sirens-shelters-and-scaled-back-war-games-south-korea-rehearses-for-crisis",
-   "source": "Euronews",
-   "date": "2026-08-20T09:41:47.000Z"
   },
   {
    "title": "Trump vows tougher economic measures on Iran and supporting countries",

@@ -1,6 +1,60 @@
 {
- "updated": "2026-08-20T14:00:17.100Z",
+ "updated": "2026-08-20T14:55:12.835Z",
  "items": [
+  {
+   "title": "‘Tremendous costs’: Can Trump stop other countries from trading with Iran?",
+   "link": "https://www.aljazeera.com/news/2026/8/20/tremendous-costs-can-trump-stop-other-countries-from-trading-with-iran?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T14:40:51.000Z"
+  },
+  {
+   "title": "USS Washington arrives in Middle East after aircraft carrier outcry",
+   "link": "https://www.aljazeera.com/news/2026/8/20/uss-washington-arrives-in-middle-east-after-aircraft-carrier-outcry?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T14:36:35.000Z"
+  },
+  {
+   "title": "Harvest hikes bills by 1500% after purchased by Bending Spoons",
+   "link": "https://www.bbc.com/news/articles/clyq011414eo",
+   "source": "Hacker News",
+   "date": "2026-08-20T14:18:16.000Z"
+  },
+  {
+   "title": "An elliptic curve of rank ≥ 30",
+   "link": "https://elliptic-rank.icarm.cloud/curve/273",
+   "source": "Hacker News",
+   "date": "2026-08-20T14:14:39.000Z"
+  },
+  {
+   "title": "Bun 1.4",
+   "link": "https://bun.com/blog/bun-v1.4",
+   "source": "Hacker News",
+   "date": "2026-08-20T14:10:12.000Z"
+  },
+  {
+   "title": "Trump’s war on Stars and Stripes: Why has military newspaper chief quit?",
+   "link": "https://www.aljazeera.com/news/2026/8/20/trumps-war-on-stars-and-stripes-why-has-military-newspaper-chief-quit?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T14:10:01.000Z"
+  },
+  {
+   "title": "Hacking with Claude on a $27 Smart Watch",
+   "link": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
+   "source": "Hacker News",
+   "date": "2026-08-20T14:08:09.000Z"
+  },
+  {
+   "title": "Stwipe Acquires OpenWouter",
+   "link": "https://stwipe.com/",
+   "source": "Hacker News",
+   "date": "2026-08-20T14:04:46.000Z"
+  },
+  {
+   "title": "Every Model Cheats",
+   "link": "https://dreadnode.io/research/every-model-cheats-prompt-level-mitigation-of-cheating-on-offensive-cyber-tasks/",
+   "source": "Hacker News",
+   "date": "2026-08-20T13:56:59.000Z"
+  },
   {
    "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
    "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
@@ -8,10 +62,16 @@
    "date": "2026-08-20T13:56:25.000Z"
   },
   {
-   "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
-   "link": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-   "source": "Hacker News",
-   "date": "2026-08-20T13:23:12.000Z"
+   "title": "Funeral for 50 Palestinians recovered from Gaza rubble",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/funeral-for-50-palestinians-recovered-from-gaza-rubble?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T13:39:38.000Z"
+  },
+  {
+   "title": "Ex-defence chief’s call for wartime election raises pressure on Zelenskyy",
+   "link": "https://www.aljazeera.com/news/2026/8/20/ukraines-ex-defence-chief-calls-for-presidential-vote?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T13:32:55.000Z"
   },
   {
    "title": "Why a Trump envoy’s Kashmir visit has led to US-Pakistan spat",
@@ -20,52 +80,10 @@
    "date": "2026-08-20T13:18:35.000Z"
   },
   {
-   "title": "US debt hits $40 trillion: Who does Washington owe and why does it matter?",
-   "link": "https://www.aljazeera.com/economy/2026/8/20/us-debt-hits-40-trillion-who-does-washington-owe-and-why-does-it-matter?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T13:18:31.000Z"
-  },
-  {
-   "title": "War on Iran: Trump announces a new campaign to isolate Iran economically",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/war-on-iran-trump-announces-a-new-campaign-to-isolate-iran-economically?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T13:14:14.000Z"
-  },
-  {
-   "title": "West Ham urges fans to stop chanting ‘anti-Palestine message’",
-   "link": "https://www.aljazeera.com/sports/2026/8/20/west-ham-urges-fans-to-stop-chant-containing-anti-palestine-message?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T13:13:24.000Z"
-  },
-  {
-   "title": "Canonical Backs New Project to Translate Large C Codebases into Safe Rust",
-   "link": "https://linuxiac.com/canonical-backs-new-project-to-translate-large-c-codebases-into-safe-rust/",
-   "source": "Hacker News",
-   "date": "2026-08-20T13:12:21.000Z"
-  },
-  {
-   "title": "Myanmar military chief visits Bangkok as diplomatic offensive continues",
-   "link": "https://www.aljazeera.com/news/2026/8/20/myanmar-military-chief-visits-bangkok-as-diplomatic-offensive-continues?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T13:10:50.000Z"
-  },
-  {
    "title": "Tokyo-bound express train hits and kills four workers at railway station in Japan",
    "link": "http://www.euronews.com/2026/08/20/tokyo-bound-express-train-hits-and-kills-four-workers-at-railway-station-in-japan",
    "source": "Euronews",
    "date": "2026-08-20T13:10:27.000Z"
-  },
-  {
-   "title": "Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war",
-   "link": "https://www.aljazeera.com/news/2026/8/20/gaza-holds-mass-funeral-for-50-palestinians-killed-in-israeli-genocidal-war?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T13:05:05.000Z"
-  },
-  {
-   "title": "UK internet age checks have boosted rogue adult sites, says Pornhub",
-   "link": "https://www.ft.com/content/295c2eba-da29-434d-84e0-e9de3b0b1cc2",
-   "source": "Hacker News",
-   "date": "2026-08-20T13:01:40.000Z"
   },
   {
    "title": "Drought on Serbia's Sava River reveals long-lost WWII shipwreck",
@@ -74,22 +92,10 @@
    "date": "2026-08-20T12:54:43.000Z"
   },
   {
-   "title": "Browser De-Slop",
-   "link": "https://www.sacredheartsc.com/blog/browser-de-slop/",
-   "source": "Hacker News",
-   "date": "2026-08-20T12:19:37.000Z"
-  },
-  {
-   "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-   "link": "https://simedw.com/2026/08/20/midi-autocomplete/",
-   "source": "Hacker News",
-   "date": "2026-08-20T12:04:38.000Z"
-  },
-  {
-   "title": "Proof of Human (YC S23) Is Hiring a Member of Technical Staff",
-   "link": "https://www.ycombinator.com/companies/proof-of-human/jobs/ZTZHEbb-member-of-technical-staff",
-   "source": "Hacker News",
-   "date": "2026-08-20T12:00:23.000Z"
+   "title": "Assad officer extradited to Syria on war crimes charges for first time",
+   "link": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-20T12:38:35.000Z"
   },
   {
    "title": "Tibetan protesters in New Dehli denounce China with shaved heads and prayers",
@@ -126,12 +132,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c2k7e83ynj4o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-20T09:13:18.000Z"
-  },
-  {
-   "title": "Australia 'outraged' after Israel decides not to open criminal investigation into killing of aid worker in Gaza",
-   "link": "https://www.bbc.co.uk/news/articles/cp87g29r718o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-20T07:33:11.000Z"
   },
   {
    "title": "Mushroom killer must stay in jail forever for 'truly dreadful' crime, appeal court told",

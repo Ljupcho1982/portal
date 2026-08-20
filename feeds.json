@@ -1,17 +1,47 @@
 {
- "updated": "2026-08-20T20:46:50.192Z",
+ "updated": "2026-08-20T21:43:46.653Z",
  "items": [
+  {
+   "title": "Pakistan’s ex-PM Imran Khan reportedly moved to hospital from jail",
+   "link": "https://www.aljazeera.com/news/2026/8/20/pakistans-ex-pm-imran-khan-transferred-from-jail-to-hospital?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T21:18:10.000Z"
+  },
+  {
+   "title": "US pummels Cuban economy with new sanctions on mining, construction",
+   "link": "https://www.aljazeera.com/news/2026/8/20/us-pummels-cuban-economy-with-new-sanctions-on-mining-construction?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T20:37:25.000Z"
+  },
+  {
+   "title": "Landslide at illegal gold mine kills 13 people in Colombia",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/landslide-at-illegal-gold-mine-kills-13-people-in-colombia-2?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T20:36:51.000Z"
+  },
+  {
+   "title": "Hundreds of Tibetans protest China’s ethnic unity law by shaving heads",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/hundreds-of-tibetans-protest-chinas-ethnic-unity-law-by-shaving-heads?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T20:32:13.000Z"
+  },
+  {
+   "title": "Heartbreak, loss on Lebanon’s front lines, the story of a first responder",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/heartbreak-loss-on-lebanons-front-lines-the-story-of-a-first-responder?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T20:28:44.000Z"
+  },
+  {
+   "title": "Dozens dead after boat capsizes in north-western Nigeria",
+   "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-20T20:27:36.000Z"
+  },
   {
    "title": "Four railway workers killed by express train at station in Japan",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/08-20-26-japan-railyway-crash-clip?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-20T20:27:27.000Z"
-  },
-  {
-   "title": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
-   "link": "https://www.aljazeera.com/news/2026/8/20/dr-congo-to-receive-70000-doses-of-ervebo-vaccine-as-ebola-infections-surge?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T20:10:42.000Z"
   },
   {
    "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
@@ -24,18 +54,6 @@
    "link": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
    "source": "Hacker News",
    "date": "2026-08-20T20:07:26.000Z"
-  },
-  {
-   "title": "Amputee children learn to swim after losing limbs in Israel’s war on Gaza",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/amputee-children-learn-to-swim-after-losing-limbs-in-israels-war-on-gaza?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T20:05:53.000Z"
-  },
-  {
-   "title": "Syria’s civil society navigates post-Assad era: Partnership or control?",
-   "link": "https://www.aljazeera.com/features/2026/8/20/syrias-civil-society-navigates-post-assad-era-partnership-or-control?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T19:59:54.000Z"
   },
   {
    "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
@@ -56,22 +74,16 @@
    "date": "2026-08-20T19:46:06.000Z"
   },
   {
-   "title": "Brook makes Pakistan pay for dropped catch as England dominate first Test",
-   "link": "https://www.aljazeera.com/sports/2026/8/20/brook-makes-pakistan-pay-for-dropped-catch-as-england-dominate-first-test?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T19:45:08.000Z"
-  },
-  {
-   "title": "Could US sanctions destroy the International Criminal Court?",
-   "link": "https://www.aljazeera.com/video/inside-story/2026/8/20/could-us-sanctions-destroy-the-international-criminal-court?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T19:38:29.000Z"
-  },
-  {
    "title": "GitHub, autoscaling, and the component substitution fallacy",
    "link": "https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/",
    "source": "Hacker News",
    "date": "2026-08-20T19:28:18.000Z"
+  },
+  {
+   "title": "The August 17 outage, and the work ahead",
+   "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+   "source": "Hacker News",
+   "date": "2026-08-20T19:22:24.000Z"
   },
   {
    "title": "Tidal Cycles – Live coding music with Algorithmic patterns",
@@ -84,12 +96,6 @@
    "link": "https://strn.cat/posts/spacetime/",
    "source": "Hacker News",
    "date": "2026-08-20T19:19:53.000Z"
-  },
-  {
-   "title": "Show HN: Huzzah – a novel approach to coding with AI",
-   "link": "https://www.danielvaughn.dev/posts/huzzah/",
-   "source": "Hacker News",
-   "date": "2026-08-20T19:05:36.000Z"
   },
   {
    "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
@@ -144,12 +150,6 @@
    "link": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-midday",
    "source": "Euronews",
    "date": "2026-08-20T10:00:16.000Z"
-  },
-  {
-   "title": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-   "link": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-20T06:08:02.000Z"
   },
   {
    "title": "More than 100 dead after goldmine collapses in Central African Republic",

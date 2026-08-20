@@ -1,17 +1,59 @@
 {
- "updated": "2026-08-20T16:51:11.518Z",
+ "updated": "2026-08-20T17:45:45.509Z",
  "items": [
   {
-   "title": "Spanish police evict hundreds of migrants from Ceuta beach to shelters",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/spanish-police-evict-hundreds-of-migrants-from-ceuta-beach-to-shelters?traffic_source=rss",
+   "title": "Bangladesh elects ruling party veteran Alamgir as president",
+   "link": "https://www.aljazeera.com/news/2026/8/20/bangladesh-elects-ruling-party-veteran-alamgir-as-president?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-08-20T16:22:46.000Z"
+   "date": "2026-08-20T17:35:34.000Z"
   },
   {
-   "title": "Syria detains policeman over death of White Helmets rescuer hit in custody",
-   "link": "https://www.aljazeera.com/news/2026/8/20/syria-detains-policeman-over-death-of-white-helmets-rescuer-hit-in-custody?traffic_source=rss",
+   "title": "Humanoid robots take centre stage in China-US tech race",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/humanoid-robots-take-centre-stage-in-china-us-tech-race?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-08-20T16:19:30.000Z"
+   "date": "2026-08-20T17:17:47.000Z"
+  },
+  {
+   "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+   "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-20T17:14:55.000Z"
+  },
+  {
+   "title": "Swiss tourist jailed for insulting Bali’s sacred Day of Silence",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/swiss-tourist-jailed-for-insulting-balis-sacred-day-of-silence?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T17:05:31.000Z"
+  },
+  {
+   "title": "Daily struggle for clean water and food takes a physical toll on Gaza kids",
+   "link": "https://www.aljazeera.com/features/2026/8/20/daily-struggle-for-clean-water-and-food-takes-a-physical-toll-on-gaza-kids?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T17:02:43.000Z"
+  },
+  {
+   "title": "Sixtyfour (YC P25) Is Hiring",
+   "link": "https://www.ycombinator.com/companies/sixtyfour/jobs/39SkSrA-software-engineering-intern",
+   "source": "Hacker News",
+   "date": "2026-08-20T17:01:05.000Z"
+  },
+  {
+   "title": "North Korea fires ballistic missiles as US-South Korea drills near end",
+   "link": "https://www.aljazeera.com/news/2026/8/20/north-korea-launches-ballistic-missiles-as-us-south-korea-drills-end?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T17:00:12.000Z"
+  },
+  {
+   "title": "At least 800 people evacuated from major wildfire in western Spain",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/at-least-800-people-evacuated-from-major-wildfire-in-western-spain?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T16:58:19.000Z"
+  },
+  {
+   "title": "Como mayor bans 'beasts' in city centre after being hit by bike",
+   "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-20T16:53:20.000Z"
   },
   {
    "title": "New US carrier strike group arrives in Middle East to relieve long-deployed USS Abraham Lincoln",
@@ -26,16 +68,16 @@
    "date": "2026-08-20T16:00:29.000Z"
   },
   {
-   "title": "One geography, two states: Saudi Arabia’s security approach to Sudan",
-   "link": "https://www.aljazeera.com/opinions/2026/8/20/one-geography-two-states-saudi-arabias-security-approach-to-sudan?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T15:51:46.000Z"
-  },
-  {
    "title": "How to compromise your system with a job interview",
    "link": "https://www.codedge.de/posts/how-to-compromise-your-system-with-a-job-interview",
    "source": "Hacker News",
    "date": "2026-08-20T15:50:57.000Z"
+  },
+  {
+   "title": "Linux 7.2 Released",
+   "link": "https://www.igalia.com/2026/08/19/Linux-72-Released.html",
+   "source": "Hacker News",
+   "date": "2026-08-20T15:46:18.000Z"
   },
   {
    "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
@@ -44,22 +86,10 @@
    "date": "2026-08-20T15:42:39.000Z"
   },
   {
-   "title": "Deadly Russian missile barrage hits Kyiv in hours-long overnight attack",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/deadly-russian-missile-barrage-hits-kyiv-in-hours-long-overnight-attack?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T15:41:56.000Z"
-  },
-  {
    "title": "Generic Methods in Go 1.27",
    "link": "https://dominik.info/blog/go-generic-methods",
    "source": "Hacker News",
    "date": "2026-08-20T15:41:48.000Z"
-  },
-  {
-   "title": "Gunmen seize tanker off Yemen amid resurgence of Somali piracy",
-   "link": "https://www.aljazeera.com/news/2026/8/20/gunmen-seize-tanker-off-yemen-amid-resurgence-of-somali-piracy?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T15:36:59.000Z"
   },
   {
    "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
@@ -72,30 +102,6 @@
    "link": "https://github.com/zachahn/vomit",
    "source": "Hacker News",
    "date": "2026-08-20T15:26:02.000Z"
-  },
-  {
-   "title": "Can US, Middle Eastern powers unite Libya 15 years after Gaddafi overthrow?",
-   "link": "https://www.aljazeera.com/news/2026/8/20/can-us-middle-eastern-powers-unite-libya-15-years-after-gaddafi-overthrow?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T15:24:42.000Z"
-  },
-  {
-   "title": "Anti-AI fonts are useless and harmful",
-   "link": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-   "source": "Hacker News",
-   "date": "2026-08-20T15:06:53.000Z"
-  },
-  {
-   "title": "Show HN: Open-source Stripe Connect alternative",
-   "link": "https://zoneless.com",
-   "source": "Hacker News",
-   "date": "2026-08-20T14:38:45.000Z"
-  },
-  {
-   "title": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-   "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-20T13:56:25.000Z"
   },
   {
    "title": "Tokyo-bound express train hits and kills four workers at railway station in Japan",
@@ -120,12 +126,6 @@
    "link": "http://www.euronews.com/video/2026/08/20/tibetan-protesters-in-new-dehli-denounce-china-with-shaved-heads-and-prayers",
    "source": "Euronews",
    "date": "2026-08-20T10:54:59.000Z"
-  },
-  {
-   "title": "Belgian car salesman becomes prince after royal parentage confirmed",
-   "link": "https://www.bbc.co.uk/news/articles/c4g616gvxr0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-20T10:14:47.000Z"
   },
   {
    "title": "Latest news bulletin | August 20th, 2026 – Midday",

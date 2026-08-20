@@ -1,6 +1,30 @@
 {
- "updated": "2026-08-20T09:50:20.919Z",
+ "updated": "2026-08-20T10:47:23.988Z",
  "items": [
+  {
+   "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
+   "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-20T10:34:33.000Z"
+  },
+  {
+   "title": "Syrian official says ‘no plans’ to establish Turkish military presence",
+   "link": "https://www.aljazeera.com/news/2026/8/20/syrian-official-says-no-plans-to-establish-turkish-military-presence?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T10:16:08.000Z"
+  },
+  {
+   "title": "Taliban secures pragmatic global alliances without formal recognition",
+   "link": "https://www.aljazeera.com/economy/2026/8/20/taliban-secures-pragmatic-global-alliances-without-formal-recognition?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-20T10:14:30.000Z"
+  },
+  {
+   "title": "Latest news bulletin | August 20th, 2026 – Midday",
+   "link": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-midday",
+   "source": "Euronews",
+   "date": "2026-08-20T10:00:16.000Z"
+  },
   {
    "title": "ICC separates Taliban probe from US case as Afghan women's fate stays uncertain",
    "link": "http://www.euronews.com/2026/08/20/icc-separates-taliban-probe-from-us-case-as-afghan-womens-fate-stays-uncertain",
@@ -12,12 +36,6 @@
    "link": "http://www.euronews.com/video/2026/08/20/sirens-shelters-and-scaled-back-war-games-south-korea-rehearses-for-crisis",
    "source": "Euronews",
    "date": "2026-08-20T09:41:47.000Z"
-  },
-  {
-   "title": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
-   "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-20T09:37:31.000Z"
   },
   {
    "title": "How conflict is making life more expensive for Iranians",
@@ -56,22 +74,10 @@
    "date": "2026-08-20T08:24:59.000Z"
   },
   {
-   "title": "Heatwaves and energy crunch: Can Europe withstand a double shock?",
-   "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/20/heatwaves-and-energy-crunch-can-europe-withstand-a-double-shock?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T08:24:04.000Z"
-  },
-  {
    "title": "Don't Paste the AI, please",
    "link": "https://dontpastetheai.com/",
    "source": "Hacker News",
    "date": "2026-08-20T08:20:44.000Z"
-  },
-  {
-   "title": "Video shows Russian missile strike on Ukrainian capital",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/video-shows-russian-missile-strike-on-ukrainian-capital?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-20T08:18:15.000Z"
   },
   {
    "title": "Kyiv residents rescued as Russian strikes damage buildings across the city",
@@ -98,12 +104,6 @@
    "date": "2026-08-20T07:06:28.000Z"
   },
   {
-   "title": "China showcases next‑gen humanoid robots as US curbs push firms abroad",
-   "link": "http://www.euronews.com/video/2026/08/20/china-showcases-nextgen-humanoid-robots-as-us-curbs-push-firms-abroad",
-   "source": "Euronews",
-   "date": "2026-08-20T07:00:00.000Z"
-  },
-  {
    "title": "Windows brings out the Rorschach test in everyone",
    "link": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
    "source": "Hacker News",
@@ -120,12 +120,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c304e2dlv20o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-20T05:45:53.000Z"
-  },
-  {
-   "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-   "link": "https://devblogs.microsoft.com/oldnewthing/20260818-00/?p=112621",
-   "source": "Hacker News",
-   "date": "2026-08-20T04:42:02.000Z"
   },
   {
    "title": "Turns are Better than Radians (2022)",
@@ -156,6 +150,12 @@
    "link": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
    "source": "Guardian World",
    "date": "2026-08-19T20:17:39.000Z"
+  },
+  {
+   "title": "Pixel 11 Pro Fold feels like the end of an era",
+   "link": "https://www.theverge.com/tech/981956/google-pixel-11-pro-fold-review",
+   "source": "Hacker News",
+   "date": "2026-08-19T19:43:48.000Z"
   },
   {
    "title": "Spain to allow 500 children in Ceuta to go to mainland in immigration U-turn",

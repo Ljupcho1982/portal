@@ -1,6 +1,30 @@
 {
- "updated": "2026-08-21T20:41:49.368Z",
+ "updated": "2026-08-21T21:39:07.090Z",
  "items": [
+  {
+   "title": "One killed in sword attack at Swedish school",
+   "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-21T21:03:24.000Z"
+  },
+  {
+   "title": "SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers",
+   "link": "https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer",
+   "source": "Hacker News",
+   "date": "2026-08-21T21:00:48.000Z"
+  },
+  {
+   "title": "Tunisian protesters call for President Kais Saied to step down",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/tunisian-protesters-call-for-president-kais-saied-to-step-down?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-21T20:35:07.000Z"
+  },
+  {
+   "title": "Can a humanitarian disaster be averted in Somalia?",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/8/21/can-a-humanitarian-disaster-be-averted-in-somalia-2?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-21T20:27:14.000Z"
+  },
   {
    "title": "Pope Leo urges the world to ‘help begin reconstruction’ of Gaza",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pope-leo-urges-the-world-to-help-begin-reconstruction-of-gaza?traffic_source=rss",
@@ -38,30 +62,6 @@
    "date": "2026-08-21T19:49:56.000Z"
   },
   {
-   "title": "Trump waives ‘out-of-quota’ beef tariffs for 90 days to lower prices",
-   "link": "https://www.aljazeera.com/news/2026/8/21/trump-waives-out-of-quota-beef-tariffs-for-90-days-to-lower-prices?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-21T19:42:51.000Z"
-  },
-  {
-   "title": "Church of the TigerBeetle: A Look at Tech Evangelism",
-   "link": "https://www.wespiser.com/posts/2026-08-03-church-of-the-tigerbeetle.html",
-   "source": "Hacker News",
-   "date": "2026-08-21T19:35:17.000Z"
-  },
-  {
-   "title": "US court slashes Alex Jones fines for Sandy Hook school shooting case",
-   "link": "https://www.aljazeera.com/news/2026/8/21/us-court-slashes-alex-jones-fines-for-sandy-hook-school-shooting-case?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-21T19:29:20.000Z"
-  },
-  {
-   "title": "One killed in sword attack at Swedish school",
-   "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-21T19:22:05.000Z"
-  },
-  {
    "title": "Tumble Forth – from assembly to OS with C compiler",
    "link": "https://tumbleforth.hardcoded.net/",
    "source": "Hacker News",
@@ -86,10 +86,10 @@
    "date": "2026-08-21T18:27:15.000Z"
   },
   {
-   "title": "Rebuilding our Electron meeting-recording engine in Swift",
-   "link": "https://circleback.ai/blog/how-we-rebuilt-our-electron-recording-engine-in-swift",
+   "title": "LiteLLM (YC W23) Is Hiring – Rust / Performance Engineers",
+   "link": "https://jobs.ashbyhq.com/litellm/3f326076-7415-46a1-921e-8a1b1d6ee2b6",
    "source": "Hacker News",
-   "date": "2026-08-21T17:33:26.000Z"
+   "date": "2026-08-21T17:00:23.000Z"
   },
   {
    "title": "Muslim World League launches plan to counter extremism and promote peace in West Africa",

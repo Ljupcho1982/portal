@@ -1,11 +1,47 @@
 {
- "updated": "2026-08-21T05:48:38.114Z",
+ "updated": "2026-08-21T07:08:10.503Z",
  "items": [
+  {
+   "title": "Kyiv residents search through the wreckage after Russia’s deadly barrage",
+   "link": "http://www.euronews.com/video/2026/08/21/kyiv-residents-search-through-the-wreckage-after-russias-deadly-barrage",
+   "source": "Euronews",
+   "date": "2026-08-21T07:00:45.000Z"
+  },
+  {
+   "title": "‘Very unusual’: UK Palestine activists could be sentenced as terrorists",
+   "link": "https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-21T06:56:19.000Z"
+  },
+  {
+   "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
+   "link": "https://Argentic.network",
+   "source": "Hacker News",
+   "date": "2026-08-21T06:24:16.000Z"
+  },
+  {
+   "title": "Panama Canal to reduce shipping as El Niño fuels drought in lakes that feed waterway",
+   "link": "http://www.euronews.com/2026/08/21/panama-canal-to-reduce-shipping-as-el-nino-fuels-drought-in-lakes-that-feed-waterway",
+   "source": "Euronews",
+   "date": "2026-08-21T06:18:05.000Z"
+  },
   {
    "title": "Hong Kong's Tiananmen activists guilty in national security trial",
    "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-21T05:47:32.000Z"
+  },
+  {
+   "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+   "link": "https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/",
+   "source": "Hacker News",
+   "date": "2026-08-21T05:39:39.000Z"
+  },
+  {
+   "title": "Japan tried to build an operating system for the world, the US intervened",
+   "link": "https://www.xda-developers.com/japan-tried-build-operating-system-entire-world-us-government-intervened/",
+   "source": "Hacker News",
+   "date": "2026-08-21T05:31:34.000Z"
   },
   {
    "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
@@ -18,6 +54,12 @@
    "link": "http://www.euronews.com/2026/08/21/unsc-to-hold-second-informal-vote-for-organisations-next-secretary-general",
    "source": "Euronews",
    "date": "2026-08-21T05:29:57.000Z"
+  },
+  {
+   "title": "Seed: Minimal, self-modifying agent harness",
+   "link": "https://github.com/vivekhaldar/seed",
+   "source": "Hacker News",
+   "date": "2026-08-21T05:20:50.000Z"
   },
   {
    "title": "Australia charges man over trying to inform Russia of Ukrainian military activities",
@@ -74,28 +116,10 @@
    "date": "2026-08-21T01:38:37.000Z"
   },
   {
-   "title": "Panama Canal to limit shipping ahead of extreme weather during El Nino",
-   "link": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-21T01:12:02.000Z"
-  },
-  {
    "title": "El Niño set to be 'strongest in living memory', says Met Office",
    "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-21T00:33:21.000Z"
-  },
-  {
-   "title": "There's no such thing as a small software team anymore",
-   "link": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
-   "source": "Hacker News",
-   "date": "2026-08-21T00:28:37.000Z"
-  },
-  {
-   "title": "Ox Alpha",
-   "link": "https://openrouter.ai/stealth/ox-alpha",
-   "source": "Hacker News",
-   "date": "2026-08-20T23:56:35.000Z"
   },
   {
    "title": "How much could Trump's 'economic D-Day' hurt Iran?",
@@ -110,22 +134,10 @@
    "date": "2026-08-20T23:15:15.000Z"
   },
   {
-   "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-   "link": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
-   "source": "Hacker News",
-   "date": "2026-08-20T20:07:26.000Z"
-  },
-  {
    "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
    "link": "https://www.theguardian.com/us-news/2026/aug/20/liberia-deportation-agreement",
    "source": "Guardian World",
    "date": "2026-08-20T19:57:59.000Z"
-  },
-  {
-   "title": "The August 17 outage",
-   "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-   "source": "Hacker News",
-   "date": "2026-08-20T19:22:24.000Z"
   },
   {
    "title": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
@@ -138,18 +150,6 @@
    "link": "http://www.euronews.com/2026/08/20/new-us-carrier-strike-group-arrives-in-middle-east-to-relieve-long-deployed-uss-abraham-li",
    "source": "Euronews",
    "date": "2026-08-20T16:01:42.000Z"
-  },
-  {
-   "title": "Latest news bulletin | August 20th, 2026 – Evening",
-   "link": "http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-evening",
-   "source": "Euronews",
-   "date": "2026-08-20T16:00:29.000Z"
-  },
-  {
-   "title": "Tokyo-bound express train hits and kills four workers at railway station in Japan",
-   "link": "http://www.euronews.com/2026/08/20/tokyo-bound-express-train-hits-and-kills-four-workers-at-railway-station-in-japan",
-   "source": "Euronews",
-   "date": "2026-08-20T13:10:27.000Z"
   },
   {
    "title": "More than 100 dead after goldmine collapses in Central African Republic",

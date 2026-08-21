@@ -1,11 +1,35 @@
 {
- "updated": "2026-08-21T01:57:44.824Z",
+ "updated": "2026-08-21T03:16:39.281Z",
  "items": [
+  {
+   "title": "Hong Kong's Tiananmen activists guilty in national security trial",
+   "link": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-21T02:59:46.000Z"
+  },
+  {
+   "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
+   "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-21T02:33:27.000Z"
+  },
+  {
+   "title": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
+   "link": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-21T02:11:33.000Z"
+  },
   {
    "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
    "link": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-21T01:38:37.000Z"
+  },
+  {
+   "title": "Artificial Intelligence Policy",
+   "link": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
+   "source": "Hacker News",
+   "date": "2026-08-21T01:37:27.000Z"
   },
   {
    "title": "Panama Canal to limit shipping ahead of extreme weather during El Nino",
@@ -26,10 +50,10 @@
    "date": "2026-08-21T00:44:46.000Z"
   },
   {
-   "title": "It is a sign of the times that Amazon gets to call this fair use",
-   "link": "http://observationalepidemiology.blogspot.com/2026/08/it-is-sign-of-times-that-amazon-gets-to.html",
-   "source": "Hacker News",
-   "date": "2026-08-21T00:34:32.000Z"
+   "title": "El Niño set to be 'strongest in living memory', says Met Office",
+   "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-21T00:33:21.000Z"
   },
   {
    "title": "There's no such thing as a small software team anymore",
@@ -50,12 +74,6 @@
    "date": "2026-08-21T00:12:37.000Z"
   },
   {
-   "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-21T00:00:00.000Z"
-  },
-  {
    "title": "Stealth Model",
    "link": "https://openrouter.ai/stealth/ox-alpha",
    "source": "Hacker News",
@@ -68,28 +86,16 @@
    "date": "2026-08-20T23:16:45.000Z"
   },
   {
+   "title": "Why the US economy is ringing alarm bells",
+   "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-20T23:15:15.000Z"
+  },
+  {
    "title": "Detecting scraper bots through scroll behaviour",
    "link": "https://niki.cat/detecting-scraper-bots-through-scroll-behaviour",
    "source": "Hacker News",
    "date": "2026-08-20T22:47:52.000Z"
-  },
-  {
-   "title": "Trump wants to be friends with Kim - but South Korea could pay the price",
-   "link": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-20T22:01:26.000Z"
-  },
-  {
-   "title": "Dozens dead after boat capsizes in north-western Nigeria",
-   "link": "https://www.bbc.co.uk/news/articles/cj035jg256no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-20T20:27:36.000Z"
-  },
-  {
-   "title": "Como mayor hit by electric bike and issues blanket ban in Italian city",
-   "link": "https://www.bbc.co.uk/news/articles/cn8n077vxd7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-20T20:08:29.000Z"
   },
   {
    "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
@@ -108,12 +114,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-20T18:55:14.000Z"
-  },
-  {
-   "title": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
-   "link": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-20T17:14:55.000Z"
   },
   {
    "title": "New US carrier strike group arrives in Middle East to relieve long-deployed USS Abraham Lincoln",

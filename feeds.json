@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-21T04:05:08.146Z",
+ "updated": "2026-08-21T04:54:39.968Z",
  "items": [
+  {
+   "title": "Hong Kong Tiananmen activists found guilty of national security charges",
+   "link": "https://www.aljazeera.com/news/2026/8/21/hong-kong-tiananmen-activists-found-guilty-of-national-security-charges?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-21T03:50:15.000Z"
+  },
   {
    "title": "Codex on AWS bedrock bug causing 10x charges",
    "link": "https://github.com/openai/codex/issues/37674",
    "source": "Hacker News",
    "date": "2026-08-21T03:17:43.000Z"
-  },
-  {
-   "title": "Pakistan’s Imran Khan moved to hospital after Supreme Court order",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-21T03:08:09.000Z"
   },
   {
    "title": "Hong Kong's Tiananmen activists guilty in national security trial",
@@ -44,12 +44,6 @@
    "date": "2026-08-21T01:38:37.000Z"
   },
   {
-   "title": "Artificial Intelligence Policy",
-   "link": "https://www.law.berkeley.edu/academics/registrar/academic-rules/artificial-intelligence-policy/",
-   "source": "Hacker News",
-   "date": "2026-08-21T01:37:27.000Z"
-  },
-  {
    "title": "Panama Canal to limit shipping ahead of extreme weather during El Nino",
    "link": "https://www.aljazeera.com/news/2026/8/21/panama-canal-to-limit-shipping-ahead-of-extreme-weather-during-el-nino?traffic_source=rss",
    "source": "Al Jazeera",
@@ -78,6 +72,12 @@
    "link": "https://jacob.gold/posts/theres-no-such-thing-as-a-small-software-team/",
    "source": "Hacker News",
    "date": "2026-08-21T00:28:37.000Z"
+  },
+  {
+   "title": "Ox Alpha",
+   "link": "https://openrouter.ai/stealth/ox-alpha",
+   "source": "Hacker News",
+   "date": "2026-08-20T23:56:35.000Z"
   },
   {
    "title": "How much could Trump's 'economic D-Day' hurt Iran?",

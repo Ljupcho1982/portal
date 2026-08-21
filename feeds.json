@@ -1,11 +1,47 @@
 {
- "updated": "2026-08-21T07:08:10.503Z",
+ "updated": "2026-08-21T07:57:16.339Z",
  "items": [
+  {
+   "title": "Australian Hussey open to Ashes Test role as England make approach",
+   "link": "https://www.aljazeera.com/sports/2026/8/21/mike-hussey-england-test-batting-coach-stephen-fleming-ashes-australia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-21T07:37:35.000Z"
+  },
+  {
+   "title": "The Lost Treasure of Sid Meier's Pirates",
+   "link": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+   "source": "Hacker News",
+   "date": "2026-08-21T07:23:27.000Z"
+  },
+  {
+   "title": "Dr TikTok: Mental health moves from consulting rooms to social media",
+   "link": "https://www.aljazeera.com/features/2026/8/21/dr-tiktok-mental-health-moves-from-consulting-rooms-to-social-media?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-21T07:12:54.000Z"
+  },
+  {
+   "title": "Spain moves hundreds of migrants from Ceuta beach to temporary shelters",
+   "link": "http://www.euronews.com/video/2026/08/21/spain-moves-hundreds-of-migrants-from-ceuta-beach-to-temporary-shelters",
+   "source": "Euronews",
+   "date": "2026-08-21T07:12:26.000Z"
+  },
+  {
+   "title": "Five missing after fire in Swiss Alpine town",
+   "link": "https://www.bbc.co.uk/news/articles/cy8e6g13497o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-21T07:06:16.000Z"
+  },
   {
    "title": "Kyiv residents search through the wreckage after Russia’s deadly barrage",
    "link": "http://www.euronews.com/video/2026/08/21/kyiv-residents-search-through-the-wreckage-after-russias-deadly-barrage",
    "source": "Euronews",
    "date": "2026-08-21T07:00:45.000Z"
+  },
+  {
+   "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+   "link": "https://encore.dev/blog/firecracker-apple-silicon",
+   "source": "Hacker News",
+   "date": "2026-08-21T06:59:40.000Z"
   },
   {
    "title": "‘Very unusual’: UK Palestine activists could be sentenced as terrorists",
@@ -44,12 +80,6 @@
    "date": "2026-08-21T05:31:34.000Z"
   },
   {
-   "title": "British rapper Yung Filly to face retrial on rape charges in Australia",
-   "link": "https://www.bbc.co.uk/news/articles/cd7l1g8922jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-21T05:30:18.000Z"
-  },
-  {
    "title": "UNSC to hold second informal vote for organisation's next secretary general",
    "link": "http://www.euronews.com/2026/08/21/unsc-to-hold-second-informal-vote-for-organisations-next-secretary-general",
    "source": "Euronews",
@@ -62,10 +92,16 @@
    "date": "2026-08-21T05:20:50.000Z"
   },
   {
-   "title": "Australia charges man over trying to inform Russia of Ukrainian military activities",
+   "title": "Australia charges man with trying to pass Ukrainian military intel to Russia",
    "link": "http://www.euronews.com/2026/08/21/australia-charges-man-over-trying-to-inform-russia-of-ukrainian-military-activities",
    "source": "Euronews",
    "date": "2026-08-21T05:07:32.000Z"
+  },
+  {
+   "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+   "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-21T05:00:57.000Z"
   },
   {
    "title": "Latest news bulletin | August 21st, 2026 – Morning",
@@ -86,52 +122,22 @@
    "date": "2026-08-21T03:50:15.000Z"
   },
   {
-   "title": "Codex on AWS bedrock bug causing 10x charges",
-   "link": "https://github.com/openai/codex/issues/37674",
-   "source": "Hacker News",
-   "date": "2026-08-21T03:17:43.000Z"
-  },
-  {
    "title": "Pakistan’s Imran Khan back to prison after evaluation at hospital",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-moved-to-hospital-after-supreme-court-order?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-21T03:08:09.000Z"
   },
   {
-   "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-   "link": "https://annas-archive.gl/blog/physical-destruction.html",
-   "source": "Hacker News",
-   "date": "2026-08-21T02:37:47.000Z"
-  },
-  {
-   "title": "After GERD, can Egypt shape Ethiopia’s next Nile dams?",
-   "link": "https://www.aljazeera.com/news/2026/8/21/after-gerd-can-egypt-shape-ethiopias-next-nile-dams?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-21T02:11:33.000Z"
-  },
-  {
-   "title": "Brazil launches AI supercomputer push while balancing US and Chinese tech",
-   "link": "https://www.aljazeera.com/economy/2026/8/21/brazil-launches-ai-supercomputer-push-while-balancing-us-and-chinese-tech?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-21T01:38:37.000Z"
-  },
-  {
-   "title": "El Niño set to be 'strongest in living memory', says Met Office",
-   "link": "https://www.bbc.co.uk/weather/articles/c3ekg93vjz9o?at_medium=RSS&at_campaign=rss",
+   "title": "Bali jails Swiss tourist for insulting sacred Day of Silence",
+   "link": "https://www.bbc.co.uk/news/articles/cj4kr59r28ko?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-08-21T00:33:21.000Z"
+   "date": "2026-08-21T02:33:27.000Z"
   },
   {
    "title": "How much could Trump's 'economic D-Day' hurt Iran?",
    "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-20T23:16:45.000Z"
-  },
-  {
-   "title": "Why the US economy is ringing alarm bells",
-   "link": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-20T23:15:15.000Z"
   },
   {
    "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",
@@ -144,12 +150,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-20T18:55:14.000Z"
-  },
-  {
-   "title": "New US carrier strike group arrives in Middle East to relieve long-deployed USS Abraham Lincoln",
-   "link": "http://www.euronews.com/2026/08/20/new-us-carrier-strike-group-arrives-in-middle-east-to-relieve-long-deployed-uss-abraham-li",
-   "source": "Euronews",
-   "date": "2026-08-20T16:01:42.000Z"
   },
   {
    "title": "More than 100 dead after goldmine collapses in Central African Republic",

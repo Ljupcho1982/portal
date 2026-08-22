@@ -1,6 +1,24 @@
 {
- "updated": "2026-08-22T21:35:54.226Z",
+ "updated": "2026-08-22T22:38:31.485Z",
  "items": [
+  {
+   "title": "A New Kind of Science by Stephen Wolfram: Monster Raving Egomania",
+   "link": "https://bactra.org/reviews/wolfram/",
+   "source": "Hacker News",
+   "date": "2026-08-22T22:00:28.000Z"
+  },
+  {
+   "title": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
+   "link": "https://www.aljazeera.com/sports/2026/8/22/real-madrid-beat-espanyol-2-1-in-jose-mourinhos-first-game-on-return?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-22T21:55:06.000Z"
+  },
+  {
+   "title": "Open-air cinema brings movie nights back to Khartoum",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-22T21:27:22.000Z"
+  },
   {
    "title": "Israeli army and settlers injure several Palestinians across West Bank",
    "link": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
@@ -12,12 +30,6 @@
    "link": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-22T20:49:17.000Z"
-  },
-  {
-   "title": "Knowing When to Stop: The Art of Making a Loop Converge",
-   "link": "https://a16z.com/knowing-when-to-stop-the-art-of-making-a-loop-converge/",
-   "source": "Hacker News",
-   "date": "2026-08-22T20:21:14.000Z"
   },
   {
    "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
@@ -38,28 +50,10 @@
    "date": "2026-08-22T20:02:46.000Z"
   },
   {
-   "title": "Fast and Hard Code",
-   "link": "https://lucumr.pocoo.org/2026/8/22/fast-hard-code/",
-   "source": "Hacker News",
-   "date": "2026-08-22T19:56:38.000Z"
-  },
-  {
    "title": "Why is Israel building new illegal settlements?",
    "link": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-22T19:40:58.000Z"
-  },
-  {
-   "title": "More than 200,000 newly displaced in Sudan’s Kordofan region",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/more-than-200000-newly-displaced-in-sudans-kordofan-region?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-22T19:29:08.000Z"
-  },
-  {
-   "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
-   "link": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-22T19:24:51.000Z"
   },
   {
    "title": "English ↔ Claudish Translator",
@@ -84,6 +78,12 @@
    "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
    "source": "Hacker News",
    "date": "2026-08-22T18:14:16.000Z"
+  },
+  {
+   "title": "Thinking in Python by Bruce Eckel",
+   "link": "https://thinkinginpython.com/",
+   "source": "Hacker News",
+   "date": "2026-08-22T18:10:49.000Z"
   },
   {
    "title": "US military newspaper editor voices censorship fears after being fired",

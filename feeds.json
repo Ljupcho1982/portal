@@ -1,11 +1,17 @@
 {
- "updated": "2026-08-22T22:38:31.485Z",
+ "updated": "2026-08-22T23:34:43.371Z",
  "items": [
   {
-   "title": "A New Kind of Science by Stephen Wolfram: Monster Raving Egomania",
-   "link": "https://bactra.org/reviews/wolfram/",
+   "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
+   "link": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-22T22:29:07.000Z"
+  },
+  {
+   "title": "NanoGPT Speedrun Frontier",
+   "link": "https://www.primeintellect.ai/research/nanogpt-speedrun",
    "source": "Hacker News",
-   "date": "2026-08-22T22:00:28.000Z"
+   "date": "2026-08-22T22:14:27.000Z"
   },
   {
    "title": "Real Madrid beat Espanyol 2-1 in Jose Mourinho’s first game on return",
@@ -50,19 +56,13 @@
    "date": "2026-08-22T20:02:46.000Z"
   },
   {
-   "title": "Why is Israel building new illegal settlements?",
-   "link": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-22T19:40:58.000Z"
-  },
-  {
    "title": "English ↔ Claudish Translator",
    "link": "https://programasweights.com/claudish",
    "source": "Hacker News",
    "date": "2026-08-22T19:19:15.000Z"
   },
   {
-   "title": "NetBSD and My Life (2005)",
+   "title": "NetBSD and my life (2005)",
    "link": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
    "source": "Hacker News",
    "date": "2026-08-22T19:07:46.000Z"
@@ -74,16 +74,16 @@
    "date": "2026-08-22T19:04:41.000Z"
   },
   {
+   "title": "Show HN: Make your logo extra bright on HDR screens",
+   "link": "https://www.soverybright.com/",
+   "source": "Hacker News",
+   "date": "2026-08-22T18:43:03.000Z"
+  },
+  {
    "title": "Why your local LLM feels dumber than it is",
    "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
    "source": "Hacker News",
    "date": "2026-08-22T18:14:16.000Z"
-  },
-  {
-   "title": "Thinking in Python by Bruce Eckel",
-   "link": "https://thinkinginpython.com/",
-   "source": "Hacker News",
-   "date": "2026-08-22T18:10:49.000Z"
   },
   {
    "title": "US military newspaper editor voices censorship fears after being fired",

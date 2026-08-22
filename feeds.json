@@ -1,6 +1,30 @@
 {
- "updated": "2026-08-22T08:47:50.664Z",
+ "updated": "2026-08-22T09:42:48.540Z",
  "items": [
+  {
+   "title": "Iran says new US sanctions violate sovereignty of other states",
+   "link": "https://www.aljazeera.com/news/2026/8/22/iran-says-new-us-sanctions-violate-sovereignty-of-other-states?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-22T09:14:09.000Z"
+  },
+  {
+   "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
+   "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-22T09:13:26.000Z"
+  },
+  {
+   "title": "TikTok agrees to pay $400 million to settle US children's privacy lawsuit",
+   "link": "http://www.euronews.com/2026/08/22/tiktok-agrees-to-pay-400-million-to-settle-us-childrens-privacy-lawsuit",
+   "source": "Euronews",
+   "date": "2026-08-22T09:08:58.000Z"
+  },
+  {
+   "title": "Australia bite back as 18 wickets fall on day one of second Bangladesh Test",
+   "link": "https://www.aljazeera.com/sports/2026/8/22/australia-bite-back-as-18-wickets-fall-on-day-one-of-second-bangladesh-test?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-22T08:53:17.000Z"
+  },
   {
    "title": "Nakashima pounds Fritz, Bejlek beats Keys in Cincinnati upsets",
    "link": "https://www.aljazeera.com/sports/2026/8/22/nakashima-pounds-fritz-bejlek-beats-keys-in-cincinnati-upsets?traffic_source=rss",
@@ -26,34 +50,10 @@
    "date": "2026-08-22T07:41:21.000Z"
   },
   {
-   "title": "‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell",
-   "link": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-22T07:41:10.000Z"
-  },
-  {
-   "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
-   "link": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-22T07:35:08.000Z"
-  },
-  {
-   "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
-   "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-22T06:40:30.000Z"
-  },
-  {
    "title": "Canada will match US tariffs 'dollar for dollar,' Carney says",
    "link": "http://www.euronews.com/2026/08/22/canada-will-match-us-tariffs-dollar-for-dollar-carney-says",
    "source": "Euronews",
    "date": "2026-08-22T06:26:53.000Z"
-  },
-  {
-   "title": "Canada will match US tariffs 'dollar for dollar' as trade talks break down",
-   "link": "https://www.bbc.com/news/articles/cvgvyy4x2mvo",
-   "source": "Hacker News",
-   "date": "2026-08-22T06:16:57.000Z"
   },
   {
    "title": "Canada vows to match Trump’s 50% tariffs after trade deal talks fail",
@@ -122,6 +122,12 @@
    "date": "2026-08-21T21:00:48.000Z"
   },
   {
+   "title": "Rust Glancer: Rust LSP using 100x less RAM",
+   "link": "https://rust-glancer.github.io/blog/hello-world/",
+   "source": "Hacker News",
+   "date": "2026-08-21T19:51:54.000Z"
+  },
+  {
    "title": "Muslim World League launches plan to counter extremism and promote peace in West Africa",
    "link": "http://www.euronews.com/2026/08/21/muslim-world-league-launches-plan-to-counter-extremism-and-promote-peace-in-west-africa",
    "source": "Euronews",
@@ -138,12 +144,6 @@
    "link": "http://www.euronews.com/video/2026/08/21/new-videos-show-deadly-landslide-burying-gold-miners-in-central-african-republic",
    "source": "Euronews",
    "date": "2026-08-21T13:48:21.000Z"
-  },
-  {
-   "title": "Syrians who came home after al-Assad's fall find a complicated reality",
-   "link": "http://www.euronews.com/2026/08/21/syrians-who-came-home-after-al-assads-fall-find-a-complicated-reality",
-   "source": "Euronews",
-   "date": "2026-08-21T13:32:51.000Z"
   },
   {
    "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",

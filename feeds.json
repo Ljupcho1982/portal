@@ -1,6 +1,12 @@
 {
- "updated": "2026-08-23T04:04:33.010Z",
+ "updated": "2026-08-23T04:52:26.256Z",
  "items": [
+  {
+   "title": "'We're not going to run from it': Sydney Marathon laughs off medal error",
+   "link": "https://www.bbc.co.uk/news/articles/cn4n4l1yyvro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-23T03:44:19.000Z"
+  },
   {
    "title": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss",
@@ -20,10 +26,22 @@
    "date": "2026-08-23T03:16:19.000Z"
   },
   {
+   "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+   "link": "https://martypc.net/",
+   "source": "Hacker News",
+   "date": "2026-08-23T03:13:16.000Z"
+  },
+  {
    "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
    "link": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-23T02:34:49.000Z"
+  },
+  {
+   "title": "I Dream of Quieter Computing",
+   "link": "https://henry.codes/writing/i-dream-of-quieter-computing/",
+   "source": "Hacker News",
+   "date": "2026-08-23T02:33:22.000Z"
   },
   {
    "title": "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid",
@@ -56,7 +74,7 @@
    "date": "2026-08-22T21:42:42.000Z"
   },
   {
-   "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+   "title": "Carney say Trump started trade war with fresh tarrifs 'attack'",
    "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-22T20:10:00.000Z"
@@ -78,18 +96,6 @@
    "link": "https://lapcatsoftware.com/articles/2026/8/7.html",
    "source": "Hacker News",
    "date": "2026-08-22T19:04:41.000Z"
-  },
-  {
-   "title": "Why your local LLM feels dumber than it is",
-   "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
-   "source": "Hacker News",
-   "date": "2026-08-22T18:14:16.000Z"
-  },
-  {
-   "title": "Figmimic – A bookmarklet to copy any webpage into Figma as editable layers",
-   "link": "https://marcua.net/minitools/figmimic/",
-   "source": "Hacker News",
-   "date": "2026-08-22T18:11:40.000Z"
   },
   {
    "title": "Latest news bulletin | August 22nd, 2026 – Evening",
@@ -144,12 +150,6 @@
    "link": "http://www.euronews.com/video/2026/08/22/latest-news-bulletin-august-22nd-2026-morning",
    "source": "Euronews",
    "date": "2026-08-22T05:00:33.000Z"
-  },
-  {
-   "title": "TikTok to pay $400m to US in one of largest child privacy settlements",
-   "link": "https://www.bbc.co.uk/news/articles/cwyr0l45xjro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-21T22:36:12.000Z"
   },
   {
    "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",

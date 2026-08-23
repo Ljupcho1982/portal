@@ -1,11 +1,47 @@
 {
- "updated": "2026-08-23T13:02:05.606Z",
+ "updated": "2026-08-23T13:46:17.038Z",
  "items": [
+  {
+   "title": "Heavy Israeli air strike hits warehouse in central Gaza",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/heavy-israeli-air-strike-hits-warehouse-in-central-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-23T13:20:57.000Z"
+  },
+  {
+   "title": "Dozens of attacks in southern Thailand wound three people",
+   "link": "https://www.aljazeera.com/news/2026/8/23/dozens-of-attacks-in-southern-thailand-wound-three-people?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-23T13:08:37.000Z"
+  },
+  {
+   "title": "AI fraud costing victims millions of dollars",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ai-fraud-costing-victims-millions-of-dollars?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-23T13:08:06.000Z"
+  },
+  {
+   "title": "Malware infects Android-based automotive head unit firmware",
+   "link": "https://securelist.com/android-head-unit-malware/121106/",
+   "source": "Hacker News",
+   "date": "2026-08-23T13:05:38.000Z"
+  },
   {
    "title": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
    "link": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-23T12:56:43.000Z"
+  },
+  {
+   "title": "DR Congo and M23 rebels agree roadmap for peace talks",
+   "link": "https://www.bbc.co.uk/news/articles/cre4e1q3wewo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-23T12:52:08.000Z"
+  },
+  {
+   "title": "'New season, new trim' - Haaland reveals buzzcut",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cr4941zkgevo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-23T12:36:54.000Z"
   },
   {
    "title": "Zelenskyy says wartime elections could ‘destroy’ Ukraine",
@@ -26,28 +62,10 @@
    "date": "2026-08-23T12:13:04.000Z"
   },
   {
-   "title": "US Senate nominee Abdul El-Sayed rebuts criticism from JD Vance",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/us-senate-nominee-abdul-el-sayed-rebuts-criticism-from-jd-vance?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-23T12:02:08.000Z"
-  },
-  {
    "title": "Dozens of co-ordinated arson attacks hit southern Thailand",
    "link": "https://www.bbc.co.uk/news/articles/c8enegx4xy3o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-23T11:50:59.000Z"
-  },
-  {
-   "title": "Can Iran retaliate against countries that join US ‘economic war’?",
-   "link": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-23T11:50:22.000Z"
-  },
-  {
-   "title": "Sydney Marathon organisers not running away from ‘unfortunate’ medal error",
-   "link": "https://www.aljazeera.com/sports/2026/8/23/sydney-marathon-organisers-not-running-away-from-unfortunate-medal-error?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-23T11:44:18.000Z"
   },
   {
    "title": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
@@ -110,12 +128,6 @@
    "date": "2026-08-23T07:34:52.000Z"
   },
   {
-   "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-   "link": "https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/",
-   "source": "Hacker News",
-   "date": "2026-08-23T06:41:51.000Z"
-  },
-  {
    "title": "Canadian PM Carney says new US tariffs are 'designed to hurt us and divide us'",
    "link": "http://www.euronews.com/2026/08/23/canadian-pm-carney-says-new-us-tariffs-are-designed-to-hurt-us-and-divide-us",
    "source": "Euronews",
@@ -134,22 +146,10 @@
    "date": "2026-08-23T05:00:33.000Z"
   },
   {
-   "title": "Girl, 17, killed in Swedish sword attack, police say",
-   "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-23T01:34:15.000Z"
-  },
-  {
    "title": "The hotel booking mix-up that could free mushroom murderer",
    "link": "https://www.bbc.co.uk/news/articles/c9w09dj7qk5o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-22T19:03:03.000Z"
-  },
-  {
-   "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
-   "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-22T14:35:11.000Z"
   },
   {
    "title": "US deports 20 people to Liberia, the first of 1,200 migrants under Trump deal",

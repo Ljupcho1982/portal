@@ -1,6 +1,36 @@
 {
- "updated": "2026-08-22T23:34:43.371Z",
+ "updated": "2026-08-23T02:00:07.539Z",
  "items": [
+  {
+   "title": "Software Engineering in the Agentic Era",
+   "link": "https://simonwillison.net/2026/Feb/23/agentic-engineering-patterns/",
+   "source": "Hacker News",
+   "date": "2026-08-23T00:20:21.000Z"
+  },
+  {
+   "title": "US Military newspaper editor voices censorship fears after being fired",
+   "link": "https://www.bbc.com/news/articles/cm2g23ng8p4o",
+   "source": "Hacker News",
+   "date": "2026-08-23T00:19:17.000Z"
+  },
+  {
+   "title": "Iran war live: Tehran warns neighbours against joining US economic war",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-23T00:00:00.000Z"
+  },
+  {
+   "title": "Iran threatens countries that join US ‘economic D-Day’",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-22T23:56:32.000Z"
+  },
+  {
+   "title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
+   "link": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-22T23:26:15.000Z"
+  },
   {
    "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
    "link": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
@@ -20,22 +50,16 @@
    "date": "2026-08-22T21:55:06.000Z"
   },
   {
+   "title": "Syria says Israeli strike near Damascus violation of international law",
+   "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-22T21:42:42.000Z"
+  },
+  {
    "title": "Open-air cinema brings movie nights back to Khartoum",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/08-22-26-sudan-movie-night-sv?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-22T21:27:22.000Z"
-  },
-  {
-   "title": "Israeli army and settlers injure several Palestinians across West Bank",
-   "link": "https://www.aljazeera.com/news/2026/8/22/israeli-army-and-settlers-injure-several-palestinians-across-west-bank?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-22T21:02:29.000Z"
-  },
-  {
-   "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
-   "link": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-22T20:49:17.000Z"
   },
   {
    "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
@@ -44,22 +68,10 @@
    "date": "2026-08-22T20:10:00.000Z"
   },
   {
-   "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
-   "link": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-22T20:05:52.000Z"
-  },
-  {
    "title": "Carney faces crucial test after walking away from Trump's deal",
    "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-22T20:02:46.000Z"
-  },
-  {
-   "title": "English ↔ Claudish Translator",
-   "link": "https://programasweights.com/claudish",
-   "source": "Hacker News",
-   "date": "2026-08-22T19:19:15.000Z"
   },
   {
    "title": "NetBSD and my life (2005)",
@@ -74,22 +86,10 @@
    "date": "2026-08-22T19:04:41.000Z"
   },
   {
-   "title": "Show HN: Make your logo extra bright on HDR screens",
-   "link": "https://www.soverybright.com/",
-   "source": "Hacker News",
-   "date": "2026-08-22T18:43:03.000Z"
-  },
-  {
    "title": "Why your local LLM feels dumber than it is",
    "link": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
    "source": "Hacker News",
    "date": "2026-08-22T18:14:16.000Z"
-  },
-  {
-   "title": "US military newspaper editor voices censorship fears after being fired",
-   "link": "https://www.bbc.co.uk/news/articles/cm2g23ng8p4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-22T16:57:19.000Z"
   },
   {
    "title": "Latest news bulletin | August 22nd, 2026 – Evening",
@@ -98,16 +98,16 @@
    "date": "2026-08-22T16:00:29.000Z"
   },
   {
+   "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+   "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-22T14:35:11.000Z"
+  },
+  {
    "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
    "link": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
    "source": "Guardian World",
    "date": "2026-08-22T14:04:57.000Z"
-  },
-  {
-   "title": "Fourteen killed in strike on Myanmar monastery",
-   "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-22T13:48:06.000Z"
   },
   {
    "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",

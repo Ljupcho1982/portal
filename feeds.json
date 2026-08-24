@@ -1,6 +1,54 @@
 {
- "updated": "2026-08-24T19:45:26.318Z",
+ "updated": "2026-08-24T20:48:50.116Z",
  "items": [
+  {
+   "title": "Violence flares in Haiti as gang attack kills 30 people",
+   "link": "https://www.aljazeera.com/news/2026/8/24/violence-flares-in-haiti-as-gang-attack-kills-30-people?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-24T20:23:39.000Z"
+  },
+  {
+   "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
+   "link": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
+   "source": "Guardian World",
+   "date": "2026-08-24T20:23:26.000Z"
+  },
+  {
+   "title": "Ex-Liverpool star Fabinho reunited with Mohamed Salah at Trabzonspor",
+   "link": "https://www.aljazeera.com/sports/2026/8/24/ex-liverpool-star-fabinho-reunited-with-mohamed-salah-at-trabzonspor?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-24T20:03:48.000Z"
+  },
+  {
+   "title": "Washington Post ordered to rehire Karen Attiah after Charlie Kirk posts",
+   "link": "https://www.aljazeera.com/news/2026/8/24/washington-post-ordered-to-rehire-columnist-fired-over-charlie-kirk-posts?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-24T20:00:18.000Z"
+  },
+  {
+   "title": "Mexico’s Sheinbaum condemns governor’s return amid US drug charges",
+   "link": "https://www.aljazeera.com/news/2026/8/24/mexicos-president-condemns-governor-brief-return-to-office?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-24T19:46:42.000Z"
+  },
+  {
+   "title": "Yemen’s Houthis report attack on Saudi oil tanker in Red Sea",
+   "link": "https://www.aljazeera.com/news/2026/8/24/yemens-houthis-report-attack-on-saudi-ship?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-24T19:44:23.000Z"
+  },
+  {
+   "title": "Greg Abbott says data centers:'basically dug their own grave'",
+   "link": "https://www.businessinsider.com/greg-abbott-texas-data-centers-backlash-2026-8",
+   "source": "Hacker News",
+   "date": "2026-08-24T19:43:08.000Z"
+  },
+  {
+   "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
+   "link": "https://github.com/l3a0/claude-plugins",
+   "source": "Hacker News",
+   "date": "2026-08-24T19:32:18.000Z"
+  },
   {
    "title": "Video: Israel attacks desalination plant and mosque in Gaza",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-israel-attacks-desalination-plant-and-mosque-in-gaza?traffic_source=rss",
@@ -8,10 +56,10 @@
    "date": "2026-08-24T19:21:01.000Z"
   },
   {
-   "title": "Israeli restrictions cause fuel shortage in occupied West Bank",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/israeli-restrictions-cause-fuel-shortage-in-occupied-west-bank?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-24T19:18:00.000Z"
+   "title": "Oceans hit highest temperature on record",
+   "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+   "source": "Hacker News",
+   "date": "2026-08-24T19:19:08.000Z"
   },
   {
    "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
@@ -26,34 +74,22 @@
    "date": "2026-08-24T19:11:00.000Z"
   },
   {
-   "title": "Why ‘pogrom’ best describes what’s happening in the occupied West Bank",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/why-pogrom-best-describes-whats-happening-in-the-occupied-west-bank?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-24T19:09:45.000Z"
+   "title": "LLMs could control their host machines by exploiting inference engines",
+   "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
+   "source": "Hacker News",
+   "date": "2026-08-24T19:03:06.000Z"
   },
   {
-   "title": "Israel threatens attacks in Gaza over children’s kites",
-   "link": "https://www.aljazeera.com/video/2026/8/24/israel-threatens-attacks-in-gaza-over-childrens-kites?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-24T19:00:55.000Z"
+   "title": "Removed all counters, replies, following/ers, timestamps, from textlog",
+   "link": "https://textlog.cc/post/2059",
+   "source": "Hacker News",
+   "date": "2026-08-24T18:45:43.000Z"
   },
   {
-   "title": "Trump announces new 50% tariff on Canadian cars, trucks and steel",
-   "link": "https://www.theguardian.com/us-news/2026/aug/24/canada-tariff-increase-trump-auto",
-   "source": "Guardian World",
-   "date": "2026-08-24T18:55:43.000Z"
-  },
-  {
-   "title": "Trump administration seeks to formalise H-1B fee of more than $100,000",
-   "link": "https://www.aljazeera.com/economy/2026/8/24/trump-administration-seeks-to-formalise-h-1b-fee-of-more-than-100000?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-24T18:46:09.000Z"
-  },
-  {
-   "title": "Norway plans further development of Arctic drilling amid EU energy concerns",
-   "link": "https://www.aljazeera.com/news/2026/8/24/norway-plans-further-development-of-arctic-drilling-amid-eu-energy-concerns?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-24T18:22:18.000Z"
+   "title": "Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon",
+   "link": "https://github.com/getkern/kern",
+   "source": "Hacker News",
+   "date": "2026-08-24T18:24:59.000Z"
   },
   {
    "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",

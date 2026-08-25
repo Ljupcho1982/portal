@@ -1,6 +1,48 @@
 {
- "updated": "2026-08-25T18:57:25.570Z",
+ "updated": "2026-08-25T19:46:07.446Z",
  "items": [
+  {
+   "title": "Mass arrests in global crackdown on West African cyber-crime networks",
+   "link": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-25T19:30:37.000Z"
+  },
+  {
+   "title": "Kurdish-led forces in Syria dissolve after merging with the army",
+   "link": "https://www.aljazeera.com/news/2026/8/25/kurdish-led-forces-in-syria-dissolve-after-merging-with-the-army?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T19:13:52.000Z"
+  },
+  {
+   "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+   "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+   "source": "Hacker News",
+   "date": "2026-08-25T19:07:01.000Z"
+  },
+  {
+   "title": "Israeli protesters block aid trucks from reaching Gaza",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/israeli-protesters-block-aid-trucks-from-reaching-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T19:02:18.000Z"
+  },
+  {
+   "title": "Video: Israeli forces raid UN training centre and raise Israeli flag",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/video-israeli-forces-raid-un-training-centre-and-raise-israeli-flag?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T18:54:01.000Z"
+  },
+  {
+   "title": "Syria’s economy poised for improvement after US sanctions removal",
+   "link": "https://www.aljazeera.com/news/2026/8/25/syrias-economy-poised-for-improvement-after-us-sanctions-removal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T18:43:42.000Z"
+  },
+  {
+   "title": "Dolly Parton Has Died",
+   "link": "https://en.wikipedia.org/wiki/Dolly_Parton",
+   "source": "Hacker News",
+   "date": "2026-08-25T18:43:22.000Z"
+  },
   {
    "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
    "link": "https://pgbot.dev/",
@@ -26,16 +68,10 @@
    "date": "2026-08-25T18:02:22.000Z"
   },
   {
-   "title": "Kremlin denies planned talks with US envoys amid reports CIA head in Russia",
+   "title": "Kremlin denies US talks amid reports CIA Director Ratcliffe in Russia",
    "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-25T18:01:37.000Z"
-  },
-  {
-   "title": "Trial is 40 days. Not until you're 40",
-   "link": "https://twitter.com/WinRAR_RARLAB/status/2092182008319386067",
-   "source": "Hacker News",
-   "date": "2026-08-25T17:56:33.000Z"
   },
   {
    "title": "Firefox 157 will include JPEG XL by default on all platforms",
@@ -50,22 +86,10 @@
    "date": "2026-08-25T17:54:03.000Z"
   },
   {
-   "title": "Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections",
-   "link": "https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T17:39:22.000Z"
-  },
-  {
    "title": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
    "link": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
    "source": "Guardian World",
    "date": "2026-08-25T17:35:16.000Z"
-  },
-  {
-   "title": "Spain requests emergency funding from the EU over Ceuta migrants",
-   "link": "https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T17:31:09.000Z"
   },
   {
    "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
@@ -74,34 +98,10 @@
    "date": "2026-08-25T17:28:52.000Z"
   },
   {
-   "title": "Most US Democrats in early 2028 primary states oppose aid to Israel: Poll",
-   "link": "https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T17:27:01.000Z"
-  },
-  {
-   "title": "Run OpenBSD on DigitalOcean for $4/month",
-   "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
-   "source": "Hacker News",
-   "date": "2026-08-25T17:23:07.000Z"
-  },
-  {
-   "title": "Canada hits US with counter-tariffs on more than 700 products",
-   "link": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T17:08:54.000Z"
-  },
-  {
    "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
    "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-25T16:56:20.000Z"
-  },
-  {
-   "title": "Two unvaccinated people die of measles in Pennsylvania",
-   "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-25T16:43:08.000Z"
   },
   {
    "title": "Latest news bulletin | August 25th, 2026 – Evening",

@@ -1,6 +1,54 @@
 {
- "updated": "2026-08-25T21:44:18.641Z",
+ "updated": "2026-08-25T22:45:22.718Z",
  "items": [
+  {
+   "title": "Brazil fines TikTok $30m for child data privacy violations",
+   "link": "https://www.aljazeera.com/news/2026/8/25/brazil-fines-tiktok-30m-for-child-data-privacy-violations?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T22:06:49.000Z"
+  },
+  {
+   "title": "Why can’t America agree on what time it is?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/why-cant-america-agree-on-what-time-it-is?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T22:05:42.000Z"
+  },
+  {
+   "title": "One Go binary, one YAML file, one SQLite database: I wrote my monitoring tool",
+   "link": "https://rvier.fr/posts/why-i-wrote-my-own-monitoring-tool-EN",
+   "source": "Hacker News",
+   "date": "2026-08-25T21:43:37.000Z"
+  },
+  {
+   "title": "Python's pre-declared constants are kinda weird",
+   "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
+   "source": "Hacker News",
+   "date": "2026-08-25T21:39:02.000Z"
+  },
+  {
+   "title": "US judge blocks Ohio law requiring proof of citizenship to register to vote",
+   "link": "https://www.aljazeera.com/news/2026/8/25/us-judge-blocks-ohio-law-requiring-proof-of-citizenship-to-register-to-vote?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T21:32:00.000Z"
+  },
+  {
+   "title": "Who was the ‘Queen of Country’ Dolly Parton?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/who-was-the-queen-of-country-dolly-parton?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T21:29:11.000Z"
+  },
+  {
+   "title": "Seven killed in Gaza as Israeli strike ‘destroys’ aid supply warehouse",
+   "link": "https://www.aljazeera.com/news/2026/8/25/seven-killed-in-gaza-as-israeli-strike-destroys-aid-supply-warehouse?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T21:26:25.000Z"
+  },
+  {
+   "title": "XCancel also down, at least for time being",
+   "link": "https://news.ycombinator.com/item?id=49440786",
+   "source": "Hacker News",
+   "date": "2026-08-25T21:18:23.000Z"
+  },
   {
    "title": "US soldier who called for Trump impeachment facing military charges",
    "link": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss",
@@ -8,40 +56,10 @@
    "date": "2026-08-25T21:16:43.000Z"
   },
   {
-   "title": "US lawmakers urge Trump team to free of American student held by Israel",
-   "link": "https://www.aljazeera.com/news/2026/8/25/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T21:09:35.000Z"
-  },
-  {
-   "title": "Syrian Democratic Forces announce their dissolution",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T21:09:05.000Z"
-  },
-  {
    "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
    "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
    "source": "Hacker News",
    "date": "2026-08-25T20:49:03.000Z"
-  },
-  {
-   "title": "Real Madrid vs Sociedad: La Liga – prediction, team news, lineups",
-   "link": "https://www.aljazeera.com/sports/2026/8/25/real-madrid-vs-sociedad-la-liga-prediction-teams-lineups?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T20:41:50.000Z"
-  },
-  {
-   "title": "Nigeria launches operation to rescue 600 kidnapped victims",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/nigeria-launches-operation-to-rescue-600-kidnapped-victims?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T20:37:42.000Z"
-  },
-  {
-   "title": "New US sanctions signal Trump desperation on Iran, experts say",
-   "link": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T20:34:49.000Z"
   },
   {
    "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -68,10 +86,10 @@
    "date": "2026-08-25T19:30:37.000Z"
   },
   {
-   "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-   "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+   "title": "A brief history of federal lift ticket regulation",
+   "link": "https://zakpodmore.substack.com/p/a-brief-history-of-federal-lift-ticket",
    "source": "Hacker News",
-   "date": "2026-08-25T19:07:01.000Z"
+   "date": "2026-08-25T19:25:43.000Z"
   },
   {
    "title": "Armenia detains former President Kocharyan on corruption charges",
@@ -80,28 +98,10 @@
    "date": "2026-08-25T18:19:56.000Z"
   },
   {
-   "title": "Dolly Parton has died",
-   "link": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
-   "source": "Hacker News",
-   "date": "2026-08-25T18:02:22.000Z"
-  },
-  {
-   "title": "Firefox 157 will include JPEG XL by default on all platforms",
-   "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
-   "source": "Hacker News",
-   "date": "2026-08-25T17:55:23.000Z"
-  },
-  {
    "title": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
    "link": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
    "source": "Guardian World",
    "date": "2026-08-25T17:35:16.000Z"
-  },
-  {
-   "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
-   "link": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
-   "source": "Hacker News",
-   "date": "2026-08-25T17:28:52.000Z"
   },
   {
    "title": "Latest news bulletin | August 25th, 2026 – Evening",

@@ -1,11 +1,41 @@
 {
- "updated": "2026-08-25T09:51:47.597Z",
+ "updated": "2026-08-25T10:49:51.560Z",
  "items": [
+  {
+   "title": "Why some US restaurants are banning tips",
+   "link": "https://www.bbc.com/news/articles/c4g36yze692o",
+   "source": "Hacker News",
+   "date": "2026-08-25T10:09:47.000Z"
+  },
+  {
+   "title": "Latest news bulletin | August 25th, 2026 – Midday",
+   "link": "http://www.euronews.com/video/2026/08/25/latest-news-bulletin-august-25th-2026-midday",
+   "source": "Euronews",
+   "date": "2026-08-25T10:00:16.000Z"
+  },
   {
    "title": "US terror list removal 'shakes off dark stain' from Syria, al-Sharaa says",
    "link": "http://www.euronews.com/2026/08/25/us-terror-list-removal-shakes-off-dark-stain-from-syria-al-sharaa-says",
    "source": "Euronews",
    "date": "2026-08-25T09:48:37.000Z"
+  },
+  {
+   "title": "What would justice look like if there were no Rohingya left in Myanmar?",
+   "link": "https://www.aljazeera.com/opinions/2026/8/25/what-would-justice-look-like-if-there-were-no-rohingya-left-in-myanmar?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T09:46:11.000Z"
+  },
+  {
+   "title": "Roadblocks and burning tyres in Libya protests over power cuts",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/roadblocks-and-burning-tyres-in-libya-protests-over-power-cuts?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T09:45:19.000Z"
+  },
+  {
+   "title": "Indonesia battles haze as wildfires rage across South Sumatra forests",
+   "link": "https://www.aljazeera.com/gallery/2026/8/25/indonesia-battles-haze-as-wildfires-rage-across-south-sumatra-forests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T09:43:27.000Z"
   },
   {
    "title": "Kremlin adviser warns UK drone factories could face attacks",
@@ -32,6 +62,12 @@
    "date": "2026-08-25T09:19:45.000Z"
   },
   {
+   "title": "Screen viewing time from age 1 to 8 years and subsequent academic performance",
+   "link": "https://link.springer.com/article/10.1007/s12519-026-01046-1",
+   "source": "Hacker News",
+   "date": "2026-08-25T09:17:33.000Z"
+  },
+  {
    "title": "Lockerbie bombing trial postponed days before it was due to start",
    "link": "https://www.bbc.co.uk/news/articles/cq63rmj1zl1o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
@@ -44,34 +80,22 @@
    "date": "2026-08-25T09:05:54.000Z"
   },
   {
-   "title": "Nvidia, Supermicro employees charged over export of AI servers to China",
-   "link": "https://www.aljazeera.com/economy/2026/8/25/nvidia-supermicro-employees-charged-over-export-of-ai-servers-to-china?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T08:51:48.000Z"
+   "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
+   "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-25T08:52:17.000Z"
+  },
+  {
+   "title": "Video shows tornado forming over village in France",
+   "link": "http://www.euronews.com/video/2026/08/25/video-shows-tornado-forming-over-village-in-france",
+   "source": "Euronews",
+   "date": "2026-08-25T08:44:04.000Z"
   },
   {
    "title": "Armenia announces historic intention to apply for EU membership",
    "link": "http://www.euronews.com/2026/08/25/armenia-announces-historic-intention-to-apply-for-eu-membership",
    "source": "Euronews",
    "date": "2026-08-25T08:41:45.000Z"
-  },
-  {
-   "title": "Pakistan says significant progress made in talks on Iran-US war",
-   "link": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T08:32:52.000Z"
-  },
-  {
-   "title": "Indonesian Muslims brave choking smoke to pray for rain as country battles wildfires",
-   "link": "http://www.euronews.com/2026/08/25/indonesian-muslims-brave-choking-smoke-to-pray-for-rain-as-country-battles-wildfires",
-   "source": "Euronews",
-   "date": "2026-08-25T08:27:03.000Z"
-  },
-  {
-   "title": "Rohingya refugees protest, nine years after exodus to Bangladesh",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/rohingya-refugees-protest-nine-years-after-exodus-to-bangladesh?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T08:24:13.000Z"
   },
   {
    "title": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
@@ -86,28 +110,10 @@
    "date": "2026-08-25T07:39:25.000Z"
   },
   {
-   "title": "Tornado rips through French village, injuring at least 31",
-   "link": "http://www.euronews.com/video/2026/08/25/tornado-rips-through-french-village-injuring-at-least-31",
-   "source": "Euronews",
-   "date": "2026-08-25T06:42:17.000Z"
-  },
-  {
    "title": "Show HN: Screen memory without screenshots, just text to Markdown",
    "link": "https://github.com/dragthelake/ambient-context",
    "source": "Hacker News",
    "date": "2026-08-25T04:33:24.000Z"
-  },
-  {
-   "title": "Volcanoes that made history",
-   "link": "https://knowablemagazine.org/content/article/physical-world/2026/volcanoes-that-made-history",
-   "source": "Hacker News",
-   "date": "2026-08-25T04:09:43.000Z"
-  },
-  {
-   "title": "UK drone factories may face attacks from 'unknown sources', says former Russian minister",
-   "link": "https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-25T04:06:34.000Z"
   },
   {
    "title": "Headlong: A Microharness for Persistent Agents",
@@ -122,22 +128,16 @@
    "date": "2026-08-25T03:06:26.000Z"
   },
   {
-   "title": "French tourist dies in Death Valley after car gets stuck in mud",
-   "link": "https://www.bbc.co.uk/news/articles/clyl81jlzr2o?at_medium=RSS&at_campaign=rss",
+   "title": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
+   "link": "https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-08-25T02:08:57.000Z"
+   "date": "2026-08-25T02:51:53.000Z"
   },
   {
    "title": "How Universities Should Prepare Founders",
    "link": "https://paulgraham.com/prepare.html",
    "source": "Hacker News",
    "date": "2026-08-25T01:40:39.000Z"
-  },
-  {
-   "title": "Was modern art a CIA psy-op? (2020)",
-   "link": "https://daily.jstor.org/was-modern-art-really-a-cia-psy-op/",
-   "source": "Hacker News",
-   "date": "2026-08-25T01:35:00.000Z"
   },
   {
    "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",

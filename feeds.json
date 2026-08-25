@@ -1,6 +1,30 @@
 {
- "updated": "2026-08-25T04:54:15.790Z",
+ "updated": "2026-08-25T05:48:09.766Z",
  "items": [
+  {
+   "title": "Washington Post ordered to rehire columnist sacked for social media posts after Charlie Kirk's killing",
+   "link": "http://www.euronews.com/2026/08/25/washington-post-ordered-to-rehire-columnist-sacked-for-social-media-posts-after-charlie-ki",
+   "source": "Euronews",
+   "date": "2026-08-25T05:33:38.000Z"
+  },
+  {
+   "title": "France and Saudi Arabia plan Dragon Ball Z theme park near Paris",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/08-25-26-saudi-france-dragon-ball-sv?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T05:09:25.000Z"
+  },
+  {
+   "title": "Latest news bulletin | August 25th, 2026 – Morning",
+   "link": "http://www.euronews.com/video/2026/08/25/latest-news-bulletin-august-25th-2026-morning",
+   "source": "Euronews",
+   "date": "2026-08-25T05:00:33.000Z"
+  },
+  {
+   "title": "Songs created by AI banned from Australia's music charts",
+   "link": "https://www.bbc.co.uk/news/articles/c20vl4vm2pno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-25T04:54:01.000Z"
+  },
   {
    "title": "Syrian president thanks nation for getting off US state terror list",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss",
@@ -12,6 +36,12 @@
    "link": "https://www.aljazeera.com/news/2026/8/25/france-saudi-arabia-agree-on-7bn-theme-park-project-near-paris?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-25T04:38:20.000Z"
+  },
+  {
+   "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+   "link": "https://github.com/dragthelake/ambient-context",
+   "source": "Hacker News",
+   "date": "2026-08-25T04:33:24.000Z"
   },
   {
    "title": "Rare tornado near Carcassonne in France causes damage and injuries",
@@ -32,12 +62,6 @@
    "date": "2026-08-25T03:50:06.000Z"
   },
   {
-   "title": "Ask HN: Good large format (>20 inches) touchscreen E-Paper display options?",
-   "link": "https://news.ycombinator.com/item?id=49428842",
-   "source": "Hacker News",
-   "date": "2026-08-25T03:46:01.000Z"
-  },
-  {
    "title": "Trump administration plans to revoke 200,000 visas of asylum seekers",
    "link": "http://www.euronews.com/2026/08/25/trump-administration-plans-to-revoke-200000-visas-of-asylum-seekers",
    "source": "Euronews",
@@ -48,6 +72,12 @@
    "link": "https://www.bbc.co.uk/news/articles/c3d79z4z953o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-25T03:07:34.000Z"
+  },
+  {
+   "title": "SiFive's First Server Platform",
+   "link": "https://chipsandcheese.com/p/sifives-first-server-platform",
+   "source": "Hacker News",
+   "date": "2026-08-25T03:06:26.000Z"
   },
   {
    "title": "Israel’s Netanyahu claims Iran tried to kill one of his sons",
@@ -66,12 +96,6 @@
    "link": "https://www.thomsonreuters.com/en/press-releases/2026/august/thomson-reuters-leverages-its-world-class-data-assets-to-launch-its-own-frontier-model",
    "source": "Hacker News",
    "date": "2026-08-25T02:11:39.000Z"
-  },
-  {
-   "title": "Muslims celebrate Prophet Muhammad’s birthday",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/muslims-celebrate-prophet-muhammads-birthday?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T02:11:08.000Z"
   },
   {
    "title": "French tourist dies in Death Valley after car gets stuck in mud",
@@ -110,18 +134,6 @@
    "date": "2026-08-25T00:17:25.000Z"
   },
   {
-   "title": "Moment tornado tears through southern France",
-   "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-25T00:16:35.000Z"
-  },
-  {
-   "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
-   "link": "https://github.com/murerkinn/bookshelf",
-   "source": "Hacker News",
-   "date": "2026-08-24T23:00:37.000Z"
-  },
-  {
    "title": "US Treasury Secretary launches 'Operation Economic Outcast' aimed at isolating Iran",
    "link": "http://www.euronews.com/2026/08/24/us-launches-operation-economic-outcast-as-washington-targets-irans-enablers",
    "source": "Euronews",
@@ -144,18 +156,6 @@
    "link": "http://www.euronews.com/2026/08/24/houthis-claim-strike-on-saudi-tanker-in-latest-red-sea-escalation",
    "source": "Euronews",
    "date": "2026-08-24T15:54:12.000Z"
-  },
-  {
-   "title": "Greta Thunberg joins 10,000 climate marchers in Stockholm",
-   "link": "http://www.euronews.com/video/2026/08/24/greta-thunberg-joins-10000-climate-marchers-in-stockholm",
-   "source": "Euronews",
-   "date": "2026-08-24T15:04:21.000Z"
-  },
-  {
-   "title": "Trump threatens to double tariffs on Canadian vehicles to 50% after trade talks collapse",
-   "link": "http://www.euronews.com/2026/08/24/us-to-double-tariffs-on-canadian-vehicles-after-trade-talks-break-down-trump-says",
-   "source": "Euronews",
-   "date": "2026-08-24T15:04:14.000Z"
   },
   {
    "title": "Video shows hundreds held captive after Nigeria mosque kidnapping",

@@ -1,11 +1,77 @@
 {
- "updated": "2026-08-25T16:55:47.300Z",
+ "updated": "2026-08-25T17:45:40.459Z",
  "items": [
   {
-   "title": "CIA chief in Moscow for unannounced talks, US media reports",
+   "title": "Spain requests emergency funding from the EU over Ceuta migrants",
+   "link": "https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T17:31:09.000Z"
+  },
+  {
+   "title": "Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market",
+   "link": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
+   "source": "Hacker News",
+   "date": "2026-08-25T17:28:52.000Z"
+  },
+  {
+   "title": "Most US Democrats in early 2028 primary states oppose aid to Israel: Poll",
+   "link": "https://www.aljazeera.com/news/2026/8/25/most-us-democrats-in-early-2028-primary-states-oppose-aid-to-israel-poll?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T17:27:01.000Z"
+  },
+  {
+   "title": "Lightweight system monitor for Linux VPS written in Go",
+   "link": "https://github.com/leodeim/vpsmon",
+   "source": "Hacker News",
+   "date": "2026-08-25T17:13:59.000Z"
+  },
+  {
+   "title": "Canada hits US with counter-tariffs on more than 700 products",
+   "link": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T17:08:54.000Z"
+  },
+  {
+   "title": "Nitter project received cease and desist",
+   "link": "https://github.com/zedeus/nitter/issues/1442",
+   "source": "Hacker News",
+   "date": "2026-08-25T17:08:21.000Z"
+  },
+  {
+   "title": "Black hole singularity is a surface not a point",
+   "link": "https://arxiv.org/abs/2608.21590",
+   "source": "Hacker News",
+   "date": "2026-08-25T17:02:49.000Z"
+  },
+  {
+   "title": "US judge denies Ghislaine Maxwell’s ‘frivolous’ bid to throw out conviction",
+   "link": "https://www.aljazeera.com/news/2026/8/25/us-judge-denies-ghislaine-maxwells-frivolous-bid-to-throw-out-conviction?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T17:02:29.000Z"
+  },
+  {
+   "title": "A new ceiling for Λ: the de Bruijn–Newman constant is at most 0.1787854",
+   "link": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
+   "source": "Hacker News",
+   "date": "2026-08-25T16:59:31.000Z"
+  },
+  {
+   "title": "Water Behind the Watts: The Hidden Risk of Powering Data Centers",
+   "link": "https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers",
+   "source": "Hacker News",
+   "date": "2026-08-25T16:58:31.000Z"
+  },
+  {
+   "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
    "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-08-25T16:54:33.000Z"
+   "date": "2026-08-25T16:56:20.000Z"
+  },
+  {
+   "title": "Carlos Baleba joins Manchester United in transfer from Brighton",
+   "link": "https://www.aljazeera.com/sports/2026/8/25/carlos-baleba-joins-manchester-united-in-transfer-from-brighton?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T16:55:29.000Z"
   },
   {
    "title": "Two unvaccinated people die of measles in Pennsylvania",
@@ -14,22 +80,10 @@
    "date": "2026-08-25T16:43:08.000Z"
   },
   {
-   "title": "Photos: Rohingya refugees rally nine years after Myanmar exodus",
-   "link": "https://www.aljazeera.com/gallery/2026/8/25/photos-rohingya-refugees-rally-nine-years-after-myanmar-exodus?traffic_source=rss",
+   "title": "Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach",
+   "link": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-08-25T16:28:01.000Z"
-  },
-  {
-   "title": "Anthropic Sees over $30T in Potential Revenue",
-   "link": "https://www.wsj.com/tech/ai/anthropic-expected-to-tell-investors-it-sees-over-30-trillion-in-potential-revenue-a611efea",
-   "source": "Hacker News",
-   "date": "2026-08-25T16:20:11.000Z"
-  },
-  {
-   "title": "Students clash with police in India in a new protest over exam leaks",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/students-clash-with-police-in-india-in-a-new-protest-over-exam-leaks?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T16:04:25.000Z"
+   "date": "2026-08-25T16:39:24.000Z"
   },
   {
    "title": "Latest news bulletin | August 25th, 2026 – Evening",
@@ -44,12 +98,6 @@
    "date": "2026-08-25T15:58:20.000Z"
   },
   {
-   "title": "Nevada wildfire contained to 27 percent as thousands still displaced",
-   "link": "https://www.aljazeera.com/news/2026/8/25/nevada-wildfire-contained-to-27-percent-as-thousands-still-displaced?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T15:52:42.000Z"
-  },
-  {
    "title": "Canada hits back with tariffs of up to 50% on US goods as trade war escalates",
    "link": "http://www.euronews.com/2026/08/25/canada-hits-back-with-new-counter-tariffs-on-us-goods",
    "source": "Euronews",
@@ -62,58 +110,10 @@
    "date": "2026-08-25T15:44:41.000Z"
   },
   {
-   "title": "Chinese robot Tiangong clocks sub-9-second 100 metres in Beijing",
-   "link": "https://www.aljazeera.com/sports/2026/8/25/chinese-robot-tiangong-clocks-sub-9-second-100-metres-in-beijing?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T15:42:43.000Z"
-  },
-  {
-   "title": "Infantino’s presidency under threat: FIFA elections, challengers, dates",
-   "link": "https://www.aljazeera.com/sports/2026/8/25/infantinos-presidency-under-threat-fifa-elections-challengers-dates?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T15:42:21.000Z"
-  },
-  {
-   "title": "Nine years of Rohingya refugee crisis",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/nine-years-of-rohingya-refugee-crisis?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T15:24:31.000Z"
-  },
-  {
-   "title": "How much of HN is AI?",
-   "link": "https://blog.coredump.cx/p/how-much-of-hn-is-ai",
-   "source": "Hacker News",
-   "date": "2026-08-25T15:23:41.000Z"
-  },
-  {
-   "title": "Beyond Good and Evil: Nietzsche and the Great War",
-   "link": "https://www.historytoday.com/archive/feature/beyond-good-and-evil-nietzsche-and-great-war",
-   "source": "Hacker News",
-   "date": "2026-08-25T15:09:20.000Z"
-  },
-  {
-   "title": "AI is hitting entry-level jobs hardest, Stanford study finds",
-   "link": "https://arstechnica.com/ai/2026/08/ai-is-hitting-entry-level-jobs-hardest-stanford-study-finds/",
-   "source": "Hacker News",
-   "date": "2026-08-25T14:48:58.000Z"
-  },
-  {
-   "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
-   "link": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
-   "source": "Hacker News",
-   "date": "2026-08-25T14:29:32.000Z"
-  },
-  {
    "title": "Azerbaijan's biggest bank enters Uzbek market with Davr Bank acquisition",
    "link": "http://www.euronews.com/2026/08/25/azerbaijans-biggest-bank-enters-uzbek-market-with-davr-bank-acquisition",
    "source": "Euronews",
    "date": "2026-08-25T14:23:29.000Z"
-  },
-  {
-   "title": "Building a backyard office, the build and cost breakdown",
-   "link": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
-   "source": "Hacker News",
-   "date": "2026-08-25T14:20:36.000Z"
   },
   {
    "title": "Trump slams Tehran for executing protesters at levels 'not seen before'",

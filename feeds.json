@@ -1,6 +1,72 @@
 {
- "updated": "2026-08-25T14:04:31.394Z",
+ "updated": "2026-08-25T15:05:59.260Z",
  "items": [
+  {
+   "title": "Two unvaccinated people die of measles in Pennsylvania",
+   "link": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-25T14:54:34.000Z"
+  },
+  {
+   "title": "China says will safeguard its own interests as US expands Iran sanctions",
+   "link": "https://www.aljazeera.com/economy/2026/8/25/china-says-will-safeguard-its-own-interests-as-us-expands-iran-sanctions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T14:43:12.000Z"
+  },
+  {
+   "title": "Bomb Fishing Is Wreaking Havoc on Indonesia's Coral Reefs",
+   "link": "https://e360.yale.edu/digest/bomb-fishing-coral-reefs",
+   "source": "Hacker News",
+   "date": "2026-08-25T14:29:32.000Z"
+  },
+  {
+   "title": "Azerbaijan's biggest bank enters Uzbek market with Davr Bank acquisition",
+   "link": "http://www.euronews.com/2026/08/25/azerbaijans-biggest-bank-enters-uzbek-market-with-davr-bank-acquisition",
+   "source": "Euronews",
+   "date": "2026-08-25T14:23:29.000Z"
+  },
+  {
+   "title": "Building a backyard office, the build and cost breakdown",
+   "link": "https://www.imkylelambert.com/articles/building-a-backyard-office-the-build-and-cost-breakdown",
+   "source": "Hacker News",
+   "date": "2026-08-25T14:20:36.000Z"
+  },
+  {
+   "title": "MySQL CDC to BigQuery: what periodic syncs miss, and how binlog avoids it",
+   "link": "https://www.erathos.com/en/blog/mysql-cdc-to-bigquery",
+   "source": "Hacker News",
+   "date": "2026-08-25T14:18:29.000Z"
+  },
+  {
+   "title": "Trump’s latest wave of Iran sanctions: Which 60 entities are targeted?",
+   "link": "https://www.aljazeera.com/features/2026/8/25/trumps-latest-wave-of-iran-sanctions-which-60-entities-are-targeted?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T14:17:06.000Z"
+  },
+  {
+   "title": "US military transport plane arrives in Moscow in rare occurrence",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/us-military-transport-plane-arrives-in-moscow-in-rare-occurrence?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T14:16:10.000Z"
+  },
+  {
+   "title": "How can a heavily indebted football club afford Mo Salah?",
+   "link": "https://www.aljazeera.com/video/money-works/2026/8/25/how-can-a-heavily-indebted-football-club-afford-mo-salah?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T14:14:39.000Z"
+  },
+  {
+   "title": "Trump plans largest mass visa cancellation in history: Who will it affect?",
+   "link": "https://www.aljazeera.com/features/2026/8/25/trump-plans-largest-mass-visa-cancellation-in-history-who-will-it-affect?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T14:04:44.000Z"
+  },
+  {
+   "title": "Anthropic tells staff to work from home due to possible security team strike",
+   "link": "https://www.businessinsider.com/anthropic-san-francisco-staff-work-remote-office-security-strike-2026-8",
+   "source": "Hacker News",
+   "date": "2026-08-25T14:00:27.000Z"
+  },
   {
    "title": "Real Madrid’s Mourinho ‘happy’ with transfers despite Rodri miss",
    "link": "https://www.aljazeera.com/sports/2026/8/25/mourinho-happy-with-complete-real-madrid-squad-despite-rodri-miss?traffic_source=rss",
@@ -20,70 +86,16 @@
    "date": "2026-08-25T13:32:52.000Z"
   },
   {
-   "title": "How Israel’s Netanyahu weaponises religion in his war rhetoric",
-   "link": "https://www.aljazeera.com/news/2026/8/25/how-israels-netanyahu-weaponises-religion-in-his-war-rhetoric?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T13:26:22.000Z"
-  },
-  {
-   "title": "Popcorn and cartoons: A Gaza cinema gives girls a brief escape from war",
-   "link": "https://www.aljazeera.com/features/2026/8/25/popcorn-and-cartoons-a-gaza-cinema-gives-girls-a-brief-escape-from-war?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T13:25:21.000Z"
-  },
-  {
-   "title": "Gaza child breaks down in tears after an Israeli threat over kites",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-child-breaks-down-in-tears-after-an-israeli-threat-over-kites?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T13:23:37.000Z"
-  },
-  {
-   "title": "Two killed, refinery on fire in Russia’s Krasnodar after drone attack",
-   "link": "https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T13:10:24.000Z"
-  },
-  {
-   "title": "US data centers tripled annual water consumption to 17B gallons",
-   "link": "https://forgeeks.net/us-data-centers-water-use-17-billion-gallons/",
+   "title": "Apple's new Mac mini, featuring M6 and M5 Pro",
+   "link": "https://www.apple.com/newsroom/2026/08/apple-unveils-a-more-powerful-mac-mini-featuring-the-all-new-m6-and-m5-pro/",
    "source": "Hacker News",
-   "date": "2026-08-25T13:08:13.000Z"
+   "date": "2026-08-25T13:13:00.000Z"
   },
   {
    "title": "Qatar says officials working daily to revive US-Iran talks, urges Tehran to reopen Hormuz",
    "link": "http://www.euronews.com/2026/08/25/qatar-says-officials-working-daily-to-revive-us-iran-talks-urges-tehran-to-reopen-hormuz",
    "source": "Euronews",
    "date": "2026-08-25T13:04:31.000Z"
-  },
-  {
-   "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
-   "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
-   "source": "Hacker News",
-   "date": "2026-08-25T13:03:17.000Z"
-  },
-  {
-   "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-   "link": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
-   "source": "Hacker News",
-   "date": "2026-08-25T13:01:22.000Z"
-  },
-  {
-   "title": "‘We can’t breathe’: Indonesians battle wildfire haze",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/we-cant-breathe-indonesians-battle-wildfire-haze?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T13:01:17.000Z"
-  },
-  {
-   "title": "France's tax agency got hacked (in French)",
-   "link": "https://www.cybernetica.fr/piratage-des-impots-comment-en-est-on-arrive-la/",
-   "source": "Hacker News",
-   "date": "2026-08-25T12:44:35.000Z"
-  },
-  {
-   "title": "OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users",
-   "link": "https://9to5mac.com/2026/08/24/openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users/",
-   "source": "Hacker News",
-   "date": "2026-08-25T12:33:00.000Z"
   },
   {
    "title": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
@@ -128,22 +140,10 @@
    "date": "2026-08-25T11:44:33.000Z"
   },
   {
-   "title": "Latest news bulletin | August 25th, 2026 – Midday",
-   "link": "http://www.euronews.com/video/2026/08/25/latest-news-bulletin-august-25th-2026-midday",
-   "source": "Euronews",
-   "date": "2026-08-25T10:00:16.000Z"
-  },
-  {
    "title": "Tornado tears through French village, leaving dozens hurt and homes ravaged",
    "link": "https://www.bbc.co.uk/news/articles/c0m3npvpgdno?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-25T08:52:17.000Z"
-  },
-  {
-   "title": "Kit Harington replaces Nicholas Hoult in HBO's Harry Potter series",
-   "link": "https://www.bbc.co.uk/news/articles/c783lnz12vlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-25T07:39:25.000Z"
   },
   {
    "title": "French tourist dies in Death Valley after car gets stuck in mud",

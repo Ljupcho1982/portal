@@ -1,29 +1,47 @@
 {
- "updated": "2026-08-25T20:46:30.385Z",
+ "updated": "2026-08-25T21:44:18.641Z",
  "items": [
   {
-   "title": "Dolly Parton, beloved US country music icon, dies at 80",
-   "link": "https://www.aljazeera.com/news/2026/8/25/dolly-parton-beloved-us-country-music-icon-dies-at-80?traffic_source=rss",
+   "title": "US soldier who called for Trump impeachment facing military charges",
+   "link": "https://www.aljazeera.com/news/2026/8/25/us-soldier-who-called-for-trump-impeachment-facing-military-charges?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-08-25T20:14:21.000Z"
+   "date": "2026-08-25T21:16:43.000Z"
   },
   {
-   "title": "What challenge do ‘cockroach’ protests pose for India’s PM Modi?",
-   "link": "https://www.aljazeera.com/video/inside-story/2026/8/25/what-challenge-do-cockroach-protests-pose-for-indias-pm-modi?traffic_source=rss",
+   "title": "US lawmakers urge Trump team to free of American student held by Israel",
+   "link": "https://www.aljazeera.com/news/2026/8/25/us-lawmakers-urge-trump-team-to-free-of-american-student-held-by-israel?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-08-25T20:08:41.000Z"
+   "date": "2026-08-25T21:09:35.000Z"
   },
   {
-   "title": "Trump administration: Kennedy Center may be demolished if repairs not made",
-   "link": "https://www.aljazeera.com/news/2026/8/25/trump-administration-kennedy-center-may-be-demolished-if-repairs-not-made?traffic_source=rss",
+   "title": "Syrian Democratic Forces announce their dissolution",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-democratic-forces-announce-their-dissolution?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-08-25T20:08:33.000Z"
+   "date": "2026-08-25T21:09:05.000Z"
   },
   {
-   "title": "Video: US country music legend Dolly Parton dies",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/video-us-country-music-legend-dolly-parton-dies?traffic_source=rss",
+   "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+   "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
+   "source": "Hacker News",
+   "date": "2026-08-25T20:49:03.000Z"
+  },
+  {
+   "title": "Real Madrid vs Sociedad: La Liga – prediction, team news, lineups",
+   "link": "https://www.aljazeera.com/sports/2026/8/25/real-madrid-vs-sociedad-la-liga-prediction-teams-lineups?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-08-25T19:58:56.000Z"
+   "date": "2026-08-25T20:41:50.000Z"
+  },
+  {
+   "title": "Nigeria launches operation to rescue 600 kidnapped victims",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/nigeria-launches-operation-to-rescue-600-kidnapped-victims?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T20:37:42.000Z"
+  },
+  {
+   "title": "New US sanctions signal Trump desperation on Iran, experts say",
+   "link": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T20:34:49.000Z"
   },
   {
    "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
@@ -38,22 +56,10 @@
    "date": "2026-08-25T19:48:14.000Z"
   },
   {
-   "title": "Iran, Oman discuss temporary shipping lane through Strait of Hormuz",
-   "link": "https://www.aljazeera.com/news/2026/8/25/iran-oman-discuss-temporary-shipping-lane-through-strait-of-hormuz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T19:47:51.000Z"
-  },
-  {
-   "title": "Perplexity Portable Computer",
-   "link": "https://www.perplexity.ai/hub/blog/introducing-portable-computer-for-local-first-ai",
+   "title": "C2PA Cameras Do Not Survive Contact with Reality",
+   "link": "https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html",
    "source": "Hacker News",
-   "date": "2026-08-25T19:41:48.000Z"
-  },
-  {
-   "title": "More than 1,300 people arrested by ICE in Virginia and Maryland",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/more-than-1300-people-arrested-by-ice-in-virginia-and-maryland?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T19:36:12.000Z"
+   "date": "2026-08-25T19:38:24.000Z"
   },
   {
    "title": "Mass arrests in global crackdown on West African cyber-crime networks",
@@ -66,12 +72,6 @@
    "link": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
    "source": "Hacker News",
    "date": "2026-08-25T19:07:01.000Z"
-  },
-  {
-   "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
-   "link": "https://pgbot.dev/",
-   "source": "Hacker News",
-   "date": "2026-08-25T18:30:57.000Z"
   },
   {
    "title": "Armenia detains former President Kocharyan on corruption charges",

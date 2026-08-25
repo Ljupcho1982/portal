@@ -1,6 +1,66 @@
 {
- "updated": "2026-08-25T17:45:40.459Z",
+ "updated": "2026-08-25T18:57:25.570Z",
  "items": [
+  {
+   "title": "Pgbot: A 5.9 MB read-only Postgres tool for humans and agents",
+   "link": "https://pgbot.dev/",
+   "source": "Hacker News",
+   "date": "2026-08-25T18:30:57.000Z"
+  },
+  {
+   "title": "Armenia detains former President Kocharyan on corruption charges",
+   "link": "http://www.euronews.com/2026/08/25/armenia-detains-former-president-kocharyan-on-corruption-charges",
+   "source": "Euronews",
+   "date": "2026-08-25T18:19:56.000Z"
+  },
+  {
+   "title": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
+   "link": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T18:13:37.000Z"
+  },
+  {
+   "title": "Dolly Parton has died",
+   "link": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+   "source": "Hacker News",
+   "date": "2026-08-25T18:02:22.000Z"
+  },
+  {
+   "title": "Kremlin denies planned talks with US envoys amid reports CIA head in Russia",
+   "link": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T18:01:37.000Z"
+  },
+  {
+   "title": "Trial is 40 days. Not until you're 40",
+   "link": "https://twitter.com/WinRAR_RARLAB/status/2092182008319386067",
+   "source": "Hacker News",
+   "date": "2026-08-25T17:56:33.000Z"
+  },
+  {
+   "title": "Firefox 157 will include JPEG XL by default on all platforms",
+   "link": "https://groups.google.com/a/mozilla.org/g/dev-platform/c/3YMV4MS34KA?pli=1",
+   "source": "Hacker News",
+   "date": "2026-08-25T17:55:23.000Z"
+  },
+  {
+   "title": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+   "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-25T17:54:03.000Z"
+  },
+  {
+   "title": "Fatah, Dahlan bloc hold reconciliation talks ahead of Palestinian elections",
+   "link": "https://www.aljazeera.com/news/2026/8/25/fatah-dahlan-bloc-hold-reconciliation-talks-ahead-of-palestinian-elections?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T17:39:22.000Z"
+  },
+  {
+   "title": "At least 47 killed and dozens kidnapped in gang attack near Haiti capital",
+   "link": "https://www.theguardian.com/world/2026/aug/25/gang-attack-kenscoff-port-au-prince-haiti",
+   "source": "Guardian World",
+   "date": "2026-08-25T17:35:16.000Z"
+  },
   {
    "title": "Spain requests emergency funding from the EU over Ceuta migrants",
    "link": "https://www.aljazeera.com/news/2026/8/25/spain-requests-emergency-funding-from-the-eu-over-ceuta-migrants?traffic_source=rss",
@@ -8,7 +68,7 @@
    "date": "2026-08-25T17:31:09.000Z"
   },
   {
-   "title": "Clara (YC P26) Is Hiring a Growth Engineer to Bring AI Doctors to Market",
+   "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
    "link": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
    "source": "Hacker News",
    "date": "2026-08-25T17:28:52.000Z"
@@ -20,10 +80,10 @@
    "date": "2026-08-25T17:27:01.000Z"
   },
   {
-   "title": "Lightweight system monitor for Linux VPS written in Go",
-   "link": "https://github.com/leodeim/vpsmon",
+   "title": "Run OpenBSD on DigitalOcean for $4/month",
+   "link": "https://nil.wallyjones.com/run-openbsd-on-digitalocean-for-4month/",
    "source": "Hacker News",
-   "date": "2026-08-25T17:13:59.000Z"
+   "date": "2026-08-25T17:23:07.000Z"
   },
   {
    "title": "Canada hits US with counter-tariffs on more than 700 products",
@@ -32,46 +92,10 @@
    "date": "2026-08-25T17:08:54.000Z"
   },
   {
-   "title": "Nitter project received cease and desist",
-   "link": "https://github.com/zedeus/nitter/issues/1442",
-   "source": "Hacker News",
-   "date": "2026-08-25T17:08:21.000Z"
-  },
-  {
-   "title": "Black hole singularity is a surface not a point",
-   "link": "https://arxiv.org/abs/2608.21590",
-   "source": "Hacker News",
-   "date": "2026-08-25T17:02:49.000Z"
-  },
-  {
-   "title": "US judge denies Ghislaine Maxwell’s ‘frivolous’ bid to throw out conviction",
-   "link": "https://www.aljazeera.com/news/2026/8/25/us-judge-denies-ghislaine-maxwells-frivolous-bid-to-throw-out-conviction?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T17:02:29.000Z"
-  },
-  {
-   "title": "A new ceiling for Λ: the de Bruijn–Newman constant is at most 0.1787854",
-   "link": "https://www.judegomila.com/posts/riemann-lambda-0.1787854",
-   "source": "Hacker News",
-   "date": "2026-08-25T16:59:31.000Z"
-  },
-  {
-   "title": "Water Behind the Watts: The Hidden Risk of Powering Data Centers",
-   "link": "https://www.ceres.org/resources/reports/water-behind-the-watts-the-hidden-risk-of-powering-data-centers",
-   "source": "Hacker News",
-   "date": "2026-08-25T16:58:31.000Z"
-  },
-  {
    "title": "CIA chief travels to Moscow for unannounced talks, US media reports",
    "link": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-25T16:56:20.000Z"
-  },
-  {
-   "title": "Carlos Baleba joins Manchester United in transfer from Brighton",
-   "link": "https://www.aljazeera.com/sports/2026/8/25/carlos-baleba-joins-manchester-united-in-transfer-from-brighton?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T16:55:29.000Z"
   },
   {
    "title": "Two unvaccinated people die of measles in Pennsylvania",
@@ -80,22 +104,10 @@
    "date": "2026-08-25T16:43:08.000Z"
   },
   {
-   "title": "Sanctions or missiles? Why Gulf may not relish Trump’s new Iran approach",
-   "link": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-25T16:39:24.000Z"
-  },
-  {
    "title": "Latest news bulletin | August 25th, 2026 – Evening",
    "link": "http://www.euronews.com/video/2026/08/25/latest-news-bulletin-august-25th-2026-evening",
    "source": "Euronews",
    "date": "2026-08-25T16:00:29.000Z"
-  },
-  {
-   "title": "European rights court orders Turkey to free imprisoned businessman",
-   "link": "https://www.bbc.co.uk/news/articles/cn5drvyg92no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-25T15:58:20.000Z"
   },
   {
    "title": "Canada hits back with tariffs of up to 50% on US goods as trade war escalates",
@@ -120,18 +132,6 @@
    "link": "http://www.euronews.com/2026/08/25/trump-slams-tehran-for-executing-protesters-at-levels-not-seen-before",
    "source": "Euronews",
    "date": "2026-08-25T13:33:22.000Z"
-  },
-  {
-   "title": "Qatar says officials working daily to revive US-Iran talks, urges Tehran to reopen Hormuz",
-   "link": "http://www.euronews.com/2026/08/25/qatar-says-officials-working-daily-to-revive-us-iran-talks-urges-tehran-to-reopen-hormuz",
-   "source": "Euronews",
-   "date": "2026-08-25T13:04:31.000Z"
-  },
-  {
-   "title": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
-   "link": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan",
-   "source": "Guardian World",
-   "date": "2026-08-25T12:31:53.000Z"
   },
   {
    "title": "Brain disease in dead NFL players 'higher than previously shown'",

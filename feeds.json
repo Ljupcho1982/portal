@@ -1,6 +1,72 @@
 {
- "updated": "2026-08-24T23:35:23.821Z",
+ "updated": "2026-08-25T01:52:53.827Z",
  "items": [
+  {
+   "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
+   "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-25T01:48:24.000Z"
+  },
+  {
+   "title": "US plans to revoke business, tourism visas of 200,000 asylum seekers",
+   "link": "https://www.aljazeera.com/news/2026/8/25/us-plans-to-revoke-business-tourism-visas-of-200000-asylum-seekers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T01:01:44.000Z"
+  },
+  {
+   "title": "What languages are agent skills written in?",
+   "link": "https://plicara.ai/research/agent-skill-languages/",
+   "source": "Hacker News",
+   "date": "2026-08-25T00:52:27.000Z"
+  },
+  {
+   "title": "Colombia’s new president Abelardo de la Espriella announces immigration crackdown",
+   "link": "https://www.theguardian.com/world/2026/aug/25/colombia-immigration-crackdown-president-abelardo-de-la-espriella",
+   "source": "Guardian World",
+   "date": "2026-08-25T00:34:47.000Z"
+  },
+  {
+   "title": "DRC’s constitutional battle: The fight over the 2028 vote",
+   "link": "https://www.aljazeera.com/news/2026/8/25/drcs-constitutional-battle-the-fight-over-the-2028-vote?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T00:34:29.000Z"
+  },
+  {
+   "title": "Search continues in Tunisia as migrant boat sinking sparks protests",
+   "link": "https://www.aljazeera.com/news/2026/8/25/search-continues-in-tunisia-after-migrant-boat-sinking-sparks-protests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T00:18:42.000Z"
+  },
+  {
+   "title": "US removes Syria from list of state sponsors of terrorism",
+   "link": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-25T00:17:25.000Z"
+  },
+  {
+   "title": "Moment tornado tears through southern France",
+   "link": "https://www.bbc.co.uk/news/videos/ckg8wkd0j7do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-25T00:16:35.000Z"
+  },
+  {
+   "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-25T00:00:00.000Z"
+  },
+  {
+   "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+   "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-24T23:48:25.000Z"
+  },
+  {
+   "title": "Bookshelf – Self-hosted eBook library that runs on object storage",
+   "link": "https://github.com/murerkinn/bookshelf",
+   "source": "Hacker News",
+   "date": "2026-08-24T23:00:37.000Z"
+  },
   {
    "title": "How US sanctions on Iran ripple through global markets and consumers",
    "link": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
@@ -8,22 +74,10 @@
    "date": "2026-08-24T22:46:02.000Z"
   },
   {
-   "title": "US Supreme Court sides with Trump administration on mail voting",
+   "title": "US Supreme Court allows Trump’s mail voting restrictions to proceed",
    "link": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-08-24T22:40:04.000Z"
-  },
-  {
-   "title": "US removes Syria from ‘state sponsor of terrorism’ list",
-   "link": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-24T22:32:26.000Z"
-  },
-  {
-   "title": "Jeffries-Kushner meeting sparks speculation amid contentious US midterms",
-   "link": "https://www.aljazeera.com/news/2026/8/24/jeffries-kushner-meeting-sparks-speculation-amid-contentious-us-midterms?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-24T22:19:08.000Z"
   },
   {
    "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
@@ -32,28 +86,10 @@
    "date": "2026-08-24T22:13:40.000Z"
   },
   {
-   "title": "Moon",
+   "title": "Moon (2024)",
    "link": "https://ciechanow.ski/moon/",
    "source": "Hacker News",
    "date": "2026-08-24T22:06:02.000Z"
-  },
-  {
-   "title": "US strikes a vessel in the eastern Pacific, killing 2 people in first attack in months",
-   "link": "https://www.theguardian.com/world/2026/aug/24/vessel-strike-eastern-pacific",
-   "source": "Guardian World",
-   "date": "2026-08-24T21:40:48.000Z"
-  },
-  {
-   "title": "US public support for Iran war falls as Trump approval at record low: Poll",
-   "link": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-24T21:35:10.000Z"
-  },
-  {
-   "title": "Iconic Palestinian artist Sliman Mansour passes away at age 79",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/iconic-palestinian-artist-sliman-mansour-passes-away-at-age-79?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-24T21:32:24.000Z"
   },
   {
    "title": "One corner of China’s internet is insisting that the Tang Dynasty never existed",
@@ -68,46 +104,16 @@
    "date": "2026-08-24T21:01:38.000Z"
   },
   {
-   "title": "Oceans hit highest temperature on record",
-   "link": "https://www.bbc.com/news/articles/c62m4gpnp78o",
-   "source": "Hacker News",
-   "date": "2026-08-24T19:19:08.000Z"
-  },
-  {
-   "title": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
-   "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-24T19:12:35.000Z"
-  },
-  {
    "title": "US Treasury Secretary launches 'Operation Economic Outcast' aimed at isolating Iran",
    "link": "http://www.euronews.com/2026/08/24/us-launches-operation-economic-outcast-as-washington-targets-irans-enablers",
    "source": "Euronews",
    "date": "2026-08-24T19:11:00.000Z"
   },
   {
-   "title": "LLMs could control their host machines by exploiting inference engines",
-   "link": "https://boydkane.com/essays/llms-could-control-their-host-machines-by-exploiting-inference-engines",
-   "source": "Hacker News",
-   "date": "2026-08-24T19:03:06.000Z"
-  },
-  {
    "title": "Prince Harry quits board of wildlife charity after rangers’ human rights abuses",
    "link": "https://www.theguardian.com/uk-news/2026/aug/24/prince-harry-quits-board-wildlife-charity-african-parks-human-rights-abuses",
    "source": "Guardian World",
    "date": "2026-08-24T17:34:50.000Z"
-  },
-  {
-   "title": "UK PM Burnham vows support for Ukraine despite 'outrageous threats' from Russia",
-   "link": "https://www.bbc.co.uk/news/articles/clyqypkrzq5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-24T17:29:59.000Z"
-  },
-  {
-   "title": "Outrage in Nepal over rape and murder of three-year-old girl",
-   "link": "https://www.bbc.co.uk/news/articles/cvgy58ql288o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-24T17:24:25.000Z"
   },
   {
    "title": "Latest news bulletin | August 24th, 2026 – Evening",
@@ -150,12 +156,6 @@
    "link": "http://www.euronews.com/video/2026/08/24/warehouse-burns-near-st-petersburg-as-ukraine-targets-ozon-sites",
    "source": "Euronews",
    "date": "2026-08-24T13:14:06.000Z"
-  },
-  {
-   "title": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-   "link": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-24T10:40:22.000Z"
   },
   {
    "title": "Children make up half of mpox cases in Guinea-Bissau as epidemic spreads",

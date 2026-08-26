@@ -1,17 +1,89 @@
 {
- "updated": "2026-08-26T14:08:23.397Z",
+ "updated": "2026-08-26T15:53:43.725Z",
  "items": [
   {
-   "title": "German airport worker dies of malaria after 'mosquito arrives on plane'",
-   "link": "https://www.bbc.co.uk/news/articles/cz6zwgg9y8go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-26T13:55:22.000Z"
+   "title": "Disruption with Some GitHub Services",
+   "link": "https://www.githubstatus.com/incidents/hcbtzksccj2f",
+   "source": "Hacker News",
+   "date": "2026-08-26T15:19:40.000Z"
   },
   {
-   "title": "Children in Gaza fear flying their kites after Israeli threat",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/children-in-gaza-fear-flying-their-kites-after-israeli-threat?traffic_source=rss",
+   "title": "South African police arrest two Thai men for allegedly smuggling parrot eggs",
+   "link": "https://www.theguardian.com/world/2026/aug/26/south-african-police-arrest-two-thai-men-smuggling-parrot-eggs",
+   "source": "Guardian World",
+   "date": "2026-08-26T15:09:58.000Z"
+  },
+  {
+   "title": "Show HN: TexLite – A lightweight self-hosted LaTeX workspace",
+   "link": "https://github.com/SWUFE-DB-Group/TexLite",
+   "source": "Hacker News",
+   "date": "2026-08-26T15:07:44.000Z"
+  },
+  {
+   "title": "Nebula Sans",
+   "link": "https://www.nebulasans.com",
+   "source": "Hacker News",
+   "date": "2026-08-26T15:03:52.000Z"
+  },
+  {
+   "title": "WebMCP: Teaching Your Website to Talk to AI Agents",
+   "link": "https://sreenathmenon.com/blog/2026-08-04-webmcp-teaching-websites-to-talk-to-ai-agents/",
+   "source": "Hacker News",
+   "date": "2026-08-26T15:02:15.000Z"
+  },
+  {
+   "title": "AurionMail: E2EE suite (CryptPad/Stalwart) with single-password UX",
+   "link": "https://github.com/AurionMail/docs",
+   "source": "Hacker News",
+   "date": "2026-08-26T15:01:11.000Z"
+  },
+  {
+   "title": "Why a Christian group is suing the Dutch government for West Bank trade ban",
+   "link": "https://www.aljazeera.com/news/2026/8/26/why-a-christian-group-is-suing-the-dutch-government-for-west-bank-trade-ban?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-08-26T13:53:09.000Z"
+   "date": "2026-08-26T14:59:22.000Z"
+  },
+  {
+   "title": "GLM-5.3-Flash Intelligence, Performance and Price Analysis",
+   "link": "https://artificialanalysis.ai/models/glm-5-3-flash",
+   "source": "Hacker News",
+   "date": "2026-08-26T14:58:54.000Z"
+  },
+  {
+   "title": "Israel extends campaign against UNRWA to advance West Bank annexation",
+   "link": "https://www.aljazeera.com/news/2026/8/26/israel-extends-campaign-against-unrwa-to-advance-west-bank-annexation?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-26T14:42:36.000Z"
+  },
+  {
+   "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
+   "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-26T14:42:03.000Z"
+  },
+  {
+   "title": "Kremlin says CIA head met Russian intelligence officials, but not Putin",
+   "link": "https://www.aljazeera.com/news/2026/8/26/kremlin-says-cia-head-met-russian-intelligence-officials-but-not-putin?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-26T14:30:24.000Z"
+  },
+  {
+   "title": "Meta agrees to settlement, platform changes in youth addiction case",
+   "link": "https://www.aljazeera.com/economy/2026/8/26/meta-agrees-to-settlement-platform-changes-in-youth-addiction-case?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-26T14:21:23.000Z"
+  },
+  {
+   "title": "Trump tells Al Jazeera ‘not in a hurry’ for Iran to return to talks",
+   "link": "https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-26T14:16:29.000Z"
+  },
+  {
+   "title": "Bodies of missing people found in Korea becomes national scandal",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/bodies-of-missing-people-found-in-korea-becomes-national-scandal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-26T14:00:43.000Z"
   },
   {
    "title": "Hundreds missing as flash floods tear through Nepal",
@@ -20,46 +92,10 @@
    "date": "2026-08-26T13:52:34.000Z"
   },
   {
-   "title": "Why northern Mozambique’s surging violence is worsening displacement crisis",
-   "link": "https://www.aljazeera.com/news/2026/8/26/why-northern-mozambiques-surging-violence-is-worsening-displacement-crisis?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-26T13:49:05.000Z"
-  },
-  {
-   "title": "Locked inside: Grief and anger as Pakistan hospital fire kills 14 newborns",
-   "link": "https://www.aljazeera.com/news/2026/8/26/locked-inside-grief-and-anger-as-pakistan-hospital-fire-kills-14-newborns?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-26T13:44:36.000Z"
-  },
-  {
-   "title": "Callaway apologises after golf ad slammed for depicting domestic violence",
-   "link": "https://www.aljazeera.com/sports/2026/8/26/callaway-apologises-after-golf-ad-slammed-for-depicting-domestic-violence?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-26T13:36:32.000Z"
-  },
-  {
-   "title": "A teacher’s slap, student’s death revive India’s corporal punishment debate",
-   "link": "https://www.aljazeera.com/news/2026/8/26/a-teachers-slap-students-death-revive-indias-corporal-punishment-debate?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-26T13:22:58.000Z"
-  },
-  {
-   "title": "ICC chief urges Japan to counter US pressure on the court",
-   "link": "https://www.aljazeera.com/news/2026/8/26/icc-chief-urges-japan-to-counter-us-pressure-on-war-crimes-court?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-26T13:15:59.000Z"
-  },
-  {
    "title": "Flowers and memories: Fans pay tribute to Dolly Parton",
    "link": "http://www.euronews.com/video/2026/08/26/flowers-and-memories-fans-pay-tribute-to-dolly-parton",
    "source": "Euronews",
    "date": "2026-08-26T12:47:26.000Z"
-  },
-  {
-   "title": "Door was locked at Pakistan hospital where fire killed 14 babies, witnesses say",
-   "link": "https://www.bbc.co.uk/news/articles/czdz13elezlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-26T12:32:47.000Z"
   },
   {
    "title": "US 'will achieve nothing' with its economic chokehold, Tehran says",
@@ -86,10 +122,16 @@
    "date": "2026-08-26T11:00:12.000Z"
   },
   {
-   "title": "At least 19 dead and more than 380 tourists missing after flash flooding in Nepal",
+   "title": "At least 95 dead and more than 380 tourists missing after flash flooding in Nepal",
    "link": "http://www.euronews.com/2026/08/26/nepal-flash-floods-kill-eight-at-china-border-and-cause-major-casualties-in-tibet",
    "source": "Euronews",
    "date": "2026-08-26T11:00:10.000Z"
+  },
+  {
+   "title": "Radiation link in flight attendant's breast cancer, French court finds",
+   "link": "https://www.bbc.co.uk/news/articles/cn0j3z6147jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-26T10:29:36.000Z"
   },
   {
    "title": "Syria's main Kurdish force SDF ceases to exist after army merger",
@@ -138,12 +180,6 @@
    "link": "https://www.theguardian.com/world/2026/aug/24/video-shows-hundreds-held-captive-after-nigeria-mosque-kidnapping",
    "source": "Guardian World",
    "date": "2026-08-24T14:19:14.000Z"
-  },
-  {
-   "title": "Children make up half of suspected mpox cases in Guinea-Bissau as epidemic spreads",
-   "link": "https://www.theguardian.com/global-development/2026/aug/24/children-half-mpox-disease-cases-guinea-bissau-epidemic-spreads-west-africa",
-   "source": "Guardian World",
-   "date": "2026-08-24T10:11:34.000Z"
   }
  ]
 }

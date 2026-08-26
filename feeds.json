@@ -1,6 +1,42 @@
 {
- "updated": "2026-08-26T03:18:33.681Z",
+ "updated": "2026-08-26T04:56:27.382Z",
  "items": [
+  {
+   "title": "At least 15 newborns killed in Pakistan hospital fire",
+   "link": "https://www.aljazeera.com/news/2026/8/26/at-least-15-newborns-killed-in-pakistan-hospital-fire?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-26T04:27:15.000Z"
+  },
+  {
+   "title": "Dozens killed in rebel attacks on Sudan’s Kordofan, medical group says",
+   "link": "https://www.aljazeera.com/news/2026/8/26/dozens-killed-in-rebel-attacks-on-sudans-kordofan-medical-group-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-26T03:49:23.000Z"
+  },
+  {
+   "title": "Instagram chief testifies at Meta trial, says few teens used safety feature",
+   "link": "https://www.aljazeera.com/news/2026/8/26/instagram-chief-testifies-at-meta-trial-says-few-teens-used-safety-feature?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-26T03:40:26.000Z"
+  },
+  {
+   "title": "Who were the Syrian Democratic Forces and why dissolve?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/who-were-the-syrian-democratic-forces-and-why-dissolve?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-26T03:28:43.000Z"
+  },
+  {
+   "title": "Iran and Oman discuss temporary corridor in Strait or Hormuz",
+   "link": "http://www.euronews.com/2026/08/26/iran-and-oman-discuss-temporary-corridor-in-strait-or-hormuz",
+   "source": "Euronews",
+   "date": "2026-08-26T03:25:22.000Z"
+  },
+  {
+   "title": "Ask HN: What is one simple thing LLMs are insanely bad at?",
+   "link": "https://news.ycombinator.com/item?id=49443820",
+   "source": "Hacker News",
+   "date": "2026-08-26T03:17:51.000Z"
+  },
   {
    "title": "Israeli soldiers block Knesset member from besieged Palestinian home",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/israeli-soldiers-block-knesset-member-from-besieged-palestinian-home?traffic_source=rss",
@@ -14,40 +50,10 @@
    "date": "2026-08-26T02:47:02.000Z"
   },
   {
-   "title": "Letter from Dolly Parton to Eminem",
-   "link": "https://twitter.com/Eminem/status/2092367272891310482",
+   "title": "Agentic Context Management: Memory and Cost as Architecture Problems",
+   "link": "https://arxiv.org/abs/2607.21503",
    "source": "Hacker News",
-   "date": "2026-08-26T02:09:12.000Z"
-  },
-  {
-   "title": "Water crisis makes life in Sudan’s El Obeid refugee camps even worse",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/water-crisis-makes-life-in-sudans-el-obeid-refugee-camps-even-worse?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-26T01:54:00.000Z"
-  },
-  {
-   "title": "Malaysia’s Anwar puts non-aligned stance in focus with remarks on Taiwan",
-   "link": "https://www.aljazeera.com/news/2026/8/26/malaysias-anwar-puts-non-aligned-stance-in-focus-with-remarks-on-taiwan?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-26T01:43:50.000Z"
-  },
-  {
-   "title": "Is Sudan’s battlefield shaping the terms of its next political phase?",
-   "link": "https://www.aljazeera.com/news/2026/8/26/is-sudans-battlefield-shaping-the-terms-of-its-next-political-phase?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-26T01:00:17.000Z"
-  },
-  {
-   "title": "The brain may be about to have its Ozempic moment",
-   "link": "https://www.economist.com/science-and-technology/2026/08/11/the-brain-may-be-about-to-have-its-ozempic-moment",
-   "source": "Hacker News",
-   "date": "2026-08-26T00:40:41.000Z"
-  },
-  {
-   "title": "Human rights situation in Myanmar ‘plummets to new low’, UN says",
-   "link": "https://www.aljazeera.com/news/2026/8/26/rights-abuses-in-myanmar-plummets-to-new-low-un-says?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-26T00:29:01.000Z"
+   "date": "2026-08-26T02:35:25.000Z"
   },
   {
    "title": "Queryable Executables",
@@ -68,10 +74,10 @@
    "date": "2026-08-25T22:08:50.000Z"
   },
   {
-   "title": "Python's pre-declared constants are kinda weird",
-   "link": "https://sebsite.pw/w/20260801-pythonconstants.html",
+   "title": "When str.lower() is a security vulnerability in Python – Seth Larson",
+   "link": "https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability",
    "source": "Hacker News",
-   "date": "2026-08-25T21:39:02.000Z"
+   "date": "2026-08-25T20:49:03.000Z"
   },
   {
    "title": "Wife of US soldier deported after Trump rollback on military family protections",
@@ -126,12 +132,6 @@
    "link": "http://www.euronews.com/2026/08/25/azerbaijans-biggest-bank-enters-uzbek-market-with-davr-bank-acquisition",
    "source": "Euronews",
    "date": "2026-08-25T14:23:29.000Z"
-  },
-  {
-   "title": "Trump slams Tehran for executing protesters at levels 'not seen before'",
-   "link": "http://www.euronews.com/2026/08/25/trump-slams-tehran-for-executing-protesters-at-levels-not-seen-before",
-   "source": "Euronews",
-   "date": "2026-08-25T13:33:22.000Z"
   },
   {
    "title": "Brain disease in dead NFL players 'higher than previously shown'",

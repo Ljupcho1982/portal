@@ -1,53 +1,131 @@
 {
- "updated": "2026-08-28T18:43:04.294Z",
+ "updated": "2026-08-29T02:11:56.396Z",
  "items": [
+  {
+   "title": "Tuareg rebels free more Malian soldiers in prisoner swap, sources say",
+   "link": "https://www.aljazeera.com/news/2026/8/29/tuareg-rebels-free-more-malian-soldiers-in-prisoner-swap-sources-say?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-29T01:50:03.000Z"
+  },
+  {
+   "title": "Gunfire, blasts heard in several areas of Niger capital Niamey",
+   "link": "https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-29T01:30:08.000Z"
+  },
+  {
+   "title": "StemDeck, a free, open-source and local AI stem separator",
+   "link": "https://github.com/stemdeckapp/stemdeck",
+   "source": "Hacker News",
+   "date": "2026-08-29T01:24:13.000Z"
+  },
+  {
+   "title": "Trump says US has 'historic' deal to control 65bn barrels of Venezuela's oil",
+   "link": "https://www.bbc.co.uk/news/articles/cx2zlwe7qj1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-29T01:21:43.000Z"
+  },
+  {
+   "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+   "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-29T00:56:19.000Z"
+  },
+  {
+   "title": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-29T00:53:56.000Z"
+  },
+  {
+   "title": "US revises statements suggesting Chinese hackers attacked agencies",
+   "link": "https://www.aljazeera.com/news/2026/8/29/us-revises-statements-suggesting-chinese-hackers-attacked-agencies?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-29T00:46:20.000Z"
+  },
+  {
+   "title": "Right-wing commentator Milo Yiannopoulos detained by ICE",
+   "link": "https://www.bbc.co.uk/news/articles/cj06jgq62v9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-29T00:46:02.000Z"
+  },
+  {
+   "title": "Landlady to 9/11 hijackers reveals their links to alleged Saudi spy",
+   "link": "https://www.bbc.co.uk/news/articles/c99dvm39mreo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-29T00:32:17.000Z"
+  },
+  {
+   "title": "US judge rejects Trump’s bid to switch hush-money case to federal court",
+   "link": "https://www.aljazeera.com/news/2026/8/29/us-judge-rejects-trumps-bid-to-switch-hush-money-case-to-federal-court?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-29T00:19:00.000Z"
+  },
+  {
+   "title": "Iran war live: IRGC asserts strait control, US enforces blockade",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-29T00:00:00.000Z"
+  },
+  {
+   "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+   "link": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+   "source": "Hacker News",
+   "date": "2026-08-28T23:46:10.000Z"
+  },
+  {
+   "title": "PPWR lands another blow to an precarious tabletop industry",
+   "link": "https://www.rascal.news/ppwr-lands-another-blow-to-an-already-precarious-tabletop-industry/",
+   "source": "Hacker News",
+   "date": "2026-08-28T23:41:05.000Z"
+  },
+  {
+   "title": "Trump announces new US oil agreement with Venezuela",
+   "link": "https://www.theguardian.com/us-news/2026/aug/28/trump-venezuela-oil-agreement",
+   "source": "Guardian World",
+   "date": "2026-08-28T23:34:36.000Z"
+  },
+  {
+   "title": "9th Circuit sides with states in Kalshi gambling fight",
+   "link": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+   "source": "Hacker News",
+   "date": "2026-08-28T23:32:22.000Z"
+  },
+  {
+   "title": "I accidentally turned LLM memory into program analysis",
+   "link": "https://pwning.systems/posts/llm-memory-program-analysis/",
+   "source": "Hacker News",
+   "date": "2026-08-28T23:27:45.000Z"
+  },
+  {
+   "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+   "link": "https://github.com/Lakr233/vphone-cli",
+   "source": "Hacker News",
+   "date": "2026-08-28T23:02:21.000Z"
+  },
+  {
+   "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
+   "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-28T22:05:41.000Z"
+  },
+  {
+   "title": "Norway mourns king Harald V as crown prince Haakon becomes king",
+   "link": "http://www.euronews.com/video/2026/08/28/norway-mourns-king-harald-v-as-crown-prince-haakon-becomes-king",
+   "source": "Euronews",
+   "date": "2026-08-28T20:40:41.000Z"
+  },
+  {
+   "title": "Number of missing in Nepal floods passes 2,400 as UNICEF says 17,000 children need aid",
+   "link": "http://www.euronews.com/2026/08/28/number-of-missing-in-nepal-floods-passes-2400-as-unicef-says-17000-children-need-aid",
+   "source": "Euronews",
+   "date": "2026-08-28T19:56:52.000Z"
+  },
   {
    "title": "Norway mourns King Harald as Haakon VIII ascends throne",
    "link": "https://www.bbc.co.uk/news/articles/cm2rzxrdr71o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-08-28T18:13:28.000Z"
-  },
-  {
-   "title": "Israeli strike kills three Palestinians in West Bank’s Jenin",
-   "link": "https://www.aljazeera.com/news/2026/8/28/israeli-strike-kills-three-palestinians-in-west-banks-jenin?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-28T17:47:17.000Z"
-  },
-  {
-   "title": "Venezuelan opposition up in arms over reports US wants big stake in oil and gas",
-   "link": "https://www.theguardian.com/world/2026/aug/28/us-venezuela-oil-gas-stake",
-   "source": "Guardian World",
-   "date": "2026-08-28T17:41:37.000Z"
-  },
-  {
-   "title": "‘Terrorist connection’ alleged in Trump’s Scotland golf course damage case",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/28-08-sv-trump-golf-course-terror-charges-fm?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-28T17:36:56.000Z"
-  },
-  {
-   "title": "US judge denies injunction against Trump’s new birthright citizenship order",
-   "link": "https://www.aljazeera.com/news/2026/8/28/us-judge-denies-injunction-against-trumps-new-birthright-citizenship-order?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-28T17:32:55.000Z"
-  },
-  {
-   "title": "Thieves steal 600-diamond necklace from Vienna museum in broad daylight",
-   "link": "https://www.bbc.co.uk/news/articles/cqxvwpe0plro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-28T17:29:16.000Z"
-  },
-  {
-   "title": "US Fed chair warns inflation progress insufficient, hints at rate hikes",
-   "link": "https://www.aljazeera.com/economy/2026/8/28/us-fed-chair-warns-inflation-progress-insufficient-hints-at-rate-hikes?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-28T17:22:01.000Z"
-  },
-  {
-   "title": "Secrets of the Atomic City",
-   "link": "https://longreads.com/2026/08/06/radiation-paducah-atavist/",
-   "source": "Hacker News",
-   "date": "2026-08-28T17:16:58.000Z"
+   "date": "2026-08-28T19:40:45.000Z"
   },
   {
    "title": "Fans welcome Céline Dion outside her Paris hotel as she prepares to launch a 16‑show arena residency",
@@ -56,64 +134,16 @@
    "date": "2026-08-28T17:09:57.000Z"
   },
   {
-   "title": "Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-   "link": "https://arxiv.org/abs/2608.23691",
-   "source": "Hacker News",
-   "date": "2026-08-28T17:01:12.000Z"
-  },
-  {
-   "title": "Attimet (YC F24) Is Hiring Members of Technical Staff – Engineering and Research",
-   "link": "https://www.ycombinator.com/companies/attimet/jobs/6btZFDg-member-of-technical-staff-engineering",
-   "source": "Hacker News",
-   "date": "2026-08-28T17:00:06.000Z"
-  },
-  {
-   "title": "Canadian economy recovers sharply in Q2 but shadow of US tariffs in future",
-   "link": "https://www.aljazeera.com/economy/2026/8/28/canadian-economy-recovers-sharply-in-q2-but-shadow-of-us-tariffs-in-future?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-28T16:59:48.000Z"
-  },
-  {
-   "title": "Al Jazeera reports from Nepal as flood survivors flee new threat",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/28/08-28-26-barnaby-lo-wt-reported?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-28T16:56:23.000Z"
-  },
-  {
-   "title": "Violence breaks out in Ceuta as migrant crisis continues",
-   "link": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-28T16:30:59.000Z"
-  },
-  {
    "title": "Latest news bulletin | August 28th, 2026 – Evening",
    "link": "http://www.euronews.com/video/2026/08/28/latest-news-bulletin-august-28th-2026-evening",
    "source": "Euronews",
    "date": "2026-08-28T16:00:29.000Z"
   },
   {
-   "title": "Just the rumour of a bug is enough to find an exploit these days",
-   "link": "https://anil.recoil.org/notes/rumour-is-the-exploit",
-   "source": "Hacker News",
-   "date": "2026-08-28T15:58:46.000Z"
-  },
-  {
-   "title": "How Dactyl Works",
-   "link": "https://dactyl.dev/blog/how-dactyl-works/",
-   "source": "Hacker News",
-   "date": "2026-08-28T15:42:04.000Z"
-  },
-  {
-   "title": "Israeli activists urge EU in Jerusalem protest: ‘silence is complicity’ on Gaza",
+   "title": "Israeli activists protest outside EU offices in Jerusalem over Gaza war",
    "link": "http://www.euronews.com/video/2026/08/28/israeli-activists-urge-eu-in-jerusalem-protest-silence-is-complicity-on-gaza",
    "source": "Euronews",
    "date": "2026-08-28T15:31:17.000Z"
-  },
-  {
-   "title": "EasyEffects can massively improve laptop speaker sound quality",
-   "link": "https://www.osnews.com/story/145883/easyeffects-should-be-part-of-every-linux-distribution-and-desktop-environment-to-massively-improve-laptop-speaker-sound-quality/",
-   "source": "Hacker News",
-   "date": "2026-08-28T15:23:10.000Z"
   },
   {
    "title": "Israeli strikes hit Gaza shelters, killing four amid deteriorating camp conditions",
@@ -126,36 +156,6 @@
    "link": "https://www.theguardian.com/artanddesign/2026/aug/28/egyptian-queen-diamond-necklace-stolen-vienna-raid",
    "source": "Guardian World",
    "date": "2026-08-28T14:46:25.000Z"
-  },
-  {
-   "title": "Syria's al-Sharaa appoints SDF commander as adviser after Kurdish force dissolves",
-   "link": "http://www.euronews.com/2026/08/28/syrias-al-sharaa-appoints-sdf-commander-as-adviser-after-kurdish-force-dissolves",
-   "source": "Euronews",
-   "date": "2026-08-28T14:34:43.000Z"
-  },
-  {
-   "title": "Cambodia shuts over 700 cyberscam locations over past year, government says",
-   "link": "http://www.euronews.com/2026/08/28/cambodia-shuts-over-700-cyberscam-locations-over-past-year-government-says",
-   "source": "Euronews",
-   "date": "2026-08-28T14:20:31.000Z"
-  },
-  {
-   "title": "Oslo mayor calls off wedding ceremony after death of Norway's king",
-   "link": "https://www.bbc.co.uk/news/articles/c5ydgk3v60eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-28T13:50:34.000Z"
-  },
-  {
-   "title": "World's youngest reigning traditional monarch dies aged 34",
-   "link": "https://www.bbc.co.uk/news/articles/c0j38d9v40po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-28T11:13:24.000Z"
-  },
-  {
-   "title": "Watch: Why rescuers fear new barrier lake could cause another Nepal-Tibet flood",
-   "link": "https://www.bbc.co.uk/news/videos/cj06j16vpr5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-28T10:35:06.000Z"
   },
   {
    "title": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",

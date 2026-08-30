@@ -1,29 +1,125 @@
 {
- "updated": "2026-08-30T06:40:41.045Z",
+ "updated": "2026-08-30T12:54:22.125Z",
  "items": [
   {
-   "title": "One dead and five injured in Swiss shooting, police say",
+   "title": "Manhunt after shooting at Swiss rave kills woman, 22, and injures five",
    "link": "https://www.bbc.co.uk/news/articles/c9qr750je1go?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-08-30T06:27:12.000Z"
+   "date": "2026-08-30T12:44:08.000Z"
+  },
+  {
+   "title": "Passenger ship carrying 270 people sinks off coast of northern Cyprus",
+   "link": "http://www.euronews.com/2026/08/30/passenger-ship-carrying-270-people-sinks-off-coast-of-northern-cyprus",
+   "source": "Euronews",
+   "date": "2026-08-30T12:26:54.000Z"
+  },
+  {
+   "title": "Death toll from Russian strike on Ukrainian arms depot rises to 38",
+   "link": "https://www.aljazeera.com/news/2026/8/30/death-toll-from-russian-strike-on-ukrainian-arms-depot-rises-to-38?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-30T12:26:48.000Z"
+  },
+  {
+   "title": "Road collapses in Nepal landslide four days after floods",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/road-collapses-in-nepal-landslide-four-days-after-floods?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-30T12:14:53.000Z"
+  },
+  {
+   "title": "How has life changed for Iranians six months into the war?",
+   "link": "https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-30T12:08:12.000Z"
+  },
+  {
+   "title": "Infantino must go by 2027 in FIFA overhaul, Dutch football body says",
+   "link": "https://www.aljazeera.com/sports/2026/8/30/infantino-must-go-by-2027-in-fifa-overhaul-dutch-football-body-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-30T12:06:57.000Z"
+  },
+  {
+   "title": "Israel’s Ben-Gvir lauds harsh conditions for Palestinian female prisoners",
+   "link": "https://www.aljazeera.com/news/2026/8/30/israels-ben-gvir-lauds-harsh-conditions-for-palestinian-female-prisoners?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-30T11:52:27.000Z"
+  },
+  {
+   "title": "Ferry carrying 260 people capsizes off coast of northern Cyprus",
+   "link": "https://www.aljazeera.com/news/2026/8/30/ferry-carrying-260-people-capsizes-off-northern-cyprus-coast?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-30T11:52:12.000Z"
+  },
+  {
+   "title": "Icelanders react as the EU referendum results come in",
+   "link": "http://www.euronews.com/video/2026/08/30/icelanders-react-as-the-eu-referendum-results-come-in",
+   "source": "Euronews",
+   "date": "2026-08-30T11:00:40.000Z"
+  },
+  {
+   "title": "Iceland votes against restarting talks on joining EU",
+   "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-30T10:49:11.000Z"
+  },
+  {
+   "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
+   "link": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
+   "source": "Hacker News",
+   "date": "2026-08-30T10:20:11.000Z"
+  },
+  {
+   "title": "Spark: Sparklines in your shell",
+   "link": "https://git.zx2c4.com/spark/about/",
+   "source": "Hacker News",
+   "date": "2026-08-30T10:02:16.000Z"
+  },
+  {
+   "title": "Latest news bulletin | August 30th, 2026 – Midday",
+   "link": "http://www.euronews.com/video/2026/08/30/latest-news-bulletin-august-30th-2026-midday",
+   "source": "Euronews",
+   "date": "2026-08-30T10:00:16.000Z"
+  },
+  {
+   "title": "Show HN: Bolnee-Chat – Self Hosted Chatbot Integration in Your Business Website",
+   "link": "https://github.com/AniketWathore/bolnee-chat",
+   "source": "Hacker News",
+   "date": "2026-08-30T09:56:05.000Z"
+  },
+  {
+   "title": "Everyone Should Build Their Own Network Stack",
+   "link": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+   "source": "Hacker News",
+   "date": "2026-08-30T09:52:15.000Z"
+  },
+  {
+   "title": "Brits would quite like their private messages to stay private",
+   "link": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+   "source": "Hacker News",
+   "date": "2026-08-30T09:26:08.000Z"
+  },
+  {
+   "title": "Zambian opposition leader charged with treason",
+   "link": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-30T09:08:23.000Z"
+  },
+  {
+   "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+   "link": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+   "source": "Hacker News",
+   "date": "2026-08-30T08:51:39.000Z"
+  },
+  {
+   "title": "Nepal warns of more possible floods as communities grapple with devastation and death toll rises",
+   "link": "http://www.euronews.com/2026/08/30/nepal-warns-of-more-possible-floods-as-communities-grapple-with-devastation",
+   "source": "Euronews",
+   "date": "2026-08-30T07:42:29.000Z"
   },
   {
    "title": "Humanitarian crisis worsening in refuge for civilians fleeing Sudan’s civil war",
    "link": "https://www.theguardian.com/world/2026/aug/30/humanitarian-crisis-worsening-refuge-civilians-sudan-el-obeid",
    "source": "Guardian World",
    "date": "2026-08-30T06:00:48.000Z"
-  },
-  {
-   "title": "Hrgovic wins IBF world heavyweight boxing title as Itauma hospitalised",
-   "link": "https://www.aljazeera.com/sports/2026/8/30/hrgovic-wins-ibf-world-heavyweight-boxing-title-as-itauma-hospitalised?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-30T05:58:28.000Z"
-  },
-  {
-   "title": "Mapping the Iran war’s strikes on Gulf energy – and what comes next for oil",
-   "link": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-30T05:09:11.000Z"
   },
   {
    "title": "Latest news bulletin | August 30th, 2026 – Morning",
@@ -38,73 +134,7 @@
    "date": "2026-08-30T04:59:56.000Z"
   },
   {
-   "title": "US police officer pulls hair, throws punches during arrest in Arkansas",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/us-police-officer-pulls-hair-throws-punches-during-arrest-in-arkansas?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-30T04:50:17.000Z"
-  },
-  {
-   "title": "Protests as India’s Hindu nationalists take centre stage in New York",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/protests-as-indias-hindu-nationalists-take-centre-stage-in-new-york?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-30T04:31:06.000Z"
-  },
-  {
-   "title": "Air raids, conscripts and China: How Myanmar’s military is regaining ground",
-   "link": "https://www.aljazeera.com/news/2026/8/30/air-raids-conscripts-and-china-how-myanmars-military-is-regaining-ground?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-30T04:28:10.000Z"
-  },
-  {
-   "title": "Sudanese repair roads by hand in Darfur to improve emergency access",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/30/sudanese-repair-roads-by-hand-in-darfur-to-improve-emergency-access?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-30T04:05:04.000Z"
-  },
-  {
-   "title": "Iceland EU referendum on a knife edge as counting continues",
-   "link": "https://www.bbc.co.uk/news/articles/c70le8ed1plo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-30T03:57:01.000Z"
-  },
-  {
-   "title": "California lawmakers unanimously pass Linux exemption from age-verification law",
-   "link": "https://www.tomshardware.com/software/linux/california-lawmakers-unanimously-pass-linux-exemption-from-age-verification-law-software-distributed-under-the-gpl-mit-bsd-and-apache-licenses-are-exempt",
-   "source": "Hacker News",
-   "date": "2026-08-30T03:15:36.000Z"
-  },
-  {
-   "title": "Algorithmic rent-pricing litigation expands under new state and local laws",
-   "link": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
-   "source": "Hacker News",
-   "date": "2026-08-30T02:25:32.000Z"
-  },
-  {
-   "title": "FreeCORE TrueNAS Core – Continued",
-   "link": "https://freecore.org/",
-   "source": "Hacker News",
-   "date": "2026-08-30T01:31:32.000Z"
-  },
-  {
-   "title": "Benjamin Franklin's Alter Egos Gave Him the Most Freedom",
-   "link": "https://www.smithsonianmag.com/history/among-all-great-things-benjamin-franklin-invented-discovered-alter-egos-gave-him-most-freedom-180988824/",
-   "source": "Hacker News",
-   "date": "2026-08-30T01:09:15.000Z"
-  },
-  {
-   "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-   "link": "https://github.com/mk6i/open-oscar-server",
-   "source": "Hacker News",
-   "date": "2026-08-30T00:33:35.000Z"
-  },
-  {
-   "title": "Bug Blindness",
-   "link": "https://danluu.com/bug-blind/",
-   "source": "Hacker News",
-   "date": "2026-08-30T00:21:40.000Z"
-  },
-  {
-   "title": "Canada installs large Lake Ontario sign in latest jab at US",
+   "title": "Large Lake Ontario sign installed in Canada in latest jab at US",
    "link": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-30T00:17:25.000Z"
@@ -122,40 +152,10 @@
    "date": "2026-08-29T16:00:29.000Z"
   },
   {
-   "title": "Music, lights and drones: Uzbekistan celebrates 35 years of independence",
-   "link": "http://www.euronews.com/video/2026/08/29/music-lights-and-drones-uzbekistan-celebrates-35-years-of-independence",
-   "source": "Euronews",
-   "date": "2026-08-29T15:05:55.000Z"
-  },
-  {
-   "title": "Kazakhstan’s government steps down as newly elected Kurultai holds first session",
-   "link": "http://www.euronews.com/2026/08/29/kazakhstans-government-steps-down-as-newly-elected-kurultai-holds-first-session",
-   "source": "Euronews",
-   "date": "2026-08-29T14:32:58.000Z"
-  },
-  {
-   "title": "Hundreds of foreign nationals among the missing following deadly Nepal floods",
-   "link": "http://www.euronews.com/2026/08/29/hundreds-of-foreign-nationals-among-the-missing-following-deadly-nepal-floods",
-   "source": "Euronews",
-   "date": "2026-08-29T14:17:21.000Z"
-  },
-  {
-   "title": "Uzbekistan marks 35 years of independence as president outlines plans for next decade",
-   "link": "http://www.euronews.com/2026/08/29/uzbekistan-marks-35-years-of-independence-as-president-outlines-plans-for-next-decade",
-   "source": "Euronews",
-   "date": "2026-08-29T11:56:40.000Z"
-  },
-  {
    "title": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
    "link": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
    "source": "Guardian World",
    "date": "2026-08-29T10:00:24.000Z"
-  },
-  {
-   "title": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
-   "link": "https://www.bbc.co.uk/news/articles/cx2z415w2gpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-29T03:54:11.000Z"
   },
   {
    "title": "Egyptian queen’s 673-diamond necklace stolen in Vienna smash-and-grab raid",

@@ -1,53 +1,83 @@
 {
- "updated": "2026-08-31T20:05:37.615Z",
+ "updated": "2026-08-31T23:51:18.708Z",
  "items": [
   {
-   "title": "Far-right Israeli Minister Ben-Gvir and settlers storm Al-Aqsa Mosque",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/far-right-israeli-minister-ben-gvir-and-settlers-storm-al-aqsa-mosque?traffic_source=rss",
+   "title": "US Army Secretary Daniel Driscoll submits resignation, media reports say",
+   "link": "https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-08-31T19:30:46.000Z"
+   "date": "2026-08-31T23:23:00.000Z"
   },
   {
-   "title": "Israel’s Ben-Gvir storms Al-Aqsa mosque in occupied East Jerusalem",
-   "link": "https://www.aljazeera.com/news/2026/8/31/israeli-hardliner-storms-al-aqsa-mosque-in-occupied-east-jerusalem?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-31T19:25:45.000Z"
+   "title": "Run macOS Software on Linux",
+   "link": "https://www.darlinghq.org/",
+   "source": "Hacker News",
+   "date": "2026-08-31T22:53:45.000Z"
   },
   {
-   "title": "Top US general says no plans to send troops to polls for November elections",
-   "link": "https://www.aljazeera.com/news/2026/8/31/top-us-general-says-no-plans-to-send-troops-to-polls-for-november-elections?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-31T19:20:28.000Z"
+   "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
+   "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-08-31T22:38:24.000Z"
   },
   {
-   "title": "Firecracker factory blast in India kills 8 children",
-   "link": "https://www.aljazeera.com/news/2026/8/31/firecracker-factory-blast-in-india-kills-8-children?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-31T18:44:43.000Z"
+   "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+   "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+   "source": "Hacker News",
+   "date": "2026-08-31T22:32:22.000Z"
   },
   {
-   "title": "‘Let Data Reign’: Trump decries opposition to data centres in US",
-   "link": "https://www.aljazeera.com/news/2026/8/31/let-data-reign-trump-decries-opposition-to-data-centres-in-us?traffic_source=rss",
+   "title": "Three minors killed in Colombia armed group crackdown",
+   "link": "https://www.aljazeera.com/news/2026/8/31/three-minors-killed-in-colombia-armed-group-crackdown?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-08-31T18:42:27.000Z"
+   "date": "2026-08-31T22:30:23.000Z"
   },
   {
-   "title": "Sony, Warner Music sue Anthropic, saying it pirated songs to train its AI",
-   "link": "https://www.aljazeera.com/economy/2026/8/31/sony-warner-music-sue-anthropic-saying-it-pirated-songs-to-train-its-ai?traffic_source=rss",
+   "title": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-08-31T18:42:08.000Z"
+   "date": "2026-08-31T22:16:18.000Z"
+  },
+  {
+   "title": "White House construction on $400m ballroom can go on, says US Supreme Court",
+   "link": "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-31T22:08:37.000Z"
+  },
+  {
+   "title": "Poland opens terror probe into fire at factory supplying Ukraine drones",
+   "link": "https://www.aljazeera.com/news/2026/8/31/poland-opens-terror-probe-into-fire-at-drone-factory?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-31T21:24:15.000Z"
+  },
+  {
+   "title": "Arsenal edge past troubled Aston Villa 1-0 as Saka scores only goal",
+   "link": "https://www.aljazeera.com/sports/2026/8/31/arsenal-edge-past-troubled-aston-villa-1-0-as-saka-scores-only-goal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-08-31T21:21:20.000Z"
+  },
+  {
+   "title": "How we configured OpenTelemetry logs in Rails",
+   "link": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
+   "source": "Hacker News",
+   "date": "2026-08-31T21:12:22.000Z"
+  },
+  {
+   "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+   "link": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+   "source": "Hacker News",
+   "date": "2026-08-31T21:10:58.000Z"
+  },
+  {
+   "title": "Autonomous (YC F25) is hiring engineers",
+   "link": "https://news.ycombinator.com/item?id=49514781",
+   "source": "Hacker News",
+   "date": "2026-08-31T21:00:09.000Z"
   },
   {
    "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
    "link": "https://www.youtube.com/watch?v=3YtygAx_C6A",
    "source": "Hacker News",
    "date": "2026-08-31T18:21:33.000Z"
-  },
-  {
-   "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-   "link": "https://jobs.ashbyhq.com/workweave",
-   "source": "Hacker News",
-   "date": "2026-08-31T18:15:26.000Z"
   },
   {
    "title": "Eurasian nations gather in Bishkek to forge stronger ties, new alliances",
@@ -62,34 +92,10 @@
    "date": "2026-08-31T17:54:23.000Z"
   },
   {
-   "title": "Kids These Days",
-   "link": "https://smallpotatoes.paulbloom.net/p/kids-these-days",
-   "source": "Hacker News",
-   "date": "2026-08-31T17:50:37.000Z"
-  },
-  {
    "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
    "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-31T17:30:47.000Z"
-  },
-  {
-   "title": "'Stunning' percolation proof solves decades-old puzzle about phase transitions",
-   "link": "https://www.quantamagazine.org/stunning-percolation-proof-solves-decades-old-puzzle-about-phase-transitions-20260831/",
-   "source": "Hacker News",
-   "date": "2026-08-31T17:22:43.000Z"
-  },
-  {
-   "title": "Konrad Zuse Museum shutting down due to lack of funding",
-   "link": "https://www.heise.de/en/news/Zuse-Computer-Museum-ZCOM-in-Hoyerswerda-faces-closure-11344513.html",
-   "source": "Hacker News",
-   "date": "2026-08-31T16:52:35.000Z"
-  },
-  {
-   "title": "I turned my security cameras into an automatic bird identification system",
-   "link": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
-   "source": "Hacker News",
-   "date": "2026-08-31T16:47:11.000Z"
   },
   {
    "title": "Algerian president seeks to impose death penalty on arsonists",
@@ -150,12 +156,6 @@
    "link": "https://www.theguardian.com/world/2026/aug/31/countries-legally-obliged-consider-slavery-reparations-un-committee",
    "source": "Guardian World",
    "date": "2026-08-31T11:54:16.000Z"
-  },
-  {
-   "title": "The jury's options in Lindsay Clancy's murder trial",
-   "link": "https://www.bbc.co.uk/news/articles/c93vgv4kr49o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-31T11:53:21.000Z"
   },
   {
    "title": "Morocco not to blame for Ceuta border breach, says Spanish PM",

@@ -1,47 +1,95 @@
 {
- "updated": "2026-09-01T18:31:29.437Z",
+ "updated": "2026-09-01T21:47:05.924Z",
  "items": [
   {
-   "title": "Nepal rescuers race to reach 900 missing hydropower workers",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/nepal-rescuers-race-to-reach-900-missing-hydropower-workers?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-01T18:18:16.000Z"
-  },
-  {
-   "title": "Deep-sea search begins for 20 people missing in Cyprus ferry disaster",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deep-sea-search-begins-for-20-people-missing-in-cyprus-ferry-disaster?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-01T18:15:56.000Z"
-  },
-  {
-   "title": "As Michigan Senate race heats up, Vance calls El-Sayed 'evil'",
-   "link": "https://www.bbc.co.uk/news/articles/cn9w39py48xo?at_medium=RSS&at_campaign=rss",
+   "title": "US strikes Iran as state media reports four killed at wedding party",
+   "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-09-01T18:06:58.000Z"
+   "date": "2026-09-01T21:32:23.000Z"
   },
   {
-   "title": "UEFA's Champions League draw creates unfair clusters; a Cayley graph fixes it",
-   "link": "https://sariyuce.com/blog/2026/UEFA-Draw/",
-   "source": "Hacker News",
-   "date": "2026-09-01T17:57:09.000Z"
-  },
-  {
-   "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-   "link": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
-   "source": "Hacker News",
-   "date": "2026-09-01T17:53:53.000Z"
-  },
-  {
-   "title": "US health authorities contradict state officials on measles-related deaths",
-   "link": "https://www.aljazeera.com/news/2026/9/1/us-health-authorities-contradict-state-officials-on-measles-related-deaths?traffic_source=rss",
+   "title": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
+   "link": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-01T17:48:28.000Z"
+   "date": "2026-09-01T21:28:00.000Z"
   },
   {
-   "title": "The creator of Jujutsu has joined ERSC",
-   "link": "https://ersc.io/blog/martin-joins-ersc",
+   "title": "Germany says Russia behind Leipzig airport drone attack",
+   "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-01T21:05:22.000Z"
+  },
+  {
+   "title": "Zelenskyy warns airlines as Ukrainian drones target Russian airspace",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/zelenskyy-warns-airlines-as-ukrainian-drones-target-russian-airspace?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-01T21:03:45.000Z"
+  },
+  {
+   "title": "Deadly car bomb attack at Colombia police station",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/deadly-car-bomb-attack-at-colombia-police-station?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-01T21:01:10.000Z"
+  },
+  {
+   "title": "Palestinians mourn children killed in Israeli airstrikes on Gaza City",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/palestinians-mourn-children-killed-in-israeli-airstrikes-on-gaza-city?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-01T20:59:43.000Z"
+  },
+  {
+   "title": "Show HN: HN Match Maker – Matching \"Who Wants to Be Hired?\" With \"Who's Hiring?\"",
+   "link": "https://hnmatchmaker.com/",
    "source": "Hacker News",
-   "date": "2026-09-01T17:46:21.000Z"
+   "date": "2026-09-01T20:53:35.000Z"
+  },
+  {
+   "title": "Police arrest 34 after deadly gang shootout in eastern Netherlands",
+   "link": "https://www.aljazeera.com/news/2026/9/1/police-arrest-34-after-deadly-gang-shootout-in-eastern-netherlands?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-01T20:45:53.000Z"
+  },
+  {
+   "title": "UN slashes food aid for occupied West Bank and Gaza amid funding shortfall",
+   "link": "https://www.aljazeera.com/news/2026/9/1/un-slashes-food-aid-for-occupied-west-bank-and-gaza-amid-funding-shortfall?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-01T20:40:55.000Z"
+  },
+  {
+   "title": "Dyson CameraJet electric toothbrush",
+   "link": "https://www.dyson.com/oral-care/electric-toothbrush/camerajet/ceramic-ultra-blue",
+   "source": "Hacker News",
+   "date": "2026-09-01T20:39:19.000Z"
+  },
+  {
+   "title": "Path to Astra: critical capabilities and frontier safeguards",
+   "link": "https://openai.com/index/path-to-astra/",
+   "source": "Hacker News",
+   "date": "2026-09-01T20:20:41.000Z"
+  },
+  {
+   "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+   "link": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+   "source": "Hacker News",
+   "date": "2026-09-01T20:19:11.000Z"
+  },
+  {
+   "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+   "link": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+   "source": "Hacker News",
+   "date": "2026-09-01T20:07:57.000Z"
+  },
+  {
+   "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
+   "link": "https://www.bbc.co.uk/news/articles/c9qr4gp8qy9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-01T20:05:23.000Z"
+  },
+  {
+   "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+   "link": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+   "source": "Hacker News",
+   "date": "2026-09-01T19:55:47.000Z"
   },
   {
    "title": "US military says it struck IRGC targets in Iran after attacks on shipping in Strait of Hormuz",
@@ -50,58 +98,10 @@
    "date": "2026-09-01T17:40:23.000Z"
   },
   {
-   "title": "The US military began striking targets in Iran, CENTCOM says",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/the-us-military-began-striking-targets-in-iran-centcom-says?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-01T17:39:29.000Z"
-  },
-  {
-   "title": "John Ternus succeeds Tim Cook as Apple CEO after 15 years",
-   "link": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-succeeds-tim-cook-as-apple-ceo-after-15-years?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-01T17:36:33.000Z"
-  },
-  {
-   "title": "Launch HN: Nori Robotics (YC S26) – A low-cost humanoid robot for development",
-   "link": "https://www.norirobotics.com/",
-   "source": "Hacker News",
-   "date": "2026-09-01T17:35:10.000Z"
-  },
-  {
-   "title": "Pitso Mosimane appointed by South Africa ahead of AFCON qualifiers",
-   "link": "https://www.aljazeera.com/sports/2026/9/1/pitso-mosimane-appointed-by-south-africa-ahead-of-afcon-qualifiers?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-01T17:25:45.000Z"
-  },
-  {
-   "title": "Quill (YC W20) Is Hiring a Fullstack SWE",
-   "link": "https://news.ycombinator.com/item?id=49524704",
-   "source": "Hacker News",
-   "date": "2026-09-01T17:00:14.000Z"
-  },
-  {
-   "title": "Germany says Russia behind Leipzig airport drone attack",
-   "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-01T16:53:40.000Z"
-  },
-  {
    "title": "SCO challenges West as diverse group of nations pursues multipolar future",
    "link": "http://www.euronews.com/2026/09/01/sco-challenges-west-as-diverse-group-of-nations-pursues-multipolar-future",
    "source": "Euronews",
    "date": "2026-09-01T16:49:51.000Z"
-  },
-  {
-   "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-   "link": "https://github.com/carloslfu/slotstream",
-   "source": "Hacker News",
-   "date": "2026-09-01T16:42:46.000Z"
-  },
-  {
-   "title": "Pistol in a lake gives hope for French cold case",
-   "link": "https://www.bbc.co.uk/news/articles/c74eklrm344o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-01T16:33:29.000Z"
   },
   {
    "title": "River water smashed into tunnel and chased me for 20 minutes, Nepal worker tells BBC",

@@ -1,83 +1,107 @@
 {
- "updated": "2026-08-31T23:51:18.708Z",
+ "updated": "2026-09-01T05:09:14.198Z",
  "items": [
   {
-   "title": "US Army Secretary Daniel Driscoll submits resignation, media reports say",
-   "link": "https://www.aljazeera.com/news/2026/8/31/us-army-secretary-daniel-driscoll-submits-resignation-media-reports-say?traffic_source=rss",
+   "title": "One person killed as woman randomly stabs two people in Times Square before being fatally shot by police",
+   "link": "http://www.euronews.com/2026/09/01/one-person-killed-as-woman-randomly-stabs-two-people-in-times-square-before-being-fatally-",
+   "source": "Euronews",
+   "date": "2026-09-01T04:33:58.000Z"
+  },
+  {
+   "title": "Former gang leader found guilty of Tupac Shakur’s 1996 murder",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-tupac-murder-verdict-sv?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-08-31T23:23:00.000Z"
+   "date": "2026-09-01T04:29:23.000Z"
   },
   {
-   "title": "Run macOS Software on Linux",
-   "link": "https://www.darlinghq.org/",
-   "source": "Hacker News",
-   "date": "2026-08-31T22:53:45.000Z"
+   "title": "Algeria’s president seeks death penalty for those who start forest fires",
+   "link": "https://www.aljazeera.com/news/2026/9/1/algerias-president-seeks-death-penalty-for-those-who-start-forest-fires?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-01T04:24:28.000Z"
   },
   {
-   "title": "US Supreme Court clears way for Trump to keep building White House ballroom",
-   "link": "https://www.bbc.co.uk/news/articles/c9w457e7ydlo?at_medium=RSS&at_campaign=rss",
+   "title": "Shein shares fall in long-awaited stock market debut",
+   "link": "https://www.bbc.co.uk/news/articles/c3v0qrz7z25o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-08-31T22:38:24.000Z"
+   "date": "2026-09-01T04:15:15.000Z"
   },
   {
-   "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
-   "link": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+   "title": "At least four people killed as Russia launches nighttime ballistic missile attacks targeting Ukraine's capital",
+   "link": "http://www.euronews.com/2026/09/01/at-least-four-people-killed-as-russia-launches-nighttime-ballistic-missile-attacks-targeti",
+   "source": "Euronews",
+   "date": "2026-09-01T04:11:13.000Z"
+  },
+  {
+   "title": "Restroom Archive",
+   "link": "https://restroomarchive.com",
    "source": "Hacker News",
-   "date": "2026-08-31T22:32:22.000Z"
+   "date": "2026-09-01T03:23:48.000Z"
   },
   {
-   "title": "Three minors killed in Colombia armed group crackdown",
-   "link": "https://www.aljazeera.com/news/2026/8/31/three-minors-killed-in-colombia-armed-group-crackdown?traffic_source=rss",
+   "title": "John Ternus to lead Apple into the age of AI",
+   "link": "https://www.aljazeera.com/economy/2026/9/1/john-ternus-to-lead-apple-into-the-age-of-ai?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-08-31T22:30:23.000Z"
+   "date": "2026-09-01T03:20:25.000Z"
   },
   {
-   "title": "JERUSALEM DAILY: JOURNALISTS ATTACKED",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/jerusalem-daily-journalists-attacked?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-31T22:16:18.000Z"
-  },
-  {
-   "title": "White House construction on $400m ballroom can go on, says US Supreme Court",
-   "link": "https://www.aljazeera.com/news/2026/8/31/white-house-construction-on-400m-ballroom-can-go-on-says-us-supreme-court?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-31T22:08:37.000Z"
-  },
-  {
-   "title": "Poland opens terror probe into fire at factory supplying Ukraine drones",
-   "link": "https://www.aljazeera.com/news/2026/8/31/poland-opens-terror-probe-into-fire-at-drone-factory?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-31T21:24:15.000Z"
-  },
-  {
-   "title": "Arsenal edge past troubled Aston Villa 1-0 as Saka scores only goal",
-   "link": "https://www.aljazeera.com/sports/2026/8/31/arsenal-edge-past-troubled-aston-villa-1-0-as-saka-scores-only-goal?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-08-31T21:21:20.000Z"
-  },
-  {
-   "title": "How we configured OpenTelemetry logs in Rails",
-   "link": "https://www.sixpatterns.com/blog/how-we-configured-opentelemetry-logs-in-rails",
+   "title": "Google Antigravity introduces Boost deep reasoning (/boost)",
+   "link": "https://antigravity.google/docs/boost/",
    "source": "Hacker News",
-   "date": "2026-08-31T21:12:22.000Z"
+   "date": "2026-09-01T03:05:55.000Z"
   },
   {
-   "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-   "link": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+   "title": "Fastpotify",
+   "link": "https://fastpotify.rocks/",
    "source": "Hacker News",
-   "date": "2026-08-31T21:10:58.000Z"
+   "date": "2026-09-01T02:52:14.000Z"
   },
   {
-   "title": "Autonomous (YC F25) is hiring engineers",
-   "link": "https://news.ycombinator.com/item?id=49514781",
+   "title": "Ex-Crips leader found guilty in 1996 murder of rapper Tupac Shakur",
+   "link": "https://www.bbc.com/news/articles/c24j5192j7jo",
    "source": "Hacker News",
-   "date": "2026-08-31T21:00:09.000Z"
+   "date": "2026-09-01T02:40:13.000Z"
   },
   {
-   "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-   "link": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+   "title": "What it was like inside court for Tupac Shakur’s murder trial verdict",
+   "link": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-01T02:30:45.000Z"
+  },
+  {
+   "title": "RotaryCell: Making an unmodified rotary phone work over LTE with an ESP32-S3",
+   "link": "https://github.com/fregacmols/RotaryCell",
    "source": "Hacker News",
-   "date": "2026-08-31T18:21:33.000Z"
+   "date": "2026-09-01T02:29:23.000Z"
+  },
+  {
+   "title": "US brings back Russia’s Siluanov to G20 finance talks, angering Europe",
+   "link": "https://www.aljazeera.com/news/2026/9/1/us-brings-back-russias-siluanov-to-g20-finance-talks-angering-europe?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-01T02:23:03.000Z"
+  },
+  {
+   "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
+   "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-01T02:18:26.000Z"
+  },
+  {
+   "title": "Toxic haze from Indonesian fires chokes Malaysia’s Sarawak",
+   "link": "https://www.aljazeera.com/news/2026/9/1/toxic-haze-from-indonesian-fires-chokes-malaysian-borneo?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-01T02:06:01.000Z"
+  },
+  {
+   "title": "DoltLite: A SQLite fork with Git-style version control, built with 2k agent PRs",
+   "link": "https://www.dolthub.com/blog/2026-08-31-doltlite-beta/",
+   "source": "Hacker News",
+   "date": "2026-09-01T01:25:40.000Z"
+  },
+  {
+   "title": "New York police kill knife-wielding woman in Times Square",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/09-01-26-times-square-stabbing-minisv?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-01T01:19:34.000Z"
   },
   {
    "title": "Eurasian nations gather in Bishkek to forge stronger ties, new alliances",
@@ -90,12 +114,6 @@
    "link": "https://www.bbc.co.uk/news/articles/crr451lpl4no?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-31T17:54:23.000Z"
-  },
-  {
-   "title": "Nepal rescuers blast hillside in search of hydropower workers as families wait anxiously",
-   "link": "https://www.bbc.co.uk/news/articles/c5ylvgq9q71o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-31T17:30:47.000Z"
   },
   {
    "title": "Algerian president seeks to impose death penalty on arsonists",
@@ -122,34 +140,16 @@
    "date": "2026-08-31T14:50:36.000Z"
   },
   {
-   "title": "US and Iran trade strikes for first time in weeks",
-   "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-08-31T13:47:30.000Z"
-  },
-  {
    "title": "South African airline defends dramatic low-level flyby before rugby union clash",
    "link": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
    "source": "Guardian World",
    "date": "2026-08-31T13:44:39.000Z"
   },
   {
-   "title": "Buenos Aires welcomes 800 couples for Tango BA World Championship",
-   "link": "http://www.euronews.com/video/2026/08/31/buenos-aires-welcomes-800-couples-for-tango-ba-world-championship",
-   "source": "Euronews",
-   "date": "2026-08-31T13:24:32.000Z"
-  },
-  {
    "title": "Man arrested after Swiss rave shooting that killed woman",
    "link": "https://www.bbc.co.uk/news/articles/cddv92n194vo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-08-31T13:11:35.000Z"
-  },
-  {
-   "title": "Exclusive: US naval blockade is paralysing daily life, Iranians tell Euronews",
-   "link": "http://www.euronews.com/2026/08/31/exclusive-us-naval-blockade-is-paralysing-daily-life-iranians-tell-euronews",
-   "source": "Euronews",
-   "date": "2026-08-31T12:01:14.000Z"
   },
   {
    "title": "Countries legally obliged to consider slavery reparations, says UN committee",

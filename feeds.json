@@ -1,11 +1,77 @@
 {
- "updated": "2026-09-02T00:14:56.511Z",
+ "updated": "2026-09-02T04:40:49.182Z",
  "items": [
   {
-   "title": "Iran retaliates after US strikes kills four at wedding party, state media reports",
+   "title": "Tyler Robinson pleads not guilty as judge clears path for death penalty in Charlie Kirk assassination case",
+   "link": "http://www.euronews.com/2026/09/02/tyler-robinson-pleads-not-guilty-as-judge-clears-path-for-death-penalty-in-charlie-kirk-as",
+   "source": "Euronews",
+   "date": "2026-09-02T04:22:51.000Z"
+  },
+  {
+   "title": "Tunisia’s civil society faces growing pressure as crackdown widens",
+   "link": "https://www.aljazeera.com/news/2026/9/2/tunisias-civil-society-faces-growing-pressure-as-crackdown-widens?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-02T04:01:08.000Z"
+  },
+  {
+   "title": "WebFPGA",
+   "link": "https://webfpga.io/",
+   "source": "Hacker News",
+   "date": "2026-09-02T03:54:58.000Z"
+  },
+  {
+   "title": "Prominent pro-democracy Hong Kong activist Joshua Wong pleads guilty in second national security law case",
+   "link": "http://www.euronews.com/2026/09/02/prominent-pro-democracy-hong-kong-activist-joshua-wong-pleads-guilty-in-second-national-se",
+   "source": "Euronews",
+   "date": "2026-09-02T03:52:04.000Z"
+  },
+  {
+   "title": "‘Really terrified’: Milo Yiannopoulos speaks out after deportation from US",
+   "link": "https://www.aljazeera.com/news/2026/9/2/really-terrified-milo-yiannopoulos-speaks-out-after-deportation-from-us?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-02T03:32:23.000Z"
+  },
+  {
+   "title": "US strikes on Iran kill child at wedding ceremony",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-02T03:27:26.000Z"
+  },
+  {
+   "title": "Apple changes name of Lake Ontario to ‘Lake America’ in maps app",
+   "link": "https://www.aljazeera.com/news/2026/9/2/apple-changes-name-of-lake-ontario-to-lake-america-in-maps-app?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-02T03:22:41.000Z"
+  },
+  {
+   "title": "Iran retaliates after US strikes kill four at wedding party, state media reports",
    "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-09-02T00:13:26.000Z"
+   "date": "2026-09-02T03:19:44.000Z"
+  },
+  {
+   "title": "Honduran court drops case against ex-President Hernandez after Trump pardon",
+   "link": "https://www.aljazeera.com/news/2026/9/2/honduran-court-drops-case-against-ex-president-hernandez-after-trump-pardon?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-02T02:34:52.000Z"
+  },
+  {
+   "title": "True Rate of Unemployment",
+   "link": "https://www.lisep.org/tru",
+   "source": "Hacker News",
+   "date": "2026-09-02T02:21:10.000Z"
+  },
+  {
+   "title": "Top US lawmaker Mike Johnson says lying is part of some Iranians’ religion",
+   "link": "https://www.aljazeera.com/news/2026/9/2/top-us-lawmaker-mike-johnson-says-lying-is-part-of-some-iranians-religion?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-02T02:20:45.000Z"
+  },
+  {
+   "title": "Germany says Russia behind Leipzig airport drone attack",
+   "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-02T01:59:54.000Z"
   },
   {
    "title": "The efficient frontier of LLM inference",
@@ -14,34 +80,10 @@
    "date": "2026-09-01T23:48:05.000Z"
   },
   {
-   "title": "Improving our alignment and security efforts",
-   "link": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+   "title": "FBI Probes Service Selling 153M+ Drivers Licenses",
+   "link": "https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/",
    "source": "Hacker News",
-   "date": "2026-09-01T23:12:45.000Z"
-  },
-  {
-   "title": "Fernandez transfers to Man City from Chelsea in joint British record fee",
-   "link": "https://www.aljazeera.com/sports/2026/9/1/fernandez-transfers-to-man-city-from-chelsea-in-joint-british-record-fee?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-01T23:00:30.000Z"
-  },
-  {
-   "title": "Cisco accused of fostering a hostile workplace for Muslim and Arab employees",
-   "link": "https://www.aljazeera.com/economy/2026/9/1/cisco-accused-of-fostering-a-hostile-workplace-for-muslim-and-arab-employees?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-01T22:54:04.000Z"
-  },
-  {
-   "title": "What's within a 10-minute walk in 50 European cities",
-   "link": "https://strado.info/",
-   "source": "Hacker News",
-   "date": "2026-09-01T22:45:54.000Z"
-  },
-  {
-   "title": "US House passes funding bill to avert government shutdown ahead of midterms",
-   "link": "https://www.aljazeera.com/news/2026/9/1/us-house-passes-funding-bill-to-avert-government-shutdown-ahead-of-midterms?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-01T22:44:28.000Z"
+   "date": "2026-09-01T23:17:43.000Z"
   },
   {
    "title": "My local model setup on an M4 Pro Mac Mini",
@@ -50,40 +92,10 @@
    "date": "2026-09-01T22:30:52.000Z"
   },
   {
-   "title": "US urges G20 to cut trade imbalances, focus on China",
-   "link": "https://www.aljazeera.com/economy/2026/9/1/us-urges-g20-to-cut-trade-imbalances-focus-on-china?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-01T22:21:51.000Z"
-  },
-  {
    "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
    "link": "https://masteranza.github.io/weedout/",
    "source": "Hacker News",
    "date": "2026-09-01T22:06:57.000Z"
-  },
-  {
-   "title": "US energy secretary will travel to Venezuela to unveil oil arrangement",
-   "link": "https://www.aljazeera.com/news/2026/9/1/us-energy-secretary-will-travel-to-venezuela-to-unveil-oil-arrangement?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-01T21:54:14.000Z"
-  },
-  {
-   "title": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
-   "link": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-01T21:28:00.000Z"
-  },
-  {
-   "title": "Fluorescent lamps (don't) have ears",
-   "link": "https://blog.coredump.cx/p/fluorescent-lamps-dont-have-ears",
-   "source": "Hacker News",
-   "date": "2026-09-01T21:19:10.000Z"
-  },
-  {
-   "title": "Germany says Russia behind Leipzig airport drone attack",
-   "link": "https://www.bbc.co.uk/news/articles/c5ylm3m67n2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-01T21:05:22.000Z"
   },
   {
    "title": "Jurors in Lindsay Clancy trial deadlocked but judge asks them to keep trying",
@@ -132,18 +144,6 @@
    "link": "http://www.euronews.com/video/2026/09/01/nepal-families-post-photos-of-missing-relatives-on-kathmandu-hospital-wall",
    "source": "Euronews",
    "date": "2026-09-01T14:06:09.000Z"
-  },
-  {
-   "title": "Israeli airstrikes kill at least five palestinians in Gaza City",
-   "link": "http://www.euronews.com/video/2026/09/01/israeli-airstrikes-kill-at-least-five-palestinians-in-gaza-city",
-   "source": "Euronews",
-   "date": "2026-09-01T13:30:18.000Z"
-  },
-  {
-   "title": "Fake goods, real danger: the €83 billion business behind Europe's illicit trade",
-   "link": "http://www.euronews.com/2026/09/01/fake-goods-real-danger-the-83-billion-business-behind-europes-illicit-trade",
-   "source": "Euronews",
-   "date": "2026-09-01T13:00:36.000Z"
   },
   {
    "title": "'I've never been to Afghanistan': Six million deportees forced to start over under the Taliban",

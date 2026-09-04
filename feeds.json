@@ -1,32 +1,104 @@
 {
- "updated": "2026-09-04T00:06:47.281Z",
+ "updated": "2026-09-04T04:34:14.237Z",
  "items": [
   {
-   "title": "Are Trump’s AI videos just memes or psychological warfare?",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/are-trumps-ai-videos-just-memes-or-psychological-warfare?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-03T23:36:20.000Z"
+   "title": "Argentina to sanction oil firms as Falklands dispute with UK heats up",
+   "link": "https://www.bbc.co.uk/news/articles/clyk18g1l8ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-04T04:04:42.000Z"
   },
   {
-   "title": "Tunisia’s top court upholds conviction of opposition figures, activists",
-   "link": "https://www.aljazeera.com/news/2026/9/3/tunisias-top-court-upholds-conviction-of-opposition-figures-activists?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-03T23:23:26.000Z"
+   "title": "Trump administration pushes to remove tax exemptions for private universities with DEI policies",
+   "link": "http://www.euronews.com/2026/09/04/trump-administration-pushes-to-remove-tax-exemptions-for-private-universities-with-dei-pol",
+   "source": "Euronews",
+   "date": "2026-09-04T04:02:09.000Z"
   },
   {
-   "title": "DR Congo joins countries pledging embassy move to Jerusalem",
-   "link": "https://www.aljazeera.com/news/2026/9/3/dr-congo-joins-countries-pledging-embassy-move-to-jerusalem?traffic_source=rss",
+   "title": "Entertainment over policy? White House arcade games ignite backlash",
+   "link": "https://www.aljazeera.com/economy/2026/9/4/entertainment-over-policy-white-house-arcade-games-ignite-backlash?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-03T23:05:12.000Z"
+   "date": "2026-09-04T03:44:47.000Z"
   },
   {
-   "title": "Protecting Engineers' Skills in the AI Era",
-   "link": "https://spectrum.ieee.org/ai-engineer-skills",
+   "title": "Iran hits US military targets in the region as Washington probes deadly wedding strike",
+   "link": "http://www.euronews.com/2026/09/04/iran-hits-us-military-targets-in-the-region-as-washington-probes-deadly-wedding-strike",
+   "source": "Euronews",
+   "date": "2026-09-04T03:42:41.000Z"
+  },
+  {
+   "title": "Grep beats LSP? Why coding agents ignore your fancier tools",
+   "link": "https://www.agentconnect.md/blog/grep-beat-lsp-harness/",
    "source": "Hacker News",
-   "date": "2026-09-03T23:00:04.000Z"
+   "date": "2026-09-04T03:40:26.000Z"
   },
   {
-   "title": "GLP-1s Are Being Linked to Fewer Serious Infections, Including TB",
+   "title": "OpenAI unveils GPT‑6 Astra amid rising scrutiny and safety concerns",
+   "link": "https://www.aljazeera.com/economy/2026/9/4/openai-unveils-gpt-6-astra-amid-rising-scrutiny-and-safety?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-04T03:36:19.000Z"
+  },
+  {
+   "title": "A Mysterious Kidney Disease Has Arrived in Texas",
+   "link": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/",
+   "source": "Hacker News",
+   "date": "2026-09-04T02:54:16.000Z"
+  },
+  {
+   "title": "Missouri Supreme Court blocks Trump-backed map from November’s midterms",
+   "link": "https://www.aljazeera.com/news/2026/9/4/missouri-supreme-court-blocks-trump-backed-map-from-novembers-midterms?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-04T02:46:50.000Z"
+  },
+  {
+   "title": "From Hookswitch to Grave",
+   "link": "https://computer.rip/2026-06-14-hookswitch-to-grave.html",
+   "source": "Hacker News",
+   "date": "2026-09-04T02:40:12.000Z"
+  },
+  {
+   "title": "Why did Trump meet with anti-Zionist Jewish leaders?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/why-did-trump-meet-with-anti-zionist-jewish-leaders?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-04T02:21:20.000Z"
+  },
+  {
+   "title": "UN to vote on adopting new world map that shows Africa’s true scale",
+   "link": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
+   "source": "Guardian World",
+   "date": "2026-09-04T02:00:54.000Z"
+  },
+  {
+   "title": "Chile police and protesters clash outside far-right forum",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/chile-police-and-protesters-clash-outside-far-right-forum?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-04T01:54:57.000Z"
+  },
+  {
+   "title": "ICC leaders condemn efforts to erode international legal order",
+   "link": "https://www.aljazeera.com/news/2026/9/4/icc-leaders-condemn-efforts-to-erode-international-legal-order?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-04T01:51:34.000Z"
+  },
+  {
+   "title": "Project Xanadu: Even More Hindsight",
+   "link": "https://gwern.net/xanadu",
+   "source": "Hacker News",
+   "date": "2026-09-04T01:45:23.000Z"
+  },
+  {
+   "title": "Volkswagen board approves plan to cut another 50,000 jobs",
+   "link": "https://www.bbc.co.uk/news/articles/cx2z0kvy4n4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-04T01:20:32.000Z"
+  },
+  {
+   "title": "Tensions flare as judge declines to remove juror in Lindsay Clancy trial",
+   "link": "https://www.bbc.co.uk/news/articles/c7v4n7pv5epo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-04T00:54:46.000Z"
+  },
+  {
+   "title": "GLP-1s are being linked to fewer serious infections, including TB",
    "link": "https://gizmodo.com/ozempic-and-other-glp-1s-are-being-linked-to-fewer-serious-infections-including-tb-2000806796",
    "source": "Hacker News",
    "date": "2026-09-03T22:37:31.000Z"
@@ -44,58 +116,16 @@
    "date": "2026-09-03T22:19:59.000Z"
   },
   {
-   "title": "Why are people calling Venezuela oil deal a new form of US colonialism?",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/aje-onl-nf_us-venezuela-oil-deal_colonialism-030926?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-03T22:08:33.000Z"
-  },
-  {
-   "title": "Burnham, Macron talk border security and stronger Europe-UK ties",
-   "link": "https://www.aljazeera.com/news/2026/9/3/burnham-macron-talk-border-security-and-stronger-europe-uk-ties?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-03T21:40:42.000Z"
-  },
-  {
-   "title": "NYC’s AI ban through grade 8 sets stage for rest of US, experts say",
-   "link": "https://www.aljazeera.com/economy/2026/9/3/nycs-ai-ban-through-grade-8-sets-stage-for-rest-of-us-experts-say?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-03T21:32:55.000Z"
-  },
-  {
    "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
    "link": "https://armature.tech/blog/which-tools-coding-agents-install",
    "source": "Hacker News",
    "date": "2026-09-03T21:20:34.000Z"
   },
   {
-   "title": "Tasklet (YC P26) Is Hiring a Customer Success Engineer",
-   "link": "https://tasklet.ai/careers/customer-success-engineer",
-   "source": "Hacker News",
-   "date": "2026-09-03T21:01:10.000Z"
-  },
-  {
-   "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
-   "link": "https://arcprize.org/blog/astra",
-   "source": "Hacker News",
-   "date": "2026-09-03T19:45:00.000Z"
-  },
-  {
    "title": "Trump hints US may not back UK over Falkland Islands, citing lack of Iran support",
    "link": "http://www.euronews.com/2026/09/03/trump-hints-us-may-not-back-uk-over-falkland-islands-citing-lack-of-iran-support",
    "source": "Euronews",
    "date": "2026-09-03T19:33:25.000Z"
-  },
-  {
-   "title": "The asteroid currently hitting front end web development",
-   "link": "https://nolanlawson.com/2026/08/23/the-asteroid-currently-hitting-frontend-web-development/",
-   "source": "Hacker News",
-   "date": "2026-09-03T19:17:24.000Z"
-  },
-  {
-   "title": "Feminist activist and journalist Gloria Steinem dies, aged 92",
-   "link": "https://www.bbc.co.uk/news/articles/clyeq3ngwe4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-03T18:04:34.000Z"
   },
   {
    "title": "Two arrested after attack on defence companies in Munich",
@@ -110,40 +140,16 @@
    "date": "2026-09-03T16:17:29.000Z"
   },
   {
-   "title": "Trump hints US would not back UK over Falkland Islands due to lack of Iran war support",
-   "link": "https://www.bbc.co.uk/news/articles/c1kx4m70l4yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-03T16:16:49.000Z"
-  },
-  {
    "title": "Russians skewer authorities for ordering citizens to register their chicken",
    "link": "http://www.euronews.com/2026/09/03/russians-skewer-authorities-for-ordering-citizens-to-register-their-chicken",
    "source": "Euronews",
    "date": "2026-09-03T16:06:55.000Z"
   },
   {
-   "title": "Around 2,000 fall ill in Indonesia after eating free school meals",
-   "link": "https://www.bbc.co.uk/news/articles/cx2z7lz7777o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-03T15:48:06.000Z"
-  },
-  {
    "title": "Iranian café chain mogul jailed and stripped of assets for backing January protests",
    "link": "http://www.euronews.com/2026/09/03/iranian-cafe-chain-mogul-jailed-and-stripped-of-assets-for-backing-january-protests",
    "source": "Euronews",
    "date": "2026-09-03T15:43:48.000Z"
-  },
-  {
-   "title": "General charged over Kyiv children's hospital strike shot in Russia",
-   "link": "http://www.euronews.com/2026/09/03/general-charged-over-kyiv-childrens-hospital-strike-shot-in-russia",
-   "source": "Euronews",
-   "date": "2026-09-03T14:49:39.000Z"
-  },
-  {
-   "title": "Chilean penguins fitted with vests to protect healing wounds",
-   "link": "http://www.euronews.com/video/2026/09/03/chilean-penguins-fitted-with-vests-to-protect-healing-wounds",
-   "source": "Euronews",
-   "date": "2026-09-03T14:31:55.000Z"
   },
   {
    "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
@@ -174,12 +180,6 @@
    "link": "https://www.theguardian.com/environment/2026/sep/02/50-per-cent-world-farmers-poisoned-pesticides-every-year-experts",
    "source": "Guardian World",
    "date": "2026-09-02T06:00:25.000Z"
-  },
-  {
-   "title": "South African airline defends dramatic low-level flyby before rugby union clash",
-   "link": "https://www.theguardian.com/sport/2026/aug/31/south-african-airline-defends-dramatic-low-level-flyby-before-rugby-union-springboks-new-zealand",
-   "source": "Guardian World",
-   "date": "2026-08-31T13:44:39.000Z"
   }
  ]
 }

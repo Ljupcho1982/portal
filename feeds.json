@@ -1,95 +1,113 @@
 {
- "updated": "2026-09-04T14:22:19.110Z",
+ "updated": "2026-09-04T18:24:47.928Z",
  "items": [
+  {
+   "title": "Moment two workers are pulled alive from Nepal tunnel",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-two-workers-are-pulled-alive-from-nepal-tunnel?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-04T18:02:30.000Z"
+  },
+  {
+   "title": "Indonesia wildfires send toxic haze across Southeast Asia",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-indonesia-kalimantan-haze-borneo-wildfires-haze-id?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-04T17:38:48.000Z"
+  },
+  {
+   "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
+   "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+   "source": "Hacker News",
+   "date": "2026-09-04T17:29:22.000Z"
+  },
+  {
+   "title": "Yemen’s army says recaptured key territory as clashes with Houthis continue",
+   "link": "https://www.aljazeera.com/news/2026/9/4/yemens-army-says-recaptured-key-territory-as-clashes-with-houthis-continue?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-04T17:29:20.000Z"
+  },
+  {
+   "title": "Show HN: Open-Source eInk Bike Computer",
+   "link": "https://opentrailpaper.com",
+   "source": "Hacker News",
+   "date": "2026-09-04T17:18:08.000Z"
+  },
+  {
+   "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
+   "link": "https://twitter.com/ggerganov/status/2095897173376618881",
+   "source": "Hacker News",
+   "date": "2026-09-04T17:12:22.000Z"
+  },
+  {
+   "title": "UN votes to adopt new world map that shows Africa’s true scale",
+   "link": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
+   "source": "Guardian World",
+   "date": "2026-09-04T16:49:29.000Z"
+  },
   {
    "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
    "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-09-04T14:17:35.000Z"
+   "date": "2026-09-04T16:49:15.000Z"
   },
   {
-   "title": "Top Pentagon Official Contracted Personal Lawyer to Handle Minerals Deal",
-   "link": "https://prospect.org/2026/08/21/pentagon-minerals-deal-department-defense-cerberus-capital-alan-waldenberg-stephen-feinberg/",
+   "title": "Rescuers race to save 10-year-old Algerian boy trapped in deep well",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/rescuers-race-to-save10-year-old-algerian-boy-trapped-in-deep-well?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-04T16:48:50.000Z"
+  },
+  {
+   "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
+   "link": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
    "source": "Hacker News",
-   "date": "2026-09-04T13:54:26.000Z"
+   "date": "2026-09-04T16:46:59.000Z"
   },
   {
-   "title": "Colombian president posts video purporting to show 23 ‘neutralised’ guerrillas in body bags",
+   "title": "US adds 162,000 jobs in August, raising Fed rate hike expectations",
+   "link": "https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-04T16:31:20.000Z"
+  },
+  {
+   "title": "The number 10 shirt must not retire with Messi",
+   "link": "https://www.aljazeera.com/opinions/2026/9/4/the-number-10-shirt-must-not-retire-with-messi?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-04T16:31:15.000Z"
+  },
+  {
+   "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+   "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-04T16:30:50.000Z"
+  },
+  {
+   "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+   "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+   "source": "Hacker News",
+   "date": "2026-09-04T16:24:50.000Z"
+  },
+  {
+   "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+   "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-04T16:02:32.000Z"
+  },
+  {
+   "title": "deSEC – Free Secure DNS",
+   "link": "https://desec.io/",
+   "source": "Hacker News",
+   "date": "2026-09-04T15:38:58.000Z"
+  },
+  {
+   "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
+   "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-04T14:40:00.000Z"
+  },
+  {
+   "title": "Colombia president provokes disgust by posing with bodies of ‘terrorists’",
    "link": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
    "source": "Guardian World",
    "date": "2026-09-04T13:50:43.000Z"
-  },
-  {
-   "title": "Two Muslim women journalists allege police assault in India",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/two-muslim-women-journalists-allege-police-assault-in-india?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-04T13:37:43.000Z"
-  },
-  {
-   "title": "Philippine court orders arrest of VP Duterte over President Marcos threats",
-   "link": "https://www.aljazeera.com/news/2026/9/4/philippine-court-orders-arrest-of-vp-duterte-over-president-marcos-threats?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-04T13:35:55.000Z"
-  },
-  {
-   "title": "'People are going to get screwed' Pennsylvania voters unite against data centres",
-   "link": "http://www.ft.com/content/8252d574-ae2a-4403-9cf9-031295ba67f5",
-   "source": "Hacker News",
-   "date": "2026-09-04T13:33:01.000Z"
-  },
-  {
-   "title": "Ireland’s Katie Taylor eyes fairytale finish to trailblazing boxing career",
-   "link": "https://www.aljazeera.com/sports/2026/9/4/irelands-katie-taylor-eyes-fairytale-finish-to-trailblazing-boxing-career?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-04T13:30:42.000Z"
-  },
-  {
-   "title": "Conflicts and extreme weather pushing global food prices higher, warns UN",
-   "link": "https://www.aljazeera.com/news/2026/9/4/conflicts-and-extreme-weather-pushing-global-food-prices-higher-warns-un?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-04T13:24:53.000Z"
-  },
-  {
-   "title": "‘Things happen’: How Vance’s comment on Iran wedding strike fits US pattern",
-   "link": "https://www.aljazeera.com/news/2026/9/4/things-happen-how-vances-comment-on-iran-wedding-strike-fits-us-pattern?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-04T13:15:36.000Z"
-  },
-  {
-   "title": "Norway's Oil Fund Proposes Selling Roughly $80B in U.S. Treasurys",
-   "link": "https://www.wsj.com/finance/investing/norways-oil-fund-proposes-cut-to-government-bond-holdings-d930893f",
-   "source": "Hacker News",
-   "date": "2026-09-04T13:15:24.000Z"
-  },
-  {
-   "title": "At least 100 killed as Yemen’s Houthis push towards key strait",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/at-least-100-killed-as-yemens-houthis-push-towards-key-strait?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-04T13:13:14.000Z"
-  },
-  {
-   "title": "Scientists Find Worms in Almost Every Fish in a Tuna Haul – 96% Were Infected",
-   "link": "https://www.sciencealert.com/scientists-find-parasites-in-almost-every-fish-from-a-recent-tuna-haul-96-were-infected",
-   "source": "Hacker News",
-   "date": "2026-09-04T13:08:18.000Z"
-  },
-  {
-   "title": "Body of world's youngest traditional king returns home to Uganda amid succession row",
-   "link": "https://www.bbc.co.uk/news/articles/clylwgn8jk3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-04T13:00:44.000Z"
-  },
-  {
-   "title": "IBM Bob",
-   "link": "https://bob.ibm.com/",
-   "source": "Hacker News",
-   "date": "2026-09-04T12:50:29.000Z"
-  },
-  {
-   "title": "Restoring 5 GHz Wi-Fi on an LG C5 by changing its webOS region",
-   "link": "https://github.com/hawshemi/lg-c5-webos25-region-change",
-   "source": "Hacker News",
-   "date": "2026-09-04T12:49:44.000Z"
   },
   {
    "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
@@ -104,12 +122,6 @@
    "date": "2026-09-04T11:02:32.000Z"
   },
   {
-   "title": "US diesel prices hit an all-time-high",
-   "link": "https://www.bbc.co.uk/news/articles/c7903r0grx0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-04T10:52:56.000Z"
-  },
-  {
    "title": "Tanker captain arrested over cargo ship sinking off Istanbul, prosecutors say",
    "link": "http://www.euronews.com/my-europe/2026/09/04/tanker-captain-arrested-over-cargo-ship-sinking-off-istanbul-prosecutors-say",
    "source": "Euronews",
@@ -120,12 +132,6 @@
    "link": "http://www.euronews.com/2026/09/04/investigation-into-air-india-flight-plunge-highlights-triple-hydraulic-failure-and-pilot-d",
    "source": "Euronews",
    "date": "2026-09-04T09:57:08.000Z"
-  },
-  {
-   "title": "'Layer upon layer of miracles': How Nepal flood survivors were rescued from tunnel",
-   "link": "https://www.bbc.co.uk/news/articles/c9dwjv96qyqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-04T08:23:05.000Z"
   },
   {
    "title": "Trump presses Supreme Court to curb mail voting as ballots begin reaching Americans",
@@ -150,12 +156,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cjrx75ldydwo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-04T04:06:41.000Z"
-  },
-  {
-   "title": "UN to vote on adopting new world map that shows Africa’s true scale",
-   "link": "https://www.theguardian.com/world/2026/sep/04/un-vote-world-map-mercator-equal-earth-africa",
-   "source": "Guardian World",
-   "date": "2026-09-04T02:00:54.000Z"
   },
   {
    "title": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",

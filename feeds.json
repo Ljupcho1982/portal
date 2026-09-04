@@ -1,41 +1,95 @@
 {
- "updated": "2026-09-04T18:24:47.928Z",
+ "updated": "2026-09-04T21:29:41.338Z",
  "items": [
   {
-   "title": "Moment two workers are pulled alive from Nepal tunnel",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/moment-two-workers-are-pulled-alive-from-nepal-tunnel?traffic_source=rss",
+   "title": "Witkoff and Kushner will travel to ‘end’ Russia’s war in Ukraine: Trump",
+   "link": "https://www.aljazeera.com/news/2026/9/4/witkoff-and-kushner-will-travel-to-end-russias-war-in-ukraine-trump?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-04T18:02:30.000Z"
+   "date": "2026-09-04T21:19:05.000Z"
   },
   {
-   "title": "Indonesia wildfires send toxic haze across Southeast Asia",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/04-09-sv-indonesia-kalimantan-haze-borneo-wildfires-haze-id?traffic_source=rss",
+   "title": "Sabalenka interrupts US Open match against Rakhimova over cannabis smell",
+   "link": "https://www.aljazeera.com/sports/2026/9/4/sabalenka-interrupts-us-open-match-against-rakhimova-over-cannabis-smell?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-04T17:38:48.000Z"
+   "date": "2026-09-04T21:05:03.000Z"
   },
   {
-   "title": "Nobody Is Saying Why OpenAI and Anthropic Had Outages",
-   "link": "https://www.wired.com/story/nobody-is-saying-why-openai-and-anthropic-had-outages-today/",
+   "title": "Fermat's Last Theorem: Anthropic has beaten me to it",
+   "link": "https://xenaproject.wordpress.com/2026/09/04/flt-anthropic-has-beaten-me-to-it/",
    "source": "Hacker News",
-   "date": "2026-09-04T17:29:22.000Z"
+   "date": "2026-09-04T21:00:02.000Z"
   },
   {
-   "title": "Yemen’s army says recaptured key territory as clashes with Houthis continue",
-   "link": "https://www.aljazeera.com/news/2026/9/4/yemens-army-says-recaptured-key-territory-as-clashes-with-houthis-continue?traffic_source=rss",
+   "title": "Liverpool beat Ipswich as Isak goals hand Iraola first Premier League win",
+   "link": "https://www.aljazeera.com/sports/2026/9/4/liverpool-beat-ipswich-as-isak-goals-hand-iraola-first-premier-league-win?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-04T17:29:20.000Z"
+   "date": "2026-09-04T20:55:16.000Z"
   },
   {
-   "title": "Show HN: Open-Source eInk Bike Computer",
-   "link": "https://opentrailpaper.com",
-   "source": "Hacker News",
-   "date": "2026-09-04T17:18:08.000Z"
+   "title": "Nigel Farage heckled as he denies Reform UK took illegal funding",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/nigel-farage-heckled-as-he-denies-reform-uk-took-illegal-funding?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-04T20:53:12.000Z"
   },
   {
-   "title": "Georgi Gerganov on llama.cpp/ggml future after Nvidia acquisition of HuggingFace",
-   "link": "https://twitter.com/ggerganov/status/2095897173376618881",
+   "title": "Will Europe pay the US to provide military aid to Ukraine?",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/9/4/will-europe-pay-the-us-to-provide-military-aid-to-ukraine?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-04T20:52:55.000Z"
+  },
+  {
+   "title": "Statichost.eu – 100% European static site hosting",
+   "link": "https://www.statichost.eu/",
    "source": "Hacker News",
-   "date": "2026-09-04T17:12:22.000Z"
+   "date": "2026-09-04T20:34:49.000Z"
+  },
+  {
+   "title": "Mexico seizes 17 tonnes of meth in $347 million drug bust",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/mexico-seizes-17-tonnes-of-meth-in-347-million-drug-bust?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-04T20:28:40.000Z"
+  },
+  {
+   "title": "Trump’s ‘retribution’ could now include Falklands as favor to Milei – and revenge on the UK",
+   "link": "https://www.theguardian.com/us-news/2026/sep/04/trump-argentina-falklands-uk",
+   "source": "Guardian World",
+   "date": "2026-09-04T20:21:52.000Z"
+  },
+  {
+   "title": "How to Create a Tor Exit Node",
+   "link": "https://madpsy.uk/how-to-create-a-tor-exit-node/",
+   "source": "Hacker News",
+   "date": "2026-09-04T20:16:22.000Z"
+  },
+  {
+   "title": "An open DNS recursive service for free security and high privacy",
+   "link": "https://quad9.net/",
+   "source": "Hacker News",
+   "date": "2026-09-04T20:13:08.000Z"
+  },
+  {
+   "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
+   "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-04T20:03:52.000Z"
+  },
+  {
+   "title": "Can AI design circuit boards yet?",
+   "link": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+   "source": "Hacker News",
+   "date": "2026-09-04T19:48:29.000Z"
+  },
+  {
+   "title": "Meloni marks government longevity at Bari rally with 2027 vote in sight",
+   "link": "http://www.euronews.com/2026/09/04/meloni-marks-government-longevity-at-bari-rally-with-2027-vote-in-sight",
+   "source": "Euronews",
+   "date": "2026-09-04T19:47:40.000Z"
+  },
+  {
+   "title": "Government Rails Site Hit Hours After CVE Patch",
+   "link": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+   "source": "Hacker News",
+   "date": "2026-09-04T19:06:39.000Z"
   },
   {
    "title": "UN votes to adopt new world map that shows Africa’s true scale",
@@ -50,64 +104,16 @@
    "date": "2026-09-04T16:49:15.000Z"
   },
   {
-   "title": "Rescuers race to save 10-year-old Algerian boy trapped in deep well",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/4/rescuers-race-to-save10-year-old-algerian-boy-trapped-in-deep-well?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-04T16:48:50.000Z"
-  },
-  {
-   "title": "Adult Film Producer Unmasks Prolific 'John DOE' Torrent Pirate as Meta Executive",
-   "link": "https://torrentfreak.com/adult-film-producer-unmasks-prolific-john-doe-torrent-pirate-as-meta-executive/",
-   "source": "Hacker News",
-   "date": "2026-09-04T16:46:59.000Z"
-  },
-  {
-   "title": "US adds 162,000 jobs in August, raising Fed rate hike expectations",
-   "link": "https://www.aljazeera.com/economy/2026/9/4/us-adds-jobs-in-august-beating-economic-forecasts?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-04T16:31:20.000Z"
-  },
-  {
-   "title": "The number 10 shirt must not retire with Messi",
-   "link": "https://www.aljazeera.com/opinions/2026/9/4/the-number-10-shirt-must-not-retire-with-messi?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-04T16:31:15.000Z"
-  },
-  {
-   "title": "Trump's peace envoys to visit Moscow and Kyiv over weekend",
-   "link": "https://www.bbc.co.uk/news/articles/c23x0z48x0no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-04T16:30:50.000Z"
-  },
-  {
-   "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-   "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-   "source": "Hacker News",
-   "date": "2026-09-04T16:24:50.000Z"
-  },
-  {
    "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
    "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-04T16:02:32.000Z"
   },
   {
-   "title": "deSEC – Free Secure DNS",
-   "link": "https://desec.io/",
-   "source": "Hacker News",
-   "date": "2026-09-04T15:38:58.000Z"
-  },
-  {
    "title": "'A rare moment of joy': Nepal tunnel rescues bring hope for more flood survivors",
    "link": "https://www.bbc.co.uk/news/videos/cd79vp91321o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-04T14:40:00.000Z"
-  },
-  {
-   "title": "Colombia president provokes disgust by posing with bodies of ‘terrorists’",
-   "link": "https://www.theguardian.com/world/2026/sep/04/colombia-president-posts-video-guerrillas-body-bags-abelardo-de-la-espriella",
-   "source": "Guardian World",
-   "date": "2026-09-04T13:50:43.000Z"
   },
   {
    "title": "UK support for Falkland Islands 'unwavering' after Argentina restates claims, No 10 says",
@@ -144,12 +150,6 @@
    "link": "http://www.euronews.com/2026/09/04/milei-touts-winds-of-change-as-he-reasserts-argentinas-claim-to-the-falklands",
    "source": "Euronews",
    "date": "2026-09-04T06:38:51.000Z"
-  },
-  {
-   "title": "Two hydropower workers rescued alive after nine days trapped in Nepal tunnel",
-   "link": "http://www.euronews.com/video/2026/09/04/two-hydropower-workers-rescued-alive-after-nine-days-trapped-in-nepal-tunnel",
-   "source": "Euronews",
-   "date": "2026-09-04T06:12:37.000Z"
   },
   {
    "title": "Steve Irwin's family celebrates 'superhero' dad, 20 years after shock death",

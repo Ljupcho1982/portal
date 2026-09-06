@@ -1,17 +1,83 @@
 {
- "updated": "2026-09-06T17:03:19.806Z",
+ "updated": "2026-09-06T19:11:14.281Z",
  "items": [
+  {
+   "title": "German far-right set for big win in eastern state, projections show",
+   "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-06T19:05:07.000Z"
+  },
+  {
+   "title": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
+   "link": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-06T18:56:25.000Z"
+  },
+  {
+   "title": "Trump administration appeals again to US Supreme Court over mail-in voting",
+   "link": "https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-06T18:47:03.000Z"
+  },
+  {
+   "title": "Why is Argentina reviving the Falklands dispute?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/why-is-argentina-reviving-the-falklands-dispute?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-06T18:36:40.000Z"
+  },
+  {
+   "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
+   "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-06T18:33:50.000Z"
+  },
+  {
+   "title": "Witkoff says peace talks have been ‘very meaningful’ in Ukraine",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/witkoff-says-peace-talks-have-been-very-meaningful-in-ukraine?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-06T18:28:27.000Z"
+  },
+  {
+   "title": "Sabalenka through to US Open quarterfinals",
+   "link": "https://www.aljazeera.com/sports/2026/9/6/sabalenka-through-to-us-open-quarterfinals?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-06T18:12:06.000Z"
+  },
+  {
+   "title": "Algerian boy found dead after four days trapped in a well",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/algerian-boy-found-dead-after-four-days-trapped-in-a-well?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-06T18:10:49.000Z"
+  },
+  {
+   "title": "Following legal advice, the Nitter project will continue",
+   "link": "https://github.com/zedeus/nitter",
+   "source": "Hacker News",
+   "date": "2026-09-06T17:51:23.000Z"
+  },
+  {
+   "title": "Nitter is unarchived and will continue",
+   "link": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+   "source": "Hacker News",
+   "date": "2026-09-06T17:49:47.000Z"
+  },
+  {
+   "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
+   "link": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
+   "source": "Guardian World",
+   "date": "2026-09-06T17:05:11.000Z"
+  },
+  {
+   "title": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+   "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-06T17:00:56.000Z"
+  },
   {
    "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
    "link": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
    "source": "Hacker News",
    "date": "2026-09-06T17:00:28.000Z"
-  },
-  {
-   "title": "German far-right set for big win in eastern state - projections",
-   "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-06T16:59:25.000Z"
   },
   {
    "title": "Dozens feared trapped in collapsed building in Delhi",
@@ -20,16 +86,16 @@
    "date": "2026-09-06T16:54:34.000Z"
   },
   {
+   "title": "We monitor internal coding agents for misalignment",
+   "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
+   "source": "Hacker News",
+   "date": "2026-09-06T16:37:55.000Z"
+  },
+  {
    "title": "An Alien Mind",
    "link": "https://openai.com/index/an-alien-mind/",
    "source": "Hacker News",
    "date": "2026-09-06T16:27:05.000Z"
-  },
-  {
-   "title": "Iran touts military response as US maintains blockade, hits tankers",
-   "link": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-06T16:17:06.000Z"
   },
   {
    "title": "Research carried out using NetBSD",
@@ -38,70 +104,10 @@
    "date": "2026-09-06T16:10:05.000Z"
   },
   {
-   "title": "Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
-   "link": "https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-06T16:07:08.000Z"
-  },
-  {
-   "title": "Maitland-Niles stuns Manchester United as Everton claim last-ditch point",
-   "link": "https://www.aljazeera.com/sports/2026/9/6/maitland-niles-stuns-manchester-united-as-everton-claim-last-ditch-point?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-06T16:04:56.000Z"
-  },
-  {
-   "title": "Cultivating Trust",
-   "link": "https://kaeruct.github.io/posts/2026/09/06/conquering-entropy-cultivating-trust/",
-   "source": "Hacker News",
-   "date": "2026-09-06T16:02:37.000Z"
-  },
-  {
    "title": "Volcano eruption leaves 170,000 passengers stranded in Indonesia",
    "link": "https://www.bbc.co.uk/news/articles/cvgy5k4n07ko?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-06T16:00:21.000Z"
-  },
-  {
-   "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-   "link": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-   "source": "Hacker News",
-   "date": "2026-09-06T15:44:24.000Z"
-  },
-  {
-   "title": "Niger military accuses France of orchestrating failed mutiny: What to know",
-   "link": "https://www.aljazeera.com/news/2026/9/6/niger-military-accuses-france-of-orchestrating-failed-mutiny-what-to-know?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-06T15:42:00.000Z"
-  },
-  {
-   "title": "Dead fish fill vanishing river as drought grips Indonesia",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/dead-fish-fill-vanishing-river-as-drought-grips-indonesia?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-06T15:36:33.000Z"
-  },
-  {
-   "title": "US envoys hold talks with Zelensky in Kyiv after meeting Putin",
-   "link": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-06T15:32:27.000Z"
-  },
-  {
-   "title": "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv",
-   "link": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-06T15:32:00.000Z"
-  },
-  {
-   "title": "Research acceleration: The view inside OpenAI",
-   "link": "https://openai.com/index/research-acceleration-view-inside-openai",
-   "source": "Hacker News",
-   "date": "2026-09-06T15:08:44.000Z"
-  },
-  {
-   "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",
-   "link": "https://www.theguardian.com/news/2026/sep/06/jamaica-slavery-reparations-petition-king-charles",
-   "source": "Guardian World",
-   "date": "2026-09-06T13:00:07.000Z"
   },
   {
    "title": "AfD’s Ulrich Siegmund casts vote in key German state election",
@@ -144,12 +150,6 @@
    "link": "http://www.euronews.com/video/2026/09/06/latest-news-bulletin-september-6th-2026-morning",
    "source": "Euronews",
    "date": "2026-09-06T00:00:00.000Z"
-  },
-  {
-   "title": "US and Iran trade retaliatory attacks on ships as conflict flares",
-   "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-05T22:44:07.000Z"
   },
   {
    "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",

@@ -1,6 +1,72 @@
 {
- "updated": "2026-09-06T21:21:26.179Z",
+ "updated": "2026-09-06T23:55:00.374Z",
  "items": [
+  {
+   "title": "Four Weeks of a Vegan Diet Alter Signs of Inflammation and Aging",
+   "link": "https://www.uniklinik-freiburg.de/en/press/press-releases/detailed-view/6938-vier-wochen-vegane-ernaehrung-veraendern-entzuendungs-und-alterungssignale.html",
+   "source": "Hacker News",
+   "date": "2026-09-06T23:44:35.000Z"
+  },
+  {
+   "title": "UN backs new map showing Africa's true relative size with US alone in opposition",
+   "link": "https://www.npr.org/2026/09/04/nx-s1-5958611/africa-world-map-un-vote",
+   "source": "Hacker News",
+   "date": "2026-09-06T23:21:16.000Z"
+  },
+  {
+   "title": "Making a Python interpreter in 1024 bytes",
+   "link": "https://austinhenley.com/blog/python1024.html",
+   "source": "Hacker News",
+   "date": "2026-09-06T23:14:08.000Z"
+  },
+  {
+   "title": "Germany's far-right AfD set for big win in eastern state, just short of majority",
+   "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-06T23:02:45.000Z"
+  },
+  {
+   "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
+   "link": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
+   "source": "Hacker News",
+   "date": "2026-09-06T22:43:25.000Z"
+  },
+  {
+   "title": "Political meddling at the Census Bureau damages the US statistical system",
+   "link": "https://www.piie.com/blogs/realtime-economics/2026/political-meddling-census-bureau-damages-entire-us-statistical-system",
+   "source": "Hacker News",
+   "date": "2026-09-06T22:36:07.000Z"
+  },
+  {
+   "title": "Alcaraz breezes into last eight at US Open",
+   "link": "https://www.aljazeera.com/sports/2026/9/6/alcaraz-breezes-into-last-eight-at-us-open?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-06T21:46:08.000Z"
+  },
+  {
+   "title": "Windows 11's \"special\" developer edition looks like another marketing misfire",
+   "link": "https://www.neowin.net/opinions/windows-11s-special-developer-edition-sounds-like-yet-another-marketing-misfire/",
+   "source": "Hacker News",
+   "date": "2026-09-06T21:16:10.000Z"
+  },
+  {
+   "title": "At least five killed after Amazon cargo plane crash in Miami airport",
+   "link": "https://www.aljazeera.com/news/2026/9/6/amazon-cargo-plane-crashes-in-us-while-landing-at-miami-airport?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-06T21:11:01.000Z"
+  },
+  {
+   "title": "At least 10 killed in central Mexico fireworks blast during festival",
+   "link": "https://www.aljazeera.com/news/2026/9/6/at-least-10-killed-in-central-mexico-fireworks-blast-during-festival?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-06T21:08:30.000Z"
+  },
+  {
+   "title": "Amazon Prime plane overruns runway at Miami Airport",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/amazon-prime-plane-overruns-runway-at-miami-airport?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-06T21:08:24.000Z"
+  },
   {
    "title": "Peace talks rich in symbolism but fundamental differences between Russia and Ukraine remain",
    "link": "https://www.bbc.co.uk/news/articles/c980j5m8mpro?at_medium=RSS&at_campaign=rss",
@@ -8,16 +74,10 @@
    "date": "2026-09-06T20:52:12.000Z"
   },
   {
-   "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-   "link": "https://github.com/marsbos/mador",
-   "source": "Hacker News",
-   "date": "2026-09-06T20:45:13.000Z"
-  },
-  {
-   "title": "German far-right set for big win in eastern state, projections show",
-   "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-06T20:45:11.000Z"
+   "title": "Can AfD form Germany’s first far-right state government since World War II?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/06-09-sv-germany-afd-wins-saxony-de-fm?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-06T20:52:01.000Z"
   },
   {
    "title": "Zelensky says he expects war to continue into winter after talks with US envoys",
@@ -32,70 +92,10 @@
    "date": "2026-09-06T20:40:52.000Z"
   },
   {
-   "title": "It took a year to ship WebAssembly in Anubis",
-   "link": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-   "source": "Hacker News",
-   "date": "2026-09-06T20:32:38.000Z"
-  },
-  {
-   "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-   "link": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-   "source": "Hacker News",
-   "date": "2026-09-06T20:24:00.000Z"
-  },
-  {
-   "title": "Will Israelis re-elect Benjamin Netanyahu?",
-   "link": "https://www.aljazeera.com/video/inside-story/2026/9/6/will-israelis-re-elect-benjamin-netanyahu?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-06T20:20:47.000Z"
-  },
-  {
-   "title": "Show HN: VODForge – a free local desktop UI for YouTube video/playlist downloads",
-   "link": "https://getvodforge.com/",
-   "source": "Hacker News",
-   "date": "2026-09-06T20:07:30.000Z"
-  },
-  {
-   "title": "Show HN: Agentic OS: one Rust Linux binary, one SQLite and sandbox per entity",
-   "link": "https://github.com/mmeyerlein/meclaw",
-   "source": "Hacker News",
-   "date": "2026-09-06T20:07:16.000Z"
-  },
-  {
-   "title": "At least five killed in New Delhi building collapse",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/at-least-five-killed-in-new-delhi-building-collapse?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-06T20:05:32.000Z"
-  },
-  {
    "title": "Amazon cargo plane overshoots Miami runway, crashes into vehicles and catches fire",
    "link": "http://www.euronews.com/2026/09/06/amazon-cargo-plane-overshoots-miami-runway-crashes-into-vehicles-and-catches-fire",
    "source": "Euronews",
    "date": "2026-09-06T20:03:48.000Z"
-  },
-  {
-   "title": "The car industry A/B tested selling a car with and without CarPlay",
-   "link": "https://a.wholelottanothing.org/the-car-industry-a-b-tested-selling-the-same-car-with-and-without-carplay-and-the-results-are-not-shocking/",
-   "source": "Hacker News",
-   "date": "2026-09-06T19:53:23.000Z"
-  },
-  {
-   "title": "Abdul El-Sayed uses speech to talk about Muslim faith and American identity",
-   "link": "https://www.aljazeera.com/news/2026/9/6/abdul-el-sayed-uses-speech-to-talk-about-muslim-faith-and-american-identity?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-06T19:45:36.000Z"
-  },
-  {
-   "title": "Indonesia volcano eruption disrupts hundreds of flights",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/6/indonesia-volcano-eruption-disrupts-hundreds-of-flights?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-06T18:58:35.000Z"
-  },
-  {
-   "title": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
-   "link": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-06T18:56:25.000Z"
   },
   {
    "title": "Jamaican delegates arrive in UK to hand slavery reparations petition to King Charles",

@@ -1,59 +1,89 @@
 {
- "updated": "2026-09-08T18:41:10.703Z",
+ "updated": "2026-09-08T21:51:42.997Z",
  "items": [
+  {
+   "title": "Paul Adams: British-Israeli relations at lowest ebb in decades",
+   "link": "https://www.bbc.co.uk/news/articles/c5ydlex9yn3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-08T21:46:31.000Z"
+  },
+  {
+   "title": "US warns Ford over ties with Chinese firms amid tensions",
+   "link": "https://www.aljazeera.com/economy/2026/9/8/us-warns-ford-over-ties-with-chinese-firms-amid-tensions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-08T21:24:03.000Z"
+  },
+  {
+   "title": "Real Madrid beat Inter Milan as Mbappe goal sets Mourinho’s men on way",
+   "link": "https://www.aljazeera.com/sports/2026/9/8/real-madrid-beat-inter-milan-as-mbappe-goal-sets-mourinhos-men-on-way?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-08T21:10:56.000Z"
+  },
+  {
+   "title": "Hundreds of flights delayed, cancelled after UK air traffic control glitch",
+   "link": "https://www.aljazeera.com/news/2026/9/8/hundreds-of-flights-delayed-cancelled-after-uk-air-traffic-control-glitch?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-08T21:07:33.000Z"
+  },
+  {
+   "title": "US forces sink vessel ‘linked to Ecuador criminal gang’",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-forces-sink-vessel-linked-to-ecuador-criminal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-08T21:06:48.000Z"
+  },
+  {
+   "title": "Dembele, Mbappe, Kane and Yamal top Ballon d’Or shortlist",
+   "link": "https://www.aljazeera.com/sports/2026/9/8/dembele-mbappe-kane-and-yamal-top-ballon-dor-shortlist?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-08T21:00:29.000Z"
+  },
+  {
+   "title": "Police bodycam captures Russian missile strike on Kyiv",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/police-bodycam-captures-russian-missile-strike-on-kyiv?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-08T20:43:52.000Z"
+  },
+  {
+   "title": "Mercury 2.5",
+   "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+   "source": "Hacker News",
+   "date": "2026-09-08T20:14:52.000Z"
+  },
+  {
+   "title": "Animation in Bevy: The Big Picture",
+   "link": "https://glocq.com/en/blog/20260827/",
+   "source": "Hacker News",
+   "date": "2026-09-08T20:08:44.000Z"
+  },
+  {
+   "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+   "link": "https://github.com/argonautlabsai/deltafin",
+   "source": "Hacker News",
+   "date": "2026-09-08T20:07:55.000Z"
+  },
+  {
+   "title": "Trey Parker and Matt Stone Are Changing the Name of South Park to South America",
+   "link": "https://twitter.com/SouthPark/status/2097364141237539116",
+   "source": "Hacker News",
+   "date": "2026-09-08T20:06:33.000Z"
+  },
+  {
+   "title": "OpenAI fought dirty on career-making math problem",
+   "link": "https://techcrunch.com/2026/09/08/openai-fought-dirty-on-career-making-math-problem-says-nyu-mathematician/",
+   "source": "Hacker News",
+   "date": "2026-09-08T19:47:13.000Z"
+  },
+  {
+   "title": "Muse: Meta's personal AI agent, features and capabilities",
+   "link": "https://ai.meta.com/muse/",
+   "source": "Hacker News",
+   "date": "2026-09-08T19:25:00.000Z"
+  },
   {
    "title": "UK announces sanctions on West Bank settlements prompting furious Israeli response",
    "link": "https://www.bbc.co.uk/news/articles/c4g7zen0vveo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-09-08T18:40:49.000Z"
-  },
-  {
-   "title": "Trump, Putin hold ‘frank’ phone call as US restarts Ukraine deal efforts",
-   "link": "https://www.aljazeera.com/news/2026/9/8/trump-putin-hold-frank-phone-call-as-us-restarts-ukraine-deal-efforts?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-08T18:31:30.000Z"
-  },
-  {
-   "title": "Qatar responds to Netanyahu’s ‘hostile state’ remark",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/qatar-responds-to-netanyahus-hostile-state-remark?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-08T18:18:17.000Z"
-  },
-  {
-   "title": "British widow faces deportation from Sweden after 22 years",
-   "link": "https://www.bbc.co.uk/news/articles/c62k0d4px6ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-08T18:02:42.000Z"
-  },
-  {
-   "title": "Women and children remain trapped in Syria’s Roj camp",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/women-and-children-remain-trapped-in-syrias-roj-camp?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-08T18:00:24.000Z"
-  },
-  {
-   "title": "Renoir paintings worth $10.5 million missing after museum heist",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/renoir-paintings-worth-10-5-million-missing-after-museum-heist?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-08T17:47:08.000Z"
-  },
-  {
-   "title": "Yemen’s war is back: A new battle for Sanaa and the Red Sea",
-   "link": "https://www.aljazeera.com/features/2026/9/8/yemens-war-is-back-a-new-battle-for-sanaa-and-the-red-sea?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-08T17:37:35.000Z"
-  },
-  {
-   "title": "Photos: Palestinians rebuild Gaza’s ruins with mud bricks, scrap",
-   "link": "https://www.aljazeera.com/gallery/2026/9/8/photos-palestinians-rebuild-gazas-ruins-with-mud-bricks-and-scrap?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-08T17:28:50.000Z"
-  },
-  {
-   "title": "On the Navier–Stokes Millennium Prize Problem",
-   "link": "https://openai.com/index/navier-stokes-solution/",
-   "source": "Hacker News",
-   "date": "2026-09-08T17:13:21.000Z"
+   "date": "2026-09-08T19:11:39.000Z"
   },
   {
    "title": "Ukrainian TV channel building hit by Russian drone as five killed in Kyiv",
@@ -62,34 +92,10 @@
    "date": "2026-09-08T17:10:54.000Z"
   },
   {
-   "title": "OUI-1: world's first model for Generative UI",
-   "link": "https://www.openui.com/blog/oui-1",
-   "source": "Hacker News",
-   "date": "2026-09-08T17:07:54.000Z"
-  },
-  {
-   "title": "Show HN: LLM Attention Visualization",
-   "link": "https://ishamf.dev/p/llm-attention-visualizer/",
-   "source": "Hacker News",
-   "date": "2026-09-08T16:59:41.000Z"
-  },
-  {
    "title": "'Turning blind eye' to AfD win further angers voters, political scientist warns",
    "link": "http://www.euronews.com/2026/09/08/turning-blind-eye-to-afd-win-further-angers-voters-political-scientist-warns",
    "source": "Euronews",
    "date": "2026-09-08T16:54:41.000Z"
-  },
-  {
-   "title": "Connecting the Machines",
-   "link": "https://herdr.dev/blog/connecting-the-machines/",
-   "source": "Hacker News",
-   "date": "2026-09-08T16:43:55.000Z"
-  },
-  {
-   "title": "Y Combinator Early Access Network",
-   "link": "https://events.ycombinator.com/yc-early-access-fall-26",
-   "source": "Hacker News",
-   "date": "2026-09-08T16:31:01.000Z"
   },
   {
    "title": "UAE warned Netanyahu of 7 October attack, Israeli newspaper reports",
@@ -102,12 +108,6 @@
    "link": "http://www.euronews.com/video/2026/09/08/sumatran-tiger-cubs-receive-first-health-checks-at-greek-zoo",
    "source": "Euronews",
    "date": "2026-09-08T16:18:13.000Z"
-  },
-  {
-   "title": "LG TVs caught spying even when offline or on standby",
-   "link": "https://www.theverge.com/tech/991190/lg-tv-spying-standby-recording-wi-fi-scanning-gamers-nexus",
-   "source": "Hacker News",
-   "date": "2026-09-08T16:07:08.000Z"
   },
   {
    "title": "11 European nations and Canada announce trade sanctions on Israeli settlements in the West Bank",

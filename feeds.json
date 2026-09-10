@@ -1,65 +1,143 @@
 {
- "updated": "2026-09-10T14:27:04.904Z",
+ "updated": "2026-09-10T18:29:09.221Z",
  "items": [
   {
-   "title": "25 killed after international cargo ship docked in China catches fire",
-   "link": "https://www.euronews.com/2026/09/10/heavy-casualties-reported-after-international-cargo-ship-docked-in-china-catches-fire",
+   "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
+   "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-10T18:15:47.000Z"
+  },
+  {
+   "title": "England close in on Pakistan whitewash in third Test as Robinson shines",
+   "link": "https://www.aljazeera.com/sports/2026/9/10/england-close-in-on-pakistan-whitewash-in-third-test-as-robinson-shines?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-10T18:01:15.000Z"
+  },
+  {
+   "title": "More than a dozen children killed in fire in eastern DR Congo schools",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/more-than-a-dozen-children-killed-in-fire-in-eastern-dr-congo-schools?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-10T17:45:19.000Z"
+  },
+  {
+   "title": "Climate hazards disrupted school for 1 in 10 students in 2025: UNICEF",
+   "link": "https://www.aljazeera.com/news/2026/9/10/climate-hazards-disrupted-school-for-1-in-10-students-in-2025-unicef?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-10T17:41:52.000Z"
+  },
+  {
+   "title": "Family of four killed as they slept in Israeli strike on Gaza",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/family-of-four-killed-as-they-slept-in-israeli-strike-on-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-10T17:32:28.000Z"
+  },
+  {
+   "title": "Kurdish YPJ women fighters face exclusion from Syria’s new army",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/09-10-reported-bernard-smith-ypj-fighters-mp4?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-10T17:30:41.000Z"
+  },
+  {
+   "title": "JEP 544: Ahead-of-Time Code Compilation",
+   "link": "https://openjdk.org/jeps/544",
+   "source": "Hacker News",
+   "date": "2026-09-10T17:30:39.000Z"
+  },
+  {
+   "title": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",
+   "link": "https://www.theguardian.com/world/2026/sep/10/uganda-king-secret-son-succession-dispute",
+   "source": "Guardian World",
+   "date": "2026-09-10T17:29:20.000Z"
+  },
+  {
+   "title": "Music Theory for the 21st-Century Classroom",
+   "link": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
+   "source": "Hacker News",
+   "date": "2026-09-10T17:14:12.000Z"
+  },
+  {
+   "title": "The Trump-to-Mamdani voter is real. How does the trend affect the midterms?",
+   "link": "https://www.aljazeera.com/features/longform/2026/9/10/the-trump-to-mamdani-voter-is-real-how-does-the-trend-affect-the-midterms?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-10T17:09:50.000Z"
+  },
+  {
+   "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
+   "link": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
+   "source": "Hacker News",
+   "date": "2026-09-10T17:04:34.000Z"
+  },
+  {
+   "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
+   "link": "https://tokenstead.ai/models/swe-2",
+   "source": "Hacker News",
+   "date": "2026-09-10T16:52:11.000Z"
+  },
+  {
+   "title": "Can Trump really pay $5,000 to every American adult?",
+   "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-10T16:48:37.000Z"
+  },
+  {
+   "title": "Pilot warned Amazon cargo plane going too fast before deadly crash, data shows",
+   "link": "https://www.bbc.co.uk/news/articles/cj4jynv59ddo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-10T16:31:30.000Z"
+  },
+  {
+   "title": "More than 20 children feared dead in DR Congo school fire",
+   "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-10T16:21:50.000Z"
+  },
+  {
+   "title": "I have a theory that software drives people insane",
+   "link": "https://graybeard.ing/software-drives-people-insane/",
+   "source": "Hacker News",
+   "date": "2026-09-10T16:13:42.000Z"
+  },
+  {
+   "title": "Latest news bulletin | September 10th, 2026 – Evening",
+   "link": "https://www.euronews.com/video/2026/09/10/latest-news-bulletin-september-10th-2026-evening",
    "source": "Euronews",
-   "date": "2026-09-10T14:20:58.000Z"
+   "date": "2026-09-10T16:00:29.000Z"
   },
   {
    "title": "Houthis blitz Yemen's Red Sea coastline in push to seize Bab el-Mandeb",
    "link": "https://www.euronews.com/2026/09/10/houthis-seize-red-sea-port-city-in-push-to-seize-bab-el-mandeb",
    "source": "Euronews",
-   "date": "2026-09-10T14:15:21.000Z"
+   "date": "2026-09-10T15:59:44.000Z"
   },
   {
-   "title": "Amazon pilots ad services in ChatGPT",
-   "link": "https://www.marketingdive.com/news/amazon-pilots-ad-services-in-chatgpt-what-marketers-need-to-know/829945/",
+   "title": "Forgejo <=16.0.3 Critical RCE",
+   "link": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
    "source": "Hacker News",
-   "date": "2026-09-10T14:13:09.000Z"
-  },
-  {
-   "title": "Show HN: I couldn't afford interview prep, so I built a free alternative",
-   "link": "https://learningto.co/",
-   "source": "Hacker News",
-   "date": "2026-09-10T14:10:02.000Z"
-  },
-  {
-   "title": "Shopify moves back to Native from React Native",
-   "link": "https://shopify.engineering/back-to-native",
-   "source": "Hacker News",
-   "date": "2026-09-10T14:09:31.000Z"
+   "date": "2026-09-10T15:57:40.000Z"
   },
   {
    "title": "Shadow network of brokers and fixers exploits Syrians at Lebanon border",
    "link": "https://www.euronews.com/2026/09/10/shadow-network-of-brokers-and-fixers-exploits-syrians-at-lebanon-border",
    "source": "Euronews",
-   "date": "2026-09-10T14:08:33.000Z"
+   "date": "2026-09-10T15:54:24.000Z"
   },
   {
-   "title": "Bending Spoons buying Miro for $1.355B",
-   "link": "https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-miro",
-   "source": "Hacker News",
-   "date": "2026-09-10T14:00:21.000Z"
+   "title": "Israel's Netanyahu to sue newspaper over claim UAE warned him of 7 October attack",
+   "link": "https://www.bbc.co.uk/news/articles/c1kxwm870g1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-10T15:54:17.000Z"
   },
   {
-   "title": "Tell HN: OpenAI keeps re-enabling the 'allow training' setting",
-   "link": "https://news.ycombinator.com/item?id=49643556",
-   "source": "Hacker News",
-   "date": "2026-09-10T13:39:53.000Z"
+   "title": "Tajikistan marks 35 years of independence with grand celebrations",
+   "link": "https://www.euronews.com/video/2026/09/10/tajikistan-marks-35-years-of-independence-with-grand-celebrations",
+   "source": "Euronews",
+   "date": "2026-09-10T15:20:50.000Z"
   },
   {
-   "title": "Rust Is Tier-1 Language at Microsoft",
-   "link": "https://rustfoundation.org/media/guest-post-rust-is-tier-1-language-at-microsoft/",
-   "source": "Hacker News",
-   "date": "2026-09-10T13:39:16.000Z"
-  },
-  {
-   "title": "French Football Federation withdraws support for FIFA President Infantino",
-   "link": "https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-10T13:38:51.000Z"
+   "title": "25 killed after international cargo ship docked in China catches fire",
+   "link": "https://www.euronews.com/2026/09/10/heavy-casualties-reported-after-international-cargo-ship-docked-in-china-catches-fire",
+   "source": "Euronews",
+   "date": "2026-09-10T14:20:58.000Z"
   },
   {
    "title": "3,000 drones light up New York skyline in 9/11 tribute",
@@ -68,82 +146,10 @@
    "date": "2026-09-10T13:31:41.000Z"
   },
   {
-   "title": "Multicultural Malmo: Swedish city loathed by far right braces for election",
-   "link": "https://www.aljazeera.com/features/2026/9/10/from-migration-to-wallet-politics-malmo-votes-in-a-knife-edge-election?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-10T13:29:20.000Z"
-  },
-  {
-   "title": "Pakistan U19 cricketers mistaken for asylum seekers by protesters in UK",
-   "link": "https://www.aljazeera.com/sports/2026/9/10/pakistan-u19-cricketers-mistaken-for-asylum-seekers-by-protesters-in-uk?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-10T13:25:06.000Z"
-  },
-  {
-   "title": "Trump says every adult American will get $5,000 if Republicans win midterms",
-   "link": "https://www.bbc.co.uk/news/articles/c62kzr1jg0jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-10T13:23:37.000Z"
-  },
-  {
-   "title": "Houthis advance along Yemen’s southern Red Sea coast",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/houthis-advance-along-yemens-southern-red-sea-coast?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-10T13:14:03.000Z"
-  },
-  {
-   "title": "Manchester United scouted Mbappe but didn’t sign him, says Ryan Giggs",
-   "link": "https://www.aljazeera.com/sports/2026/9/10/manchester-united-scouted-mbappe-but-didnt-sign-him-says-ryan-giggs?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-10T13:13:10.000Z"
-  },
-  {
-   "title": "Royal family rift after popular TV news presenter chosen to succeed Ugandan king",
-   "link": "https://www.bbc.co.uk/news/articles/c8jdpj4ydm2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-10T13:12:40.000Z"
-  },
-  {
-   "title": "The Trump loyalty test: Will his supporters ever disagree with him?",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/the-trump-loyalty-test-will-his-supporters-ever-disagree-with-him?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-10T12:59:25.000Z"
-  },
-  {
-   "title": "Maurizio Cattelan’s ‘Night’ exhibition opens in Berlin",
-   "link": "https://www.euronews.com/video/2026/09/10/maurizio-cattelans-night-exhibition-opens-in-berlin",
-   "source": "Euronews",
-   "date": "2026-09-10T12:59:17.000Z"
-  },
-  {
    "title": "Twenty-five dead after fire on cargo ship in eastern China",
    "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-10T12:24:54.000Z"
-  },
-  {
-   "title": "Why star TV presenter Sarah Khalifa faces the death penalty in Egypt and what comes next?",
-   "link": "https://www.euronews.com/2026/09/10/why-star-tv-presenter-sarah-khalifa-faces-the-death-penalty-in-egypt-and-what-comes-next",
-   "source": "Euronews",
-   "date": "2026-09-10T12:14:24.000Z"
-  },
-  {
-   "title": "Iran war won't end until after crucial November elections, says Trump",
-   "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-10T10:43:53.000Z"
-  },
-  {
-   "title": "Watch: Is Trump's $5,000 election pledge legal?",
-   "link": "https://www.bbc.co.uk/news/videos/czxzwge59w8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-10T07:12:32.000Z"
-  },
-  {
-   "title": "Five dead and 86 missing as 'heartbreaking' fire breaks out on Philippines ferry",
-   "link": "https://www.bbc.co.uk/news/articles/cy4zd4dn9n9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-10T06:30:19.000Z"
   },
   {
    "title": "Rubio says US will work with allies to stop drug-trafficking as three killed in latest boat strike",
@@ -174,12 +180,6 @@
    "link": "https://www.theguardian.com/world/2026/sep/07/typhoon-saudel-mass-evacuations-south-east-china-weather-tracker",
    "source": "Guardian World",
    "date": "2026-09-07T08:27:08.000Z"
-  },
-  {
-   "title": "Egyptian TV presenter among 12 sentenced to death for drug crime",
-   "link": "https://www.theguardian.com/world/2026/sep/05/egyptian-tv-presenter-among-12-sentenced-to-death-for-drug",
-   "source": "Guardian World",
-   "date": "2026-09-05T18:00:15.000Z"
   }
  ]
 }

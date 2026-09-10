@@ -1,41 +1,95 @@
 {
- "updated": "2026-09-10T18:29:09.221Z",
+ "updated": "2026-09-10T21:38:29.804Z",
  "items": [
+  {
+   "title": "NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami",
+   "link": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
+   "source": "Hacker News",
+   "date": "2026-09-10T21:30:55.000Z"
+  },
+  {
+   "title": "The part of Navier-Stokes no one is talking about",
+   "link": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
+   "source": "Hacker News",
+   "date": "2026-09-10T21:22:59.000Z"
+  },
+  {
+   "title": "Israel says it destroyed key Hezbollah tunnels in southern Lebanon",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-10T21:19:16.000Z"
+  },
+  {
+   "title": "Gaza hospitals ration power as fuel shortages deepen",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-10T21:17:09.000Z"
+  },
+  {
+   "title": "Russian strike hits shopping centre in central Ukraine",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-10T21:03:42.000Z"
+  },
+  {
+   "title": "Drones recreate Twin Towers in tribute ahead of 9/11 anniversary",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/drones-recreate-twin-towers-in-tribute-ahead-of-9-11?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-10T21:00:18.000Z"
+  },
+  {
+   "title": "Manchester United beat Sabah 4-0 on Champions League return",
+   "link": "https://www.aljazeera.com/sports/2026/9/10/man-utd-cruise-past-sabah-on-champions-league-return-with-4-0-win?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-10T20:54:47.000Z"
+  },
+  {
+   "title": "Morocco denies involvement in migrant surge into Spain’s Ceuta",
+   "link": "https://www.aljazeera.com/news/2026/9/10/morocco-denies-involvement-in-migrant-surge-into-spains-ceuta?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-10T20:46:16.000Z"
+  },
+  {
+   "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
+   "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
+   "source": "Guardian World",
+   "date": "2026-09-10T20:35:06.000Z"
+  },
+  {
+   "title": "Man jailed after threatening to kill son's teacher in French village",
+   "link": "https://www.bbc.co.uk/news/articles/c62jln7n2vvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-10T20:10:51.000Z"
+  },
+  {
+   "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+   "link": "https://merybenavente.me/blog/proof-of-capture",
+   "source": "Hacker News",
+   "date": "2026-09-10T19:44:15.000Z"
+  },
+  {
+   "title": "OpenAI Agents API",
+   "link": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+   "source": "Hacker News",
+   "date": "2026-09-10T19:43:22.000Z"
+  },
+  {
+   "title": "More than 20 children killed in DR Congo school fire",
+   "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-10T19:16:24.000Z"
+  },
+  {
+   "title": "Creativity is the New Moat",
+   "link": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
+   "source": "Hacker News",
+   "date": "2026-09-10T19:03:34.000Z"
+  },
   {
    "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
    "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-10T18:15:47.000Z"
-  },
-  {
-   "title": "England close in on Pakistan whitewash in third Test as Robinson shines",
-   "link": "https://www.aljazeera.com/sports/2026/9/10/england-close-in-on-pakistan-whitewash-in-third-test-as-robinson-shines?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-10T18:01:15.000Z"
-  },
-  {
-   "title": "More than a dozen children killed in fire in eastern DR Congo schools",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/more-than-a-dozen-children-killed-in-fire-in-eastern-dr-congo-schools?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-10T17:45:19.000Z"
-  },
-  {
-   "title": "Climate hazards disrupted school for 1 in 10 students in 2025: UNICEF",
-   "link": "https://www.aljazeera.com/news/2026/9/10/climate-hazards-disrupted-school-for-1-in-10-students-in-2025-unicef?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-10T17:41:52.000Z"
-  },
-  {
-   "title": "Family of four killed as they slept in Israeli strike on Gaza",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/family-of-four-killed-as-they-slept-in-israeli-strike-on-gaza?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-10T17:32:28.000Z"
-  },
-  {
-   "title": "Kurdish YPJ women fighters face exclusion from Syria’s new army",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/09-10-reported-bernard-smith-ypj-fighters-mp4?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-10T17:30:41.000Z"
   },
   {
    "title": "JEP 544: Ahead-of-Time Code Compilation",
@@ -50,30 +104,6 @@
    "date": "2026-09-10T17:29:20.000Z"
   },
   {
-   "title": "Music Theory for the 21st-Century Classroom",
-   "link": "https://musictheory.pugetsound.edu/mt21c/MusicTheory.html",
-   "source": "Hacker News",
-   "date": "2026-09-10T17:14:12.000Z"
-  },
-  {
-   "title": "The Trump-to-Mamdani voter is real. How does the trend affect the midterms?",
-   "link": "https://www.aljazeera.com/features/longform/2026/9/10/the-trump-to-mamdani-voter-is-real-how-does-the-trend-affect-the-midterms?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-10T17:09:50.000Z"
-  },
-  {
-   "title": "Anthropic Says It Blocked Possible Efforts to Build Biological Weapons",
-   "link": "https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html",
-   "source": "Hacker News",
-   "date": "2026-09-10T17:04:34.000Z"
-  },
-  {
-   "title": "Cognition's SWE-2 achieves 92.8 on Terminal-Bench 2.1",
-   "link": "https://tokenstead.ai/models/swe-2",
-   "source": "Hacker News",
-   "date": "2026-09-10T16:52:11.000Z"
-  },
-  {
    "title": "Can Trump really pay $5,000 to every American adult?",
    "link": "https://www.bbc.co.uk/news/articles/c8r6vj7r8rko?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
@@ -86,18 +116,6 @@
    "date": "2026-09-10T16:31:30.000Z"
   },
   {
-   "title": "More than 20 children feared dead in DR Congo school fire",
-   "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-10T16:21:50.000Z"
-  },
-  {
-   "title": "I have a theory that software drives people insane",
-   "link": "https://graybeard.ing/software-drives-people-insane/",
-   "source": "Hacker News",
-   "date": "2026-09-10T16:13:42.000Z"
-  },
-  {
    "title": "Latest news bulletin | September 10th, 2026 – Evening",
    "link": "https://www.euronews.com/video/2026/09/10/latest-news-bulletin-september-10th-2026-evening",
    "source": "Euronews",
@@ -108,12 +126,6 @@
    "link": "https://www.euronews.com/2026/09/10/houthis-seize-red-sea-port-city-in-push-to-seize-bab-el-mandeb",
    "source": "Euronews",
    "date": "2026-09-10T15:59:44.000Z"
-  },
-  {
-   "title": "Forgejo <=16.0.3 Critical RCE",
-   "link": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
-   "source": "Hacker News",
-   "date": "2026-09-10T15:57:40.000Z"
   },
   {
    "title": "Shadow network of brokers and fixers exploits Syrians at Lebanon border",
@@ -144,18 +156,6 @@
    "link": "https://www.euronews.com/video/2026/09/10/3000-drones-light-up-new-york-skyline-in-911-tribute",
    "source": "Euronews",
    "date": "2026-09-10T13:31:41.000Z"
-  },
-  {
-   "title": "Twenty-five dead after fire on cargo ship in eastern China",
-   "link": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-10T12:24:54.000Z"
-  },
-  {
-   "title": "Rubio says US will work with allies to stop drug-trafficking as three killed in latest boat strike",
-   "link": "https://www.theguardian.com/us-news/2026/sep/09/rubio-us-allies-drug-trafficking",
-   "source": "Guardian World",
-   "date": "2026-09-10T01:02:42.000Z"
   },
   {
    "title": "Uganda to withdraw from Invictus Games ‘out of respect for King Charles’, says military chief",

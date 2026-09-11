@@ -1,59 +1,65 @@
 {
- "updated": "2026-09-10T21:38:29.804Z",
+ "updated": "2026-09-11T00:11:15.993Z",
  "items": [
   {
-   "title": "NTSB Issues Investigative Update on B-767 Runway Excursion Accident in Miami",
+   "title": "Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-11T00:00:00.000Z"
+  },
+  {
+   "title": "UN envoy warns Security Council Yemen’s war has entered ‘dangerous phase’",
+   "link": "https://www.aljazeera.com/news/2026/9/10/un-envoy-warns-security-council-yemens-war-has-entered-dangerous-phase?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-10T23:46:07.000Z"
+  },
+  {
+   "title": "A year after Charlie Kirk’s death, are young voters turning on Trump?",
+   "link": "https://www.aljazeera.com/news/2026/9/10/a-year-after-charlie-kirks-death-are-young-voters-turning-on-trump?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-10T23:08:55.000Z"
+  },
+  {
+   "title": "Israel says it destroyed Hezbollah base in Lebanon’s Ali al-Taher ridge",
+   "link": "https://www.aljazeera.com/news/2026/9/10/israel-says-it-destroyed-hezbollah-base-in-lebanons-ali-al-taher-ridge?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-10T22:33:41.000Z"
+  },
+  {
+   "title": "Spain’s Parliament backs citizenship for Western Saharans born before 1977",
+   "link": "https://www.aljazeera.com/news/2026/9/10/spains-parliament-backs-citizenship-for-western-saharans-born-before-1977?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-10T21:47:14.000Z"
+  },
+  {
+   "title": "LG defends smart-TV features amid audio surveillance allegations",
+   "link": "https://www.aljazeera.com/news/2026/9/10/lg-defends-smart-tv-features-amid-audio-surveillance-allegations?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-10T21:33:28.000Z"
+  },
+  {
+   "title": "NTSB issues investigative update on B-767 runway excursion accident in Miami",
    "link": "https://www.ntsb.gov:443/news/press-releases/Pages/NR20260909.aspx",
    "source": "Hacker News",
    "date": "2026-09-10T21:30:55.000Z"
   },
   {
-   "title": "The part of Navier-Stokes no one is talking about",
+   "title": "OpenAI’s Navier-Stokes release included a Lean 4 formal proof",
    "link": "https://www.johndcook.com/blog/2026/09/09/formal-method-revolution/",
    "source": "Hacker News",
    "date": "2026-09-10T21:22:59.000Z"
-  },
-  {
-   "title": "Israel says it destroyed key Hezbollah tunnels in southern Lebanon",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/israel-says-it-destroyed-key-hezbollah-tunnels-in-southern-lebanon?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-10T21:19:16.000Z"
-  },
-  {
-   "title": "Gaza hospitals ration power as fuel shortages deepen",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/gaza-hospitals-ration-power-as-fuel-shortages-deepen?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-10T21:17:09.000Z"
-  },
-  {
-   "title": "Russian strike hits shopping centre in central Ukraine",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/10-09-clip-russia-strike-pavlohrad-ua?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-10T21:03:42.000Z"
-  },
-  {
-   "title": "Drones recreate Twin Towers in tribute ahead of 9/11 anniversary",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/drones-recreate-twin-towers-in-tribute-ahead-of-9-11?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-10T21:00:18.000Z"
-  },
-  {
-   "title": "Manchester United beat Sabah 4-0 on Champions League return",
-   "link": "https://www.aljazeera.com/sports/2026/9/10/man-utd-cruise-past-sabah-on-champions-league-return-with-4-0-win?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-10T20:54:47.000Z"
-  },
-  {
-   "title": "Morocco denies involvement in migrant surge into Spain’s Ceuta",
-   "link": "https://www.aljazeera.com/news/2026/9/10/morocco-denies-involvement-in-migrant-surge-into-spains-ceuta?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-10T20:46:16.000Z"
   },
   {
    "title": "Canada offers air defense support for Ukraine as Zelenskyy visits",
    "link": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
    "source": "Guardian World",
    "date": "2026-09-10T20:35:06.000Z"
+  },
+  {
+   "title": "Bodily Oddities",
+   "link": "https://vester.si/bodily-oddities/",
+   "source": "Hacker News",
+   "date": "2026-09-10T20:33:11.000Z"
   },
   {
    "title": "Man jailed after threatening to kill son's teacher in French village",
@@ -74,28 +80,22 @@
    "date": "2026-09-10T19:43:22.000Z"
   },
   {
+   "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+   "link": "https://auberon.xyz/blog/posts/deathray/",
+   "source": "Hacker News",
+   "date": "2026-09-10T19:34:20.000Z"
+  },
+  {
    "title": "More than 20 children killed in DR Congo school fire",
    "link": "https://www.bbc.co.uk/news/articles/cgjq15j7318o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-10T19:16:24.000Z"
   },
   {
-   "title": "Creativity is the New Moat",
-   "link": "https://www.inventbuild.studio/blog/genuine-creativity-is-your-new-moat",
-   "source": "Hacker News",
-   "date": "2026-09-10T19:03:34.000Z"
-  },
-  {
    "title": "Yemen's Houthis reportedly seize strategic Red Sea port of Mokha",
    "link": "https://www.bbc.co.uk/news/articles/c4g7vr0lngwo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-10T18:15:47.000Z"
-  },
-  {
-   "title": "JEP 544: Ahead-of-Time Code Compilation",
-   "link": "https://openjdk.org/jeps/544",
-   "source": "Hacker News",
-   "date": "2026-09-10T17:30:39.000Z"
   },
   {
    "title": "Secret son revelation ignites bitter succession dispute in Ugandan kingdom",

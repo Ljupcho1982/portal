@@ -1,83 +1,89 @@
 {
- "updated": "2026-09-11T18:33:57.608Z",
+ "updated": "2026-09-11T21:43:34.753Z",
  "items": [
   {
-   "title": "At least 46,000 displaced by escalating Yemen fighting: UN",
-   "link": "https://www.aljazeera.com/news/2026/9/11/at-least-46000-displaced-by-escalating-yemen-fighting-un?traffic_source=rss",
+   "title": "Zohran Mamdani commemorates 9/11 amid widespread criticism",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/zohran-mamdani-commemorates-9-11-amid-widespread?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-11T18:14:29.000Z"
+   "date": "2026-09-11T21:01:23.000Z"
+  },
+  {
+   "title": "US legislators push AI safety laws amid human extinction warnings",
+   "link": "https://www.aljazeera.com/economy/2026/9/11/us-legislators-push-ai-safety-laws-amid-human-extinction-warnings?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-11T20:59:51.000Z"
+  },
+  {
+   "title": "ElevenLabs Music v2.5",
+   "link": "https://elevenmusic.io/blog/introducing-music-v2-5",
+   "source": "Hacker News",
+   "date": "2026-09-11T20:53:16.000Z"
+  },
+  {
+   "title": "US lawyer cites fake witnesses in murder case, blames ChatGPT",
+   "link": "https://www.aljazeera.com/economy/2026/9/11/us-lawyer-cites-fake-witnesses-in-murder-case-blames-chatgpt?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-11T20:42:05.000Z"
+  },
+  {
+   "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+   "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-11T20:11:47.000Z"
+  },
+  {
+   "title": "Razaullah’s six-hitting debut caps Pakistan’s fightback against England",
+   "link": "https://www.aljazeera.com/sports/2026/9/11/razaullahs-six-hitting-debut-caps-pakistans-fightback-against-england?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-11T20:07:15.000Z"
+  },
+  {
+   "title": "Can BRICS help reshape global order by strengthening emerging economies?",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/9/11/can-brics-help-reshape-global-order-by-strengthening-emerging-economies?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-11T20:04:02.000Z"
+  },
+  {
+   "title": "Hot pursuit: Man who robbed Indian bank using chilli powder arrested",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/hot-pursuit-man-who-robbed-indian-bank-using-chilli-powder-arrested?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-11T20:00:55.000Z"
+  },
+  {
+   "title": "Txt: A fast, keyboard-driven terminal text editor for engineers",
+   "link": "https://txt.hellman.io/",
+   "source": "Hacker News",
+   "date": "2026-09-11T19:46:43.000Z"
+  },
+  {
+   "title": "US commemorates 25th anniversary of devastating 9/11 attacks as their legacy endures",
+   "link": "https://www.euronews.com/2026/09/11/us-commemorates-25th-anniversary-of-devastating-911-attacks-as-their-legacy-endures",
+   "source": "Euronews",
+   "date": "2026-09-11T19:04:54.000Z"
+  },
+  {
+   "title": "GrapheneOS' rewritten Messages app is released",
+   "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+   "source": "Hacker News",
+   "date": "2026-09-11T18:50:36.000Z"
+  },
+  {
+   "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
+   "link": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
+   "source": "Hacker News",
+   "date": "2026-09-11T18:30:07.000Z"
+  },
+  {
+   "title": "I spent $220 on Google app ads. 60% of the installs were robots",
+   "link": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+   "source": "Hacker News",
+   "date": "2026-09-11T18:24:55.000Z"
   },
   {
    "title": "Litelm: LiteLLM Without the Bloat",
    "link": "https://github.com/kennethwolters/litelm",
    "source": "Hacker News",
    "date": "2026-09-11T18:10:20.000Z"
-  },
-  {
-   "title": "The EPA Is Planning to Scrap Public Review Rules for Data Center Pollution",
-   "link": "https://capitalbnews.org/data-centers-permit-rules-epa/",
-   "source": "Hacker News",
-   "date": "2026-09-11T18:05:21.000Z"
-  },
-  {
-   "title": "US holds memorials for the 9/11 attacks, 25 years later",
-   "link": "https://www.aljazeera.com/gallery/2026/9/11/us-holds-memorials-for-the-9-11-attacks-25-years?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-11T18:00:41.000Z"
-  },
-  {
-   "title": "Show HN: Toast, a beautiful by default in terminal IDE",
-   "link": "https://github.com/paradise-runner/toast",
-   "source": "Hacker News",
-   "date": "2026-09-11T17:54:53.000Z"
-  },
-  {
-   "title": "Λ Snap – An inviting programming language for kids and adults for CS study",
-   "link": "https://snap.berkeley.edu/",
-   "source": "Hacker News",
-   "date": "2026-09-11T17:36:11.000Z"
-  },
-  {
-   "title": "US declares end of largest recorded cyclosporiasis outbreak",
-   "link": "https://www.aljazeera.com/news/2026/9/11/us-declares-end-of-largest-recorded-cyclosporiasis-outbreak?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-11T17:35:36.000Z"
-  },
-  {
-   "title": "UK lawmakers vote against bill to legalise assisted dying",
-   "link": "https://www.aljazeera.com/news/2026/9/11/uk-lawmakers-vote-against-bill-to-legalise-assisted-dying?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-11T17:31:22.000Z"
-  },
-  {
-   "title": "A Misalignment of AI in Mathematics",
-   "link": "https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics/",
-   "source": "Hacker News",
-   "date": "2026-09-11T17:30:26.000Z"
-  },
-  {
-   "title": "Rising petrol costs drive sharp inflation increase in US in August",
-   "link": "https://www.aljazeera.com/economy/2026/9/11/rising-petrol-costs-drive-sharp-inflation-increase-in-us-in-august?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-11T17:28:11.000Z"
-  },
-  {
-   "title": "‘Handcuffed and blindfolded’: Is the US targeting Ecuadorian fishermen?",
-   "link": "https://www.aljazeera.com/news/2026/9/11/handcuffed-and-blindfolded-is-the-us-targeting-ecuadorian-fishermen?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-11T17:18:17.000Z"
-  },
-  {
-   "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
-   "link": "https://www.getzep.com/careers/",
-   "source": "Hacker News",
-   "date": "2026-09-11T17:00:17.000Z"
-  },
-  {
-   "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-   "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-11T16:58:34.000Z"
   },
   {
    "title": "Russia sends sanctioned ships to Mediterranean as NATO tracks 'Syrian Express' convoy",
@@ -120,12 +126,6 @@
    "link": "https://www.euronews.com/2026/09/11/russian-leader-vladimir-putin-arrives-in-india-ahead-of-brics-summit",
    "source": "Euronews",
    "date": "2026-09-11T12:58:49.000Z"
-  },
-  {
-   "title": "Tourists swim with Greece’s famous black pigs on Atokos island",
-   "link": "https://www.euronews.com/video/2026/09/11/tourists-swim-with-greeces-famous-black-pigs-on-atokos-island",
-   "source": "Euronews",
-   "date": "2026-09-11T12:33:07.000Z"
   },
   {
    "title": "Princess Diana's 'revenge dress' goes up for auction",

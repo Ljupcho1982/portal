@@ -1,47 +1,101 @@
 {
- "updated": "2026-09-12T00:18:55.670Z",
+ "updated": "2026-09-12T05:48:00.618Z",
  "items": [
   {
-   "title": "Arrest made over the death of black woman found hanged from tree",
+   "title": "Latest news bulletin | September 12th, 2026 – Morning",
+   "link": "https://www.euronews.com/video/2026/09/12/latest-news-bulletin-september-12th-2026-morning",
+   "source": "Euronews",
+   "date": "2026-09-12T05:00:33.000Z"
+  },
+  {
+   "title": "‘The family paid the price’: India’s deadly online gambling crisis",
+   "link": "https://www.aljazeera.com/features/2026/9/12/the-family-paid-the-price-indias-deadly-online-gambling-crisis?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-12T04:46:56.000Z"
+  },
+  {
+   "title": "OpenAI agents attacked RubyGems back in May",
+   "link": "https://simonwillison.net/2026/Sep/12/openai-agents-rubygems/",
+   "source": "Hacker News",
+   "date": "2026-09-12T04:46:43.000Z"
+  },
+  {
+   "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+   "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-12T04:43:10.000Z"
+  },
+  {
+   "title": "China’s Xi heads to India for BRICS summit overshadowed by wars",
+   "link": "https://www.aljazeera.com/news/2026/9/12/chinas-xi-heads-to-india-for-brics-summit-overshadowed-by-wars?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-12T04:27:27.000Z"
+  },
+  {
+   "title": "Usenet rewind archive search engine",
+   "link": "https://www.usenet-rewind.com/",
+   "source": "Hacker News",
+   "date": "2026-09-12T04:19:52.000Z"
+  },
+  {
+   "title": "Clay Mathematics Institute on the Navier-Stokes Problem",
+   "link": "https://www.claymath.org/news/navier-stokes-announcement/",
+   "source": "Hacker News",
+   "date": "2026-09-12T04:09:43.000Z"
+  },
+  {
+   "title": "A stable Afghanistan post 9/11 is in US interests says former US diplomat",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/12-09-quotable-this-is-america-911-us-khalilzad-taliban?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-12T04:00:23.000Z"
+  },
+  {
+   "title": "Mexico rescues eight from clandestine clinic run by violent Jalisco cartel",
+   "link": "https://www.aljazeera.com/news/2026/9/12/mexican-authorities-rescue-eight-from-violent-cartels-secret-site?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-12T03:32:54.000Z"
+  },
+  {
+   "title": "Google no longer provides direct URLs in search results",
+   "link": "https://www.autom.dev/blog/google-search-goto-links",
+   "source": "Hacker News",
+   "date": "2026-09-12T03:14:20.000Z"
+  },
+  {
+   "title": "Death toll from Philippines ferry fire climbs to 35, with dozens still missing",
+   "link": "https://www.bbc.co.uk/news/articles/cwyz755yeg9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-12T03:02:28.000Z"
+  },
+  {
+   "title": "Pandas Should Go Extinct",
+   "link": "https://eddie.codes/posts/pandas-should-go-extinct/",
+   "source": "Hacker News",
+   "date": "2026-09-12T02:42:08.000Z"
+  },
+  {
+   "title": "Arrest made over the death of black woman found hanged from tree in Mississippi",
    "link": "https://www.bbc.co.uk/news/articles/cqjkejq5750o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-09-12T00:07:23.000Z"
+   "date": "2026-09-12T02:29:49.000Z"
   },
   {
-   "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-   "link": "https://www.rubyhack.ai/",
-   "source": "Hacker News",
-   "date": "2026-09-11T23:17:42.000Z"
-  },
-  {
-   "title": "UN extends partial Sudan arms embargo for a month",
-   "link": "https://www.aljazeera.com/news/2026/9/11/un-extends-partial-sudan-arms-embargo-for-a-month?traffic_source=rss",
+   "title": "North Korea fires ballistic missiles off eastern coast, Seoul says",
+   "link": "https://www.aljazeera.com/news/2026/9/12/north-korea-fires-ballistic-missiles-off-eastern-coast-seoul-says?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-11T23:08:05.000Z"
+   "date": "2026-09-12T02:25:59.000Z"
   },
   {
-   "title": "Flavio Bolsonaro faces corruption probe weeks before Brazil election",
-   "link": "https://www.aljazeera.com/news/2026/9/11/flavio-bolsonaro-faces-corruption-probe-weeks-before-brazil-election?traffic_source=rss",
+   "title": "Putin and Pezeshkian call out US dominance ahead of BRICS",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/putin-and-pezeshkian-call-out-us-dominance-ahead-of-brics?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-11T22:57:51.000Z"
+   "date": "2026-09-12T02:22:29.000Z"
   },
   {
-   "title": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-   "link": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-11T22:17:45.000Z"
-  },
-  {
-   "title": "QueryBrew: System-Agnostic SQL-to-SQL Query Optimization [pdf]",
-   "link": "https://www.vldb.org/pvldb/vol19/p4494-schmidt.pdf",
+   "title": "Starlink Signal Leakage Threatens Radio Astronomy's Most Critical Frequencies",
+   "link": "https://www.gadgetreview.com/starlinks-signal-leakage-is-threatening-radio-astronomys-most-critical-frequencies",
    "source": "Hacker News",
-   "date": "2026-09-11T22:16:15.000Z"
-  },
-  {
-   "title": "Project Blinkenlights",
-   "link": "https://blinkenlights.de/en/",
-   "source": "Hacker News",
-   "date": "2026-09-11T22:15:00.000Z"
+   "date": "2026-09-12T00:40:32.000Z"
   },
   {
    "title": "Houthis seize key Yemeni island in Bab el-Mandeb, taking control of the strait",
@@ -50,40 +104,10 @@
    "date": "2026-09-11T22:08:14.000Z"
   },
   {
-   "title": "Israeli demolitions threaten schools and homes in Masafer Yatta",
-   "link": "https://www.aljazeera.com/features/2026/9/11/israeli-demolitions-threaten-schools-and-homes-in-masafer-yatta?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-11T21:53:34.000Z"
-  },
-  {
-   "title": "Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
-   "link": "https://github.com/mirza-rizvi/ResolveHQ",
-   "source": "Hacker News",
-   "date": "2026-09-11T21:48:00.000Z"
-  },
-  {
-   "title": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
-   "link": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-11T21:30:47.000Z"
-  },
-  {
-   "title": "Sabalenka vs Rybakina: US Open women’s singles final – start, prize, form",
-   "link": "https://www.aljazeera.com/sports/2026/9/11/sabalenka-rybakina-us-open-2026-womens-singles-final-time-form-head-to-head?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-11T21:28:34.000Z"
-  },
-  {
    "title": "Passenger train derails in France leaving at least 44 injured",
    "link": "https://www.bbc.co.uk/news/articles/c8d37dm8d8mo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-11T21:25:32.000Z"
-  },
-  {
-   "title": "Somber tributes as US marks the 25th anniversary of September 11 attacks",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/somber-tributes-as-us-marks-the-25th-anniversary-of-september-11-attacks?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-11T21:23:51.000Z"
   },
   {
    "title": "Tragic death of woman who testified against father in notorious mafia murder of mother",
@@ -98,28 +122,10 @@
    "date": "2026-09-11T19:04:54.000Z"
   },
   {
-   "title": "GrapheneOS' rewritten Messages app is released",
-   "link": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
-   "source": "Hacker News",
-   "date": "2026-09-11T18:50:36.000Z"
-  },
-  {
-   "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
-   "link": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
-   "source": "Hacker News",
-   "date": "2026-09-11T18:30:07.000Z"
-  },
-  {
    "title": "Russia sends sanctioned ships to Mediterranean as NATO tracks 'Syrian Express' convoy",
    "link": "https://www.euronews.com/2026/09/11/russia-sends-sanctioned-ships-to-mediterranean-as-nato-tracks-syrian-express-convoy",
    "source": "Euronews",
    "date": "2026-09-11T16:47:32.000Z"
-  },
-  {
-   "title": "Norway's Princess Astrid dies two days after attending brother King Harald's funeral",
-   "link": "https://www.bbc.co.uk/news/articles/cgjq1qy98vjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-11T16:00:59.000Z"
   },
   {
    "title": "Latest news bulletin | September 11th, 2026 – Evening",
@@ -138,12 +144,6 @@
    "link": "https://www.euronews.com/video/2026/09/11/colombias-cali-remembers-earthquake-victims-one-month-on",
    "source": "Euronews",
    "date": "2026-09-11T13:52:50.000Z"
-  },
-  {
-   "title": "BRICS leaders arrive in India ahead of two-day summit as global conflicts set to take centre stage",
-   "link": "https://www.euronews.com/2026/09/11/russian-leader-vladimir-putin-arrives-in-india-ahead-of-brics-summit",
-   "source": "Euronews",
-   "date": "2026-09-11T12:58:49.000Z"
   },
   {
    "title": "$15m fund launched to create ‘unstoppable momentum’ to end FGM worldwide",

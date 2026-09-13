@@ -1,11 +1,41 @@
 {
- "updated": "2026-09-12T22:18:41.069Z",
+ "updated": "2026-09-13T01:01:18.998Z",
  "items": [
   {
-   "title": "First naval battle between drones takes place in the Black Sea",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/first-naval-battle-between-drones-takes-place-in-the-black-sea?traffic_source=rss",
+   "title": "Houthi projectile wounds two, damages mosque in Jazan region, Saudi says",
+   "link": "https://www.aljazeera.com/news/2026/9/13/houthi-projectile-wounds-two-damages-mosque-in-jazan-region-saudi-says?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-12T21:38:24.000Z"
+   "date": "2026-09-13T00:24:29.000Z"
+  },
+  {
+   "title": "Iran war live: Saudi Arabia and Houthis trade strikes over Bab al-Mandeb",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-13T00:00:40.000Z"
+  },
+  {
+   "title": "Teen rescued after clinging to boat for two days off Alaska",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/teen-rescued-after-clinging-to-boat-for-two-days-off-alaska?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-12T23:56:58.000Z"
+  },
+  {
+   "title": "Death toll from Philippine ferry fire rises to 76",
+   "link": "https://www.aljazeera.com/news/2026/9/12/death-toll-from-philippine-ferry-fire-rises-to-76?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-12T23:50:03.000Z"
+  },
+  {
+   "title": "Mbappe double helps Real Madrid thump Rayo Vallecano 4–1 in La Liga",
+   "link": "https://www.aljazeera.com/sports/2026/9/12/mbappe-double-helps-real-madrid-thump-rayo-vallecano-4-1-in-la?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-12T23:43:32.000Z"
+  },
+  {
+   "title": "Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know",
+   "link": "https://www.aljazeera.com/sports/2026/9/12/ben-shelton-alexander-zverev-us-open-2026-men-final-singles?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-12T23:25:22.000Z"
   },
   {
    "title": "Trump's comments on a united Ireland may have targeted audience across the Atlantic",
@@ -20,52 +50,10 @@
    "date": "2026-09-12T21:16:47.000Z"
   },
   {
-   "title": "Ebola spreads to seventh DRC province as gov’t insists cases are declining",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-drc-ebola-spread-clip-mp4?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-12T20:44:18.000Z"
-  },
-  {
-   "title": "Second crypto billionaire donates record $49m to far-right Reform UK",
-   "link": "https://www.aljazeera.com/news/2026/9/12/second-crypto-billionaire-donates-record-49m-to-far-right-reform-uk?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-12T20:43:57.000Z"
-  },
-  {
-   "title": "Fire at nursing home in Chile kills 16 elderly residents",
-   "link": "https://www.aljazeera.com/news/2026/9/12/fire-at-nursing-home-in-chile-kills-16-elderly-residents?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-12T20:42:23.000Z"
-  },
-  {
-   "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
-   "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
-   "source": "Hacker News",
-   "date": "2026-09-12T20:28:29.000Z"
-  },
-  {
    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
    "link": "https://withspecific.com/benchmarks/real-swe",
    "source": "Hacker News",
    "date": "2026-09-12T20:25:48.000Z"
-  },
-  {
-   "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
-   "link": "https://modelrift.com/blog/cadquery-vs-openscad/",
-   "source": "Hacker News",
-   "date": "2026-09-12T19:57:19.000Z"
-  },
-  {
-   "title": "Israel bombs southern Lebanon as talks postponed",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/israel-bombs-southern-lebanon-as-talks-postponed?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-12T19:56:09.000Z"
-  },
-  {
-   "title": "Gaza genocide documentary ‘NAZA’ wins Special Jury Prize at Venice",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-naza-venice-clip-mp4?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-12T19:50:08.000Z"
   },
   {
    "title": "Fire at nursing home in Chile kills 16 residents",
@@ -98,10 +86,22 @@
    "date": "2026-09-12T16:55:31.000Z"
   },
   {
+   "title": "Make your first edit to OpenStreetMap",
+   "link": "https://high5apps.github.io/josm-plugin-website-wizard/",
+   "source": "Hacker News",
+   "date": "2026-09-12T16:25:08.000Z"
+  },
+  {
    "title": "Latest news bulletin | September 12th, 2026 – Evening",
    "link": "https://www.euronews.com/video/2026/09/12/latest-news-bulletin-september-12th-2026-evening",
    "source": "Euronews",
    "date": "2026-09-12T16:00:29.000Z"
+  },
+  {
+   "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+   "link": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+   "source": "Hacker News",
+   "date": "2026-09-12T15:49:52.000Z"
   },
   {
    "title": "Burial of King Oyo takes place in Uganda as news anchor prepares for throne",

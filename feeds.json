@@ -1,83 +1,89 @@
 {
- "updated": "2026-09-13T22:24:42.112Z",
+ "updated": "2026-09-14T01:05:29.395Z",
  "items": [
   {
-   "title": "Could AI really kill us within a decade?",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/ai-apocalypse-warnings-benefit-ai-companies?traffic_source=rss",
+   "title": "Charlie Kirk statue vandalised outside Turning Point USA headquarters",
+   "link": "https://www.aljazeera.com/news/2026/9/14/charlie-kirk-statue-vandalised-outside-turning-point-usa-headquarters?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-13T22:17:15.000Z"
+   "date": "2026-09-14T00:37:12.000Z"
   },
   {
-   "title": "Barcelona beat Levante as Yamal scores twice to maintain perfect start",
-   "link": "https://www.aljazeera.com/sports/2026/9/13/barcelona-beat-levante-as-yamal-scores-twice-to-maintain-perfect-start?traffic_source=rss",
+   "title": "Yemen’s Houthis advance on government strongholds of Marib, Taiz",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/14/yemens-houthis-advance-on-government-strongholds-of-marib-taiz?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-13T22:10:04.000Z"
+   "date": "2026-09-14T00:14:09.000Z"
   },
   {
-   "title": "Jefferson-Wooden, Bednarek complete Ultimate Championship sprint doubles",
-   "link": "https://www.aljazeera.com/sports/2026/9/13/jefferson-wooden-bednarek-complete-ultimate-championship-sprint-doubles?traffic_source=rss",
+   "title": "Iran war live: Oman says Hormuz talks with Iran, Gulf states postponed",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-13T22:02:10.000Z"
+   "date": "2026-09-14T00:00:00.000Z"
   },
   {
-   "title": "Manchester City wrongly awarded Haaland goal by VAR at United: Refs’ body",
-   "link": "https://www.aljazeera.com/sports/2026/9/13/manchester-city-wrongly-awarded-haaland-goal-by-var-at-united-refs-body?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-13T21:58:17.000Z"
+   "title": "The Coming War on General Computation (2011)",
+   "link": "https://en.wikisource.org/wiki/The_Coming_War_on_General_Computation",
+   "source": "Hacker News",
+   "date": "2026-09-13T23:54:55.000Z"
   },
   {
-   "title": "Tehran and Muscat delay talks, citing regional consensus need",
-   "link": "https://www.aljazeera.com/news/2026/9/13/tehran-and-muscat-delay-talks-citing-regional-consensus-need?traffic_source=rss",
+   "title": "Israeli quadcopter terrorises homes in Gaza City",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/aje-onl-nf_israeli-quadcopter-terrorises-homes-in-gaza-city-130926?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-13T21:50:50.000Z"
+   "date": "2026-09-13T23:33:23.000Z"
   },
   {
-   "title": "A third person has died of measles in the US, health officials say",
-   "link": "https://www.aljazeera.com/news/2026/9/13/a-third-person-has-died-of-measles-in-the-us-health-officials-say?traffic_source=rss",
+   "title": "Trump dismisses calls for AI slowdown from leading tech CEOs",
+   "link": "https://www.aljazeera.com/news/2026/9/13/trump-dismisses-calls-for-ai-slowdown-from-leading-tech-ceos?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-13T21:21:32.000Z"
+   "date": "2026-09-13T23:31:56.000Z"
+  },
+  {
+   "title": "The contagion of fear",
+   "link": "https://bcantrill.dtrace.org/2026/09/13/the-contagion-of-fear/",
+   "source": "Hacker News",
+   "date": "2026-09-13T22:38:18.000Z"
+  },
+  {
+   "title": "Zverev defeats Shelton in four sets to win his first US Open title",
+   "link": "https://www.aljazeera.com/sports/2026/9/13/zverev-beats-shelton-in-four-sets-to-win-us-open-title?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-13T22:33:34.000Z"
   },
   {
    "title": "Swedish party blocs tied after Sunday vote, projections say",
    "link": "https://www.bbc.co.uk/news/articles/c0qx5d79kdeo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-09-13T21:17:15.000Z"
+   "date": "2026-09-13T22:27:54.000Z"
   },
   {
-   "title": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+   "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+   "link": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+   "source": "Hacker News",
+   "date": "2026-09-13T21:47:04.000Z"
+  },
+  {
+   "title": "Why is privacy so hard?",
+   "link": "https://cacm.acm.org/blogcacm/why-is-privacy-so-hard/",
+   "source": "Hacker News",
+   "date": "2026-09-13T21:13:43.000Z"
+  },
+  {
+   "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
    "link": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
    "source": "Hacker News",
    "date": "2026-09-13T21:06:13.000Z"
   },
   {
-   "title": "Flawed Routers Flood University of Wisconsin Internet Time Server (2003)",
+   "title": "Flawed routers flood University of Wisconsin internet time server (2003)",
    "link": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
    "source": "Hacker News",
    "date": "2026-09-13T20:33:18.000Z"
-  },
-  {
-   "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
-   "link": "https://twitter.com/TechEmails/status/2099214399840059428",
-   "source": "Hacker News",
-   "date": "2026-09-13T20:08:45.000Z"
-  },
-  {
-   "title": "There Is No AI (It's Just People) with Jaron Lanier",
-   "link": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
-   "source": "Hacker News",
-   "date": "2026-09-13T19:41:06.000Z"
   },
   {
    "title": "Russia hits Ukrainian train shortly after Boris Johnson and top European officials leave station",
    "link": "https://www.bbc.co.uk/news/articles/cy5zg41dkqwo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-13T19:14:21.000Z"
-  },
-  {
-   "title": "AI recursive self-improvement might not come so quickly after all (August 2026)",
-   "link": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement/",
-   "source": "Hacker News",
-   "date": "2026-09-13T18:49:44.000Z"
   },
   {
    "title": "Trump downplays warnings of AI risks, citing rivalry with China",
@@ -90,12 +96,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-13T18:20:22.000Z"
-  },
-  {
-   "title": "I'm being cyberattacked by Tesla, Inc",
-   "link": "https://dreamstation.systems/personal/tesla.html",
-   "source": "Hacker News",
-   "date": "2026-09-13T18:03:09.000Z"
   },
   {
    "title": "Latest news bulletin | September 13th, 2026 – Evening",

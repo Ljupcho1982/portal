@@ -1,143 +1,149 @@
 {
- "updated": "2026-09-15T13:33:43.848Z",
+ "updated": "2026-09-15T18:12:24.517Z",
  "items": [
+  {
+   "title": "Carney bound for Europe as Ottawa seeks closer ties with EU",
+   "link": "https://www.euronews.com/2026/09/15/carney-bound-for-europe-as-ottawa-seeks-closer-ties-with-eu",
+   "source": "Euronews",
+   "date": "2026-09-15T17:55:06.000Z"
+  },
+  {
+   "title": "Canada is a 'safe harbour' for global finance, Carney says",
+   "link": "https://www.bbc.co.uk/news/articles/cmq8jdgel128o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-15T17:54:46.000Z"
+  },
+  {
+   "title": "More than 100,000 displaced as they flee violence in Yemen: UN",
+   "link": "https://www.aljazeera.com/news/2026/9/15/more-than-100000-displaced-as-they-flee-violence-in-yemen-un?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-15T17:39:58.000Z"
+  },
+  {
+   "title": "Dystopian Surveillance Is Becoming a Reality",
+   "link": "https://dallincrump.com/dystopian-surveillance-is-becoming-a-reality",
+   "source": "Hacker News",
+   "date": "2026-09-15T17:37:36.000Z"
+  },
+  {
+   "title": "GEFS on OpenBSD: A Early Preview",
+   "link": "https://marc.info/?l=openbsd-tech&m=178948744271633&w=2",
+   "source": "Hacker News",
+   "date": "2026-09-15T17:12:19.000Z"
+  },
+  {
+   "title": "Jiga (YC W21) Is Hiring Product Engineer (Remote/US)",
+   "link": "https://jiga.io/about-us/?ashby_jid=0b75d72d-c92b-4dca-8062-09d298ada0bd",
+   "source": "Hacker News",
+   "date": "2026-09-15T17:00:31.000Z"
+  },
   {
    "title": "Suspected sabotage causes major Netherlands rail disruption",
    "link": "https://www.bbc.co.uk/news/articles/c8ly49w9g1edo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-09-15T13:33:16.000Z"
+   "date": "2026-09-15T16:55:04.000Z"
   },
   {
-   "title": "Java 27 Released",
-   "link": "https://mail.openjdk.org/archives/list/announce@openjdk.org/thread/ORGGLMN75HFEWP7YL3ZLGHLYHVIBJDYT/",
-   "source": "Hacker News",
-   "date": "2026-09-15T13:13:43.000Z"
-  },
-  {
-   "title": "Houthi-run TV releases video of abandoned Mocha airport",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/houthi-run-tv-releases-video-of-abandoned-mocha-airport?traffic_source=rss",
+   "title": "How an Israeli cell orchestrated an anti-Qatar campaign",
+   "link": "https://www.aljazeera.com/news/2026/9/15/israel-influence-campaign-against-qatar?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-15T13:11:13.000Z"
+   "date": "2026-09-15T16:50:46.000Z"
   },
   {
-   "title": "El Nino reaches super status: Where will it bring rain, drought and heat?",
-   "link": "https://www.aljazeera.com/news/2026/9/15/el-nino-reaches-super-status-where-will-it-bring-rain-drought-and-heat?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-15T13:10:26.000Z"
-  },
-  {
-   "title": "Coalition talks likely as no party dominates Philippines’ Bangsamoro region",
-   "link": "https://www.aljazeera.com/news/2026/9/15/coalition-talks-likely-as-no-party-dominates-philippines-bangsamoro-region?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-15T13:07:41.000Z"
-  },
-  {
-   "title": "Europe’s fake pesticide crisis: inside a $20 billion illegal trade",
-   "link": "https://www.euronews.com/2026/09/15/europes-fake-pesticide-crisis-inside-a-20-billion-illegal-trade",
+   "title": "Canada still a crucial partner for US in 'many key areas,' PM Carney says",
+   "link": "https://www.euronews.com/2026/09/15/canada-still-a-crucial-partner-for-us-in-many-key-areas-pm-carney-says",
    "source": "Euronews",
-   "date": "2026-09-15T13:00:07.000Z"
+   "date": "2026-09-15T16:48:24.000Z"
   },
   {
-   "title": "Colombian ex-foreign minister charged over nanny's lie detector test",
-   "link": "https://www.bbc.co.uk/news/articles/c61580330nj1o?at_medium=RSS&at_campaign=rss",
+   "title": "Can China play peacemaker as Iran’s foreign minister heads to Beijing?",
+   "link": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-15T16:15:13.000Z"
+  },
+  {
+   "title": "Election in Philippines’ Bangsamoro region ends in hung parliament",
+   "link": "https://www.aljazeera.com/news/2026/9/15/election-in-philippines-bangsamoro-region-ends-in-hung-parliament?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-15T16:14:10.000Z"
+  },
+  {
+   "title": "Two sailors missing after tanker attacked in Strait of Hormuz, Oman says",
+   "link": "https://www.bbc.co.uk/news/articles/c3n07ydqdzlvo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-09-15T12:59:21.000Z"
+   "date": "2026-09-15T16:13:41.000Z"
   },
   {
-   "title": "Thousands flee to Djibouti amid renewed Yemen fighting",
-   "link": "https://www.aljazeera.com/news/2026/9/15/thousands-flee-to-djibouti-amid-renewed-yemen-fighting?traffic_source=rss",
+   "title": "FBI’s Kash Patel defends hiring policy change on bestiality, prostitution",
+   "link": "https://www.aljazeera.com/news/2026/9/15/fbis-kash-patel-defends-hiring-policy-change-on-bestiality-prostitution?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-15T12:43:14.000Z"
+   "date": "2026-09-15T16:13:26.000Z"
   },
   {
-   "title": "India vs Afghanistan live: T20 cricket match",
-   "link": "https://www.aljazeera.com/sports/liveblog/2026/9/15/india-vs-afghanistan-live-t20-cricket-match?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-15T12:33:40.000Z"
-  },
-  {
-   "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-   "link": "https://github.com/arnegiacomo/fugleramme",
-   "source": "Hacker News",
-   "date": "2026-09-15T12:31:10.000Z"
-  },
-  {
-   "title": "25 Years of Mass Surveillance Is Enough [Auth: Cindy Cohn; Bruce Schneier]",
-   "link": "https://www.lawfaremedia.org/article/25-years-of-mass-surveillance-is-enough",
-   "source": "Hacker News",
-   "date": "2026-09-15T12:08:26.000Z"
-  },
-  {
-   "title": "Escalation is 'on the way' but region must keep calm, Syria's al-Sharaa tells Euronews",
-   "link": "https://www.euronews.com/2026/09/15/escalation-is-on-the-way-but-region-must-keep-calm-syrias-al-shaara-tells-euronews",
+   "title": "Two years after COP29, Azerbaijan turns climate commitments into investment",
+   "link": "https://www.euronews.com/2026/09/15/two-years-after-cop29-azerbaijan-turns-climate-commitments-into-investment",
    "source": "Euronews",
-   "date": "2026-09-15T12:03:08.000Z"
+   "date": "2026-09-15T16:10:59.000Z"
   },
   {
-   "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-   "link": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-   "source": "Hacker News",
-   "date": "2026-09-15T12:01:31.000Z"
+   "title": "At least 150 pro-LGBTQ protesters detained in Istanbul crackdown",
+   "link": "https://www.euronews.com/video/2026/09/15/at-least-150-pro-lgbtq-protesters-detained-in-istanbul-crackdown",
+   "source": "Euronews",
+   "date": "2026-09-15T16:05:34.000Z"
   },
   {
-   "title": "Athletes share ‘what women in sport look like’ to rebut Sydney Sweeney ad",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/athletes-share-what-women-in-sport-look-like-to-rebut-sydney-sweeney-ad?traffic_source=rss",
+   "title": "Latest news bulletin | September 15th, 2026 – Evening",
+   "link": "https://www.euronews.com/video/2026/09/15/latest-news-bulletin-september-15th-2026-evening",
+   "source": "Euronews",
+   "date": "2026-09-15T16:00:29.000Z"
+  },
+  {
+   "title": "Lucy Letby inquiry blames UK hospital for failure to protect babies",
+   "link": "https://www.aljazeera.com/news/2026/9/15/lucy-letby-inquiry-blames-hospital-for-complete-failure-to-protect-babies?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-15T11:55:49.000Z"
+   "date": "2026-09-15T15:58:49.000Z"
+  },
+  {
+   "title": "America's Driver's License Breach Is a National Security Disaster",
+   "link": "https://www.lawfaremedia.org/article/america%27s-drivers-licence-breach-is-a-national-security-disaster",
+   "source": "Hacker News",
+   "date": "2026-09-15T15:58:48.000Z"
+  },
+  {
+   "title": "Trump blasts Supreme Court over mail-in ballot ruling",
+   "link": "https://www.euronews.com/2026/09/15/trump-blasts-supreme-court-over-mail-in-ballot-ruling",
+   "source": "Euronews",
+   "date": "2026-09-15T15:38:34.000Z"
+  },
+  {
+   "title": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
+   "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-15T15:31:34.000Z"
+  },
+  {
+   "title": "Cartesian – AI 3D Modeling for Design",
+   "link": "https://www.formas.ai/cartesian",
+   "source": "Hacker News",
+   "date": "2026-09-15T15:26:45.000Z"
+  },
+  {
+   "title": "Show HN: The bottom 50% of U.S. households are short after essentials (BLS data)",
+   "link": "https://whats-left-over.pages.dev/#s=50_40_10&c=1&u=person&t=0&tm=cbo&b=0&ts=100&k=0&cc=12201&im=nominal&by=2000&ir=2.5&ao=0&ar=20&at=200000&ip=10&rm=sp500&rr=8&pv=portfolio&p=1&iv=left&hp=1&e=food.housing.transport.health.insurance",
+   "source": "Hacker News",
+   "date": "2026-09-15T15:24:11.000Z"
+  },
+  {
+   "title": "What weapon could the US have put into space?",
+   "link": "https://www.bbc.co.uk/news/articles/cmy4zqgk97wlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-15T14:23:14.000Z"
   },
   {
    "title": "Denmark says Russian warship fired flares at military helicopter",
    "link": "https://www.bbc.co.uk/news/articles/cwn8mjl31p5yo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-15T11:40:00.000Z"
-  },
-  {
-   "title": "25 Years of Mass Surveillance Is Enough",
-   "link": "https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html",
-   "source": "Hacker News",
-   "date": "2026-09-15T11:26:48.000Z"
-  },
-  {
-   "title": "When Google Cuts Off Access: Poland and the World",
-   "link": "https://dossier.reasoner.pl/artykul/",
-   "source": "Hacker News",
-   "date": "2026-09-15T11:21:09.000Z"
-  },
-  {
-   "title": "Robot valet parking at Gatwick Airport promises safer, easier long‑stay car storage",
-   "link": "https://www.euronews.com/video/2026/09/15/robot-valet-parking-at-gatwick-airport-promises-safer-easier-longstay-car-storage",
-   "source": "Euronews",
-   "date": "2026-09-15T11:16:14.000Z"
-  },
-  {
-   "title": "Latest news bulletin | September 15th, 2026 – Midday",
-   "link": "https://www.euronews.com/video/2026/09/15/latest-news-bulletin-september-15th-2026-midday",
-   "source": "Euronews",
-   "date": "2026-09-15T10:00:16.000Z"
-  },
-  {
-   "title": "UN urges full access for investigators as Gaza death toll mounts",
-   "link": "https://www.euronews.com/2026/09/15/un-urges-full-access-for-investigators-as-gaza-death-toll-mounts",
-   "source": "Euronews",
-   "date": "2026-09-15T09:16:26.000Z"
-  },
-  {
-   "title": "Iran's new ayatollah is a Nolan fan interested in start-ups, in-laws say",
-   "link": "https://www.euronews.com/2026/09/15/irans-new-ayatollah-is-a-nolan-fan-interested-in-start-ups-family-says",
-   "source": "Euronews",
-   "date": "2026-09-15T09:03:49.000Z"
-  },
-  {
-   "title": "Trump says AI safety fears a 'hoax' as he rejects calls for greater safeguards",
-   "link": "https://www.bbc.co.uk/news/articles/cw980n0nd0qjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-15T08:49:31.000Z"
-  },
-  {
-   "title": "US confirms for first time it has deployed space weapons",
-   "link": "https://www.bbc.co.uk/news/articles/ck790xg41ygro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-15T08:48:28.000Z"
   },
   {
    "title": "‘I believed the hype’: the white South Africans denied refugee status in the US",
@@ -150,12 +156,6 @@
    "link": "https://www.theguardian.com/global-development/2026/sep/15/ebola-outbreak-in-drc-has-peaked-say-authorities-as-infection-rates-slow",
    "source": "Guardian World",
    "date": "2026-09-15T04:00:26.000Z"
-  },
-  {
-   "title": "Welsh actor Matthew Rhys makes Emmy Awards history with double win",
-   "link": "https://www.bbc.co.uk/news/articles/cqlykdx48xrpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-15T03:50:06.000Z"
   },
   {
    "title": "Panama canal traffic to be cut again as drought from El Niño worsens",

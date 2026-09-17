@@ -1,23 +1,95 @@
 {
- "updated": "2026-09-17T18:14:30.012Z",
+ "updated": "2026-09-17T21:25:43.973Z",
  "items": [
   {
-   "title": "The UK’s King Charles warns AI leaders of ‘existential dangers’",
-   "link": "https://www.aljazeera.com/news/2026/9/17/the-uks-king-charles-warns-ai-leaders-of-existential-dangers?traffic_source=rss",
+   "title": "Pennsylvania seeks CDC help amid dispute over US measles deaths",
+   "link": "https://www.aljazeera.com/news/2026/9/17/pennsylvania-seeks-cdc-help-amid-dispute-over-us-measles-deaths?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-17T17:29:54.000Z"
+   "date": "2026-09-17T21:08:51.000Z"
   },
   {
-   "title": "Stallman: Thousands Dead, Millions Deprived of Liberties (2001)",
-   "link": "https://news.slashdot.org/story/01/09/17/1758231/stallman-thousands-dead-millions-deprived-of-liberties",
-   "source": "Hacker News",
-   "date": "2026-09-17T17:20:14.000Z"
+   "title": "Russia, China veto UN mandate to monitor Iran sanctions",
+   "link": "https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-17T21:01:41.000Z"
   },
   {
-   "title": "Economic Policy for AGI",
-   "link": "https://institute.deepmind.com/essays/economic-policy-for-agi/",
+   "title": "At least 26 killed in clashes along Sudan-South Sudan border region",
+   "link": "https://www.aljazeera.com/news/2026/9/17/at-least-26-killed-in-clashes-along-sudan-south-sudan-border-region?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-17T20:47:52.000Z"
+  },
+  {
+   "title": "Why does Brazil get to speak first at UNGA?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-does-brazil-get-to-speak-first-at-unga?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-17T20:46:21.000Z"
+  },
+  {
+   "title": "US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark",
+   "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-17T20:44:53.000Z"
+  },
+  {
+   "title": "New cat species identified in Bolivia for first time in more than a century",
+   "link": "https://www.theguardian.com/world/2026/sep/17/new-cat-species-identified-bolivia",
+   "source": "Guardian World",
+   "date": "2026-09-17T20:43:38.000Z"
+  },
+  {
+   "title": "Can ‘middle powers’ come together to build a new economic alliance?",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/9/17/can-middle-powers-come-together-to-build-a-new-economic-alliance-2?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-17T20:37:06.000Z"
+  },
+  {
+   "title": "Bend",
+   "link": "https://bend-lang.com/",
    "source": "Hacker News",
-   "date": "2026-09-17T17:12:51.000Z"
+   "date": "2026-09-17T20:36:13.000Z"
+  },
+  {
+   "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+   "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-17T20:34:30.000Z"
+  },
+  {
+   "title": "Why have China’s oil prices reached a record high?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/why-have-chinas-oil-prices-reached-a-record-high?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-17T20:30:39.000Z"
+  },
+  {
+   "title": "Astra for Law",
+   "link": "https://openai.com/index/astra-for-law/",
+   "source": "Hacker News",
+   "date": "2026-09-17T20:17:48.000Z"
+  },
+  {
+   "title": "Everybody's Lost Their Minds",
+   "link": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+   "source": "Hacker News",
+   "date": "2026-09-17T19:43:34.000Z"
+  },
+  {
+   "title": "Canto: A speech model built for the real world",
+   "link": "https://wisprflow.ai/canto",
+   "source": "Hacker News",
+   "date": "2026-09-17T18:32:50.000Z"
+  },
+  {
+   "title": "Don't Make Job Referrals Public",
+   "link": "https://blog.melashri.net/micro/public-job-referral/",
+   "source": "Hacker News",
+   "date": "2026-09-17T18:16:38.000Z"
+  },
+  {
+   "title": "T. Rex Had a Body Temperature of 97 Degrees",
+   "link": "https://www.nytimes.com/2026/09/16/science/trex-dinosaur-temperature-warm-blooded.html",
+   "source": "Hacker News",
+   "date": "2026-09-17T17:13:42.000Z"
   },
   {
    "title": "Wife of US scholar jailed in China asks Trump to raise arrest at Xi meeting",
@@ -26,46 +98,10 @@
    "date": "2026-09-17T17:08:00.000Z"
   },
   {
-   "title": "UN fact-finding mission says US committed possible war crimes in Iran",
-   "link": "https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-17T17:02:31.000Z"
-  },
-  {
-   "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Engineers to Build Chips for ASI",
-   "link": "https://zscc.ai/careers?job_id=109821",
-   "source": "Hacker News",
-   "date": "2026-09-17T17:00:59.000Z"
-  },
-  {
-   "title": "Towards Self-Driving Codebases",
-   "link": "https://blog.detail.dev/posts/towards-self-driving-codebases/",
-   "source": "Hacker News",
-   "date": "2026-09-17T16:58:31.000Z"
-  },
-  {
-   "title": "Infinite-Parameter LLMs: Generating and Adapting Weights from Live Data",
-   "link": "https://arxiv.org/abs/2609.18842",
-   "source": "Hacker News",
-   "date": "2026-09-17T16:55:14.000Z"
-  },
-  {
-   "title": "Show HN: AutoBot – live voice control for long-running AI work",
-   "link": "https://github.com/demeyer1/Autobot",
-   "source": "Hacker News",
-   "date": "2026-09-17T16:54:57.000Z"
-  },
-  {
    "title": "Trump determined to end Iran war soon, US president's senior adviser tells Euronews",
    "link": "https://www.euronews.com/2026/09/17/trump-determined-to-end-iran-war-soon-us-presidents-senior-adviser-tells-euronews",
    "source": "Euronews",
    "date": "2026-09-17T16:31:58.000Z"
-  },
-  {
-   "title": "Xabi Alonso says Chelsea ambitions ‘very clear’ as Boehly era ends",
-   "link": "https://www.aljazeera.com/sports/2026/9/17/xabi-alonso-says-chelsea-ambitions-very-clear-as-boehly-era-ends?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-17T16:23:49.000Z"
   },
   {
    "title": "From horse-drawn ploughs to autonomous tractors at Ireland’s ploughing show",
@@ -74,46 +110,16 @@
    "date": "2026-09-17T16:11:22.000Z"
   },
   {
-   "title": "Five killed as Saudi Arabia and Yemen’s Houthis trade attacks",
-   "link": "https://www.aljazeera.com/news/2026/9/17/five-killed-as-saudi-arabia-and-yemens-houthis-trade-attacks?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-17T16:10:49.000Z"
-  },
-  {
    "title": "Latest news bulletin | September 17th, 2026 – Evening",
    "link": "https://www.euronews.com/video/2026/09/17/latest-news-bulletin-september-17th-2026-evening",
    "source": "Euronews",
    "date": "2026-09-17T16:00:29.000Z"
   },
   {
-   "title": "Rare Ethiopian manuscript stolen by British forces triggers restitution row",
-   "link": "https://www.aljazeera.com/news/2026/9/17/rare-ethiopian-manuscript-stolen-by-british-triggers-restitution-row?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-17T15:52:04.000Z"
-  },
-  {
-   "title": "All smiles in Strasbourg but uncertainty clouds Canada’s EU membership plan",
-   "link": "https://www.theguardian.com/world/2026/sep/17/smiles-strasbourg-uncertainty-canada-eu-membership-plan-mark-carney",
-   "source": "Guardian World",
-   "date": "2026-09-17T15:46:15.000Z"
-  },
-  {
-   "title": "Ireland boycotts Eurovision for second year over Israel’s inclusion",
-   "link": "https://www.aljazeera.com/news/2026/9/17/ireland-boycotts-eurovision-for-second-year-over-israels-inclusion?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-17T15:40:48.000Z"
-  },
-  {
    "title": "UAE presidential adviser Gargash says trust with Iran will take years to rebuild",
    "link": "https://www.euronews.com/2026/09/17/uae-presidential-adviser-gargash-says-trust-with-iran-will-take-years-to-rebuild",
    "source": "Euronews",
    "date": "2026-09-17T15:37:21.000Z"
-  },
-  {
-   "title": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-   "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-17T15:07:47.000Z"
   },
   {
    "title": "Hyrox athlete apologises for continuing race after soiling herself",
@@ -144,12 +150,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-17T12:27:18.000Z"
-  },
-  {
-   "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-   "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-17T05:00:18.000Z"
   },
   {
    "title": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",

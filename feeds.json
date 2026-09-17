@@ -1,53 +1,143 @@
 {
- "updated": "2026-09-17T07:40:30.139Z",
+ "updated": "2026-09-17T13:28:23.426Z",
  "items": [
   {
-   "title": "US Congress approves Russia sanctions that impact China and India",
-   "link": "https://www.euronews.com/2026/09/17/us-congress-approves-russia-sanctions-that-impact-china-and-india",
-   "source": "Euronews",
-   "date": "2026-09-17T07:31:32.000Z"
-  },
-  {
-   "title": "War in Ukraine: Odesa and Sumy suffer fires and casualties in new Russian attacks",
-   "link": "https://www.euronews.com/video/2026/09/17/war-in-ukraine-odesa-and-sumy-suffer-fires-and-casualties-in-new-russian-attacks",
-   "source": "Euronews",
-   "date": "2026-09-17T07:23:43.000Z"
-  },
-  {
-   "title": "Israel weaponises AI for West Bank demolitions",
-   "link": "https://www.aljazeera.com/news/2026/9/17/israel-weaponises-ai-for-west-bank-demolitions?traffic_source=rss",
+   "title": "Real Madrid fan group demands Mbappe apologies over Ceuta shirt snub",
+   "link": "https://www.aljazeera.com/sports/2026/9/17/real-madrid-fan-group-demands-mbappe-apologies-over-ceuta-shirt-snub?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-17T06:30:08.000Z"
+   "date": "2026-09-17T13:12:45.000Z"
   },
   {
-   "title": "OpenAI reports more incidents of models acting deceptively",
-   "link": "https://www.aljazeera.com/news/2026/9/17/openai-reports-more-incidents-of-models-acting-deceptively?traffic_source=rss",
+   "title": "Sweden prime minister to resign as left-wing bloc seals narrow election win",
+   "link": "https://www.aljazeera.com/news/2026/9/17/sweden-prime-minister-to-resign-as-left-wing-bloc-seals-narrow-election-win?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-17T06:15:07.000Z"
+   "date": "2026-09-17T13:11:10.000Z"
   },
   {
-   "title": "What are the biggest AI companies and how much are they worth?",
-   "link": "https://www.aljazeera.com/news/2026/9/17/what-are-the-biggest-ai-companies-and-how-much-are-they-worth?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-17T05:55:22.000Z"
-  },
-  {
-   "title": "Climate change was key factor in deadly Nepal-China flood, scientists say",
-   "link": "https://www.euronews.com/2026/09/17/climate-change-was-key-factor-in-deadly-nepal-china-flood-scientists-say",
-   "source": "Euronews",
-   "date": "2026-09-17T05:36:37.000Z"
-  },
-  {
-   "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
-   "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
+   "title": "Ninth woman's body found as South African police investigate string of deaths",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2zgk8k8xvo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-09-17T05:00:36.000Z"
+   "date": "2026-09-17T13:02:23.000Z"
   },
   {
-   "title": "Latest news bulletin | September 17th, 2026 – Morning",
-   "link": "https://www.euronews.com/video/2026/09/17/latest-news-bulletin-september-17th-2026-morning",
+   "title": "My AI agent gets his own calendar",
+   "link": "https://heyjonny.dev/posts/gave-my-ai-agent-a-calendar/",
+   "source": "Hacker News",
+   "date": "2026-09-17T13:00:38.000Z"
+  },
+  {
+   "title": "Euronews Debates: unlocking Kazakhstan’s potential as a regional trade hub",
+   "link": "https://www.euronews.com/2026/09/17/euronews-debates-unlocking-kazakhstans-potential-as-a-regional-trade-hub",
    "source": "Euronews",
-   "date": "2026-09-17T05:00:33.000Z"
+   "date": "2026-09-17T13:00:04.000Z"
+  },
+  {
+   "title": "US tariffs against Russian oil buyers pass: What it means for China, India",
+   "link": "https://www.aljazeera.com/features/2026/9/17/us-tariffs-against-russian-oil-buyers-pass-what-it-means-for-china?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-17T12:59:36.000Z"
+  },
+  {
+   "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
+   "link": "https://flat.social",
+   "source": "Hacker News",
+   "date": "2026-09-17T12:57:09.000Z"
+  },
+  {
+   "title": "Swedish PM Kristersson resigns after election loss",
+   "link": "https://www.bbc.co.uk/news/articles/cxr50l3d762po?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-17T12:41:05.000Z"
+  },
+  {
+   "title": "Canada’s Carney welcomes EU’s associated membership proposal",
+   "link": "https://www.aljazeera.com/news/2026/9/17/canadas-carney-welcomes-eus-associated-membership-proposal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-17T12:31:57.000Z"
+  },
+  {
+   "title": "Syrian court sentences three linked to coastal violence",
+   "link": "https://www.aljazeera.com/news/2026/9/17/syrian-court-sentences-three-linked-to-coastal-violence?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-17T12:31:14.000Z"
+  },
+  {
+   "title": "‘The drought has left its mark’: Slovenia’s potato lovers lament low yields",
+   "link": "https://www.aljazeera.com/news/2026/9/17/the-drought-has-left-its-mark-slovenias-potato-lovers-lament-low-yields?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-17T12:29:24.000Z"
+  },
+  {
+   "title": "Torrential rains flood Valencia and Catalonia, killing driver in Spain",
+   "link": "https://www.euronews.com/video/2026/09/17/torrential-rains-flood-valencia-and-catalonia-killing-driver-in-spain",
+   "source": "Euronews",
+   "date": "2026-09-17T12:27:24.000Z"
+  },
+  {
+   "title": "Day two in Dubai: The region makes its case for telling its own story",
+   "link": "https://www.euronews.com/2026/09/17/day-two-in-dubai-the-region-makes-its-case-for-telling-its-own-story",
+   "source": "Euronews",
+   "date": "2026-09-17T12:07:35.000Z"
+  },
+  {
+   "title": "Russia's top-selling dog vaccine linked to spate of pet deaths across the country",
+   "link": "https://www.euronews.com/2026/09/17/russias-top-selling-dog-vaccine-linked-to-spate-of-pet-deaths-across-the-country",
+   "source": "Euronews",
+   "date": "2026-09-17T11:49:30.000Z"
+  },
+  {
+   "title": "Aztec document goes on display in Mexico after 186 years abroad",
+   "link": "https://www.bbc.co.uk/news/articles/ck980qyy6d2zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-17T11:00:41.000Z"
+  },
+  {
+   "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+   "link": "https://news.ycombinator.com/item?id=49738879",
+   "source": "Hacker News",
+   "date": "2026-09-17T10:44:49.000Z"
+  },
+  {
+   "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
+   "link": "https://manticoresearch.com/blog/auto-chunking/",
+   "source": "Hacker News",
+   "date": "2026-09-17T10:30:52.000Z"
+  },
+  {
+   "title": "Latest news bulletin | September 17th, 2026 – Midday",
+   "link": "https://www.euronews.com/video/2026/09/17/latest-news-bulletin-september-17th-2026-midday",
+   "source": "Euronews",
+   "date": "2026-09-17T10:00:16.000Z"
+  },
+  {
+   "title": "EU announces plan to restrict social media access for under-15s",
+   "link": "https://www.bbc.co.uk/news/articles/c3j4jz8vpz1xo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-17T10:00:14.000Z"
+  },
+  {
+   "title": "Gaza's bicycle couriers refuse to stop despite danger and pittance pay",
+   "link": "https://www.euronews.com/2026/09/17/gazas-bicycle-couriers-refuse-to-stop-despite-danger-and-pittance-pay",
+   "source": "Euronews",
+   "date": "2026-09-17T09:56:28.000Z"
+  },
+  {
+   "title": "GLM Built Its Own Inference Infrastructure",
+   "link": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+   "source": "Hacker News",
+   "date": "2026-09-17T08:27:09.000Z"
+  },
+  {
+   "title": "Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft",
+   "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-17T08:22:12.000Z"
+  },
+  {
+   "title": "One Year of Sponsored Servo Development",
+   "link": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+   "source": "Hacker News",
+   "date": "2026-09-17T08:13:54.000Z"
   },
   {
    "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
@@ -56,100 +146,10 @@
    "date": "2026-09-17T05:00:18.000Z"
   },
   {
-   "title": "Argentinian judge orders suspension of Falklands oil project",
-   "link": "https://www.aljazeera.com/news/2026/9/17/argentinian-judge-orders-suspension-of-falklands-oil-project?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-17T04:52:07.000Z"
-  },
-  {
-   "title": "Trump threatens to end trade with Mexico and Europe after rate hike",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/trump-threatens-to-end-trade-with-mexico-and-europe-after-rate-hike?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-17T04:43:01.000Z"
-  },
-  {
-   "title": "Can AI regulation keep America ahead of China?",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_can-ai-regulation-keep-america-ahead-of-china-170926?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-17T04:42:27.000Z"
-  },
-  {
-   "title": "Cloudflare/Security-Audit-Skill",
-   "link": "https://github.com/cloudflare/security-audit-skill",
-   "source": "Hacker News",
-   "date": "2026-09-17T04:36:55.000Z"
-  },
-  {
-   "title": "Trump threatens EU with trade cut over 'hostile' proposal to make Canada associate member",
-   "link": "https://www.euronews.com/2026/09/17/trump-suggests-eu-allowing-canada-as-associate-member-could-be-hostile-act",
-   "source": "Euronews",
-   "date": "2026-09-17T04:16:22.000Z"
-  },
-  {
    "title": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",
    "link": "https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe",
    "source": "Guardian World",
    "date": "2026-09-17T04:00:39.000Z"
-  },
-  {
-   "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
-   "link": "https://github.com/browser-use/jev-ultrafast",
-   "source": "Hacker News",
-   "date": "2026-09-17T03:12:05.000Z"
-  },
-  {
-   "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-   "link": "https://ryan.science/blog/keys-not-included",
-   "source": "Hacker News",
-   "date": "2026-09-17T03:03:23.000Z"
-  },
-  {
-   "title": "Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)",
-   "link": "https://www.vanityfair.com/news/2008/05/monsanto200805",
-   "source": "Hacker News",
-   "date": "2026-09-17T02:19:49.000Z"
-  },
-  {
-   "title": "Part-human part-mouse brain developed in science breakthrough",
-   "link": "https://www.bbc.com/news/articles/c60m3k28j81mo",
-   "source": "Hacker News",
-   "date": "2026-09-17T01:33:10.000Z"
-  },
-  {
-   "title": "US interest rates raised for first time in three years",
-   "link": "https://www.bbc.co.uk/news/articles/cw4gmlyvj422o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-17T00:40:17.000Z"
-  },
-  {
-   "title": "EU chief backs plan for Canada to become 'associate member'",
-   "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-17T00:32:05.000Z"
-  },
-  {
-   "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
-   "link": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
-   "source": "Hacker News",
-   "date": "2026-09-17T00:28:33.000Z"
-  },
-  {
-   "title": "Snapchat open to putting time limits on teens, boss tells BBC",
-   "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-16T23:41:57.000Z"
-  },
-  {
-   "title": "Azerbaijan insists it will preserve Christian heritage as part of its history",
-   "link": "https://www.euronews.com/2026/09/16/azerbaijan-insists-it-will-preserve-christian-heritage-as-part-of-its-history",
-   "source": "Euronews",
-   "date": "2026-09-16T21:18:43.000Z"
-  },
-  {
-   "title": "Photos show widespread damage at US sites from Iranian attacks",
-   "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-16T18:36:16.000Z"
   },
   {
    "title": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",

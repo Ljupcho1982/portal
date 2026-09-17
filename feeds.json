@@ -1,17 +1,119 @@
 {
- "updated": "2026-09-17T01:25:52.045Z",
+ "updated": "2026-09-17T07:40:30.139Z",
  "items": [
   {
-   "title": "OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior",
-   "link": "https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html",
-   "source": "Hacker News",
-   "date": "2026-09-17T01:02:13.000Z"
+   "title": "US Congress approves Russia sanctions that impact China and India",
+   "link": "https://www.euronews.com/2026/09/17/us-congress-approves-russia-sanctions-that-impact-china-and-india",
+   "source": "Euronews",
+   "date": "2026-09-17T07:31:32.000Z"
   },
   {
-   "title": "Congress passes sweeping US sanctions bill targeting Russia",
-   "link": "https://www.aljazeera.com/news/2026/9/17/congress-passes-sweeping-us-sanctions-bill-targeting-russia?traffic_source=rss",
+   "title": "War in Ukraine: Odesa and Sumy suffer fires and casualties in new Russian attacks",
+   "link": "https://www.euronews.com/video/2026/09/17/war-in-ukraine-odesa-and-sumy-suffer-fires-and-casualties-in-new-russian-attacks",
+   "source": "Euronews",
+   "date": "2026-09-17T07:23:43.000Z"
+  },
+  {
+   "title": "Israel weaponises AI for West Bank demolitions",
+   "link": "https://www.aljazeera.com/news/2026/9/17/israel-weaponises-ai-for-west-bank-demolitions?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-17T00:55:13.000Z"
+   "date": "2026-09-17T06:30:08.000Z"
+  },
+  {
+   "title": "OpenAI reports more incidents of models acting deceptively",
+   "link": "https://www.aljazeera.com/news/2026/9/17/openai-reports-more-incidents-of-models-acting-deceptively?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-17T06:15:07.000Z"
+  },
+  {
+   "title": "What are the biggest AI companies and how much are they worth?",
+   "link": "https://www.aljazeera.com/news/2026/9/17/what-are-the-biggest-ai-companies-and-how-much-are-they-worth?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-17T05:55:22.000Z"
+  },
+  {
+   "title": "Climate change was key factor in deadly Nepal-China flood, scientists say",
+   "link": "https://www.euronews.com/2026/09/17/climate-change-was-key-factor-in-deadly-nepal-china-flood-scientists-say",
+   "source": "Euronews",
+   "date": "2026-09-17T05:36:37.000Z"
+  },
+  {
+   "title": "Rosenberg: Russia's elections will have few surprises, but for the Kremlin they matter",
+   "link": "https://www.bbc.co.uk/news/articles/ck62m0r4r1y3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-17T05:00:36.000Z"
+  },
+  {
+   "title": "Latest news bulletin | September 17th, 2026 – Morning",
+   "link": "https://www.euronews.com/video/2026/09/17/latest-news-bulletin-september-17th-2026-morning",
+   "source": "Euronews",
+   "date": "2026-09-17T05:00:33.000Z"
+  },
+  {
+   "title": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+   "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-17T05:00:18.000Z"
+  },
+  {
+   "title": "Argentinian judge orders suspension of Falklands oil project",
+   "link": "https://www.aljazeera.com/news/2026/9/17/argentinian-judge-orders-suspension-of-falklands-oil-project?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-17T04:52:07.000Z"
+  },
+  {
+   "title": "Trump threatens to end trade with Mexico and Europe after rate hike",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/trump-threatens-to-end-trade-with-mexico-and-europe-after-rate-hike?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-17T04:43:01.000Z"
+  },
+  {
+   "title": "Can AI regulation keep America ahead of China?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/aje-onl-nf_can-ai-regulation-keep-america-ahead-of-china-170926?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-17T04:42:27.000Z"
+  },
+  {
+   "title": "Cloudflare/Security-Audit-Skill",
+   "link": "https://github.com/cloudflare/security-audit-skill",
+   "source": "Hacker News",
+   "date": "2026-09-17T04:36:55.000Z"
+  },
+  {
+   "title": "Trump threatens EU with trade cut over 'hostile' proposal to make Canada associate member",
+   "link": "https://www.euronews.com/2026/09/17/trump-suggests-eu-allowing-canada-as-associate-member-could-be-hostile-act",
+   "source": "Euronews",
+   "date": "2026-09-17T04:16:22.000Z"
+  },
+  {
+   "title": "‘Like a Disney movie’: Three wild dog brothers make Africa’s longest journey",
+   "link": "https://www.theguardian.com/environment/2026/sep/17/wildlife-african-wild-dogs-longest-journey-zambia-conservation-aoe",
+   "source": "Guardian World",
+   "date": "2026-09-17T04:00:39.000Z"
+  },
+  {
+   "title": "Jev Ultrafast: A browser agent with a dynamic, indexed action space",
+   "link": "https://github.com/browser-use/jev-ultrafast",
+   "source": "Hacker News",
+   "date": "2026-09-17T03:12:05.000Z"
+  },
+  {
+   "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
+   "link": "https://ryan.science/blog/keys-not-included",
+   "source": "Hacker News",
+   "date": "2026-09-17T03:03:23.000Z"
+  },
+  {
+   "title": "Monsanto's Cruel, and Dangerous, Monopolization on American Farming (2008)",
+   "link": "https://www.vanityfair.com/news/2008/05/monsanto200805",
+   "source": "Hacker News",
+   "date": "2026-09-17T02:19:49.000Z"
+  },
+  {
+   "title": "Part-human part-mouse brain developed in science breakthrough",
+   "link": "https://www.bbc.com/news/articles/c60m3k28j81mo",
+   "source": "Hacker News",
+   "date": "2026-09-17T01:33:10.000Z"
   },
   {
    "title": "US interest rates raised for first time in three years",
@@ -20,64 +122,22 @@
    "date": "2026-09-17T00:40:17.000Z"
   },
   {
-   "title": "US CENTCOM tells Al Jazeera Hormuz blockade ‘highly effective’",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/17/us-centcom-tells-al-jazeera-hormuz-blockade-highly?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-17T00:32:54.000Z"
-  },
-  {
    "title": "EU chief backs plan for Canada to become 'associate member'",
    "link": "https://www.bbc.co.uk/news/articles/cjwyzrr9d3dko?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-17T00:32:05.000Z"
   },
   {
-   "title": "Trump says Canada becoming EU ‘associate member’ could be ‘hostile act’",
-   "link": "https://www.aljazeera.com/economy/2026/9/17/trump-says-canada-becoming-eu-associate-member-could-be-hostile?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-17T00:30:23.000Z"
+   "title": "The Return of Sail Power: Cargo Ships Are Turning Back to the Wind",
+   "link": "https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/",
+   "source": "Hacker News",
+   "date": "2026-09-17T00:28:33.000Z"
   },
   {
-   "title": "NHL superstar Ovechkin ‘was asked’ to film Putin ad, team says",
-   "link": "https://www.aljazeera.com/news/2026/9/17/nhl-superstar-ovechkin-was-asked-to-film-putin-ad-team-says?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-17T00:08:32.000Z"
-  },
-  {
-   "title": "Three dead after flooding inundates Navajo Nation in New Mexico",
-   "link": "https://www.aljazeera.com/news/2026/9/17/three-dead-after-flooding-inundates-navajo-nation-in-new-mexico?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-17T00:01:21.000Z"
-  },
-  {
-   "title": "Iran war live: Trump says US nearing end of war, claims Tehran direct talks",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/9/17/iran-war-live-trump-says-us-nearing-end-of-war-claims-tehran-direct-talks?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-17T00:00:00.000Z"
-  },
-  {
-   "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+   "title": "Snapchat open to putting time limits on teens, boss tells BBC",
    "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-16T23:41:57.000Z"
-  },
-  {
-   "title": "OpenSpec – A lightweight and configurable AI spec framework",
-   "link": "https://openspec.dev/",
-   "source": "Hacker News",
-   "date": "2026-09-16T23:06:39.000Z"
-  },
-  {
-   "title": "Australia says it could follow Canada in forging deeper ties with EU",
-   "link": "https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html",
-   "source": "Hacker News",
-   "date": "2026-09-16T22:56:48.000Z"
-  },
-  {
-   "title": "HarnessTax: How Much Does the Harness Matter for Coding Agents?",
-   "link": "https://harnesstax.github.io/",
-   "source": "Hacker News",
-   "date": "2026-09-16T22:10:13.000Z"
   },
   {
    "title": "Azerbaijan insists it will preserve Christian heritage as part of its history",
@@ -86,64 +146,10 @@
    "date": "2026-09-16T21:18:43.000Z"
   },
   {
-   "title": "Breaking the 1.58-bit Barrier for Ternary LLMs",
-   "link": "https://arxiv.org/abs/2609.16338",
-   "source": "Hacker News",
-   "date": "2026-09-16T20:59:24.000Z"
-  },
-  {
-   "title": "Backups Aren't Simple",
-   "link": "https://filipovski.net/2026/09/16/backups-arent-simple.html",
-   "source": "Hacker News",
-   "date": "2026-09-16T20:27:16.000Z"
-  },
-  {
-   "title": "US House votes for a third time to end the Iran war as conflict drags on",
-   "link": "https://www.euronews.com/2026/09/16/us-house-votes-for-a-third-time-to-end-the-iran-war-as-conflict-drags-on",
-   "source": "Euronews",
-   "date": "2026-09-16T20:20:17.000Z"
-  },
-  {
-   "title": "US House votes to hold billionaire Epstein associate Leon Black in contempt",
-   "link": "https://www.bbc.co.uk/news/articles/c62l8g8qlr0ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-16T19:59:57.000Z"
-  },
-  {
    "title": "Photos show widespread damage at US sites from Iranian attacks",
    "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-16T18:36:16.000Z"
-  },
-  {
-   "title": "Eight children among 21 killed after war-damaged Gaza building collapses, rescuers say",
-   "link": "https://www.bbc.co.uk/news/articles/cvp8d00j9gg5o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-16T17:16:47.000Z"
-  },
-  {
-   "title": "Kosovo war crimes court jails ex-president Hashim Thaçi for 25 years, sparking mass protests",
-   "link": "https://www.euronews.com/video/2026/09/16/kosovo-war-crimes-court-jails-ex-president-hashim-thaci-for-25-years-sparking-mass-protest",
-   "source": "Euronews",
-   "date": "2026-09-16T16:32:37.000Z"
-  },
-  {
-   "title": "Latest news bulletin | September 16th, 2026 – Evening",
-   "link": "https://www.euronews.com/video/2026/09/16/latest-news-bulletin-september-16th-2026-evening",
-   "source": "Euronews",
-   "date": "2026-09-16T16:00:29.000Z"
-  },
-  {
-   "title": "'Silk Road spirit' meets supply chains at Korea-Central Asia summit",
-   "link": "https://www.euronews.com/2026/09/16/silk-road-spirit-meets-supply-chains-at-korea-central-asia-summit",
-   "source": "Euronews",
-   "date": "2026-09-16T15:38:22.000Z"
-  },
-  {
-   "title": "Russia used Claude AI for espionage, disinformation and drone swarms",
-   "link": "https://www.euronews.com/2026/09/16/russia-used-claude-ai-for-espionage-disinformation-and-drone-swarms",
-   "source": "Euronews",
-   "date": "2026-09-16T15:20:52.000Z"
   },
   {
    "title": "‘We are prey’: discovery of seven women’s bodies fuels anger over femicide in South Africa",
@@ -174,12 +180,6 @@
    "link": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/16/slave-trade-wealth-britain-financial-system-bank-of-england-enslaved-africans",
    "source": "Guardian World",
    "date": "2026-09-16T05:00:12.000Z"
-  },
-  {
-   "title": "‘I believed the hype’: the white South Africans denied refugee status in the US",
-   "link": "https://www.theguardian.com/world/2026/sep/15/white-south-africans-denied-refugee-status-us",
-   "source": "Guardian World",
-   "date": "2026-09-15T04:00:27.000Z"
   }
  ]
 }

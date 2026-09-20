@@ -1,77 +1,107 @@
 {
- "updated": "2026-09-20T12:22:42.276Z",
+ "updated": "2026-09-20T16:48:04.968Z",
  "items": [
   {
-   "title": "Former president of Chile abandons UN secretary general candidacy",
+   "title": "Trump says his planned triumphal arch will double as a military complex to store ammunition",
+   "link": "https://www.bbc.co.uk/news/articles/cqdj4pez00dzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-20T16:36:43.000Z"
+  },
+  {
+   "title": "Latest news bulletin | September 20th, 2026 – Evening",
+   "link": "https://www.euronews.com/video/2026/09/20/latest-news-bulletin-september-20th-2026-evening",
+   "source": "Euronews",
+   "date": "2026-09-20T16:00:29.000Z"
+  },
+  {
+   "title": "Why have US prosecutors labelled China’s Huawei a criminal enterprise?",
+   "link": "https://www.aljazeera.com/news/2026/9/20/why-have-us-prosecutors-labelled-chinas-huawei-a-criminal-enterprise?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-20T15:57:48.000Z"
+  },
+  {
+   "title": "Kenya’s Ngetich breaks women-only half-marathon world record by a second",
+   "link": "https://www.aljazeera.com/sports/2026/9/20/kenyas-ngetich-breaks-women-only-half-marathon-world-record-by-a-second?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-20T15:30:10.000Z"
+  },
+  {
+   "title": "One-Electron Universe",
+   "link": "https://en.wikipedia.org/wiki/One-electron_universe",
+   "source": "Hacker News",
+   "date": "2026-09-20T15:28:05.000Z"
+  },
+  {
+   "title": "Singapore Is Paying People to Put Down Their Phones and Read Books",
+   "link": "https://www.gadgetreview.com/singapore-is-paying-people-to-put-down-their-phones-and-read-books",
+   "source": "Hacker News",
+   "date": "2026-09-20T15:18:05.000Z"
+  },
+  {
+   "title": "Trump says monumental arch in Washington, DC will also be military complex",
+   "link": "https://www.aljazeera.com/news/2026/9/20/trump-says-monumental-arch-in-washington-dc-will-also-be-military-complex?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-20T15:16:38.000Z"
+  },
+  {
+   "title": "Pirate Face Rescues LLM Models from Deletion",
+   "link": "https://pirateface.co/",
+   "source": "Hacker News",
+   "date": "2026-09-20T15:16:07.000Z"
+  },
+  {
+   "title": "Sherline Tools Is Going Out of Business",
+   "link": "https://toolguyd.com/sherline-tools-shutting-down-usa-production/",
+   "source": "Hacker News",
+   "date": "2026-09-20T15:09:41.000Z"
+  },
+  {
+   "title": "Venezuela quakes rescue dog ‘Tsunami’ honoured with statue",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/venezuela-quakes-rescue-dog-tsunami-honoured-with-statue?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-20T14:43:49.000Z"
+  },
+  {
+   "title": "Hundreds protest in Tunisia for release of jailed Gaza flotilla activists",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/hundreds-protest-in-tunisia-for-release-of-jailed-gaza-flotilla-activists?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-20T14:38:01.000Z"
+  },
+  {
+   "title": "Humanoid robots fight in cage match in Shanghai",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/humanoid-robots-fight-in-cage-match-in-shanghai?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-20T14:12:28.000Z"
+  },
+  {
+   "title": "Russians vote in final day of parliamentary elections",
+   "link": "https://www.euronews.com/2026/09/20/russians-vote-in-final-day-of-parliamentary-elections",
+   "source": "Euronews",
+   "date": "2026-09-20T13:59:59.000Z"
+  },
+  {
+   "title": "Mathematical Billiards (2024)",
+   "link": "https://structures.uni-heidelberg.de/blog/posts/2024_01_costa/index.php",
+   "source": "Hacker News",
+   "date": "2026-09-20T13:42:10.000Z"
+  },
+  {
+   "title": "Do birds have accents? the regional differences in birdsong",
+   "link": "https://theconversation.com/do-birds-have-accents-the-fascinating-regional-differences-in-birdsong-278108",
+   "source": "Hacker News",
+   "date": "2026-09-20T13:19:32.000Z"
+  },
+  {
+   "title": "Michelle Bachelet withdraws from race to become UN secretary general",
    "link": "https://www.theguardian.com/world/2026/sep/20/former-president-of-chile-withdraws-from-race-to-become-un-secretary-general",
    "source": "Guardian World",
    "date": "2026-09-20T12:04:08.000Z"
-  },
-  {
-   "title": "Pro-Palestine protesters demonstrate outside Ed Sheeran concert",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/pro-palestine-protesters-demonstrate-outside-ed-sheeran-concert?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-20T12:00:16.000Z"
-  },
-  {
-   "title": "Israeli settlers storm Al-Aqsa in latest targeting of East Jerusalem sites",
-   "link": "https://www.aljazeera.com/news/2026/9/20/israeli-settlers-storm-al-aqsa-in-latest-targeting-of-east-jerusalem-sites?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-20T11:54:24.000Z"
-  },
-  {
-   "title": "If AI coding is lowering your code quality, you're not managing quality right",
-   "link": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-   "source": "Hacker News",
-   "date": "2026-09-20T11:37:10.000Z"
-  },
-  {
-   "title": "Back to school in Gaza: Learning in tents after years of disruption",
-   "link": "https://www.aljazeera.com/features/2026/9/20/back-to-school-in-gaza-learning-in-tents-after-years-of-disruption?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-20T11:26:20.000Z"
-  },
-  {
-   "title": "What are Iran’s latest conditions to end its war with the US?",
-   "link": "https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-20T11:21:06.000Z"
-  },
-  {
-   "title": "I'm Tired of the AI Tone",
-   "link": "https://sagivo.com/blog/im-tired-of-the-ai-tone",
-   "source": "Hacker News",
-   "date": "2026-09-20T11:18:26.000Z"
-  },
-  {
-   "title": "Anthems, transport, housing: What’s gone wrong at the Asian Games in Japan?",
-   "link": "https://www.aljazeera.com/sports/2026/9/20/anthems-transport-housing-whats-gone-wrong-at-the-asian-games-in-japan?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-20T11:18:21.000Z"
-  },
-  {
-   "title": "LIVE: Atletico Madrid vs Real Madrid – La Liga",
-   "link": "https://www.aljazeera.com/sports/liveblog/2026/9/20/live-atletico-madrid-vs-real-madrid-la-liga-2?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-20T11:10:00.000Z"
-  },
-  {
-   "title": "Why Do We Need Human Mathematicians Anymore?",
-   "link": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
-   "source": "Hacker News",
-   "date": "2026-09-20T10:49:58.000Z"
   },
   {
    "title": "Largest attack on Moscow sees Ukraine fire hundreds of drones, mayor says",
    "link": "https://www.bbc.co.uk/news/articles/c34gdjk1ne8yo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-20T10:45:39.000Z"
-  },
-  {
-   "title": "AI and the Destruction of the Creative Commons",
-   "link": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
-   "source": "Hacker News",
-   "date": "2026-09-20T10:07:51.000Z"
   },
   {
    "title": "Latest news bulletin | September 20th, 2026 – Midday",
@@ -104,30 +134,6 @@
    "date": "2026-09-20T07:11:05.000Z"
   },
   {
-   "title": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens Philadelphia show",
-   "link": "https://www.euronews.com/2026/09/20/ed-sheeran-says-situation-in-gaza-is-catastrophic-and-unjustifiable-as-he-opens-philadelph",
-   "source": "Euronews",
-   "date": "2026-09-20T06:27:31.000Z"
-  },
-  {
-   "title": "US embassies issue security alerts over Houthi attacks on Saudi Arabia",
-   "link": "https://www.euronews.com/2026/09/20/us-embassies-issue-security-alerts-over-houthi-attacks-on-saudi-arabia",
-   "source": "Euronews",
-   "date": "2026-09-20T06:17:19.000Z"
-  },
-  {
-   "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
-   "link": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-   "source": "Hacker News",
-   "date": "2026-09-20T06:16:42.000Z"
-  },
-  {
-   "title": "Telling a Computer to Do Things",
-   "link": "https://will-keleher.com/posts/telling-your-computer-to-do-things/",
-   "source": "Hacker News",
-   "date": "2026-09-20T05:11:33.000Z"
-  },
-  {
    "title": "Ed Sheeran admits 'mistakes' at first show since Macklemore controversy",
    "link": "https://www.bbc.co.uk/news/articles/cm780ll1de18o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
@@ -144,12 +150,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cg4d9vly636o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-19T23:01:38.000Z"
-  },
-  {
-   "title": "Nato welcomes Greenland deal as Trump says it will give US 'permanent security control'",
-   "link": "https://www.bbc.co.uk/news/articles/c63d7lexyym1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-19T23:00:27.000Z"
   },
   {
    "title": "Men deported from US bound and beaten in Equatorial Guinea detention hotel, lawyers say",

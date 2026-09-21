@@ -1,17 +1,71 @@
 {
- "updated": "2026-09-20T22:26:42.432Z",
+ "updated": "2026-09-21T01:06:12.552Z",
  "items": [
+  {
+   "title": "Ethiopian armed groups forge alliance against government",
+   "link": "https://www.aljazeera.com/news/2026/9/21/ethiopian-armed-groups-forge-alliance-against-government?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-21T00:34:30.000Z"
+  },
+  {
+   "title": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-21T00:00:47.000Z"
+  },
+  {
+   "title": "ICE officer shoots and wounds man in Austin, Texas, officials say",
+   "link": "https://www.aljazeera.com/news/2026/9/20/ice-officer-shoots-and-wounds-man-in-austin-texas-officials-say?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-20T23:59:28.000Z"
+  },
+  {
+   "title": "Amiga Unix, Again",
+   "link": "https://amigaux.org/",
+   "source": "Hacker News",
+   "date": "2026-09-20T23:57:10.000Z"
+  },
+  {
+   "title": "DAPO: An Open-Source RL System from ByteDance Seed and Tsinghua Air",
+   "link": "https://github.com/BytedTsinghua-SIA/DAPO",
+   "source": "Hacker News",
+   "date": "2026-09-20T23:19:04.000Z"
+  },
+  {
+   "title": "Polls close in Russian wartime election with ruling party set to dominate",
+   "link": "https://www.aljazeera.com/news/2026/9/20/polls-close-in-russian-wartime-election-with-ruling-party-set-to-dominate?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-20T22:54:00.000Z"
+  },
+  {
+   "title": "What happened to the Snowden archive",
+   "link": "https://libroot.org/posts/what-happened-to-the-snowden-archive",
+   "source": "Hacker News",
+   "date": "2026-09-20T22:35:49.000Z"
+  },
+  {
+   "title": "Google's Open Agentic Orchestrator",
+   "link": "https://agentexecutor.io",
+   "source": "Hacker News",
+   "date": "2026-09-20T22:32:43.000Z"
+  },
+  {
+   "title": "Not all AI workers think the tech could kill everyone",
+   "link": "https://www.bbc.com/news/articles/cm5y7qj54klpo",
+   "source": "Hacker News",
+   "date": "2026-09-20T22:22:16.000Z"
+  },
+  {
+   "title": "Bill to Ban Private Equity from Owning Medical Practices",
+   "link": "https://truthout.org/articles/warren-introduces-bill-to-ban-private-equity-from-owning-medical-practices/",
+   "source": "Hacker News",
+   "date": "2026-09-20T22:13:46.000Z"
+  },
   {
    "title": "France to summon Iran envoy after language centre closure in Tehran",
    "link": "https://www.aljazeera.com/news/2026/9/20/france-to-summon-iran-envoy-after-language-centre-closure-in-tehran?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-09-20T22:06:22.000Z"
-  },
-  {
-   "title": "Nipple tattooist 'frustrated' by online censorship",
-   "link": "https://www.bbc.com/news/articles/cx2z7ejn891o",
-   "source": "Hacker News",
-   "date": "2026-09-20T21:51:09.000Z"
   },
   {
    "title": "Man, 82, dies after beach fight with 76-year-old over sunlounger in Greece",
@@ -20,40 +74,10 @@
    "date": "2026-09-20T21:17:22.000Z"
   },
   {
-   "title": "Nobody pays for FOSS, we can force them to",
-   "link": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
-   "source": "Hacker News",
-   "date": "2026-09-20T21:04:32.000Z"
-  },
-  {
    "title": "Qatar PM urges Gulf security framework with Iran",
    "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/qatar-pm-urges-gulf-security-framework-with-iran?traffic_source=rss",
    "source": "Al Jazeera",
    "date": "2026-09-20T21:00:15.000Z"
-  },
-  {
-   "title": "Ogre Battle 64 Recompiled Project at 99.05%",
-   "link": "https://github.com/lfarroco/ogre-battle-64-recomp",
-   "source": "Hacker News",
-   "date": "2026-09-20T20:59:02.000Z"
-  },
-  {
-   "title": "Argentina’s Left stages ‘March of Anger’ over Milei’s austerity measures",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/20/argentinas-left-stages-march-of-anger-over-mileis-austerity-measures?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-20T20:58:01.000Z"
-  },
-  {
-   "title": "OpenAI's Sam Altman to Brief UN Security Council Next Week",
-   "link": "https://www.reuters.com/business/openais-sam-altman-to-brief-un-security-council-next-week-during-2026-09-18/",
-   "source": "Hacker News",
-   "date": "2026-09-20T20:32:43.000Z"
-  },
-  {
-   "title": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
-   "link": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-20T20:31:15.000Z"
   },
   {
    "title": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
@@ -66,30 +90,6 @@
    "link": "https://www.theguardian.com/world/2026/sep/20/more-than-a-dozen-arrested-in-connection-with-assassination-of-haitian-president",
    "source": "Guardian World",
    "date": "2026-09-20T20:17:44.000Z"
-  },
-  {
-   "title": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
-   "link": "https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-20T20:13:18.000Z"
-  },
-  {
-   "title": "Frontier Labs Are Selling Garbage to Fools in Washington",
-   "link": "https://deadneurons.substack.com/p/frontier-labs-are-selling-garbage",
-   "source": "Hacker News",
-   "date": "2026-09-20T19:55:36.000Z"
-  },
-  {
-   "title": "US, China open high-level talks ahead of Trump-Xi summit",
-   "link": "https://www.aljazeera.com/economy/2026/9/20/us-china-open-high-level-talks-ahead-of-trump-xi-summit?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-20T19:42:13.000Z"
-  },
-  {
-   "title": "The Hierarchy of Money",
-   "link": "https://gregorygundersen.com/blog/2026/09/20/hierarchy-of-money/",
-   "source": "Hacker News",
-   "date": "2026-09-20T19:37:43.000Z"
   },
   {
    "title": "Sister of Pakistan's ex-PM Imran Khan arrested",

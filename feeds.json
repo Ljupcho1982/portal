@@ -1,47 +1,143 @@
 {
- "updated": "2026-09-21T14:09:32.432Z",
+ "updated": "2026-09-21T19:28:04.060Z",
  "items": [
+  {
+   "title": "Putin's party wins record Duma majority in Kremlin-controlled elections as EU vows sanctions",
+   "link": "https://www.euronews.com/2026/09/21/putins-party-wins-record-duma-majority-in-kremlin-controlled-elections-as-eu-vows-sanction",
+   "source": "Euronews",
+   "date": "2026-09-21T19:17:03.000Z"
+  },
+  {
+   "title": "Humanoid robots battle it out in Shanghai fight night",
+   "link": "https://www.euronews.com/video/2026/09/21/humanoid-robots-battle-it-out-in-shanghai-fight-night",
+   "source": "Euronews",
+   "date": "2026-09-21T19:12:38.000Z"
+  },
+  {
+   "title": "Trump’s approval rating hits record low amid Iran war, economy fallout",
+   "link": "https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-21T19:10:52.000Z"
+  },
+  {
+   "title": "US halts flights at busy East Coast airports, says fiber line cut",
+   "link": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
+   "source": "Hacker News",
+   "date": "2026-09-21T18:41:59.000Z"
+  },
+  {
+   "title": "Photos: Gaza’s children return to class in tents and ruins",
+   "link": "https://www.aljazeera.com/gallery/2026/9/21/photos-gazas-children-return-to-class-in-tents-and-ruins?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-21T18:40:26.000Z"
+  },
+  {
+   "title": "Help 404 Media Find Out How Your Local Police Are Surveiling You",
+   "link": "https://www.404media.co/is-your-city-using-axon-license-plate-cameras-we-need-your-help/",
+   "source": "Hacker News",
+   "date": "2026-09-21T18:33:45.000Z"
+  },
+  {
+   "title": "Why Does an NPM Math Library Need an Encrypted Loader?",
+   "link": "https://safedep.io/mathmain-encrypted-loader/",
+   "source": "Hacker News",
+   "date": "2026-09-21T18:33:44.000Z"
+  },
+  {
+   "title": "Avoiding the babbling-idiot failure in a time-triggered communication system",
+   "link": "https://ieeexplore.ieee.org/document/689473",
+   "source": "Hacker News",
+   "date": "2026-09-21T18:14:56.000Z"
+  },
+  {
+   "title": "Protesters march on Islamabad over soaring fuel prices",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/protesters-march-on-islamabad-over-soaring-fuel-prices?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-21T17:48:51.000Z"
+  },
+  {
+   "title": "First UK charges brought over 1994 Rwanda genocide",
+   "link": "https://www.bbc.co.uk/news/articles/cr2092216nywo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-21T17:48:23.000Z"
+  },
+  {
+   "title": "Ceuta solidarity shirt row: How the crisis engulfed Spanish football",
+   "link": "https://www.aljazeera.com/sports/2026/9/21/ceuta-solidarity-shirt-row-how-the-crisis-engulfed-spanish-football?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-21T17:45:40.000Z"
+  },
+  {
+   "title": "Ground stops ordered at six US airports due to 'equipment outage'",
+   "link": "https://www.euronews.com/2026/09/21/ground-stops-ordered-at-six-us-airports-due-to-equipment-outage",
+   "source": "Euronews",
+   "date": "2026-09-21T17:45:10.000Z"
+  },
+  {
+   "title": "Paramount settles with US states in step towards merger with Warner Bros",
+   "link": "https://www.aljazeera.com/economy/2026/9/21/paramount-settles-with-us-states-in-step-towards-merger-with-warner-bros?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-21T17:42:24.000Z"
+  },
+  {
+   "title": "‘Licence to kill:’ French protests decry police use-of-force bill",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/licence-to-kill-french-protests-decry-police-use-of-force-bill?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-21T17:38:07.000Z"
+  },
+  {
+   "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+   "link": "https://support.apple.com/guide/mac-help/turn-restrict-access-apple-intelligence-mchlb2e44f94/mac",
+   "source": "Hacker News",
+   "date": "2026-09-21T17:30:21.000Z"
+  },
+  {
+   "title": "Advisory Group on Mathematics and Artificial Intelligence",
+   "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai/",
+   "source": "Hacker News",
+   "date": "2026-09-21T17:27:49.000Z"
+  },
+  {
+   "title": "Colombia declares public calamity as wildfire threatens popular tourist area",
+   "link": "https://www.theguardian.com/world/2026/sep/21/colombia-wildfire-villa-de-leyva",
+   "source": "Guardian World",
+   "date": "2026-09-21T17:13:23.000Z"
+  },
   {
    "title": "Merz vows to keep coalition together for Germany's 'democratic future'",
    "link": "https://www.bbc.co.uk/news/articles/cqm27p8enwmko?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-09-21T13:34:20.000Z"
+   "date": "2026-09-21T16:54:56.000Z"
   },
   {
-   "title": "What’s the US–China AI ‘hotline’ that Trump plans to pitch to Xi Jinping?",
-   "link": "https://www.aljazeera.com/news/2026/9/21/whats-the-us-china-ai-hotline-that-trump-plans-to-pitch-to-xi?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-21T13:32:55.000Z"
+   "title": "Trump promotes 'massive' Belarus potash deal to undercut Canada",
+   "link": "https://www.euronews.com/2026/09/21/trump-promotes-massive-belarus-potash-deal-to-undercut-canada",
+   "source": "Euronews",
+   "date": "2026-09-21T16:14:38.000Z"
   },
   {
-   "title": "Inside Kazakhstan’s push to become a regional AI centre",
-   "link": "https://www.aljazeera.com/news/2026/9/21/inside-kazakhstans-push-to-become-a-regional-ai-centre?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-21T13:26:01.000Z"
+   "title": "Latest news bulletin | September 21st, 2026 – Evening",
+   "link": "https://www.euronews.com/video/2026/09/21/latest-news-bulletin-september-21st-2026-evening",
+   "source": "Euronews",
+   "date": "2026-09-21T16:00:29.000Z"
   },
   {
-   "title": "Swiss captain Xhaka sidelined over fake COVID-19 vaccination certificate",
-   "link": "https://www.aljazeera.com/sports/2026/9/21/swiss-captain-xhaka-sidelined-over-fake-covid-19-vaccination-certificate?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-21T13:20:13.000Z"
+   "title": "CNN, MS NOW and Politico file lawsuit against Trump's White House ban",
+   "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-21T15:58:53.000Z"
   },
   {
-   "title": "Who is Yu Zidi, China’s 13-year-old swimming sensation?",
-   "link": "https://www.aljazeera.com/sports/2026/9/21/who-is-yu-zidi-chinas-13-year-old-swimming-sensation?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-21T13:19:07.000Z"
+   "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
+   "link": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-21T14:14:16.000Z"
   },
   {
-   "title": "Cargo ship crashes into Chinese fishing boat near Singapore",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/21/cargo-ship-crashes-into-chinese-fishing-boat-near-singapore?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-21T13:18:20.000Z"
-  },
-  {
-   "title": "CNN, Politico, MS NOW to sue Trump administration over White House ban",
-   "link": "https://www.aljazeera.com/news/2026/9/21/cnn-politico-ms-now-to-sue-trump-administration-over-white-house-ban?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-21T13:15:24.000Z"
+   "title": "Millions urged to evacuate as powerful Typhoon Dujuan hits Japan",
+   "link": "https://www.bbc.co.uk/news/articles/cm3wj2lexl97o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-21T14:06:12.000Z"
   },
   {
    "title": "Former enemies form alliance to overthrow Ethiopia's Abiy Ahmed",
@@ -50,106 +146,10 @@
    "date": "2026-09-21T13:06:48.000Z"
   },
   {
-   "title": "Raspberry Pi blocks changing RAM chips",
-   "link": "https://forums.raspberrypi.com/viewtopic.php?p=2380887#p2380888",
-   "source": "Hacker News",
-   "date": "2026-09-21T12:54:24.000Z"
-  },
-  {
-   "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
-   "link": "https://news.ycombinator.com/item?id=49786609",
-   "source": "Hacker News",
-   "date": "2026-09-21T12:47:05.000Z"
-  },
-  {
-   "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
-   "link": "https://github.com/aru-labs/lossless-memory",
-   "source": "Hacker News",
-   "date": "2026-09-21T12:28:17.000Z"
-  },
-  {
-   "title": "Dubai declares 10 days of mourning for ruler's brother Sheikh Ahmed bin Rashid Al Maktoum",
-   "link": "https://www.euronews.com/2026/09/21/dubai-declares-10-days-of-mourning-for-rulers-brother-sheikh-ahmed-bin-rashid-al-maktoum",
-   "source": "Euronews",
-   "date": "2026-09-21T12:24:31.000Z"
-  },
-  {
-   "title": "Xhaka under investigation over Covid-19 certificate",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c3qjkpgengn7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-21T12:21:52.000Z"
-  },
-  {
-   "title": "CNN, MS NOW and Politico to file lawsuit against Trump's White House ban",
-   "link": "https://www.bbc.co.uk/news/articles/cm0e32rwvrryo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-21T12:21:02.000Z"
-  },
-  {
-   "title": "US strikes on alleged drug boats could be crimes against humanity, says UN",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ye7v88qy7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-21T12:08:56.000Z"
-  },
-  {
-   "title": "CNN, MS NOW, Politico to sue Trump administration over White House access",
-   "link": "https://www.euronews.com/2026/09/21/cnn-ms-now-politico-to-sue-trump-administration-over-white-house-access",
-   "source": "Euronews",
-   "date": "2026-09-21T12:04:37.000Z"
-  },
-  {
-   "title": "Seven Ethiopian rebel groups form new alliance",
-   "link": "https://www.bbc.co.uk/news/articles/ckp84pj8zpngo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-21T11:46:39.000Z"
-  },
-  {
-   "title": "Greek stock market joins world’s leading exchanges after debt crisis",
-   "link": "https://www.euronews.com/business/2026/09/21/greek-stock-market-joins-worlds-leading-exchanges-after-debt-crisis",
-   "source": "Euronews",
-   "date": "2026-09-21T11:31:36.000Z"
-  },
-  {
-   "title": "Lowriders take over San Francisco streets in colourful parade",
-   "link": "https://www.euronews.com/video/2026/09/21/lowriders-take-over-san-francisco-streets-in-colourful-parade",
-   "source": "Euronews",
-   "date": "2026-09-21T11:06:23.000Z"
-  },
-  {
-   "title": "ZuckOff Know when a camera is in the room",
-   "link": "https://zuckoff.app/",
-   "source": "Hacker News",
-   "date": "2026-09-21T10:33:14.000Z"
-  },
-  {
-   "title": "US and Iran trade threats as fears of return to all-out war mount",
-   "link": "https://www.euronews.com/2026/09/21/us-and-iran-trade-threats-as-fears-of-return-to-all-out-war-mount",
-   "source": "Euronews",
-   "date": "2026-09-21T10:32:38.000Z"
-  },
-  {
-   "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
-   "link": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
-   "source": "Hacker News",
-   "date": "2026-09-21T10:27:50.000Z"
-  },
-  {
-   "title": "Jev-Leftpad",
-   "link": "https://github.com/f/jev-leftpad",
-   "source": "Hacker News",
-   "date": "2026-09-21T08:39:32.000Z"
-  },
-  {
    "title": "Banished to alien lands: Trump’s secret deportation deals",
    "link": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
    "source": "Guardian World",
    "date": "2026-09-21T05:00:38.000Z"
-  },
-  {
-   "title": "Macron and Carney announce closer France-Canada ties amid Trump tensions",
-   "link": "https://www.theguardian.com/world/2026/sep/21/france-canada-relations-eu-europe-macron-carney",
-   "source": "Guardian World",
-   "date": "2026-09-21T01:09:23.000Z"
   },
   {
    "title": "Russia's elections had few surprises - but how the Kremlin uses the results will be crucial",

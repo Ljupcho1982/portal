@@ -1,59 +1,113 @@
 {
- "updated": "2026-09-25T18:37:19.152Z",
+ "updated": "2026-09-25T22:21:06.138Z",
  "items": [
+  {
+   "title": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-25T21:37:35.000Z"
+  },
+  {
+   "title": "Mbappe goal overshadowed by knee injury to mar Zidane debut France win",
+   "link": "https://www.aljazeera.com/sports/2026/9/25/mbappe-goal-overshadowed-by-knee-injury-to-mar-zidane-debut-france-win?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-25T21:32:43.000Z"
+  },
+  {
+   "title": "What would a US diesel export ban mean for global fuel prices?",
+   "link": "https://www.aljazeera.com/economy/2026/9/25/what-would-a-us-diesel-export-ban-mean-for-global-fuel-prices?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-25T21:28:56.000Z"
+  },
+  {
+   "title": "Italy crisis deepens as Belgium’s win stalls World Cup rebuild in Rome",
+   "link": "https://www.aljazeera.com/sports/2026/9/25/belgium-win-deepens-italy-crisis-as-latest-world-cup-rebuild-begins?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-25T21:20:05.000Z"
+  },
+  {
+   "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+   "link": "https://swarmtraces.org/",
+   "source": "Hacker News",
+   "date": "2026-09-25T21:09:27.000Z"
+  },
+  {
+   "title": "What is killing whale calves in Patagonia? bacteria under suspicion",
+   "link": "https://www.euronews.com/2026/09/25/what-is-killing-whale-calves-in-patagonia-bacteria-under-suspicion",
+   "source": "Euronews",
+   "date": "2026-09-25T21:00:14.000Z"
+  },
+  {
+   "title": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
+   "link": "https://www.aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-25T20:59:43.000Z"
+  },
+  {
+   "title": "Manchester City reportedly found guilty of almost 115 financial charges",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/09-25-man-city-verdict-sv?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-25T20:56:20.000Z"
+  },
+  {
+   "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+   "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-25T20:47:49.000Z"
+  },
+  {
+   "title": "How we learned to stop worrying and love campus surveillance",
+   "link": "https://fnl.mit.edu/how-we-learned-to-stop-worrying-and-love-campus-surveillance/",
+   "source": "Hacker News",
+   "date": "2026-09-25T19:56:57.000Z"
+  },
+  {
+   "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+   "link": "https://news.ycombinator.com/item?id=49848955",
+   "source": "Hacker News",
+   "date": "2026-09-25T19:37:55.000Z"
+  },
   {
    "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
    "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-09-25T18:29:28.000Z"
+   "date": "2026-09-25T19:13:35.000Z"
   },
   {
-   "title": "Poland boosts air defence after ‘Russian provocations’ amid Ukraine war",
-   "link": "https://www.aljazeera.com/news/2026/9/25/poland-boosts-air-defence-after-russian-provocations-amid-ukraine-war?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-25T18:05:32.000Z"
+   "title": "The US lays groundwork for possible military action in Cuba, according to 'CBS News'",
+   "link": "https://www.euronews.com/2026/09/25/the-us-lays-groundwork-for-possible-military-action-in-cuba-according-to-cbs-news",
+   "source": "Euronews",
+   "date": "2026-09-25T19:11:35.000Z"
   },
   {
-   "title": "US top court allows Trump to use controversial voter verification system",
-   "link": "https://www.aljazeera.com/news/2026/9/25/us-top-court-allows-trump-to-use-controversial-voter-verification-system?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-25T17:45:24.000Z"
+   "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+   "link": "https://www.youtube.com/watch?v=Cjntrqhn8pk",
+   "source": "Hacker News",
+   "date": "2026-09-25T18:37:05.000Z"
   },
   {
-   "title": "Lebanese in Brazil, Brazilian in Lebanon",
-   "link": "https://www.aljazeera.com/features/longform/2026/9/25/lebanese-in-brazil-brazilian-in-lebanon?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-25T17:44:39.000Z"
+   "title": "Ollaya – Ollama for open-source, Jev-style decision models",
+   "link": "https://ollaya.dev/",
+   "source": "Hacker News",
+   "date": "2026-09-25T18:33:50.000Z"
   },
   {
-   "title": "Al Jazeera rejects Netanyahu’s attack on journalists in UN speech",
-   "link": "https://www.aljazeera.com/news/2026/9/25/al-jazeera-rejects-netanyahus-attack-on-journalists-in-un-speech?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-25T17:34:16.000Z"
+   "title": "Trump's plans for massive arch move ahead",
+   "link": "https://www.bbc.co.uk/news/articles/cq0lrr8kxy0lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-25T18:27:46.000Z"
+  },
+  {
+   "title": "Meta's Muse appears to use an OpenAI model labeled muse-special",
+   "link": "https://mouse.dev/blog/muse-special/",
+   "source": "Hacker News",
+   "date": "2026-09-25T18:18:06.000Z"
   },
   {
    "title": "Iran proposes plan to US to reopen Hormuz in seven days and end the war",
    "link": "https://www.euronews.com/2026/09/25/iran-proposes-plan-to-us-to-reopen-hormuz-in-seven-days-and-end-the-war",
    "source": "Euronews",
    "date": "2026-09-25T17:33:54.000Z"
-  },
-  {
-   "title": "Timeline: Man City’s Premier League financial charges to reported verdict",
-   "link": "https://www.aljazeera.com/sports/2026/9/25/timeline-man-citys-premier-league-financial-charges-to-reported-verdict?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-25T17:20:58.000Z"
-  },
-  {
-   "title": "Ed Sheeran concerts at Robert Kraft stadiums cancelled over weather",
-   "link": "https://www.aljazeera.com/news/2026/9/25/ed-sheeran-concerts-at-robert-kraft-stadiums-cancelled-over-weather?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-25T17:18:35.000Z"
-  },
-  {
-   "title": "Show HN: Doom or Bloom, map your AI worldview with Jev",
-   "link": "https://www.doom-or-bloom.com",
-   "source": "Hacker News",
-   "date": "2026-09-25T16:51:28.000Z"
   },
   {
    "title": "Alberta’s self-image as world’s only rat-free region shattered by discovery of rat",
@@ -80,40 +134,10 @@
    "date": "2026-09-25T15:36:22.000Z"
   },
   {
-   "title": "Gravity Seems Holographic. What Does That Mean for Reality?",
-   "link": "https://www.quantamagazine.org/gravity-seems-holographic-what-does-that-mean-for-reality-20260925/",
-   "source": "Hacker News",
-   "date": "2026-09-25T15:31:02.000Z"
-  },
-  {
-   "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-   "link": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-   "source": "Hacker News",
-   "date": "2026-09-25T15:29:25.000Z"
-  },
-  {
-   "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-   "link": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-   "source": "Hacker News",
-   "date": "2026-09-25T15:27:35.000Z"
-  },
-  {
    "title": "Pope warns against 'losing humanity' to AI machines",
    "link": "https://www.bbc.co.uk/news/articles/cmq8j904212po?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-25T15:06:41.000Z"
-  },
-  {
-   "title": "Factorio that you can touch",
-   "link": "https://factorio.com/blog/post/fff-447",
-   "source": "Hacker News",
-   "date": "2026-09-25T14:24:42.000Z"
-  },
-  {
-   "title": "Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
-   "link": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-   "source": "Hacker News",
-   "date": "2026-09-25T14:07:08.000Z"
   },
   {
    "title": "Special agents' blood and urine test results stolen in FBI hack",
@@ -126,30 +150,6 @@
    "link": "https://www.euronews.com/video/2026/09/25/ukraine-russian-drone-barrage-on-kyiv-kills-teenage-boy-and-wounds-20-residents",
    "source": "Euronews",
    "date": "2026-09-25T13:50:33.000Z"
-  },
-  {
-   "title": "Man shot during 2024 Trump campaign rally in Butler dies",
-   "link": "https://www.bbc.co.uk/news/articles/c5dj401d88l3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-25T13:23:33.000Z"
-  },
-  {
-   "title": "Explosion near Acropolis collapses building in Athens’ Plaka, injuring two",
-   "link": "https://www.euronews.com/video/2026/09/25/explosion-near-acropolis-collapses-building-in-athens-plaka-injuring-two",
-   "source": "Euronews",
-   "date": "2026-09-25T12:48:20.000Z"
-  },
-  {
-   "title": "Turkish forces to withdraw from strategic military base in northern Iraq",
-   "link": "https://www.euronews.com/2026/09/25/turkish-army-to-withdraw-from-strategic-military-base-in-northern-iraq",
-   "source": "Euronews",
-   "date": "2026-09-25T12:31:56.000Z"
-  },
-  {
-   "title": "Xi got Trump's red carpet welcome - but not everything he wanted",
-   "link": "https://www.bbc.co.uk/news/articles/cr93e4x7kdjjo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-25T03:57:09.000Z"
   },
   {
    "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",

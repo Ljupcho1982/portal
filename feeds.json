@@ -1,53 +1,83 @@
 {
- "updated": "2026-09-27T01:28:14.407Z",
+ "updated": "2026-09-27T08:11:19.539Z",
  "items": [
   {
-   "title": "Araghchi ignores Trump, waits for mediators’ response on Hormuz",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/araghchi-ignores-trump-waits-for-mediators-response-on-hormuz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-27T00:50:31.000Z"
-  },
-  {
-   "title": "Iran war live: Tehran awaits official response as Trump rejects Hormuz plan",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/9/27/iran-war-live-tehran-awaits-official-response-as-trump-rejects-hormuz-plan?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-27T00:00:00.000Z"
-  },
-  {
-   "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-26T23:49:30.000Z"
-  },
-  {
-   "title": "Four American tourists among 6 killed in suspected gas leak blast in Athens",
-   "link": "https://www.aljazeera.com/news/2026/9/26/four-american-tourists-among-6-killed-in-suspected-gas-leak-blast-in-athens?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-26T23:26:31.000Z"
-  },
-  {
-   "title": "Powerful storm brings flooding, power outages to northeastern United States",
-   "link": "https://www.aljazeera.com/news/2026/9/26/powerful-storm-brings-flooding-power-outages-to-northeastern-united-states?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-26T22:51:57.000Z"
-  },
-  {
-   "title": "Deadly shooting hits Caribbean islands of Saint Vincent and the Grenadines",
-   "link": "https://www.aljazeera.com/news/2026/9/26/deadly-shooting-hits-caribbean-islands-of-saint-vincent-and-the-grenadines?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-26T22:38:01.000Z"
-  },
-  {
-   "title": "Trump rejects Iran deal to reopen Strait of Hormuz in seven days",
-   "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+   "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
+   "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-09-26T22:15:59.000Z"
+   "date": "2026-09-27T07:44:11.000Z"
   },
   {
-   "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
-   "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
+   "title": "Kylian Mbappe’s knee injury to keep him out for two weeks",
+   "link": "https://www.aljazeera.com/sports/2026/9/27/kylian-mbappes-knee-injury-to-keep-him-out-for-two-weeks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-27T07:32:20.000Z"
+  },
+  {
+   "title": "Two mass shootings in South Africa leave at least 27 dead",
+   "link": "https://www.euronews.com/2026/09/27/two-mass-shootings-in-south-africa-leave-at-least-27-dead",
+   "source": "Euronews",
+   "date": "2026-09-27T07:25:55.000Z"
+  },
+  {
+   "title": "Norway vs Portugal: UEFA Nations League – Ronaldo, Haaland, teams, form",
+   "link": "https://www.aljazeera.com/sports/2026/9/27/norway-portugal-uefa-nations-league-ronaldo-haaland-team-news?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-27T07:23:33.000Z"
+  },
+  {
+   "title": "Australia summons OpenAI and Anthropic CEOs to appear at AI inquiry",
+   "link": "https://www.aljazeera.com/news/2026/9/27/australia-summons-openai-and-anthropic-ceos-to-appear-at-ai-inquiry?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-27T07:08:28.000Z"
+  },
+  {
+   "title": "Northern Ireland court allows Orange Order march through Catholic area",
+   "link": "https://www.aljazeera.com/news/2026/9/27/northern-ireland-court-allows-orange-order-march-through-catholic-area?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-27T06:53:31.000Z"
+  },
+  {
+   "title": "At least 27 people killed in two shootings in South African townships",
+   "link": "https://www.aljazeera.com/news/2026/9/27/several-killed-in-south-africa-shooting?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-27T05:48:47.000Z"
+  },
+  {
+   "title": "Huge crowds cheer Pope Leo as he leads open-air Mass in Paris",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/huge-crowds-cheer-pope-leo-as-he-leads-open-air-mass-in-paris?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-27T05:09:01.000Z"
+  },
+  {
+   "title": "Latest news bulletin | September 27th, 2026 – Morning",
+   "link": "https://www.euronews.com/video/2026/09/27/latest-news-bulletin-september-27th-2026-morning",
+   "source": "Euronews",
+   "date": "2026-09-27T05:00:33.000Z"
+  },
+  {
+   "title": "Four killed in helicopter crash near Montreal",
+   "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-09-26T22:04:26.000Z"
+   "date": "2026-09-27T02:43:10.000Z"
+  },
+  {
+   "title": "What is the size of Yemen? (2024)",
+   "link": "https://theborys.substack.com/p/what-is-the-size-of-yemen",
+   "source": "Hacker News",
+   "date": "2026-09-27T02:40:26.000Z"
+  },
+  {
+   "title": "Real-time feedback: My closing move in every interview",
+   "link": "https://mgrebler.substack.com/p/real-time-feedback-my-closing-move",
+   "source": "Hacker News",
+   "date": "2026-09-27T01:01:18.000Z"
+  },
+  {
+   "title": "Christa Pike to be first woman executed in Tennessee in 200 years - but her defence say she's a victim too",
+   "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-26T23:04:08.000Z"
   },
   {
    "title": "Pope Leo XIV draws 800,000 faithful to Paris before emotional Lourdes pilgrimage",
@@ -62,12 +92,6 @@
    "date": "2026-09-26T20:08:50.000Z"
   },
   {
-   "title": "Republic of Ireland to wear black armbands for Israel game",
-   "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-26T19:59:00.000Z"
-  },
-  {
    "title": "Azerbaijan marks its Remembrance Day looking forward to a future of peace",
    "link": "https://www.euronews.com/2026/09/26/azerbaijan-marks-its-remembrance-day-looking-forward-to-a-future-of-peace",
    "source": "Euronews",
@@ -78,12 +102,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cm4gjjwvvlzro?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-26T19:48:06.000Z"
-  },
-  {
-   "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
-   "link": "https://tml.stanford.edu/homebody/",
-   "source": "Hacker News",
-   "date": "2026-09-26T18:42:10.000Z"
   },
   {
    "title": "DeepSeek Elastic Compute (DSec)",
@@ -102,12 +120,6 @@
    "link": "https://github.com/reladraw/reladraw",
    "source": "Hacker News",
    "date": "2026-09-26T17:10:40.000Z"
-  },
-  {
-   "title": "The Evolution of Vending Machines",
-   "link": "https://www.saturdayeveningpost.com/2026/09/from-holy-water-to-frozen-meals-the-evolution-of-vending-machines/",
-   "source": "Hacker News",
-   "date": "2026-09-26T17:01:45.000Z"
   },
   {
    "title": "US strikes on Ecuadorian fishing boats raise humanitarian concerns but Trump admin not wavering",
@@ -138,18 +150,6 @@
    "link": "https://www.bbc.co.uk/news/articles/c6p3kk78l4l1o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-09-26T12:47:25.000Z"
-  },
-  {
-   "title": "At least 11 dead following suicide bomb attack in northwestern Pakistan",
-   "link": "https://www.euronews.com/2026/09/26/at-least-11-dead-following-suicide-bomb-attack-in-northwestern-pakistan",
-   "source": "Euronews",
-   "date": "2026-09-26T12:19:02.000Z"
-  },
-  {
-   "title": "Latest news bulletin | September 26th, 2026 – Midday",
-   "link": "https://www.euronews.com/video/2026/09/26/latest-news-bulletin-september-26th-2026-midday",
-   "source": "Euronews",
-   "date": "2026-09-26T10:00:16.000Z"
   },
   {
    "title": "Rebel offensive against Ethiopian army stokes fears of return to civil war",

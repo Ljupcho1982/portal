@@ -1,65 +1,107 @@
 {
- "updated": "2026-09-30T19:20:45.341Z",
+ "updated": "2026-09-30T23:50:17.921Z",
  "items": [
   {
-   "title": "US Fed watchdog finds no criminal wrongdoing in Powell-era renovation costs",
-   "link": "https://www.aljazeera.com/news/2026/9/30/us-fed-watchdog-finds-no-criminal-wrongdoing-in-powell-era-renovation-costs?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-30T19:00:11.000Z"
+   "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+   "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-30T23:42:10.000Z"
   },
   {
-   "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
-   "link": "https://www.aljazeera.com/news/2026/9/30/russia-warns-nato-of-possible-nuclear-response-if-kaliningrad-is-cut-off?traffic_source=rss",
+   "title": "US judge approves settlement allowing Paramount to acquire Warner Bros",
+   "link": "https://www.aljazeera.com/news/2026/9/30/us-judge-approves-settlement-allowing-paramount-to-acquire-warner-bros?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-30T18:52:51.000Z"
+   "date": "2026-09-30T23:15:00.000Z"
   },
   {
-   "title": "A political dynasty? Why the Bolsonaro family dominates Brazil’s right wing",
-   "link": "https://www.aljazeera.com/news/longform/2026/9/30/a-political-dynasty-why-the-bolsonaro-family-dominates-brazils-right-wing?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-30T18:48:32.000Z"
+   "title": "Tiny image sparks big backlash in Nikon photo contest",
+   "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-30T23:10:19.000Z"
   },
   {
-   "title": "Cristiano Ronaldo misses Portugal training as coach Jorge Jesus denies rift",
-   "link": "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-30T18:39:04.000Z"
+   "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+   "link": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-30T23:10:06.000Z"
   },
   {
-   "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-   "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+   "title": "US Senate rejects bill targeting AI data centre electricity costs",
+   "link": "https://www.aljazeera.com/news/2026/9/30/us-senate-rejects-bill-targeting-ai-data-centre-electricity-costs?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-30T22:58:21.000Z"
+  },
+  {
+   "title": "EDG C++ Compiler is open source",
+   "link": "https://github.com/edgcpp/compiler",
    "source": "Hacker News",
-   "date": "2026-09-30T18:17:45.000Z"
+   "date": "2026-09-30T22:48:44.000Z"
   },
   {
-   "title": "Video: Bangladesh Dengue deaths surpass 233 in deadly outbreak",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/video-bangladesh-dengue-deaths-surpass-233-in-deadly-outbreak?traffic_source=rss",
+   "title": "Hong Kong journalist arrested on sedition charge",
+   "link": "https://www.aljazeera.com/news/2026/9/30/hong-kong-journalist-arrested-on-sedition-charge?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-30T18:12:27.000Z"
+   "date": "2026-09-30T22:16:01.000Z"
   },
   {
-   "title": "Strong indications’ Iran linked to suspected UK airbase plot",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_indications-iran-linked-suspected-uk-airbase-plot-300926?traffic_source=rss",
+   "title": "Russian drone crashes into Kyiv playground without exploding",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_russian-drone-crashes-on-kyiv-playground-300926?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-30T18:09:51.000Z"
+   "date": "2026-09-30T22:13:35.000Z"
+  },
+  {
+   "title": "56k.rip – the 1996 dial-up internet experience",
+   "link": "https://56k.rip/",
+   "source": "Hacker News",
+   "date": "2026-09-30T22:08:50.000Z"
+  },
+  {
+   "title": "Automating Wi-Fi setup testing on the ESP32",
+   "link": "https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/",
+   "source": "Hacker News",
+   "date": "2026-09-30T22:07:51.000Z"
+  },
+  {
+   "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+   "link": "https://www.thespacereview.com/article/4951/1",
+   "source": "Hacker News",
+   "date": "2026-09-30T22:03:04.000Z"
   },
   {
    "title": "What we know about stabbing on Flydubai flight to Israel",
    "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-09-30T17:51:49.000Z"
+   "date": "2026-09-30T21:36:31.000Z"
   },
   {
-   "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-   "link": "https://github.com/magnitudedev/magnitude",
-   "source": "Hacker News",
-   "date": "2026-09-30T17:37:40.000Z"
+   "title": "It’s the ‘closest thing to an HIV vaccine’, but who gets access?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/its-the-closest-thing-to-an-hiv-vaccine-but-who-gets-access?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-30T21:34:30.000Z"
   },
   {
-   "title": "Commit Description as a Thinking Tool",
-   "link": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+   "title": "Trump administration files complaint against judges over media comments",
+   "link": "https://www.aljazeera.com/news/2026/9/30/trump-administration-files-complaint-against-judges-over-media-comments?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-30T21:28:43.000Z"
+  },
+  {
+   "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+   "link": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
    "source": "Hacker News",
-   "date": "2026-09-30T17:18:13.000Z"
+   "date": "2026-09-30T20:06:39.000Z"
+  },
+  {
+   "title": "Gemini 4 Argon",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+   "source": "Hacker News",
+   "date": "2026-09-30T20:04:37.000Z"
+  },
+  {
+   "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+   "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+   "source": "Guardian World",
+   "date": "2026-09-30T19:51:24.000Z"
   },
   {
    "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
@@ -74,46 +116,10 @@
    "date": "2026-09-30T17:11:08.000Z"
   },
   {
-   "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-   "link": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
-   "source": "Hacker News",
-   "date": "2026-09-30T17:00:20.000Z"
-  },
-  {
    "title": "Latest news bulletin | September 30th, 2026 – Evening",
    "link": "https://www.euronews.com/video/2026/09/30/latest-news-bulletin-september-30th-2026-evening",
    "source": "Euronews",
    "date": "2026-09-30T16:00:29.000Z"
-  },
-  {
-   "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
-   "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
-   "source": "Guardian World",
-   "date": "2026-09-30T15:59:32.000Z"
-  },
-  {
-   "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
-   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
-   "source": "Hacker News",
-   "date": "2026-09-30T15:54:59.000Z"
-  },
-  {
-   "title": "Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac",
-   "link": "https://openparrot.app",
-   "source": "Hacker News",
-   "date": "2026-09-30T15:33:12.000Z"
-  },
-  {
-   "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
-   "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-30T15:29:11.000Z"
-  },
-  {
-   "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-   "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-30T14:53:02.000Z"
   },
   {
    "title": "Qatar and UAE back Ethiopian government as fighting spreads beyond Tigray",
@@ -138,12 +144,6 @@
    "link": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
    "source": "Guardian World",
    "date": "2026-09-30T12:47:15.000Z"
-  },
-  {
-   "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-   "link": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-30T11:36:23.000Z"
   },
   {
    "title": "Thousands of firefighters march in Paris demanding more resources",

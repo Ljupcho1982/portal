@@ -1,71 +1,143 @@
 {
- "updated": "2026-09-30T13:44:18.269Z",
+ "updated": "2026-09-30T19:20:45.341Z",
  "items": [
   {
-   "title": "Why Israel is interfering in Palestinian education",
-   "link": "https://www.aljazeera.com/opinions/2026/9/30/why-israel-is-interfering-in-palestinian-education?traffic_source=rss",
+   "title": "US Fed watchdog finds no criminal wrongdoing in Powell-era renovation costs",
+   "link": "https://www.aljazeera.com/news/2026/9/30/us-fed-watchdog-finds-no-criminal-wrongdoing-in-powell-era-renovation-costs?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-30T13:22:33.000Z"
+   "date": "2026-09-30T19:00:11.000Z"
   },
   {
-   "title": "Christa Pike seeks firing squad, not lethal injection: Inside US executions",
-   "link": "https://www.aljazeera.com/news/2026/9/30/christa-pike-seeks-firing-squad-not-lethal-injection-inside-us-executions?traffic_source=rss",
+   "title": "Russia warns NATO of possible nuclear response if Kaliningrad is cut off",
+   "link": "https://www.aljazeera.com/news/2026/9/30/russia-warns-nato-of-possible-nuclear-response-if-kaliningrad-is-cut-off?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-30T13:14:39.000Z"
+   "date": "2026-09-30T18:52:51.000Z"
   },
   {
-   "title": "The last time my family was replaced by technology",
-   "link": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+   "title": "A political dynasty? Why the Bolsonaro family dominates Brazil’s right wing",
+   "link": "https://www.aljazeera.com/news/longform/2026/9/30/a-political-dynasty-why-the-bolsonaro-family-dominates-brazils-right-wing?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-30T18:48:32.000Z"
+  },
+  {
+   "title": "Cristiano Ronaldo misses Portugal training as coach Jorge Jesus denies rift",
+   "link": "https://www.aljazeera.com/sports/2026/9/30/cristiano-ronaldo-misses-portugal-training-as-coach-jorge-jesus-denies-rift?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-30T18:39:04.000Z"
+  },
+  {
+   "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
+   "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
    "source": "Hacker News",
-   "date": "2026-09-30T13:06:11.000Z"
+   "date": "2026-09-30T18:17:45.000Z"
   },
   {
-   "title": "Israeli attacks on Gaza kill seven as ‘ceasefire’ violations continue",
-   "link": "https://www.aljazeera.com/news/2026/9/30/israeli-attacks-on-gaza-kill-several-as-ceasefire-violations-continue?traffic_source=rss",
+   "title": "Video: Bangladesh Dengue deaths surpass 233 in deadly outbreak",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/video-bangladesh-dengue-deaths-surpass-233-in-deadly-outbreak?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-09-30T12:49:04.000Z"
+   "date": "2026-09-30T18:12:27.000Z"
+  },
+  {
+   "title": "Strong indications’ Iran linked to suspected UK airbase plot",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_indications-iran-linked-suspected-uk-airbase-plot-300926?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-09-30T18:09:51.000Z"
+  },
+  {
+   "title": "What we know about stabbing on Flydubai flight to Israel",
+   "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-30T17:51:49.000Z"
+  },
+  {
+   "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+   "link": "https://github.com/magnitudedev/magnitude",
+   "source": "Hacker News",
+   "date": "2026-09-30T17:37:40.000Z"
+  },
+  {
+   "title": "Commit Description as a Thinking Tool",
+   "link": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
+   "source": "Hacker News",
+   "date": "2026-09-30T17:18:13.000Z"
+  },
+  {
+   "title": "Six smugglers jailed for manslaughter over worst Channel small boats disaster",
+   "link": "https://www.bbc.co.uk/news/articles/c6n8m33pn9djo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-30T17:14:03.000Z"
+  },
+  {
+   "title": "UK-France 'one in, one out' migrant scheme scrapped",
+   "link": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-30T17:11:08.000Z"
+  },
+  {
+   "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+   "link": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+   "source": "Hacker News",
+   "date": "2026-09-30T17:00:20.000Z"
+  },
+  {
+   "title": "Latest news bulletin | September 30th, 2026 – Evening",
+   "link": "https://www.euronews.com/video/2026/09/30/latest-news-bulletin-september-30th-2026-evening",
+   "source": "Euronews",
+   "date": "2026-09-30T16:00:29.000Z"
+  },
+  {
+   "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
+   "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
+   "source": "Guardian World",
+   "date": "2026-09-30T15:59:32.000Z"
+  },
+  {
+   "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
+   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
+   "source": "Hacker News",
+   "date": "2026-09-30T15:54:59.000Z"
+  },
+  {
+   "title": "Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac",
+   "link": "https://openparrot.app",
+   "source": "Hacker News",
+   "date": "2026-09-30T15:33:12.000Z"
+  },
+  {
+   "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
+   "link": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-30T15:29:11.000Z"
+  },
+  {
+   "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
+   "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-09-30T14:53:02.000Z"
+  },
+  {
+   "title": "Qatar and UAE back Ethiopian government as fighting spreads beyond Tigray",
+   "link": "https://www.euronews.com/2026/09/30/qatar-and-uae-back-ethiopian-government-as-fighting-spreads-beyond-tigray",
+   "source": "Euronews",
+   "date": "2026-09-30T14:47:38.000Z"
+  },
+  {
+   "title": "South African leader urges men to speak up on gender-based violence after series of killings",
+   "link": "https://www.theguardian.com/world/2026/sep/30/south-africa-gender-based-violence-women-killings",
+   "source": "Guardian World",
+   "date": "2026-09-30T14:16:33.000Z"
+  },
+  {
+   "title": "‘Let workers have a say’: Protesters target OpenAI conference",
+   "link": "https://www.euronews.com/video/2026/09/30/let-workers-have-a-say-protesters-target-openai-conference",
+   "source": "Euronews",
+   "date": "2026-09-30T14:06:29.000Z"
   },
   {
    "title": "Burundi agrees to receive ‘third-country’ migrant deportees from US",
    "link": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
    "source": "Guardian World",
    "date": "2026-09-30T12:47:15.000Z"
-  },
-  {
-   "title": "Settlers closing in on Ramallah",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/settlers-closing-in-on-ramallah?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-30T12:43:27.000Z"
-  },
-  {
-   "title": "Russia launches largest attack on Ukraine energy infrastructure since spring",
-   "link": "https://www.bbc.co.uk/news/articles/ckjw5jx2l393o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-30T12:42:34.000Z"
-  },
-  {
-   "title": "Denmark vs Portugal: UEFA Nations League – Ronaldo, Hojlund, teams, form",
-   "link": "https://www.aljazeera.com/sports/2026/9/30/denmark-portugal-uefa-nations-league-ronaldo-felix-hojlund-team-form?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-30T12:40:08.000Z"
-  },
-  {
-   "title": "Rainwater washes away highway in Nigeria",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/rainwater-washes-away-highway-in-nigeria?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-09-30T12:39:08.000Z"
-  },
-  {
-   "title": "What we know about the Dubai-Israel plane incident after reported stabbing",
-   "link": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-30T12:30:05.000Z"
-  },
-  {
-   "title": "Top Trump figures push to direct human rights funding to rightwing causes",
-   "link": "https://www.theguardian.com/us-news/2026/sep/30/trump-state-department-human-rights-fund",
-   "source": "Guardian World",
-   "date": "2026-09-30T12:00:42.000Z"
   },
   {
    "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
@@ -80,82 +152,16 @@
    "date": "2026-09-30T11:22:59.000Z"
   },
   {
-   "title": "Most data centers refusing to say how much water, electricity they use",
-   "link": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
-   "source": "Hacker News",
-   "date": "2026-09-30T10:49:32.000Z"
-  },
-  {
    "title": "Latest news bulletin | September 30th, 2026 – Midday",
    "link": "https://www.euronews.com/video/2026/09/30/latest-news-bulletin-september-30th-2026-midday",
    "source": "Euronews",
    "date": "2026-09-30T10:00:16.000Z"
   },
   {
-   "title": "Pi.dev: You Said No MCP",
-   "link": "https://earendil.com/posts/you-said-no-mcp/",
-   "source": "Hacker News",
-   "date": "2026-09-30T09:55:23.000Z"
-  },
-  {
-   "title": "Singapore launches matchmaking service for government workers",
-   "link": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-30T09:42:36.000Z"
-  },
-  {
    "title": "Flooding and destruction as Hurricane Polo hits Mexico",
    "link": "https://www.euronews.com/video/2026/09/30/flooding-and-destruction-as-hurricane-polo-hits-mexico",
    "source": "Euronews",
    "date": "2026-09-30T09:00:08.000Z"
-  },
-  {
-   "title": "Flydubai planes makes emergency landing after fight between pilots",
-   "link": "https://www.euronews.com/2026/09/30/flydubai-plane-traveling-to-israel-diverted-to-saudi-arabia-after-alleged-dispute-between-",
-   "source": "Euronews",
-   "date": "2026-09-30T08:16:18.000Z"
-  },
-  {
-   "title": "Rehabilitated green sea turtle Jurassic returns to Atlantic",
-   "link": "https://www.euronews.com/video/2026/09/30/rehabilitated-green-sea-turtle-jurassic-returns-to-atlantic",
-   "source": "Euronews",
-   "date": "2026-09-30T07:40:49.000Z"
-  },
-  {
-   "title": "September 2026: The world today, as seen by one Polish guy",
-   "link": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-   "source": "Hacker News",
-   "date": "2026-09-30T07:12:31.000Z"
-  },
-  {
-   "title": "North Korea slams South's claim it was behind DMZ mine blasts, calling it a 'farce'",
-   "link": "https://www.euronews.com/2026/09/30/north-korea-slams-souths-claim-it-was-behind-dmz-mine-blasts-calling-it-a-farce",
-   "source": "Euronews",
-   "date": "2026-09-30T05:23:21.000Z"
-  },
-  {
-   "title": "Girl has multiple surgeries to control infections after strike in Gaza",
-   "link": "https://www.bbc.co.uk/news/videos/c8n5d0e0n6wdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-30T05:02:50.000Z"
-  },
-  {
-   "title": "RSS Feeds for Last.fm",
-   "link": "https://lfm.xiffy.nl/",
-   "source": "Hacker News",
-   "date": "2026-09-30T03:00:05.000Z"
-  },
-  {
-   "title": "Chinese AI tool told researchers how to make bioweapons",
-   "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-09-29T23:15:29.000Z"
-  },
-  {
-   "title": "Floppy Emu Hardware Failure Analysis Results",
-   "link": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
-   "source": "Hacker News",
-   "date": "2026-09-29T23:10:26.000Z"
   },
   {
    "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
@@ -174,12 +180,6 @@
    "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
    "source": "Guardian World",
    "date": "2026-09-27T13:46:49.000Z"
-  },
-  {
-   "title": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
-   "link": "https://www.theguardian.com/environment/2026/sep/27/baboons-cape-town-divided-over-plan-to-remove-its-monkeys-aoe",
-   "source": "Guardian World",
-   "date": "2026-09-27T11:00:03.000Z"
   }
  ]
 }

@@ -1,89 +1,149 @@
 {
- "updated": "2026-10-02T08:38:15.977Z",
+ "updated": "2026-10-02T15:49:47.656Z",
  "items": [
+  {
+   "title": "Intensified Russian strikes are tearing Kyiv apart, warns mayor",
+   "link": "https://www.bbc.co.uk/news/articles/c6wyv44y4ywjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-02T15:26:37.000Z"
+  },
+  {
+   "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
+   "link": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
+   "source": "Hacker News",
+   "date": "2026-10-02T15:24:54.000Z"
+  },
+  {
+   "title": "Mozilla shutting down Solo AI website creator",
+   "link": "https://support.soloist.ai/doc/solo-shutdown-faq",
+   "source": "Hacker News",
+   "date": "2026-10-02T15:19:22.000Z"
+  },
+  {
+   "title": "AI Makes Me Sad",
+   "link": "https://mondobe.com/ai-makes-me-sad",
+   "source": "Hacker News",
+   "date": "2026-10-02T15:18:00.000Z"
+  },
+  {
+   "title": "US Coast Guard says it has intercepted ship carrying fuel to Cuba",
+   "link": "https://www.theguardian.com/world/2026/oct/02/us-coast-guard-says-it-has-intercepted-ship-carrying-fuel-to-cuba",
+   "source": "Guardian World",
+   "date": "2026-10-02T15:13:23.000Z"
+  },
+  {
+   "title": "Spain’s parliament rejects gov’t housing decrees amid mass protests",
+   "link": "https://www.aljazeera.com/news/2026/10/2/spains-parliament-rejects-govt-housing-decrees-amid-mass-protests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-02T15:01:08.000Z"
+  },
+  {
+   "title": "Big Tech ruined the cloud, so we're renaming ours",
+   "link": "https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/",
+   "source": "Hacker News",
+   "date": "2026-10-02T14:57:22.000Z"
+  },
+  {
+   "title": "G7 announces oil reserve release, as Trump hails Europe diesel deal",
+   "link": "https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-02T14:14:18.000Z"
+  },
+  {
+   "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+   "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-02T14:01:09.000Z"
+  },
+  {
+   "title": "5,000 drones turn China’s night sky into a giant light show",
+   "link": "https://www.euronews.com/video/2026/10/02/5000-drones-create-giant-shapes-over-nanchang-in-china",
+   "source": "Euronews",
+   "date": "2026-10-02T14:00:15.000Z"
+  },
+  {
+   "title": "Ethiopia, Eritrea break ties: Does the conflict risk becoming regional war?",
+   "link": "https://www.aljazeera.com/news/2026/10/2/ethiopia-eritrea-break-ties-does-the-conflict-risk-becoming-regional-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-02T13:53:24.000Z"
+  },
+  {
+   "title": "Can India’s ‘cockroach’ movement oust Modi’s election chief?",
+   "link": "https://www.aljazeera.com/features/2026/10/2/can-indias-cockroach-movement-oust-modis-election-chief?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-02T13:50:06.000Z"
+  },
+  {
+   "title": "Mobile ebola laboratory cuts diagnosis times for patients in Congo",
+   "link": "https://www.euronews.com/video/2026/10/02/mobile-ebola-laboratory-cuts-diagnosis-times-for-patients-in-congo",
+   "source": "Euronews",
+   "date": "2026-10-02T13:24:04.000Z"
+  },
+  {
+   "title": "The Legend of von Neumann [pdf]",
+   "link": "https://gwern.net/doc/math/1973-halmos.pdf",
+   "source": "Hacker News",
+   "date": "2026-10-02T13:18:32.000Z"
+  },
+  {
+   "title": "Man City lodge appeal after guilty finding in financial breach scandal",
+   "link": "https://www.aljazeera.com/sports/2026/10/2/manchester-city-appeal-premier-league-financial-ruling-england-fa?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-02T13:17:42.000Z"
+  },
+  {
+   "title": "Trump vs Europe as US presses for release of emergency diesel stocks",
+   "link": "https://www.aljazeera.com/news/2026/10/2/trump-vs-europe-as-us-presses-for-release-of-emergency-diesel-stocks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-02T13:16:44.000Z"
+  },
+  {
+   "title": "US sends third carrier strike group to Middle East in biggest buildup since 2003",
+   "link": "https://www.euronews.com/2026/10/02/us-sends-third-carrier-strike-group-to-middle-east-in-biggest-buildup-since-2003",
+   "source": "Euronews",
+   "date": "2026-10-02T11:48:37.000Z"
+  },
+  {
+   "title": "Video shows bear slamming into car in northern Japan",
+   "link": "https://www.euronews.com/2026/10/02/video-shows-bear-slamming-into-car-in-northern-japan",
+   "source": "Euronews",
+   "date": "2026-10-02T11:10:52.000Z"
+  },
+  {
+   "title": "Cornell University gang rape allegations: case sparks debate among US students",
+   "link": "https://www.euronews.com/2026/10/02/cornell-university-gang-rape-allegations-case-sparks-debate-among-us-students",
+   "source": "Euronews",
+   "date": "2026-10-02T10:01:05.000Z"
+  },
+  {
+   "title": "Cornell students gather to voice anger over alleged gang rape",
+   "link": "https://www.bbc.co.uk/news/articles/cm0e3ed1er1yo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-02T10:00:24.000Z"
+  },
+  {
+   "title": "Latest news bulletin | October 2nd, 2026 – Midday",
+   "link": "https://www.euronews.com/video/2026/10/02/latest-news-bulletin-october-2nd-2026-midday",
+   "source": "Euronews",
+   "date": "2026-10-02T10:00:16.000Z"
+  },
   {
    "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
    "link": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-02T08:33:38.000Z"
+   "date": "2026-10-02T09:08:06.000Z"
   },
   {
-   "title": "Houthis deny Saudi accusations of targeting Medina's holy sites",
-   "link": "https://www.euronews.com/2026/10/02/houthis-deny-saudi-accusations-of-targeting-medinas-holy-sites",
-   "source": "Euronews",
-   "date": "2026-10-02T08:32:15.000Z"
+   "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
+   "link": "https://www.theguardian.com/global-development/2026/oct/02/row-erupts-over-cairo-mural-depicting-tutankhamun-and-nefertiti-with-dark-skin",
+   "source": "Guardian World",
+   "date": "2026-10-02T08:55:42.000Z"
   },
   {
-   "title": "World's tallest wind turbine rises to 365 metres in Germany",
-   "link": "https://www.euronews.com/video/2026/10/02/worlds-tallest-wind-turbine-rises-to-365-metres-in-germany",
-   "source": "Euronews",
-   "date": "2026-10-02T08:31:06.000Z"
-  },
-  {
-   "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-   "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-02T08:16:32.000Z"
-  },
-  {
-   "title": "‘They are crying’: Refugees in Malaysia in fear amid Myanmar deportation",
-   "link": "https://www.aljazeera.com/features/2026/10/2/they-are-crying-refugees-in-malaysia-in-fear-amid-myanmar-deportation?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-02T08:14:18.000Z"
-  },
-  {
-   "title": "Russia tries to freeze Ukraine as it suffers record casualties and retreats",
-   "link": "https://www.aljazeera.com/news/2026/10/2/russia-tries-to-freeze-ukraine-as-it-suffers-record-casualties-and-retreats?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-02T08:03:02.000Z"
-  },
-  {
-   "title": "Indian police detain politicians at protests over election chief",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/02-10-clip-india-protests-election-jantar-mantar-in-mp4?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-02T07:59:49.000Z"
-  },
-  {
-   "title": "Uzbekistan wins home gold at record-breaking Chess Olympiad in Samarkand",
-   "link": "https://www.euronews.com/2026/10/02/uzbekistan-wins-home-gold-at-record-breaking-chess-olympiad-in-samarkand",
-   "source": "Euronews",
-   "date": "2026-10-02T07:58:34.000Z"
-  },
-  {
-   "title": "Lawyers for US inmate who survived lethal injections demand release",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/2/clip-christia-pike-execution-mp4?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-02T07:58:08.000Z"
-  },
-  {
-   "title": "Christa Pike in critical condition after Tennessee botched execution, lawyer says",
-   "link": "https://www.euronews.com/2026/10/02/christa-pike-in-critical-condition-after-tennessee-botched-execution-lawyer-says",
-   "source": "Euronews",
-   "date": "2026-10-02T07:48:27.000Z"
-  },
-  {
-   "title": "How the fighting in Ethiopia spread beyond Tigray, in maps and charts",
-   "link": "https://www.aljazeera.com/news/2026/10/2/how-the-fighting-in-ethiopia-spread-beyond-tigray-in-maps-and-charts?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-02T07:17:02.000Z"
-  },
-  {
-   "title": "Madrid protesters bang pots to demand action on Spain’s housing crisis",
-   "link": "https://www.euronews.com/video/2026/10/02/madrid-protesters-bang-pots-to-demand-action-on-spains-housing-crisis",
-   "source": "Euronews",
-   "date": "2026-10-02T06:48:35.000Z"
-  },
-  {
-   "title": "Miami judge rules federal noncitizen voting law violates US Constitution",
-   "link": "https://www.aljazeera.com/news/2026/10/2/miami-judge-rules-federal-noncitizen-voting-law-violates-us-constitution?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-02T06:26:48.000Z"
-  },
-  {
-   "title": "Trump vows to hit Iran 'very hard' if linked to flydubai pilot stabbing attack",
-   "link": "https://www.euronews.com/2026/10/02/trump-vows-to-hit-iran-very-hard-if-linked-to-flydubai-pilot-stabbing-attack",
-   "source": "Euronews",
-   "date": "2026-10-02T05:57:35.000Z"
+   "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+   "link": "https://github.com/kvoltmer/Audionaut",
+   "source": "Hacker News",
+   "date": "2026-10-02T08:05:48.000Z"
   },
   {
    "title": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
@@ -92,64 +152,10 @@
    "date": "2026-10-02T05:53:51.000Z"
   },
   {
-   "title": "Shimano Bicycle Museum Review",
-   "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
-   "source": "Hacker News",
-   "date": "2026-10-02T05:12:58.000Z"
-  },
-  {
-   "title": "Building reliable (and fast) directory sync",
-   "link": "https://www.firezone.dev/blog/building-reliable-directory-sync",
-   "source": "Hacker News",
-   "date": "2026-10-02T04:45:36.000Z"
-  },
-  {
-   "title": "‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election",
-   "link": "https://www.theguardian.com/world/2026/oct/02/brazil-election-lady-of-aparecida-lula-bolsonaro-row",
-   "source": "Guardian World",
-   "date": "2026-10-02T04:00:10.000Z"
-  },
-  {
-   "title": "DeepSeek Harness Desktop for macOS and Windows",
-   "link": "https://www.deepseek.com/en/harness/",
-   "source": "Hacker News",
-   "date": "2026-10-02T03:11:20.000Z"
-  },
-  {
    "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
    "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-02T03:09:13.000Z"
-  },
-  {
-   "title": "NY's governor appoints special prosecutor in Cornell frat rape investigation",
-   "link": "https://www.bbc.co.uk/news/articles/cr1585y0y90go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-02T02:49:44.000Z"
-  },
-  {
-   "title": "How Singapore's government-run dating service works",
-   "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
-   "source": "Hacker News",
-   "date": "2026-10-02T01:56:52.000Z"
-  },
-  {
-   "title": "Butterflies use optical illusions to dodge predators",
-   "link": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
-   "source": "Hacker News",
-   "date": "2026-10-01T23:15:24.000Z"
-  },
-  {
-   "title": "Several vulnerabilities have been discovered in the Linux kernel",
-   "link": "https://lwn.net/Articles/1097401/",
-   "source": "Hacker News",
-   "date": "2026-10-01T23:10:44.000Z"
-  },
-  {
-   "title": "Christa Pike in critical condition after surviving two lethal injections, lawyer says",
-   "link": "https://www.bbc.co.uk/news/articles/cmn4540d4z87o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-01T22:28:45.000Z"
   },
   {
    "title": "Trump administration diverts human rights funds to push far-right agenda abroad",
@@ -174,12 +180,6 @@
    "link": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
    "source": "Guardian World",
    "date": "2026-09-28T15:54:25.000Z"
-  },
-  {
-   "title": "At least 27 dead after two mass shootings in South Africa, police say",
-   "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
-   "source": "Guardian World",
-   "date": "2026-09-27T13:46:49.000Z"
   }
  ]
 }

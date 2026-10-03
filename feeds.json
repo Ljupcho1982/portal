@@ -1,23 +1,113 @@
 {
- "updated": "2026-10-03T06:33:36.074Z",
+ "updated": "2026-10-03T12:34:23.650Z",
  "items": [
   {
-   "title": "Russia strikes second major bridge in Kyiv, mayor says",
+   "title": "Protesters across Spain demand action over housing crisis",
+   "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-03T12:16:15.000Z"
+  },
+  {
+   "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
+   "link": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
+   "source": "Hacker News",
+   "date": "2026-10-03T12:02:10.000Z"
+  },
+  {
+   "title": "World No 1 Sinner withdraws from Shanghai Masters as knee injury lingers",
+   "link": "https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-03T11:51:22.000Z"
+  },
+  {
+   "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
    "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-03T06:27:15.000Z"
+   "date": "2026-10-03T11:48:41.000Z"
   },
   {
-   "title": "Gaza voters want jobs and security as Palestinian elections approach",
-   "link": "https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss",
+   "title": "The double standards of a failed execution",
+   "link": "https://www.aljazeera.com/opinions/2026/10/3/the-double-standards-of-a-failed-execution?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-10-03T05:39:29.000Z"
+   "date": "2026-10-03T11:32:42.000Z"
   },
   {
-   "title": "India vs Pakistan live: Asian Games cricket final",
-   "link": "https://www.aljazeera.com/sports/liveblog/2026/10/3/india-vs-pakistan-live-asian-games-cricket-final?traffic_source=rss",
+   "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+   "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-03T11:20:21.000Z"
+  },
+  {
+   "title": "Ethiopia’s government forces retake airport from Tigray rebels in Mekelle",
+   "link": "https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-10-03T05:35:31.000Z"
+   "date": "2026-10-03T11:16:43.000Z"
+  },
+  {
+   "title": "Palestinians gather for football amid Gaza’s ruins",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/palestinians-gather-for-football-amid-gazas-ruins?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-03T11:08:17.000Z"
+  },
+  {
+   "title": "How AI is helping Mexico detect breast cancer earlier",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-mexico-ai-breast-cancer-julia-pkg?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-03T10:55:32.000Z"
+  },
+  {
+   "title": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
+   "link": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-03T10:48:28.000Z"
+  },
+  {
+   "title": "China opens anti-dumping probe into EU days before Beijing trade talks",
+   "link": "https://www.euronews.com/2026/10/03/china-opens-anti-dumping-probe-into-eu-days-before-beijing-trade-talks",
+   "source": "Euronews",
+   "date": "2026-10-03T10:09:07.000Z"
+  },
+  {
+   "title": "Latest news bulletin | October 3rd, 2026 – Midday",
+   "link": "https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-midday",
+   "source": "Euronews",
+   "date": "2026-10-03T10:00:17.000Z"
+  },
+  {
+   "title": "GitHub's new dashboard experience now the default",
+   "link": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+   "source": "Hacker News",
+   "date": "2026-10-03T09:59:01.000Z"
+  },
+  {
+   "title": "UAE says FlyDubai co-pilot attacked captain with axe in 'terrorist' act",
+   "link": "https://www.euronews.com/2026/10/03/uae-says-flydubai-co-pilot-attacked-captain-with-axe-in-terrorist-act",
+   "source": "Euronews",
+   "date": "2026-10-03T09:27:47.000Z"
+  },
+  {
+   "title": "Libyan unity talks upended as warlord’s son linked to drone attacks on fuel facilities",
+   "link": "https://www.theguardian.com/world/2026/oct/03/libyan-unity-talks-warlord-son-linked-drone-attack-khalifa-haftar",
+   "source": "Guardian World",
+   "date": "2026-10-03T09:00:56.000Z"
+  },
+  {
+   "title": "Show HN: Offrun – manage every coding agent from one workspace",
+   "link": "https://offrun.dev/",
+   "source": "Hacker News",
+   "date": "2026-10-03T08:40:17.000Z"
+  },
+  {
+   "title": "Latvians vote in parliamentary election amid concerns over rising cost of living and Russia",
+   "link": "https://www.euronews.com/2026/10/03/latvians-head-to-the-polls-amid-concerns-over-rising-cost-of-living-and-russia",
+   "source": "Euronews",
+   "date": "2026-10-03T07:00:57.000Z"
+  },
+  {
+   "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
+   "link": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
+   "source": "Guardian World",
+   "date": "2026-10-03T07:00:35.000Z"
   },
   {
    "title": "Latest news bulletin | October 3rd, 2026 – Morning",
@@ -32,46 +122,16 @@
    "date": "2026-10-03T05:00:03.000Z"
   },
   {
-   "title": "New claims that Netanyahu rejected Hamas offer to release captives",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-03T04:58:43.000Z"
-  },
-  {
-   "title": "WHO warns of ‘devastating consequences’ due to delayed aid entry into Gaza",
-   "link": "https://www.aljazeera.com/news/2026/10/3/who-warns-of-devastating-consequences-due-to-delayed-aid-entry-into-gaza?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-03T04:54:20.000Z"
-  },
-  {
    "title": "An Update on Orion for Linux and Windows",
    "link": "https://blog.kagi.com/update-orion-linux-windows",
    "source": "Hacker News",
    "date": "2026-10-03T04:53:57.000Z"
   },
   {
-   "title": "Brazil’s Lula and Bolsonaro draw thousands as campaigns near end",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/brazils-lula-and-bolsonaro-draw-thousands-as-campaigns-near-end?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-03T04:43:15.000Z"
-  },
-  {
    "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
    "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-03T04:38:31.000Z"
-  },
-  {
-   "title": "10 injured after car crashes into rugby supporters in Australia",
-   "link": "https://www.aljazeera.com/news/2026/10/3/10-injured-after-car-crashes-into-rugby-supporters-in-australia?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-03T04:29:23.000Z"
-  },
-  {
-   "title": "What if AI worked at 1.000.000 tokens per seconds?",
-   "link": "https://www.echohive.ai/one-million-tokens-per-second",
-   "source": "Hacker News",
-   "date": "2026-10-03T04:22:21.000Z"
   },
   {
    "title": "Extra Big Ass Intelligence",
@@ -86,70 +146,16 @@
    "date": "2026-10-03T03:15:05.000Z"
   },
   {
-   "title": "Cornell frat house rape accuser 'under siege' online, says lawyer",
-   "link": "https://www.bbc.co.uk/news/articles/c6ly0ljypzrdo?at_medium=RSS&at_campaign=rss",
+   "title": "Women given shorts at Oktoberfest to prevent upskirting",
+   "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-03T02:23:07.000Z"
-  },
-  {
-   "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-   "link": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
-   "source": "Hacker News",
-   "date": "2026-10-03T01:09:01.000Z"
-  },
-  {
-   "title": "Newgrounds.com – A community of games, music, and art",
-   "link": "https://www.newgrounds.com/",
-   "source": "Hacker News",
-   "date": "2026-10-03T00:55:25.000Z"
-  },
-  {
-   "title": "Riot police clash with students as education protests rage in France",
-   "link": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-02T21:13:27.000Z"
-  },
-  {
-   "title": "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son",
-   "link": "https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son",
-   "source": "Guardian World",
-   "date": "2026-10-02T21:12:29.000Z"
-  },
-  {
-   "title": "US suspends consular services in Brazil as Lula and Bolsonaro fight for election",
-   "link": "https://www.euronews.com/2026/10/02/us-suspends-consular-services-in-brazil-as-lula-and-bolsonaro-fight-for-election",
-   "source": "Euronews",
-   "date": "2026-10-02T20:40:14.000Z"
+   "date": "2026-10-02T23:16:03.000Z"
   },
   {
    "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
    "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-02T20:32:07.000Z"
-  },
-  {
-   "title": "Debt-saddled Argentina pitches 'golden passport' scheme to woo wealthy foreigners",
-   "link": "https://www.euronews.com/2026/10/02/debt-saddled-argentina-pitches-golden-passport-scheme-to-woo-wealthy-foreigners",
-   "source": "Euronews",
-   "date": "2026-10-02T17:35:42.000Z"
-  },
-  {
-   "title": "DR Congo Ebola outbreak killed more than 4,000: official figures",
-   "link": "https://www.euronews.com/2026/10/02/dr-congo-ebola-outbreak-killed-more-than-4000-official-figures",
-   "source": "Euronews",
-   "date": "2026-10-02T16:40:42.000Z"
-  },
-  {
-   "title": "French students clash with police as school protests spread nationwide",
-   "link": "https://www.euronews.com/video/2026/10/02/french-students-clash-with-police-as-school-protests-spread-nationwide",
-   "source": "Euronews",
-   "date": "2026-10-02T16:00:44.000Z"
-  },
-  {
-   "title": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-   "link": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-02T15:30:12.000Z"
   },
   {
    "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",
@@ -174,12 +180,6 @@
    "link": "https://www.theguardian.com/us-news/2026/sep/30/burundi-third-country-deportations-trump-immigration",
    "source": "Guardian World",
    "date": "2026-09-30T12:47:15.000Z"
-  },
-  {
-   "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
-   "link": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
-   "source": "Guardian World",
-   "date": "2026-09-28T15:54:25.000Z"
   }
  ]
 }

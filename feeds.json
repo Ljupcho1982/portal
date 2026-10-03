@@ -1,65 +1,119 @@
 {
- "updated": "2026-10-03T12:34:23.650Z",
+ "updated": "2026-10-03T17:18:59.169Z",
  "items": [
   {
-   "title": "Protesters across Spain demand action over housing crisis",
-   "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-03T12:16:15.000Z"
+   "title": "US Coast Guard searches for missing air ambulance off coast of Massachusetts",
+   "link": "https://www.theguardian.com/us-news/2026/oct/03/us-coast-guard-missing-air-ambulance-massachusetts",
+   "source": "Guardian World",
+   "date": "2026-10-03T17:03:54.000Z"
   },
   {
-   "title": "Great Question (YC W21) Is Hiring Product Engineers in Canada (Remote)",
-   "link": "https://www.ycombinator.com/companies/great-question/jobs/agEqBYD-product-engineer-ai-full-stack",
+   "title": "RetailReady (YC W24) Is Hiring",
+   "link": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
    "source": "Hacker News",
-   "date": "2026-10-03T12:02:10.000Z"
+   "date": "2026-10-03T17:00:12.000Z"
   },
   {
-   "title": "World No 1 Sinner withdraws from Shanghai Masters as knee injury lingers",
-   "link": "https://www.aljazeera.com/sports/2026/10/3/world-no-1-sinner-withdraws-from-shanghai-masters-as-knee-injury-lingers?traffic_source=rss",
+   "title": "Tennessee prison chief to resign after Christa Pike's failed execution, governor says",
+   "link": "https://www.bbc.co.uk/news/articles/c8zxl62yzxzxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-03T16:57:02.000Z"
+  },
+  {
+   "title": "Somalia won’t accept Israeli presence ‘under any circumstances’: President",
+   "link": "https://www.aljazeera.com/news/2026/10/3/somalia-wont-accept-israeli-presence-under-any-circumstances-president?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-10-03T11:51:22.000Z"
+   "date": "2026-10-03T16:25:03.000Z"
+  },
+  {
+   "title": "Jerusalem Daily: UAE says Flydubai co-pilot attempted ‘terrorist’ attack",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/jerusalem-daily-uae-says-flydubai-co-pilot-attempted-terrorist-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-03T16:17:23.000Z"
   },
   {
    "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
    "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-03T11:48:41.000Z"
+   "date": "2026-10-03T16:16:49.000Z"
   },
   {
-   "title": "The double standards of a failed execution",
-   "link": "https://www.aljazeera.com/opinions/2026/10/3/the-double-standards-of-a-failed-execution?traffic_source=rss",
+   "title": "Israeli reporters’ ‘verbal attack’ cuts short Ireland press conference",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-reporters-verbal-attack-cuts-short-ireland-press-conference?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-10-03T11:32:42.000Z"
+   "date": "2026-10-03T16:16:32.000Z"
+  },
+  {
+   "title": "Latest news bulletin | October 3rd, 2026 – Evening",
+   "link": "https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-evening",
+   "source": "Euronews",
+   "date": "2026-10-03T16:00:29.000Z"
+  },
+  {
+   "title": "Medical plane with 6 on board missing off Massachusetts coast",
+   "link": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-03T15:56:14.000Z"
+  },
+  {
+   "title": "City building games have a Soul Problem pt.2",
+   "link": "https://www.radical-elements.com/minor-epiphanies/city-building-games-have-a-soul-problem-pt2",
+   "source": "Hacker News",
+   "date": "2026-10-03T15:52:07.000Z"
+  },
+  {
+   "title": "What we know about the co-pilot accused in Flydubai attack",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/what-we-know-about-the-co-pilot-accused-in-flydubai-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-03T15:39:10.000Z"
+  },
+  {
+   "title": "‘Bordering on angry’: The state of play as US midterms enter final month",
+   "link": "https://www.aljazeera.com/news/2026/10/3/bordering-on-angry-the-state-of-play-as-us-midterms-enter-final-month?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-03T15:18:28.000Z"
+  },
+  {
+   "title": "Tens of thousands protest in Spain after failed housing reforms",
+   "link": "https://www.aljazeera.com/news/2026/10/3/tens-of-thousands-protest-in-spain-after-failed-housing-reforms?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-03T15:06:40.000Z"
+  },
+  {
+   "title": "FTL: A new operating system for clouds",
+   "link": "https://ftl-os.org/",
+   "source": "Hacker News",
+   "date": "2026-10-03T15:02:36.000Z"
   },
   {
    "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
    "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-03T11:20:21.000Z"
+   "date": "2026-10-03T14:27:33.000Z"
   },
   {
-   "title": "Ethiopia’s government forces retake airport from Tigray rebels in Mekelle",
-   "link": "https://www.aljazeera.com/news/2026/10/3/rebels-pulling-back-as-addis-ababas-forces-advance-reports-say?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-03T11:16:43.000Z"
+   "title": "IEA says 325 million barrels of emergency oil released, with 75 million still to come",
+   "link": "https://www.euronews.com/2026/10/03/iea-says-325-million-barrels-of-emergency-oil-released-with-75-million-still-to-come",
+   "source": "Euronews",
+   "date": "2026-10-03T13:59:14.000Z"
   },
   {
-   "title": "Palestinians gather for football amid Gaza’s ruins",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/palestinians-gather-for-football-amid-gazas-ruins?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-03T11:08:17.000Z"
+   "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
+   "link": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-03T13:34:11.000Z"
   },
   {
-   "title": "How AI is helping Mexico detect breast cancer earlier",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/10-3-mexico-ai-breast-cancer-julia-pkg?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-03T10:55:32.000Z"
+   "title": "The Escalation of War in Ethiopia",
+   "link": "https://www.africanistperspective.com/p/on-the-escalation-of-war-in-ethiopia",
+   "source": "Hacker News",
+   "date": "2026-10-03T11:54:24.000Z"
   },
   {
-   "title": "A Yemeni family spends a week on the road fleeing another Houthi offensive",
-   "link": "https://www.aljazeera.com/features/2026/10/3/a-yemeni-family-spend-a-week-on-the-road-fleeing-another-houthi-offensive?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-03T10:48:28.000Z"
+   "title": "Kolibri is an open-weight LLM from Aleph Alpha for German and English",
+   "link": "https://tej.as/blog/aleph-alpha-kolibri",
+   "source": "Hacker News",
+   "date": "2026-10-03T10:43:51.000Z"
   },
   {
    "title": "China opens anti-dumping probe into EU days before Beijing trade talks",
@@ -74,10 +128,10 @@
    "date": "2026-10-03T10:00:17.000Z"
   },
   {
-   "title": "GitHub's new dashboard experience now the default",
-   "link": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+   "title": "Kolibri Has Landed: A Sovereign Open-Weight Model",
+   "link": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
    "source": "Hacker News",
-   "date": "2026-10-03T09:59:01.000Z"
+   "date": "2026-10-03T09:36:04.000Z"
   },
   {
    "title": "UAE says FlyDubai co-pilot attacked captain with axe in 'terrorist' act",
@@ -92,70 +146,16 @@
    "date": "2026-10-03T09:00:56.000Z"
   },
   {
-   "title": "Show HN: Offrun – manage every coding agent from one workspace",
-   "link": "https://offrun.dev/",
-   "source": "Hacker News",
-   "date": "2026-10-03T08:40:17.000Z"
-  },
-  {
    "title": "Latvians vote in parliamentary election amid concerns over rising cost of living and Russia",
    "link": "https://www.euronews.com/2026/10/03/latvians-head-to-the-polls-amid-concerns-over-rising-cost-of-living-and-russia",
    "source": "Euronews",
    "date": "2026-10-03T07:00:57.000Z"
   },
   {
-   "title": "Brazil’s neck-and-neck election offers test for growing pro-Trump Latin American bloc",
-   "link": "https://www.theguardian.com/world/2026/oct/03/brazil-election-lula-bolsonaro-trump",
-   "source": "Guardian World",
-   "date": "2026-10-03T07:00:35.000Z"
-  },
-  {
-   "title": "Latest news bulletin | October 3rd, 2026 – Morning",
-   "link": "https://www.euronews.com/video/2026/10/03/latest-news-bulletin-october-3rd-2026-morning",
-   "source": "Euronews",
-   "date": "2026-10-03T05:00:33.000Z"
-  },
-  {
-   "title": "Russia leads world in cat ownership — yet has 2.8 million strays",
-   "link": "https://www.euronews.com/2026/10/03/russia-leads-world-in-cat-ownership-yet-has-28-million-strays",
-   "source": "Euronews",
-   "date": "2026-10-03T05:00:03.000Z"
-  },
-  {
-   "title": "An Update on Orion for Linux and Windows",
-   "link": "https://blog.kagi.com/update-orion-linux-windows",
-   "source": "Hacker News",
-   "date": "2026-10-03T04:53:57.000Z"
-  },
-  {
    "title": "G7 to release millions of barrels of oil and diesel after Trump threat",
    "link": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-03T04:38:31.000Z"
-  },
-  {
-   "title": "Extra Big Ass Intelligence",
-   "link": "https://www.extrabigassintelligence.com/",
-   "source": "Hacker News",
-   "date": "2026-10-03T03:19:10.000Z"
-  },
-  {
-   "title": "Cloudflare OHTTP gateway",
-   "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
-   "source": "Hacker News",
-   "date": "2026-10-03T03:15:05.000Z"
-  },
-  {
-   "title": "Women given shorts at Oktoberfest to prevent upskirting",
-   "link": "https://www.bbc.co.uk/news/articles/cjwyzyqvx1zxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-02T23:16:03.000Z"
-  },
-  {
-   "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
-   "link": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-02T20:32:07.000Z"
   },
   {
    "title": "Row erupts over Cairo mural depicting Tutankhamun and Nefertiti with dark skin",

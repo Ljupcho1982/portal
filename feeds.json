@@ -1,35 +1,131 @@
 {
- "updated": "2026-10-05T16:00:58.809Z",
+ "updated": "2026-10-05T22:37:44.499Z",
  "items": [
   {
-   "title": "US meeting in Poland excluding France, UK Baltic risks dividing NATO",
+   "title": "‘Smash the patriarchy’: Activists graffiti Cornell hall over gang rape case",
+   "link": "https://www.aljazeera.com/news/2026/10/5/smash-the-patriarchy-activists-graffiti-cornell-hall-over-gang-rape-case?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-05T21:50:59.000Z"
+  },
+  {
+   "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+   "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-05T21:46:22.000Z"
+  },
+  {
+   "title": "Find the flattest route between any two points in SF",
+   "link": "https://flattensf.com/",
+   "source": "Hacker News",
+   "date": "2026-10-05T21:40:50.000Z"
+  },
+  {
+   "title": "US 'watching closely' after plague researcher dies in Russia",
+   "link": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-05T21:33:49.000Z"
+  },
+  {
+   "title": "Romanian president signs law regulating bear population cull",
+   "link": "https://www.euronews.com/2026/10/05/romanian-president-signs-law-regulating-bear-population-cull",
+   "source": "Euronews",
+   "date": "2026-10-05T21:32:46.000Z"
+  },
+  {
+   "title": "France braces for national day of school protests after injuries and mass arrests",
+   "link": "https://www.bbc.co.uk/news/articles/cr4g1q1elxnjo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-05T21:18:10.000Z"
+  },
+  {
+   "title": "Dust: Pretraining Transformers Without Backpropagation",
+   "link": "https://qlabs.sh/research/dust",
+   "source": "Hacker News",
+   "date": "2026-10-05T21:15:07.000Z"
+  },
+  {
+   "title": "Super-subs help France demolish Belgium with late flurry",
+   "link": "https://www.aljazeera.com/sports/2026/10/5/super-subs-help-france-demolish-belgium-with-late-flurry?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-05T21:13:38.000Z"
+  },
+  {
+   "title": "Ethiopia’s PM insists on access to Red Sea despite regional conflict threat",
+   "link": "https://www.aljazeera.com/news/2026/10/5/ethiopias-pm-insists-on-access-to-red-sea-despite-regional-conflict-threat?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-05T21:10:43.000Z"
+  },
+  {
+   "title": "Trump says US ready to aid Russia with plague outbreak in Siberia",
+   "link": "https://www.aljazeera.com/news/2026/10/5/trump-says-us-ready-to-aid-russia-with-plague-outbreak-in-siberia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-05T21:03:21.000Z"
+  },
+  {
+   "title": "Brazil’s presidential race head for a tough runoff",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/brazils-presidential-race-head-for-a-tough-runoff?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-05T21:00:59.000Z"
+  },
+  {
+   "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+   "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+   "source": "Hacker News",
+   "date": "2026-10-05T21:00:21.000Z"
+  },
+  {
+   "title": "What’s next for Bosnia after elections?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/whats-next-for-bosnia-after-elections?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-05T20:54:57.000Z"
+  },
+  {
+   "title": "A third way of using Linux",
+   "link": "https://hisvirusness.com/third-is-the-way",
+   "source": "Hacker News",
+   "date": "2026-10-05T20:17:07.000Z"
+  },
+  {
+   "title": "Incident with Actions",
+   "link": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
+   "source": "Hacker News",
+   "date": "2026-10-05T20:09:12.000Z"
+  },
+  {
+   "title": "Flávio Bolsonaro poised to win Brazilian presidency after shock first-round victory",
+   "link": "https://www.theguardian.com/world/2026/oct/05/flavio-bolsonaro-brazilian-presidency-election-shock-first-round-victory",
+   "source": "Guardian World",
+   "date": "2026-10-05T20:06:18.000Z"
+  },
+  {
+   "title": "Spain PM pins hopes on housing crisis to help win snap election",
+   "link": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-05T19:30:50.000Z"
+  },
+  {
+   "title": "After bankruptcy, he was banned from sports betting sites. Then he found Kalshi",
+   "link": "https://www.npr.org/2026/10/02/nx-s1-5981420/kalshi-betting-prediction-markets-gambling-addiction",
+   "source": "Hacker News",
+   "date": "2026-10-05T19:30:21.000Z"
+  },
+  {
+   "title": "FlyDubai co-pilot planned to crash aircraft into Tel Aviv airport",
+   "link": "https://www.euronews.com/2026/10/05/flydubai-co-pilot-planned-to-crash-aircraft-into-tel-aviv-airport",
+   "source": "Euronews",
+   "date": "2026-10-05T16:55:53.000Z"
+  },
+  {
+   "title": "Latest news bulletin | October 5th, 2026 – Evening",
+   "link": "https://www.euronews.com/video/2026/10/05/latest-news-bulletin-october-5th-2026-evening",
+   "source": "Euronews",
+   "date": "2026-10-05T16:00:29.000Z"
+  },
+  {
+   "title": "US meeting in Poland excluding France, UK, Baltics risks dividing NATO",
    "link": "https://www.euronews.com/2026/10/05/us-meeting-in-poland-excluding-france-uk-baltic-risks-dividing-nato",
    "source": "Euronews",
    "date": "2026-10-05T15:33:45.000Z"
-  },
-  {
-   "title": "Nigeria launches rescue after military plane crashes with 32 aboard",
-   "link": "https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-05T15:30:15.000Z"
-  },
-  {
-   "title": "Yemeni gov’t forces aim for Sanaa, but Houthi defeat will be a challenge",
-   "link": "https://www.aljazeera.com/news/2026/10/5/yemeni-govt-forces-aim-for-sanaa-but-houthi-defeat-will-be-a-challenge?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-05T15:29:04.000Z"
-  },
-  {
-   "title": "What happened between Ireland and Israel in their Nations League match?",
-   "link": "https://www.aljazeera.com/sports/2026/10/5/what-happened-between-ireland-and-israel-in-their-nations-league-match?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-05T15:28:16.000Z"
-  },
-  {
-   "title": "A drive through the West Bank",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/5/a-drive-through-the-west-bank?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-05T15:22:10.000Z"
   },
   {
    "title": "Zelensky condemns 'horrific' Russian strike on boat carrying corn in Black Sea",
@@ -38,88 +134,16 @@
    "date": "2026-10-05T15:17:23.000Z"
   },
   {
-   "title": "Borland Turbo Basic",
-   "link": "https://dosdays.co.uk/topics/Software/borland_turbo_basic.php",
-   "source": "Hacker News",
-   "date": "2026-10-05T15:11:31.000Z"
-  },
-  {
    "title": "Clashes in French cities as students continue to protest over education funding",
    "link": "https://www.euronews.com/video/2026/10/05/clashes-in-french-cities-as-students-continue-to-protest-over-education-funding",
    "source": "Euronews",
    "date": "2026-10-05T15:09:41.000Z"
   },
   {
-   "title": "Latest US military strike on alleged drug boat kills four in Caribbean",
-   "link": "https://www.aljazeera.com/news/2026/10/5/latest-us-military-strike-on-alleged-drug-boat-kills-four-in-caribbean?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-05T14:58:02.000Z"
-  },
-  {
-   "title": "Murder in Okinawa: The US military’s history of alleged crime in Japan",
-   "link": "https://www.aljazeera.com/news/2026/10/5/murder-in-okinawa-the-us-militarys-history-of-alleged-crime-in-japan?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-05T14:37:17.000Z"
-  },
-  {
-   "title": "Teenager's hand blown off during confrontation between France school protesters and police",
-   "link": "https://www.bbc.co.uk/news/articles/c9zrdmxp4vy6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-05T14:30:31.000Z"
-  },
-  {
-   "title": "Making a GTK application in Haskell, part 1",
-   "link": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-   "source": "Hacker News",
-   "date": "2026-10-05T14:23:47.000Z"
-  },
-  {
-   "title": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-   "link": "https://www.youtube.com/watch?v=RFTfANuLBF4",
-   "source": "Hacker News",
-   "date": "2026-10-05T14:02:38.000Z"
-  },
-  {
    "title": "Thousands of pilgrims make overnight journey to Luján ahead of Pope Leo’s visit",
    "link": "https://www.euronews.com/video/2026/10/05/thousands-of-pilgrims-make-overnight-journey-to-lujan-ahead-of-pope-leos-visit",
    "source": "Euronews",
    "date": "2026-10-05T13:22:58.000Z"
-  },
-  {
-   "title": "No10 insists UK military base RAF Fairford is safe after US withdraws bombers",
-   "link": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-05T13:16:00.000Z"
-  },
-  {
-   "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
-   "link": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
-   "source": "Hacker News",
-   "date": "2026-10-05T13:02:25.000Z"
-  },
-  {
-   "title": "Russia denies lab worker died of plague as quarantine in Siberia stays in place",
-   "link": "https://www.euronews.com/2026/10/05/situation-under-control-russian-authorities-reassure-public-after-plague-reports-in-siberi",
-   "source": "Euronews",
-   "date": "2026-10-05T13:02:20.000Z"
-  },
-  {
-   "title": "Gitframes",
-   "link": "https://github.com/gatewai-dev/gitframes",
-   "source": "Hacker News",
-   "date": "2026-10-05T12:59:14.000Z"
-  },
-  {
-   "title": "Tell HN: Uceprotect is extorting website owners",
-   "link": "https://news.ycombinator.com/item?id=49964045",
-   "source": "Hacker News",
-   "date": "2026-10-05T12:35:55.000Z"
-  },
-  {
-   "title": "Iran insists it controls Hormuz as rial hits record low and exports dry up",
-   "link": "https://www.euronews.com/2026/10/05/iran-insists-it-controls-hormuz-as-rial-hits-record-low-and-exports-dry-up",
-   "source": "Euronews",
-   "date": "2026-10-05T12:35:12.000Z"
   },
   {
    "title": "Guardian readers fund life-changing surgery for Somali boy injured in US airstrike",
@@ -132,30 +156,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cm3691y79xp5o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-05T11:34:59.000Z"
-  },
-  {
-   "title": "Nobel Prize awarded for revealing inner workings of the brain",
-   "link": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-05T11:04:37.000Z"
-  },
-  {
-   "title": "The 'Terminator scenario': How realistic is the AI apocalypse?",
-   "link": "https://www.euronews.com/2026/10/05/the-terminator-scenario-how-realistic-is-the-ai-apocalypse",
-   "source": "Euronews",
-   "date": "2026-10-05T10:51:06.000Z"
-  },
-  {
-   "title": "Spanish PM Sánchez calls early election after housing protests",
-   "link": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-05T10:18:47.000Z"
-  },
-  {
-   "title": "Quebec poised to elect separatists to power for first time in more than a decade",
-   "link": "https://www.theguardian.com/world/2026/oct/05/quebec-election-separatist-government-parti-quebecois-referendum",
-   "source": "Guardian World",
-   "date": "2026-10-05T09:30:52.000Z"
   },
   {
    "title": "Skull fractures suggest servants of Egypt’s ancient kings were sacrificed",

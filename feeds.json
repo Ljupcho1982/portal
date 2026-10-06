@@ -1,11 +1,95 @@
 {
- "updated": "2026-10-06T17:11:30.800Z",
+ "updated": "2026-10-06T21:37:46.004Z",
  "items": [
   {
-   "title": "Utah to let AI examine patients and prescribe medication without human oversight",
-   "link": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+   "title": "US arrests suspect in connection with Tumbler Ridge school shooting",
+   "link": "https://www.aljazeera.com/news/2026/10/6/us-arrests-suspect-in-connection-with-tumbler-ridge-school-shooting?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-06T21:28:35.000Z"
+  },
+  {
+   "title": "Merino scores twice as Spain beat Croatia 2-1 in Nations League",
+   "link": "https://www.aljazeera.com/sports/2026/10/6/spains-merino-nets-twice-to-avoid-croatia-shock-and-maintain-perfect-start?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-06T21:23:59.000Z"
+  },
+  {
+   "title": "Tokyo protests US military presence after Okinawa killing",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/tokyo-protests-us-military-presence-after-okinawa-killing?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-06T21:20:28.000Z"
+  },
+  {
+   "title": "US firm gets $2.9bn sub deal after boss joins war study with Musk",
+   "link": "https://www.aljazeera.com/news/2026/10/6/us-firm-gets-2-9bn-sub-deal-after-boss-joins-war-study-with-musk?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-06T21:11:39.000Z"
+  },
+  {
+   "title": "US death row inmate Christa Pike conscious after failed execution, lawyers say",
+   "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-06T21:09:41.000Z"
+  },
+  {
+   "title": "US CDC says it’s ‘aware of and closely monitoring’ Russian plague case",
+   "link": "https://www.aljazeera.com/news-analysis/2026/10/6/us-cdc-says-its-aware-of-and-closely-monitoring-russian-plague-case?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-06T20:54:07.000Z"
+  },
+  {
+   "title": "Cornell names Sally Yates to review university’s response to rape case",
+   "link": "https://www.aljazeera.com/news/2026/10/6/cornell-names-sally-yates-to-review-universitys-response-to-rape-case?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-06T20:49:10.000Z"
+  },
+  {
+   "title": "OpenSSH 10.6",
+   "link": "https://www.openssh.org/releasenotes.html#10.6",
    "source": "Hacker News",
-   "date": "2026-10-06T17:01:52.000Z"
+   "date": "2026-10-06T20:41:39.000Z"
+  },
+  {
+   "title": "Paramount completes $111B Warner merger, creating \"Skydance\" behemoth",
+   "link": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+   "source": "Hacker News",
+   "date": "2026-10-06T20:33:47.000Z"
+  },
+  {
+   "title": "System-level ad-blocking in Android",
+   "link": "https://kevinboone.me/adblock.html",
+   "source": "Hacker News",
+   "date": "2026-10-06T20:29:10.000Z"
+  },
+  {
+   "title": "Toronto-Based VPN Provider Plans to Quit Canada over Lawful-Access Bill",
+   "link": "https://citizenlab.ca/toronto-based-vpn-provider-plans-to-quit-canada-over-lawful-access-bill/",
+   "source": "Hacker News",
+   "date": "2026-10-06T18:52:18.000Z"
+  },
+  {
+   "title": "UK trial of three Iranians over alleged plot to target Iran dissident journalists",
+   "link": "https://www.euronews.com/2026/10/06/uk-trial-of-three-iranians-over-alleged-plot-to-target-iran-dissident-journalists",
+   "source": "Euronews",
+   "date": "2026-10-06T18:45:22.000Z"
+  },
+  {
+   "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+   "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-06T18:05:53.000Z"
+  },
+  {
+   "title": "Tear gas in Paris and Marseille as school protests grow across France",
+   "link": "https://www.bbc.co.uk/news/articles/c8x23706pvz3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-06T18:03:19.000Z"
+  },
+  {
+   "title": "Finland orders halt to work on two Google data centres",
+   "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-06T17:15:46.000Z"
   },
   {
    "title": "Outcry in Trinidad and Tobago after passing of police bill that could threaten press freedom",
@@ -14,28 +98,10 @@
    "date": "2026-10-06T16:53:21.000Z"
   },
   {
-   "title": "AI is now capable of developing its own inference hardware",
-   "link": "https://github.com/FeSens/openTPU",
+   "title": "EmbeddingGemma 2",
+   "link": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
    "source": "Hacker News",
-   "date": "2026-10-06T16:23:25.000Z"
-  },
-  {
-   "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-   "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-06T16:22:37.000Z"
-  },
-  {
-   "title": "Is Europe preparing for a wider war with Russia?",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/is-europe-preparing-for-a-wider-war-with-russia?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-06T16:17:58.000Z"
-  },
-  {
-   "title": "Kenya confirms its first Ebola death as outbreak spreads",
-   "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-06T16:02:32.000Z"
+   "date": "2026-10-06T16:03:49.000Z"
   },
   {
    "title": "Latest news bulletin | October 6th, 2026 – Evening",
@@ -44,46 +110,16 @@
    "date": "2026-10-06T16:00:26.000Z"
   },
   {
-   "title": "FIFA chief Infantino’s ‘abuse of power’ questioned by Norway in complaints",
-   "link": "https://www.aljazeera.com/sports/2026/10/6/fifa-chief-infantinos-abuse-of-power-questioned-by-norway-in-complaints?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-06T15:49:54.000Z"
-  },
-  {
-   "title": "LIVE: Croatia vs Spain – UEFA Nations League",
-   "link": "https://www.aljazeera.com/sports/liveblog/2026/10/6/live-crostia-vs-spain-uefa-nations-league?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-06T15:47:16.000Z"
-  },
-  {
    "title": "The Early History of Smalltalk (1993)",
    "link": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
    "source": "Hacker News",
    "date": "2026-10-06T15:19:57.000Z"
   },
   {
-   "title": "Birzeit University memorial destruction aims to crush Palestinian memory",
-   "link": "https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-06T15:14:28.000Z"
-  },
-  {
    "title": "One student killed, eight wounded in Istanbul school stabbing attack",
    "link": "https://www.euronews.com/2026/10/06/one-student-killed-eight-wounded-in-istanbul-school-stabbing-attack",
    "source": "Euronews",
    "date": "2026-10-06T14:53:51.000Z"
-  },
-  {
-   "title": "Photos: School blockades, street protests grip France",
-   "link": "https://www.aljazeera.com/gallery/2026/10/6/photos-france-braces-for-day-of-school-blockades-and-street-protests?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-06T14:53:02.000Z"
-  },
-  {
-   "title": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
-   "link": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-06T14:50:01.000Z"
   },
   {
    "title": "Russia denies plague death but quarantines hundreds without explanation",
@@ -98,30 +134,6 @@
    "date": "2026-10-06T14:17:54.000Z"
   },
   {
-   "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
-   "link": "https://peterszentkiralyi.eu/darkplug/",
-   "source": "Hacker News",
-   "date": "2026-10-06T13:58:07.000Z"
-  },
-  {
-   "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
-   "link": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
-   "source": "Hacker News",
-   "date": "2026-10-06T13:55:37.000Z"
-  },
-  {
-   "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-   "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-06T13:36:46.000Z"
-  },
-  {
-   "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
-   "link": "https://www.parseable.com",
-   "source": "Hacker News",
-   "date": "2026-10-06T13:30:50.000Z"
-  },
-  {
    "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
    "link": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
    "source": "Guardian World",
@@ -134,12 +146,6 @@
    "date": "2026-10-06T11:53:21.000Z"
   },
   {
-   "title": "'Ghost particles' from space telescope wins physics Nobel",
-   "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-06T11:24:19.000Z"
-  },
-  {
    "title": "Former German spy chief arrested for espionage and treason",
    "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
@@ -150,12 +156,6 @@
    "link": "https://www.euronews.com/video/2026/10/06/latest-news-bulletin-october-6th-2026-midday",
    "source": "Euronews",
    "date": "2026-10-06T10:00:15.000Z"
-  },
-  {
-   "title": "18 sailors rescued after drone attack in Black Sea",
-   "link": "https://www.euronews.com/2026/10/06/18-sailors-rescued-after-drone-attack-in-black-sea",
-   "source": "Euronews",
-   "date": "2026-10-06T09:45:05.000Z"
   },
   {
    "title": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",

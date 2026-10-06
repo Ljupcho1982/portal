@@ -1,17 +1,149 @@
 {
- "updated": "2026-10-06T10:18:47.644Z",
+ "updated": "2026-10-06T17:11:30.800Z",
  "items": [
+  {
+   "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+   "link": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+   "source": "Hacker News",
+   "date": "2026-10-06T17:01:52.000Z"
+  },
+  {
+   "title": "Outcry in Trinidad and Tobago after passing of police bill that could threaten press freedom",
+   "link": "https://www.theguardian.com/world/2026/oct/06/outcry-in-trinidad-and-tobago-after-passing-of-police-bill-that-could-threaten-press-freedom",
+   "source": "Guardian World",
+   "date": "2026-10-06T16:53:21.000Z"
+  },
+  {
+   "title": "AI is now capable of developing its own inference hardware",
+   "link": "https://github.com/FeSens/openTPU",
+   "source": "Hacker News",
+   "date": "2026-10-06T16:23:25.000Z"
+  },
+  {
+   "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
+   "link": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-06T16:22:37.000Z"
+  },
+  {
+   "title": "Is Europe preparing for a wider war with Russia?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/is-europe-preparing-for-a-wider-war-with-russia?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-06T16:17:58.000Z"
+  },
+  {
+   "title": "Kenya confirms its first Ebola death as outbreak spreads",
+   "link": "https://www.bbc.co.uk/news/articles/cqzrd7v1j163o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-06T16:02:32.000Z"
+  },
+  {
+   "title": "Latest news bulletin | October 6th, 2026 – Evening",
+   "link": "https://www.euronews.com/video/2026/10/06/latest-news-bulletin-october-6th-2026-evening",
+   "source": "Euronews",
+   "date": "2026-10-06T16:00:26.000Z"
+  },
+  {
+   "title": "FIFA chief Infantino’s ‘abuse of power’ questioned by Norway in complaints",
+   "link": "https://www.aljazeera.com/sports/2026/10/6/fifa-chief-infantinos-abuse-of-power-questioned-by-norway-in-complaints?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-06T15:49:54.000Z"
+  },
+  {
+   "title": "LIVE: Croatia vs Spain – UEFA Nations League",
+   "link": "https://www.aljazeera.com/sports/liveblog/2026/10/6/live-crostia-vs-spain-uefa-nations-league?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-06T15:47:16.000Z"
+  },
+  {
+   "title": "The Early History of Smalltalk (1993)",
+   "link": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
+   "source": "Hacker News",
+   "date": "2026-10-06T15:19:57.000Z"
+  },
+  {
+   "title": "Birzeit University memorial destruction aims to crush Palestinian memory",
+   "link": "https://www.aljazeera.com/features/2026/10/6/birzeit-university-memorial-destruction-aims-to-crush-palestinian-memory?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-06T15:14:28.000Z"
+  },
+  {
+   "title": "One student killed, eight wounded in Istanbul school stabbing attack",
+   "link": "https://www.euronews.com/2026/10/06/one-student-killed-eight-wounded-in-istanbul-school-stabbing-attack",
+   "source": "Euronews",
+   "date": "2026-10-06T14:53:51.000Z"
+  },
+  {
+   "title": "Photos: School blockades, street protests grip France",
+   "link": "https://www.aljazeera.com/gallery/2026/10/6/photos-france-braces-for-day-of-school-blockades-and-street-protests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-06T14:53:02.000Z"
+  },
+  {
+   "title": "Bulgaria searches for missing crew after drones hit two ships in Black Sea",
+   "link": "https://www.aljazeera.com/news/2026/10/6/bulgaria-says-two-commercial-vessels-were-hit-in-drone-attack-in-its-waters?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-06T14:50:01.000Z"
+  },
+  {
+   "title": "Russia denies plague death but quarantines hundreds without explanation",
+   "link": "https://www.euronews.com/2026/10/06/russia-denies-plague-death-but-quarantines-hundreds-without-explanation",
+   "source": "Euronews",
+   "date": "2026-10-06T14:34:22.000Z"
+  },
+  {
+   "title": "'Whole world is paying' for Iran war, Qatar warns as mediation efforts continue",
+   "link": "https://www.euronews.com/2026/10/06/whole-world-is-paying-for-iran-war-qatar-warns-as-mediation-efforts-continue",
+   "source": "Euronews",
+   "date": "2026-10-06T14:17:54.000Z"
+  },
+  {
+   "title": "Show HN: I turned my iPhone and a $20 smart plug into an f-stop timer",
+   "link": "https://peterszentkiralyi.eu/darkplug/",
+   "source": "Hacker News",
+   "date": "2026-10-06T13:58:07.000Z"
+  },
+  {
+   "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
+   "link": "https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/",
+   "source": "Hacker News",
+   "date": "2026-10-06T13:55:37.000Z"
+  },
+  {
+   "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
+   "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-06T13:36:46.000Z"
+  },
+  {
+   "title": "Show HN: Parseable, an open observability datalake, handles 100M time-series/min",
+   "link": "https://www.parseable.com",
+   "source": "Hacker News",
+   "date": "2026-10-06T13:30:50.000Z"
+  },
+  {
+   "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
+   "link": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+   "source": "Guardian World",
+   "date": "2026-10-06T12:46:56.000Z"
+  },
+  {
+   "title": "Ship sinks and crew missing after Black Sea drone attack",
+   "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-06T11:53:21.000Z"
+  },
   {
    "title": "'Ghost particles' from space telescope wins physics Nobel",
    "link": "https://www.bbc.co.uk/news/articles/cq203mymlvkeo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-06T10:10:02.000Z"
+   "date": "2026-10-06T11:24:19.000Z"
   },
   {
-   "title": "Indian opposition MPs detained in protest against election chief",
-   "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+   "title": "Former German spy chief arrested for espionage and treason",
+   "link": "https://www.bbc.co.uk/news/articles/c58jzyer1kr0o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-06T10:05:22.000Z"
+   "date": "2026-10-06T10:05:42.000Z"
   },
   {
    "title": "Latest news bulletin | October 6th, 2026 – Midday",
@@ -20,148 +152,16 @@
    "date": "2026-10-06T10:00:15.000Z"
   },
   {
-   "title": "Kenya ministry of health confirms first imported Ebola case",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/kenya-ministry-of-health-confirms-first-imported-ebola-case?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-06T09:51:44.000Z"
-  },
-  {
-   "title": "Nobel Prize in Physics goes to Francis Halzen",
-   "link": "https://www.nobelprize.org/prizes/physics/2026/",
-   "source": "Hacker News",
-   "date": "2026-10-06T09:48:46.000Z"
-  },
-  {
-   "title": "India’s ‘million mutinies’ are puncturing Modi’s aura of invincibility",
-   "link": "https://www.aljazeera.com/opinions/2026/10/6/indias-million-mutinies-are-puncturing-modis-aura-of-invincibility?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-06T09:39:03.000Z"
-  },
-  {
-   "title": "Kenya confirms first Ebola case and says patient has died",
-   "link": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
-   "source": "Guardian World",
-   "date": "2026-10-06T09:35:12.000Z"
-  },
-  {
-   "title": "Mermaids compete in Warsaw's deepest swimming pool",
-   "link": "https://www.euronews.com/video/2026/10/06/mermaids-compete-in-warsaws-deepest-swimming-pool",
+   "title": "18 sailors rescued after drone attack in Black Sea",
+   "link": "https://www.euronews.com/2026/10/06/18-sailors-rescued-after-drone-attack-in-black-sea",
    "source": "Euronews",
-   "date": "2026-10-06T09:30:45.000Z"
-  },
-  {
-   "title": "‘Hitting the right nail’: Refugee rescue group defiant as Greece targets it",
-   "link": "https://www.aljazeera.com/news/2026/10/6/hitting-the-right-nail-refugee-rescue-group-defiant-as-greece-targets-it?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-06T09:25:14.000Z"
-  },
-  {
-   "title": "Palestine weekly: Olive harvest opens under assault",
-   "link": "https://www.aljazeera.com/news/2026/10/6/palestine-weekly-olive-harvest-opens-under-assault?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-06T09:22:09.000Z"
-  },
-  {
-   "title": "South Korea considers steps to force North Korea apology for DMZ mine blast",
-   "link": "https://www.aljazeera.com/news/2026/10/6/south-korea-considers-steps-to-force-north-korea-apology-for-dmz-mine-blast?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-06T08:58:36.000Z"
-  },
-  {
-   "title": "Yemen government forces advance on Bab el-Mandeb in offensive against Houthis",
-   "link": "https://www.euronews.com/2026/10/06/yemen-government-forces-advance-on-bab-el-mandeb-in-offensive-against-houthis",
-   "source": "Euronews",
-   "date": "2026-10-06T08:54:43.000Z"
-  },
-  {
-   "title": "Malaysia’s Anwar to host Myanmar leader as repatriations near 10,000",
-   "link": "https://www.aljazeera.com/news/2026/10/6/malaysias-anwar-to-host-myanmar-leader-as-repatriations-surpass-10000?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-06T08:47:18.000Z"
-  },
-  {
-   "title": "Ex-German intelligence chief arrested over suspected espionage",
-   "link": "https://www.euronews.com/2026/10/06/ex-german-intelligence-chief-arrested-over-suspected-espionage",
-   "source": "Euronews",
-   "date": "2026-10-06T08:38:31.000Z"
-  },
-  {
-   "title": "Latvian filmmaker wins €400,000 Grand Prix at Kazakhstan's AI film festival",
-   "link": "https://www.euronews.com/2026/10/06/latvian-filmmaker-wins-400000-grand-prix-at-kazakhstans-ai-film-festival",
-   "source": "Euronews",
-   "date": "2026-10-06T08:37:39.000Z"
-  },
-  {
-   "title": "Global oil stocks are alarmingly low and could take two years to rebuild, Aramco warns",
-   "link": "https://www.euronews.com/2026/10/06/global-oil-stocks-are-alarmingly-low-and-could-take-two-years-to-rebuild-aramco-warns",
-   "source": "Euronews",
-   "date": "2026-10-06T08:06:23.000Z"
-  },
-  {
-   "title": "Yemeni military says it has 'secured' Red Sea waterway",
-   "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-06T07:43:07.000Z"
-  },
-  {
-   "title": "Anthropic Subscriptions Offer 5x+ More Value Than OpenAI",
-   "link": "https://newsletter.semianalysis.com/p/anthropic-subscriptions-offer-5x",
-   "source": "Hacker News",
-   "date": "2026-10-06T07:29:50.000Z"
-  },
-  {
-   "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
-   "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-06T07:02:24.000Z"
-  },
-  {
-   "title": "Keeping up with the Bolsonaros: Flávio’s surprise first-round election win heralds rise of a political dynasty",
-   "link": "https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty",
-   "source": "Guardian World",
-   "date": "2026-10-06T07:00:05.000Z"
+   "date": "2026-10-06T09:45:05.000Z"
   },
   {
    "title": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",
    "link": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes",
    "source": "Guardian World",
    "date": "2026-10-06T05:00:02.000Z"
-  },
-  {
-   "title": "Resurrecting iChat Audio and Video Conferencing",
-   "link": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
-   "source": "Hacker News",
-   "date": "2026-10-06T03:39:01.000Z"
-  },
-  {
-   "title": "Why Common Lisp is now the best programming language",
-   "link": "https://www.vivienhenz.com/common-lisp",
-   "source": "Hacker News",
-   "date": "2026-10-06T02:51:51.000Z"
-  },
-  {
-   "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
-   "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-06T02:22:24.000Z"
-  },
-  {
-   "title": "Samon: Designing a Zen Garden Raking Puzzle",
-   "link": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
-   "source": "Hacker News",
-   "date": "2026-10-05T23:35:35.000Z"
-  },
-  {
-   "title": "Ephemeral Testing",
-   "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
-   "source": "Hacker News",
-   "date": "2026-10-05T23:06:36.000Z"
-  },
-  {
-   "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
-   "link": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-05T22:28:02.000Z"
   },
   {
    "title": "Guardian readers fund life-changing surgery for Somali boy injured in US airstrike",

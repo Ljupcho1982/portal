@@ -1,59 +1,113 @@
 {
- "updated": "2026-10-12T17:55:03.455Z",
+ "updated": "2026-10-13T00:40:31.403Z",
  "items": [
   {
-   "title": "Spain: National Day highlights territorial unity from Barcelona to Ceuta",
-   "link": "https://www.euronews.com/video/2026/10/12/spain-national-day-highlights-territorial-unity-from-barcelona-to-ceuta",
-   "source": "Euronews",
-   "date": "2026-10-12T17:46:10.000Z"
+   "title": "Breaking Bad actor RJ Mitte dies aged 34",
+   "link": "https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-13T00:12:25.000Z"
   },
   {
-   "title": "Atletico Madrid vs Manchester United: Champions League – Predictions, teams",
-   "link": "https://www.aljazeera.com/sports/2026/10/12/atletico-madrid-manchester-united-champions-league-predictions-baena-bruno?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-12T17:39:08.000Z"
+   "title": "Instant Software Factories",
+   "link": "https://github.com/mikolalysenko/instant-factory",
+   "source": "Hacker News",
+   "date": "2026-10-13T00:09:30.000Z"
   },
   {
-   "title": "India’s voter list changes sparks fresh protests",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/indias-voter-list-changes-sparks-fresh-protests?traffic_source=rss",
+   "title": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-10-12T17:33:51.000Z"
+   "date": "2026-10-13T00:00:00.000Z"
+  },
+  {
+   "title": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
+   "link": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-12T23:54:05.000Z"
+  },
+  {
+   "title": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+   "link": "https://doi.org/10.1111/acel.70751",
+   "source": "Hacker News",
+   "date": "2026-10-12T23:34:22.000Z"
+  },
+  {
+   "title": "A shared, verifiable fix database that AI agents read and write themselves",
+   "link": "https://cuddly-guide-4q6q54rg76653jvxj-8000.app.github.dev/llms.txt",
+   "source": "Hacker News",
+   "date": "2026-10-12T23:22:00.000Z"
+  },
+  {
+   "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+   "link": "https://github.com/andrewfader/blokkily",
+   "source": "Hacker News",
+   "date": "2026-10-12T23:21:12.000Z"
+  },
+  {
+   "title": "Two deaths reported as Hurricane Simon, storm Rachel batter Mexico’s coast",
+   "link": "https://www.aljazeera.com/news/2026/10/12/two-deaths-reported-as-hurricane-simon-storm-rachel-batter-mexicos-coast?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-12T23:09:50.000Z"
+  },
+  {
+   "title": "GPT-6 Astra Helped Me Jailbreak My Kindle",
+   "link": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+   "source": "Hacker News",
+   "date": "2026-10-12T23:07:25.000Z"
+  },
+  {
+   "title": "US archbishop says Catholics in army should not participate in firing squad",
+   "link": "https://www.aljazeera.com/news/2026/10/12/us-archbishop-says-catholics-in-army-should-not-participate-in-firing-squad?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-12T23:05:16.000Z"
+  },
+  {
+   "title": "Poland says two Turks arrested over Russia-linked Starlink station fire",
+   "link": "https://www.aljazeera.com/news/2026/10/12/poland-says-two-turks-arrested-over-russia-linked-starlink-station-fire?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-12T22:44:00.000Z"
+  },
+  {
+   "title": "Why the Cornell gang rape case has raised concerns about fraternity culture",
+   "link": "https://www.aljazeera.com/news/2026/10/12/why-the-cornell-gang-rape-case-has-raised-concerns-about-fraternity-culture?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-12T22:23:44.000Z"
+  },
+  {
+   "title": "Breaking Bad star RJ Mitte dies aged 34",
+   "link": "https://news.sky.com/story/breaking-bad-star-rj-mitte-dies-aged-34-13598332",
+   "source": "Hacker News",
+   "date": "2026-10-12T22:15:29.000Z"
+  },
+  {
+   "title": "Bolivia investigates ex-president Evo Morales over alleged ties to 2009 killings",
+   "link": "https://www.theguardian.com/world/2026/oct/12/bolivia-investigates-ex-president-evo-morales-2009-killings",
+   "source": "Guardian World",
+   "date": "2026-10-12T21:40:51.000Z"
   },
   {
    "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
    "link": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-12T17:32:13.000Z"
+   "date": "2026-10-12T21:20:51.000Z"
   },
   {
-   "title": "AI coding agents generate more code, but not more software",
-   "link": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
-   "source": "Hacker News",
-   "date": "2026-10-12T17:14:01.000Z"
-  },
-  {
-   "title": "Immigration agents search Congresswoman Ilhan Omar's home",
-   "link": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+   "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+   "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-12T17:09:55.000Z"
+   "date": "2026-10-12T20:54:09.000Z"
   },
   {
-   "title": "‘Totally unfair’: Navi Pillay slams US sanctions against ICC",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/totally-unfair-navi-pillay-slams-us-sanctions-against-icc?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-12T17:07:50.000Z"
+   "title": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+   "link": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-12T20:17:37.000Z"
   },
   {
-   "title": "Thinking Will Become a Hobby",
-   "link": "https://www.spinellis.gr/blog/20261008/?li261008",
-   "source": "Hacker News",
-   "date": "2026-10-12T16:54:08.000Z"
-  },
-  {
-   "title": "Muse Wonder",
-   "link": "https://research.meta.ai/blog/muse-wonder",
-   "source": "Hacker News",
-   "date": "2026-10-12T16:48:01.000Z"
+   "title": "Spain: National Day highlights territorial unity from Barcelona to Ceuta",
+   "link": "https://www.euronews.com/video/2026/10/12/spain-national-day-highlights-territorial-unity-from-barcelona-to-ceuta",
+   "source": "Euronews",
+   "date": "2026-10-12T17:46:10.000Z"
   },
   {
    "title": "South Africa's deputy police chief resigns after being charged with sexual offences",
@@ -62,70 +116,16 @@
    "date": "2026-10-12T16:46:49.000Z"
   },
   {
-   "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-   "link": "https://news.ycombinator.com/item?id=50059096",
-   "source": "Hacker News",
-   "date": "2026-10-12T16:46:34.000Z"
-  },
-  {
-   "title": "Blast kills teenager, injures dozens in northern Israel",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-12T16:44:07.000Z"
-  },
-  {
-   "title": "Reverse engineer anything with agents, from app behavior down to native binaries",
-   "link": "https://github.com/morluto/rea",
-   "source": "Hacker News",
-   "date": "2026-10-12T16:31:55.000Z"
-  },
-  {
-   "title": "Photos: Protests over voter lists escalate in India’s capital",
-   "link": "https://www.aljazeera.com/gallery/2026/10/12/photos-protests-over-voter-lists-escalate-in-indias-capital?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-12T16:24:40.000Z"
-  },
-  {
-   "title": "Fridges in French supermarkets hit by cyber attack",
-   "link": "https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-12T16:17:59.000Z"
-  },
-  {
-   "title": "A Modern Web App in C",
-   "link": "https://prophitt.me/writing/a-modern-web-app-in-c",
-   "source": "Hacker News",
-   "date": "2026-10-12T16:13:10.000Z"
-  },
-  {
-   "title": "Pope Leo continues working after lung surgery announcement",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/pope-leo-continues-working-after-lung-surgery-announcement?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-12T16:10:01.000Z"
-  },
-  {
    "title": "Latest news bulletin | October 12th, 2026 – Evening",
    "link": "https://www.euronews.com/video/2026/10/12/latest-news-bulletin-october-12th-2026-evening",
    "source": "Euronews",
    "date": "2026-10-12T16:00:26.000Z"
   },
   {
-   "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-   "link": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-12T14:00:03.000Z"
-  },
-  {
    "title": "Paris’s oldest covered food market gutted by major overnight fire",
    "link": "https://www.euronews.com/video/2026/10/12/pariss-oldest-covered-food-market-gutted-by-major-overnight-fire",
    "source": "Euronews",
    "date": "2026-10-12T13:52:33.000Z"
-  },
-  {
-   "title": "Fugitive businessman taken into US custody in Venezuela bribery case",
-   "link": "https://www.theguardian.com/us-news/2026/oct/12/fugitive-venezuela-bribery-case",
-   "source": "Guardian World",
-   "date": "2026-10-12T13:14:14.000Z"
   },
   {
    "title": "German firms outline new infrastructure and green energy plans in Baku",

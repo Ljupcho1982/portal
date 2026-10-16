@@ -1,29 +1,125 @@
 {
- "updated": "2026-10-16T01:21:14.466Z",
+ "updated": "2026-10-16T07:10:26.365Z",
  "items": [
   {
-   "title": "RPKI Now Protects 70% of Internet Routes, Up from 54% a Year Ago",
+   "title": "Turkey: Worst rainfall in 80 years unleashes deadly floods near Istanbul",
+   "link": "https://www.euronews.com/video/2026/10/16/turkey-worst-rainfall-in-80-years-unleashes-deadly-floods-near-istanbul",
+   "source": "Euronews",
+   "date": "2026-10-16T06:49:25.000Z"
+  },
+  {
+   "title": "Which countries waste the most food, and how to reduce waste at home",
+   "link": "https://www.aljazeera.com/news/2026/10/16/which-countries-waste-the-most-food-and-how-to-reduce-waste-at-home?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-16T06:31:57.000Z"
+  },
+  {
+   "title": "'Well, it worked': Elon Musk unveils new Tesla Roadster that can fly",
+   "link": "https://www.euronews.com/2026/10/16/well-it-worked-elon-musk-unveils-new-tesla-roadster-that-can-fly",
+   "source": "Euronews",
+   "date": "2026-10-16T06:25:22.000Z"
+  },
+  {
+   "title": "New White House press secretary Katie Zacharia says China lacked 'proper' toilets",
+   "link": "https://www.euronews.com/2026/10/16/new-white-house-press-secretary-katie-zacharia-says-china-lacked-proper-toilets",
+   "source": "Euronews",
+   "date": "2026-10-16T06:13:09.000Z"
+  },
+  {
+   "title": "Vibe coding: Game-changer or risky business?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/16/vibe-coding-game-changer-or-risky-business?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-16T06:01:34.000Z"
+  },
+  {
+   "title": "Alone in Gaza: Genocide leaves Palestinian man without family or a home",
+   "link": "https://www.aljazeera.com/features/2026/10/16/alone-in-gaza-genocide-leaves-palestinian-man-without-family-or-a-home?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-16T05:55:23.000Z"
+  },
+  {
+   "title": "US sanctions leave Iranians facing flight cancellations and soaring costs",
+   "link": "https://www.aljazeera.com/news-analysis/2026/10/16/us-sanctions-leave-iranians-facing-flight-cancellations-and-soaring-costs?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-16T05:51:40.000Z"
+  },
+  {
+   "title": "Candlelight vigil honours victims of Oregon school shooting",
+   "link": "https://www.euronews.com/2026/10/16/candlelight-vigil-honours-victims-of-oregon-school-shooting",
+   "source": "Euronews",
+   "date": "2026-10-16T05:47:37.000Z"
+  },
+  {
+   "title": "Rubio presses Lebanon on confiscation of weapons from Hezbollah",
+   "link": "https://www.aljazeera.com/news/2026/10/16/rubio-presses-lebanon-on-confiscation-of-weapons-from-hezbollah?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-16T05:28:29.000Z"
+  },
+  {
+   "title": "Four killed as Indonesia battles worst forest fires in more than a decade",
+   "link": "https://www.aljazeera.com/news/2026/10/16/four-killed-as-indonesia-battles-worst-forest-fires-in-more-than-a-decade?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-16T05:15:09.000Z"
+  },
+  {
+   "title": "Latest news bulletin | October 16th, 2026 – Morning",
+   "link": "https://www.euronews.com/video/2026/10/16/latest-news-bulletin-october-16th-2026-morning",
+   "source": "Euronews",
+   "date": "2026-10-16T05:00:32.000Z"
+  },
+  {
+   "title": "Ship attack reports near Hormuz reach record high as oil exports slow",
+   "link": "https://www.bbc.co.uk/news/articles/cmde8dpg8g0no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-16T05:00:17.000Z"
+  },
+  {
+   "title": "Three children and teacher killed in US primary school shooting",
+   "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-16T03:45:09.000Z"
+  },
+  {
+   "title": "Three children and one teacher killed in Oregon elementary school shooting",
+   "link": "https://www.euronews.com/2026/10/16/four-killed-in-oregon-elementary-school-shooting-including-three-children-aged-5-to-11",
+   "source": "Euronews",
+   "date": "2026-10-16T03:23:21.000Z"
+  },
+  {
+   "title": "Comparing Chromium Development at Google and Igalia",
+   "link": "https://lwn.net/Articles/1094721/",
+   "source": "Hacker News",
+   "date": "2026-10-16T01:56:37.000Z"
+  },
+  {
+   "title": "Any window from your Mac, on your iPhone and iPad",
+   "link": "https://github.com/Saffsanity/sill",
+   "source": "Hacker News",
+   "date": "2026-10-16T01:43:17.000Z"
+  },
+  {
+   "title": "'It's really hard to believe' - How Oregon primary school shooting unfolded",
+   "link": "https://www.bbc.co.uk/news/videos/cwe8r29mjd05o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-16T01:36:45.000Z"
+  },
+  {
+   "title": "Thank You, Deno",
+   "link": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
+   "source": "Hacker News",
+   "date": "2026-10-16T00:52:40.000Z"
+  },
+  {
+   "title": "RPKI now protects 70% of internet routes",
    "link": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
    "source": "Hacker News",
    "date": "2026-10-16T00:52:35.000Z"
   },
   {
-   "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
-   "link": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-16T00:31:18.000Z"
-  },
-  {
-   "title": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-16T00:02:37.000Z"
-  },
-  {
-   "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
-   "link": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-15T23:35:26.000Z"
+   "title": "Meta’s new commercial terms will allow the scraping of news sites: experts",
+   "link": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+   "source": "Hacker News",
+   "date": "2026-10-15T23:37:42.000Z"
   },
   {
    "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
@@ -32,88 +128,16 @@
    "date": "2026-10-15T23:22:53.000Z"
   },
   {
-   "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
-   "link": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
-   "source": "Hacker News",
-   "date": "2026-10-15T23:17:50.000Z"
-  },
-  {
-   "title": "At least 4, including 3 children, killed in US elementary school shooting",
-   "link": "https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-15T22:51:56.000Z"
-  },
-  {
    "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
    "link": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-15T22:37:21.000Z"
   },
   {
-   "title": "Israel halts commercial goods from entering Gaza; Hamas denies tax claims",
-   "link": "https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-15T21:57:58.000Z"
-  },
-  {
-   "title": "Man United’s Martinez apologises for outburst after talks with Carrick",
-   "link": "https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-15T21:54:26.000Z"
-  },
-  {
-   "title": "Albania: Violent protests rock Tirana for third straight day",
-   "link": "https://www.euronews.com/video/2026/10/15/albania-violent-protests-rock-tirana-for-third-straight-day",
-   "source": "Euronews",
-   "date": "2026-10-15T21:34:56.000Z"
-  },
-  {
-   "title": "What I Self-Host",
-   "link": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
-   "source": "Hacker News",
-   "date": "2026-10-15T20:23:25.000Z"
-  },
-  {
-   "title": "New Withings Users Must Pay $99/Year for Apple Health Syncing",
-   "link": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
-   "source": "Hacker News",
-   "date": "2026-10-15T19:55:49.000Z"
-  },
-  {
-   "title": "US extends sanctions waiver for Russian oil giant Lukoil until 2027",
-   "link": "https://www.euronews.com/2026/10/15/us-extends-sanctions-waiver-for-russian-oil-giant-lukoil-until-2027",
-   "source": "Euronews",
-   "date": "2026-10-15T19:35:19.000Z"
-  },
-  {
-   "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-   "link": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
-   "source": "Hacker News",
-   "date": "2026-10-15T19:21:38.000Z"
-  },
-  {
-   "title": "Europeans ‘far more united’ on tougher China trade stance after German shift, Barkin says",
-   "link": "https://www.euronews.com/2026/10/15/europeans-far-more-united-on-tougher-china-trade-stance-after-german-shift-barkin-says",
-   "source": "Euronews",
-   "date": "2026-10-15T18:46:41.000Z"
-  },
-  {
-   "title": "Azerbaijan hosts rare summit of both converging and opposing Middle East and Asian leaders",
-   "link": "https://www.euronews.com/2026/10/15/azerbaijan-hosts-rare-summit-of-both-converging-and-opposing-middle-east-and-asian-leaders",
-   "source": "Euronews",
-   "date": "2026-10-15T18:36:24.000Z"
-  },
-  {
    "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
    "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-15T17:47:22.000Z"
-  },
-  {
-   "title": "Maduro pleads not guilty to new torture-related charges in New York",
-   "link": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-15T16:52:44.000Z"
   },
   {
    "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
@@ -126,30 +150,6 @@
    "link": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores",
    "source": "Guardian World",
    "date": "2026-10-15T16:38:32.000Z"
-  },
-  {
-   "title": "Another tanker catches fire near Hormuz after two cargo ships sunk in attacks",
-   "link": "https://www.euronews.com/2026/10/15/another-tanker-catches-fire-near-hormuz-after-two-cargo-ships-sunk-in-attacks",
-   "source": "Euronews",
-   "date": "2026-10-15T16:00:57.000Z"
-  },
-  {
-   "title": "Latest news bulletin | October 15th, 2026 – Evening",
-   "link": "https://www.euronews.com/video/2026/10/15/latest-news-bulletin-october-15th-2026-evening",
-   "source": "Euronews",
-   "date": "2026-10-15T16:00:26.000Z"
-  },
-  {
-   "title": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-   "link": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-15T15:26:16.000Z"
-  },
-  {
-   "title": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
-   "link": "https://www.bbc.co.uk/news/articles/c6jrwn3y3xe9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-15T15:00:05.000Z"
   },
   {
    "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",

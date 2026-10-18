@@ -1,11 +1,41 @@
 {
- "updated": "2026-10-17T22:19:10.759Z",
+ "updated": "2026-10-18T01:02:47.882Z",
  "items": [
+  {
+   "title": "Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-18T00:00:11.000Z"
+  },
+  {
+   "title": "European diplomats attacked by Israeli settlers in West Bank",
+   "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-17T23:52:38.000Z"
+  },
+  {
+   "title": "US ambassador urges Israel to prosecute attackers of American journalist",
+   "link": "https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-17T23:40:59.000Z"
+  },
+  {
+   "title": "Saudi-led coalition intercepts drones as Egypt weighs sending help",
+   "link": "https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-17T23:21:57.000Z"
+  },
   {
    "title": "Photos show luxury boat with 50m pool and water slides near Kim Jong Un's summer retreat",
    "link": "https://www.bbc.co.uk/news/articles/cmy4xnyyg1lyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-17T22:09:50.000Z"
+  },
+  {
+   "title": "JDK 28",
+   "link": "https://openjdk.org/projects/jdk/28/",
+   "source": "Hacker News",
+   "date": "2026-10-17T21:37:07.000Z"
   },
   {
    "title": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
@@ -44,28 +74,10 @@
    "date": "2026-10-17T20:50:01.000Z"
   },
   {
-   "title": "Protesters allege police brutality as violent clashes rage on in Albania",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/protesters-allege-police-brutality-as-violent-clashes-rage-on-in-albania?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-17T20:40:38.000Z"
-  },
-  {
-   "title": "Al Jazeera reporter harassed, struck on head amid France protests, looting",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reporter-harassed-struck-on-head-amid-france-protests-looting?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-17T20:20:25.000Z"
-  },
-  {
    "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
    "link": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
    "source": "Hacker News",
    "date": "2026-10-17T20:07:33.000Z"
-  },
-  {
-   "title": "Iranian TV airs video said to show tanker explosion in Hormuz",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/iranian-tv-airs-video-said-to-show-tanker-explosion-in-hormuz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-17T20:02:22.000Z"
   },
   {
    "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -80,22 +92,10 @@
    "date": "2026-10-17T19:19:16.000Z"
   },
   {
-   "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+   "title": "Microsoft and CMU team up to train early career software engineers",
    "link": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
    "source": "Hacker News",
    "date": "2026-10-17T18:45:07.000Z"
-  },
-  {
-   "title": "European diplomats attacked by Israeli settlers in West Bank",
-   "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-17T18:38:57.000Z"
-  },
-  {
-   "title": "Pattern Matching Beats Narrative Reasoning",
-   "link": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
-   "source": "Hacker News",
-   "date": "2026-10-17T18:34:13.000Z"
   },
   {
    "title": "OpenCode Hacked: User credentials leaked",
@@ -104,7 +104,7 @@
    "date": "2026-10-17T18:01:41.000Z"
   },
   {
-   "title": "Codex is EATING my Mac's disk space",
+   "title": "Codex Desktop continuously generates Crashpad pending dumps",
    "link": "https://github.com/openai/codex/issues/25921",
    "source": "Hacker News",
    "date": "2026-10-17T17:45:08.000Z"

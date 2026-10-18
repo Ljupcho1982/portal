@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-18T20:44:02.537Z",
+ "updated": "2026-10-18T23:13:11.340Z",
  "items": [
+  {
+   "title": "Venezuela opposition renews support for Maria Corina Machado as leader",
+   "link": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-18T22:41:49.000Z"
+  },
+  {
+   "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+   "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+   "source": "Guardian World",
+   "date": "2026-10-18T22:26:15.000Z"
+  },
+  {
+   "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+   "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-18T22:10:45.000Z"
+  },
+  {
+   "title": "Alberta independence referendum: Will separatists survive a loss?",
+   "link": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-18T21:53:13.000Z"
+  },
+  {
+   "title": "What we know so far about deadly fire at Canadian military base",
+   "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-18T21:37:56.000Z"
+  },
+  {
+   "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+   "link": "https://github.com/finereli/whatsapp-mcp",
+   "source": "Hacker News",
+   "date": "2026-10-18T21:36:10.000Z"
+  },
+  {
+   "title": "Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux",
+   "link": "https://github.com/omnipty-terminal/omnipty",
+   "source": "Hacker News",
+   "date": "2026-10-18T21:24:13.000Z"
+  },
+  {
+   "title": "Macron condemns violence after riots lead to looting and mass arrests",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-18T21:10:47.000Z"
+  },
+  {
+   "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+   "link": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-18T21:00:22.000Z"
+  },
+  {
+   "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+   "link": "https://arxiv.org/abs/2610.18861",
+   "source": "Hacker News",
+   "date": "2026-10-18T20:48:14.000Z"
+  },
+  {
+   "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
+   "link": "https://github.com/Netflix/vmaf",
+   "source": "Hacker News",
+   "date": "2026-10-18T20:43:40.000Z"
+  },
   {
    "title": "Macron calls for 'calm and order' after riots across France",
    "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
@@ -26,34 +92,10 @@
    "date": "2026-10-18T20:05:07.000Z"
   },
   {
-   "title": "What we know so far about deadly fire at Canadian military base",
-   "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+   "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
+   "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-18T19:42:37.000Z"
-  },
-  {
-   "title": "India’s crackdown on cockroaches, critics and cameras",
-   "link": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-18T19:31:45.000Z"
-  },
-  {
-   "title": "How will Europe deal with youth-led protests?",
-   "link": "https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-18T19:15:21.000Z"
-  },
-  {
-   "title": "Clarence Seedorf calls out genocide in first Corinthians press conference",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-18T19:12:30.000Z"
-  },
-  {
-   "title": "Tiny Brutalism – Thanks to HN it's on Steam",
-   "link": "https://store.steampowered.com/app/5426130/Tiny_Brutalism/",
-   "source": "Hacker News",
-   "date": "2026-10-18T18:59:09.000Z"
+   "date": "2026-10-18T19:53:27.000Z"
   },
   {
    "title": "Free Pascal compiler now supports dynamic packages",
@@ -66,30 +108,6 @@
    "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
    "source": "Hacker News",
    "date": "2026-10-18T18:40:16.000Z"
-  },
-  {
-   "title": "PalmOS Lemmings",
-   "link": "https://github.com/ardiri/palmos-lemmings",
-   "source": "Hacker News",
-   "date": "2026-10-18T17:56:59.000Z"
-  },
-  {
-   "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-   "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-   "source": "Guardian World",
-   "date": "2026-10-18T17:34:53.000Z"
-  },
-  {
-   "title": "Namecheap just seized and disabled all my domains",
-   "link": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-   "source": "Hacker News",
-   "date": "2026-10-18T16:56:56.000Z"
-  },
-  {
-   "title": "Someone behind the software",
-   "link": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-   "source": "Hacker News",
-   "date": "2026-10-18T16:32:00.000Z"
   },
   {
    "title": "Latest news bulletin | October 18th, 2026 – Evening",
@@ -122,18 +140,6 @@
    "date": "2026-10-18T14:45:23.000Z"
   },
   {
-   "title": "European diplomats attacked by Israeli settlers in West Bank",
-   "link": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-18T12:16:14.000Z"
-  },
-  {
-   "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
-   "link": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-18T12:07:31.000Z"
-  },
-  {
    "title": "Burnt bicycles, smashed windows and looted shops: Trail of destruction across Paris",
    "link": "https://www.euronews.com/2026/10/18/burnt-bicycles-smashed-windows-and-looted-shops-trail-of-destruction-across-paris",
    "source": "Euronews",
@@ -156,12 +162,6 @@
    "link": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria",
    "source": "Guardian World",
    "date": "2026-10-18T07:00:53.000Z"
-  },
-  {
-   "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-   "link": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-18T05:04:31.000Z"
   },
   {
    "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",

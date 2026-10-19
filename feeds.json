@@ -1,59 +1,143 @@
 {
- "updated": "2026-10-19T15:36:26.515Z",
+ "updated": "2026-10-19T21:03:11.354Z",
  "items": [
   {
-   "title": "Kenya pastor convicted of ordering parents to starve their children to death",
+   "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-19T20:49:39.000Z"
+  },
+  {
+   "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+   "link": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-19T20:49:00.000Z"
+  },
+  {
+   "title": "Video: Priest dies after cross falls on him during Mass in Ecuador",
+   "link": "https://www.euronews.com/2026/10/19/video-priest-dies-after-cross-falls-on-him-during-mass-in-ecuador",
+   "source": "Euronews",
+   "date": "2026-10-19T20:34:13.000Z"
+  },
+  {
+   "title": "Kenya convicts cult leader over the murder of 190 children",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-19T20:31:21.000Z"
+  },
+  {
+   "title": "Germany's far-right AfD: half a million internal documents leaked",
+   "link": "https://hexane.cc/",
+   "source": "Hacker News",
+   "date": "2026-10-19T20:31:05.000Z"
+  },
+  {
+   "title": "Trump signs order launching women’s health division at NIH, White House",
+   "link": "https://www.aljazeera.com/news/2026/10/19/trump-signs-order-launching-womens-health-division-at-nih-white-house?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-19T20:29:46.000Z"
+  },
+  {
+   "title": "Deadly floods sweep through eastern Spain after torrential rain",
+   "link": "https://www.euronews.com/video/2026/10/19/deadly-floods-sweep-through-eastern-spain-after-torrential-rain",
+   "source": "Euronews",
+   "date": "2026-10-19T20:00:41.000Z"
+  },
+  {
+   "title": "Finland seeking one million land mines as it eyes Russian threat",
+   "link": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-19T19:57:10.000Z"
+  },
+  {
+   "title": "Rubio puts Trans-Caspian trade and critical minerals at centre of Central Asia talks",
+   "link": "https://www.euronews.com/2026/10/19/rubio-puts-trans-caspian-trade-and-critical-minerals-at-centre-of-central-asia-talks",
+   "source": "Euronews",
+   "date": "2026-10-19T19:53:16.000Z"
+  },
+  {
+   "title": "One killed in US shooting near mosque in Columbus, Ohio",
+   "link": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-19T19:50:20.000Z"
+  },
+  {
+   "title": "Florida issues arrest warrant for Cuban leader Raul Castro",
+   "link": "https://www.aljazeera.com/news/2026/10/19/florida-issues-arrest-warrant-for-cuban-leader-raul-castro?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-19T19:48:53.000Z"
+  },
+  {
+   "title": "Towards Company World Models",
+   "link": "https://www.beaconholdings.com/research/towards-company-world-models",
+   "source": "Hacker News",
+   "date": "2026-10-19T18:51:09.000Z"
+  },
+  {
+   "title": "The reverts will continue until morale improves",
+   "link": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+   "source": "Hacker News",
+   "date": "2026-10-19T18:42:32.000Z"
+  },
+  {
+   "title": "Show HN: Open-source early-reading reader with phonics help",
+   "link": "https://github.com/finereli/yarareads",
+   "source": "Hacker News",
+   "date": "2026-10-19T17:58:54.000Z"
+  },
+  {
+   "title": "Mercury 3: Diffusion at scale",
+   "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
+   "source": "Hacker News",
+   "date": "2026-10-19T17:27:11.000Z"
+  },
+  {
+   "title": "Evidence (YC S21) Is Hiring Software Engineers",
+   "link": "https://evidence.dev/jobs",
+   "source": "Hacker News",
+   "date": "2026-10-19T17:21:33.000Z"
+  },
+  {
+   "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
    "link": "https://www.bbc.co.uk/news/articles/ckd6d2l3dz4xo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-19T15:25:59.000Z"
+   "date": "2026-10-19T17:18:04.000Z"
   },
   {
-   "title": "How has the cost of living changed in France, Italy, Spain and Portugal?",
-   "link": "https://www.aljazeera.com/news/2026/10/19/how-has-the-cost-of-living-changed-in-france-italy-spain-and-portugal?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-19T15:19:04.000Z"
+   "title": "Macron increasingly isolated amid unrest across France",
+   "link": "https://www.euronews.com/2026/10/19/macron-increasingly-isolated-amid-unrest-across-france",
+   "source": "Euronews",
+   "date": "2026-10-19T16:38:51.000Z"
   },
   {
-   "title": "Decision on Senegal’s AFCON final appeal to be made by end of November",
-   "link": "https://www.aljazeera.com/sports/2026/10/19/decision-on-senegals-afcon-final-appeal-to-be-made-by-end-of-november?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-19T15:15:27.000Z"
+   "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+   "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-19T16:22:12.000Z"
   },
   {
-   "title": "Russia’s Lavrov discusses US war and regional security in Tehran visit",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/russias-lavrov-discusses-us-war-and-regional-security-in-tehran-visit?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-19T15:15:02.000Z"
+   "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
+   "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
+   "source": "Guardian World",
+   "date": "2026-10-19T16:08:14.000Z"
   },
   {
-   "title": "Man City’s Semenyo out for up to eight weeks due to knee injury",
-   "link": "https://www.aljazeera.com/sports/2026/10/19/man-citys-semenyo-out-for-up-to-eight-weeks-due-to-knee-injury?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-19T15:07:19.000Z"
+   "title": "Latest news bulletin | October 19th, 2026 – Evening",
+   "link": "https://www.euronews.com/video/2026/10/19/latest-news-bulletin-october-19th-2026-evening",
+   "source": "Euronews",
+   "date": "2026-10-19T16:00:26.000Z"
   },
   {
-   "title": "Famine fears as aid cuts and shipment restrictions coincide in Gaza",
-   "link": "https://www.aljazeera.com/news/2026/10/19/famine-fears-as-aid-cuts-and-shipment-restrictions-coincide-in-gaza?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-19T15:05:16.000Z"
-  },
-  {
-   "title": "Who is cult leader Paul Mackenzie, accused of convincing followers to die?",
-   "link": "https://www.aljazeera.com/news/2026/10/19/who-is-cult-leader-paul-mackenzie-accused-of-convincing-followers-to-die?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-19T14:54:24.000Z"
+   "title": "Qatar plans new defence partnership and warns of energy crisis 'peak'",
+   "link": "https://www.euronews.com/2026/10/19/qatar-plans-new-defence-partnership-and-warns-of-energy-crisis-peak",
+   "source": "Euronews",
+   "date": "2026-10-19T15:40:14.000Z"
   },
   {
    "title": "Drone attack near market kills 80 in Sudan",
    "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
    "source": "Guardian World",
    "date": "2026-10-19T14:45:53.000Z"
-  },
-  {
-   "title": "Maybe There Was an Egg Cartel After All",
-   "link": "https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411",
-   "source": "Hacker News",
-   "date": "2026-10-19T14:31:11.000Z"
   },
   {
    "title": "Ebola cases in Kenya highlight US failures amid Trump cuts to key services",
@@ -68,24 +152,6 @@
    "date": "2026-10-19T14:09:54.000Z"
   },
   {
-   "title": "Protesters block entrances to Paris’s Louvre museum",
-   "link": "https://www.euronews.com/video/2026/10/19/protesters-block-entrances-to-pariss-louvre-museum",
-   "source": "Euronews",
-   "date": "2026-10-19T13:57:12.000Z"
-  },
-  {
-   "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
-   "link": "https://github.com/kividbio/kividb",
-   "source": "Hacker News",
-   "date": "2026-10-19T13:53:52.000Z"
-  },
-  {
-   "title": "UN food agency to cut aid to 500,000 people in Gaza as funding dries up",
-   "link": "https://www.euronews.com/2026/10/19/un-food-agency-to-cut-aid-to-500000-people-in-gaza-as-funding-dries-up",
-   "source": "Euronews",
-   "date": "2026-10-19T13:46:51.000Z"
-  },
-  {
    "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
    "link": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
@@ -98,70 +164,10 @@
    "date": "2026-10-19T13:42:41.000Z"
   },
   {
-   "title": "New Chinese brands drive curiosity at the Mondial de l'Auto car show in Paris",
-   "link": "https://www.euronews.com/2026/10/19/new-chinese-brands-drive-curiosity-at-the-mondial-de-lauto-car-show-in-paris",
-   "source": "Euronews",
-   "date": "2026-10-19T13:40:31.000Z"
-  },
-  {
-   "title": "Tents fill Lisbon square as protesters highlight Portugal’s housing crisis",
-   "link": "https://www.euronews.com/video/2026/10/19/tents-fill-lisbon-square-as-protesters-highlight-portugals-housing-crisis",
-   "source": "Euronews",
-   "date": "2026-10-19T13:38:58.000Z"
-  },
-  {
-   "title": "Wine Ported to OpenBSD",
-   "link": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-   "source": "Hacker News",
-   "date": "2026-10-19T13:35:34.000Z"
-  },
-  {
-   "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-   "link": "https://100toolkit.com/blog/deslop-model/",
-   "source": "Hacker News",
-   "date": "2026-10-19T13:00:47.000Z"
-  },
-  {
-   "title": "US issues rare Middle East red alert warning to its citizens in the region",
-   "link": "https://www.euronews.com/2026/10/19/us-issues-rare-middle-east-red-alert-warning-to-its-citizens-in-the-region",
-   "source": "Euronews",
-   "date": "2026-10-19T11:55:24.000Z"
-  },
-  {
-   "title": "Roads and cars submerged as heavy rain floods eastern Spain",
-   "link": "https://www.euronews.com/2026/10/19/roads-and-cars-submerged-as-heavy-rain-floods-eastern-spain",
-   "source": "Euronews",
-   "date": "2026-10-19T11:47:11.000Z"
-  },
-  {
-   "title": "Personal attacks fire up debate before Brazil's run-off vote",
-   "link": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-19T11:41:24.000Z"
-  },
-  {
-   "title": "Harness2 by Google Research – Recursive Agent Harnessing",
-   "link": "https://github.com/google-research/harness2",
-   "source": "Hacker News",
-   "date": "2026-10-19T11:28:45.000Z"
-  },
-  {
-   "title": "ESA's Hera Will View Asteroid Scars from DART's Strike",
-   "link": "https://spectrum.ieee.org/esa-hera-dimorphos-rendezvous",
-   "source": "Hacker News",
-   "date": "2026-10-19T11:12:02.000Z"
-  },
-  {
    "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
    "link": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
    "source": "Guardian World",
    "date": "2026-10-19T10:07:09.000Z"
-  },
-  {
-   "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-   "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-18T23:20:15.000Z"
   },
   {
    "title": "Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music",
@@ -174,12 +180,6 @@
    "link": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria",
    "source": "Guardian World",
    "date": "2026-10-18T07:00:53.000Z"
-  },
-  {
-   "title": "LGBTQ+ people go into hiding in Senegal as hundreds are arrested",
-   "link": "https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch",
-   "source": "Guardian World",
-   "date": "2026-10-15T08:00:25.000Z"
   }
  ]
 }

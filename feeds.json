@@ -1,6 +1,66 @@
 {
- "updated": "2026-10-18T23:13:11.340Z",
+ "updated": "2026-10-19T01:18:00.512Z",
  "items": [
+  {
+   "title": "Kenya confirms eighth Ebola case amid widening regional outbreak",
+   "link": "https://www.aljazeera.com/news/2026/10/19/kenya-confirms-eighth-ebola-case-amid-widening-regional-outbreak?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-19T01:07:52.000Z"
+  },
+  {
+   "title": "Kinship and surveillance: The return of Somali piracy",
+   "link": "https://www.aljazeera.com/news/2026/10/19/kinship-and-surveillance-the-return-of-somali-piracy?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-19T00:56:17.000Z"
+  },
+  {
+   "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+   "link": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-19T00:06:25.000Z"
+  },
+  {
+   "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-18T23:59:34.000Z"
+  },
+  {
+   "title": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
+   "link": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-18T23:58:05.000Z"
+  },
+  {
+   "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
+   "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
+   "source": "Guardian World",
+   "date": "2026-10-18T23:53:13.000Z"
+  },
+  {
+   "title": "William Gibson and the trademarking of cyberspace",
+   "link": "https://colo.to/cyberspace.html",
+   "source": "Hacker News",
+   "date": "2026-10-18T23:37:57.000Z"
+  },
+  {
+   "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+   "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-18T23:20:15.000Z"
+  },
+  {
+   "title": "Protesters disrupt Ben-Gvir event forcing him off stage",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-18T23:06:16.000Z"
+  },
+  {
+   "title": "Major fire at Canada military base leaves four dead, dozens injured",
+   "link": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-18T23:06:09.000Z"
+  },
   {
    "title": "Venezuela opposition renews support for Maria Corina Machado as leader",
    "link": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss",
@@ -8,28 +68,10 @@
    "date": "2026-10-18T22:41:49.000Z"
   },
   {
-   "title": "Four people killed in ‘violent, fast-moving’ fire at Canadian military base",
-   "link": "https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright",
-   "source": "Guardian World",
-   "date": "2026-10-18T22:26:15.000Z"
-  },
-  {
-   "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-   "link": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+   "title": "'Very upsetting': Residents in shock after historic French town hall set alight",
+   "link": "https://www.bbc.co.uk/news/videos/c9dr8kem27zeo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-18T22:10:45.000Z"
-  },
-  {
-   "title": "Alberta independence referendum: Will separatists survive a loss?",
-   "link": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-18T21:53:13.000Z"
-  },
-  {
-   "title": "What we know so far about deadly fire at Canadian military base",
-   "link": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-18T21:37:56.000Z"
+   "date": "2026-10-18T22:22:51.000Z"
   },
   {
    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
@@ -38,16 +80,10 @@
    "date": "2026-10-18T21:36:10.000Z"
   },
   {
-   "title": "Show HN: OmniPTY – Opinionated terminal emulator for macOS and Linux",
-   "link": "https://github.com/omnipty-terminal/omnipty",
+   "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+   "link": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
    "source": "Hacker News",
-   "date": "2026-10-18T21:24:13.000Z"
-  },
-  {
-   "title": "Macron condemns violence after riots lead to looting and mass arrests",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-18T21:10:47.000Z"
+   "date": "2026-10-18T21:09:12.000Z"
   },
   {
    "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
@@ -62,40 +98,10 @@
    "date": "2026-10-18T20:48:14.000Z"
   },
   {
-   "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
-   "link": "https://github.com/Netflix/vmaf",
-   "source": "Hacker News",
-   "date": "2026-10-18T20:43:40.000Z"
-  },
-  {
    "title": "Macron calls for 'calm and order' after riots across France",
    "link": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-18T20:33:21.000Z"
-  },
-  {
-   "title": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-18T20:26:03.000Z"
-  },
-  {
-   "title": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
-   "link": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-18T20:19:22.000Z"
-  },
-  {
-   "title": "What’s behind Europe’s youth protests?",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/18/whats-behind-europes-youth-protests?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-18T20:05:07.000Z"
-  },
-  {
-   "title": "Cindy Crawford 'beyond heartbroken' after death of son Presley at 27",
-   "link": "https://www.bbc.co.uk/news/articles/cwzrd6123jyyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-18T19:53:27.000Z"
   },
   {
    "title": "Free Pascal compiler now supports dynamic packages",
@@ -104,10 +110,10 @@
    "date": "2026-10-18T18:48:04.000Z"
   },
   {
-   "title": "Florida's HOAs and condo associations are making the housing crisis worse",
-   "link": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+   "title": "PalmOS Lemmings",
+   "link": "https://github.com/ardiri/palmos-lemmings",
    "source": "Hacker News",
-   "date": "2026-10-18T18:40:16.000Z"
+   "date": "2026-10-18T17:56:59.000Z"
   },
   {
    "title": "Latest news bulletin | October 18th, 2026 – Evening",
@@ -120,12 +126,6 @@
    "link": "https://www.euronews.com/video/2026/10/18/france-paris-lyon-and-marseille-count-the-cost-after-violent-protests",
    "source": "Euronews",
    "date": "2026-10-18T15:56:49.000Z"
-  },
-  {
-   "title": "Oil facilities hit in deadly overnight attack on St Petersburg",
-   "link": "https://www.bbc.co.uk/news/articles/c3eweygrjzd7o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-18T15:46:10.000Z"
   },
   {
    "title": "Russia: Huge flames and smoke rise over St Petersburg after drone strikes",

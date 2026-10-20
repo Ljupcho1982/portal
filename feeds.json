@@ -1,11 +1,107 @@
 {
- "updated": "2026-10-19T21:03:11.354Z",
+ "updated": "2026-10-20T00:20:34.631Z",
  "items": [
   {
-   "title": "Injured Ukrainian soldier rescued in first-ever drone evacuation mission",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/aje-onl-nf_ukrainian-soldier-rescued-in-drone-evacuation-191026?traffic_source=rss",
+   "title": "Hegseth meets Netanyahu in unannounced Israel visit",
+   "link": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-10-19T20:49:39.000Z"
+   "date": "2026-10-20T00:08:01.000Z"
+  },
+  {
+   "title": "France's Supermarket Fridges Were Vulnerable Online for Months",
+   "link": "https://ipinfo.io/blog/france-fridges-hack",
+   "source": "Hacker News",
+   "date": "2026-10-20T00:00:49.000Z"
+  },
+  {
+   "title": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-20T00:00:00.000Z"
+  },
+  {
+   "title": "Mahmoud Khalil takes deportation fight to the US Supreme Court",
+   "link": "https://www.aljazeera.com/news/2026/10/19/mahmoud-khalil-takes-deportation-fight-to-the-us-supreme-court?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-19T23:56:32.000Z"
+  },
+  {
+   "title": "Colombia illegal gold mine collapse kills 14 people",
+   "link": "https://www.aljazeera.com/news/2026/10/19/colombia-illegal-gold-mine-collapse-kills-14-people?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-19T23:56:17.000Z"
+  },
+  {
+   "title": "Token-maxxing is dead, OpenRouter's token usage plateaus",
+   "link": "https://openrouter.ai/rankings",
+   "source": "Hacker News",
+   "date": "2026-10-19T23:40:15.000Z"
+  },
+  {
+   "title": "Tehran rejects any role in plot to kill leaders of German Jewish groups",
+   "link": "https://www.aljazeera.com/news/2026/10/19/tehran-rejects-any-role-in-plot-to-kill-leaders-of-jewish-groups?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-19T23:16:01.000Z"
+  },
+  {
+   "title": "Children among six killed in Russian drone strike on Ukraine park",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/children-among-six-killed-in-russian-drone-strike-on-ukraine-park?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-19T23:12:42.000Z"
+  },
+  {
+   "title": "“bonsoir, Elliot”: How abliterated models can get you pwned",
+   "link": "https://projectdiscovery.io/research/how-abliterated-models-can-get-you-pwned",
+   "source": "Hacker News",
+   "date": "2026-10-19T23:08:52.000Z"
+  },
+  {
+   "title": "Five ways El Niño is affecting the weather around the world",
+   "link": "https://www.bbc.co.uk/weather/articles/c6dx07dznpyyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-19T23:08:25.000Z"
+  },
+  {
+   "title": "US grants deportation reprieve to migrants from Ukraine and Sudan",
+   "link": "https://www.theguardian.com/us-news/2026/oct/19/us-migrants-deportation-ukraine-sudan",
+   "source": "Guardian World",
+   "date": "2026-10-19T22:34:43.000Z"
+  },
+  {
+   "title": "Drupal is now light-years ahead of its reputation",
+   "link": "https://dri.es/state-of-drupal-presentation-september-2026",
+   "source": "Hacker News",
+   "date": "2026-10-19T21:38:02.000Z"
+  },
+  {
+   "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+   "link": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-19T21:14:53.000Z"
+  },
+  {
+   "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+   "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-19T21:12:30.000Z"
+  },
+  {
+   "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+   "link": "https://bsd.network/@brynet/117407035545900963",
+   "source": "Hacker News",
+   "date": "2026-10-19T21:11:45.000Z"
+  },
+  {
+   "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+   "link": "https://josie.lol/blog/linux-rtx-spark",
+   "source": "Hacker News",
+   "date": "2026-10-19T21:08:18.000Z"
+  },
+  {
+   "title": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
+   "link": "https://www.bbc.co.uk/news/articles/ckd7qy12j148o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-19T21:02:33.000Z"
   },
   {
    "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
@@ -20,82 +116,16 @@
    "date": "2026-10-19T20:34:13.000Z"
   },
   {
-   "title": "Kenya convicts cult leader over the murder of 190 children",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/19/kenya-convicts-cult-leader-over-the-murder-of-190-children?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-19T20:31:21.000Z"
-  },
-  {
-   "title": "Germany's far-right AfD: half a million internal documents leaked",
-   "link": "https://hexane.cc/",
-   "source": "Hacker News",
-   "date": "2026-10-19T20:31:05.000Z"
-  },
-  {
-   "title": "Trump signs order launching women’s health division at NIH, White House",
-   "link": "https://www.aljazeera.com/news/2026/10/19/trump-signs-order-launching-womens-health-division-at-nih-white-house?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-19T20:29:46.000Z"
-  },
-  {
    "title": "Deadly floods sweep through eastern Spain after torrential rain",
    "link": "https://www.euronews.com/video/2026/10/19/deadly-floods-sweep-through-eastern-spain-after-torrential-rain",
    "source": "Euronews",
    "date": "2026-10-19T20:00:41.000Z"
   },
   {
-   "title": "Finland seeking one million land mines as it eyes Russian threat",
-   "link": "https://www.aljazeera.com/news/2026/10/19/finland-seeking-one-million-land-mines-as-it-eyes-russian-threat?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-19T19:57:10.000Z"
-  },
-  {
    "title": "Rubio puts Trans-Caspian trade and critical minerals at centre of Central Asia talks",
    "link": "https://www.euronews.com/2026/10/19/rubio-puts-trans-caspian-trade-and-critical-minerals-at-centre-of-central-asia-talks",
    "source": "Euronews",
    "date": "2026-10-19T19:53:16.000Z"
-  },
-  {
-   "title": "One killed in US shooting near mosque in Columbus, Ohio",
-   "link": "https://www.aljazeera.com/news/2026/10/19/us-federal-authorities-responding-to-shooting-at-mosque-in-columbus-ohio?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-19T19:50:20.000Z"
-  },
-  {
-   "title": "Florida issues arrest warrant for Cuban leader Raul Castro",
-   "link": "https://www.aljazeera.com/news/2026/10/19/florida-issues-arrest-warrant-for-cuban-leader-raul-castro?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-19T19:48:53.000Z"
-  },
-  {
-   "title": "Towards Company World Models",
-   "link": "https://www.beaconholdings.com/research/towards-company-world-models",
-   "source": "Hacker News",
-   "date": "2026-10-19T18:51:09.000Z"
-  },
-  {
-   "title": "The reverts will continue until morale improves",
-   "link": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
-   "source": "Hacker News",
-   "date": "2026-10-19T18:42:32.000Z"
-  },
-  {
-   "title": "Show HN: Open-source early-reading reader with phonics help",
-   "link": "https://github.com/finereli/yarareads",
-   "source": "Hacker News",
-   "date": "2026-10-19T17:58:54.000Z"
-  },
-  {
-   "title": "Mercury 3: Diffusion at scale",
-   "link": "https://www.inceptionlabs.ai/blog/introducing-mercury-3",
-   "source": "Hacker News",
-   "date": "2026-10-19T17:27:11.000Z"
-  },
-  {
-   "title": "Evidence (YC S21) Is Hiring Software Engineers",
-   "link": "https://evidence.dev/jobs",
-   "source": "Hacker News",
-   "date": "2026-10-19T17:21:33.000Z"
   },
   {
    "title": "Kenya cult leader who told parents to starve children guilty of 191 murders",
@@ -108,12 +138,6 @@
    "link": "https://www.euronews.com/2026/10/19/macron-increasingly-isolated-amid-unrest-across-france",
    "source": "Euronews",
    "date": "2026-10-19T16:38:51.000Z"
-  },
-  {
-   "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-   "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-19T16:22:12.000Z"
   },
   {
    "title": "Kenyan starvation cult leader guilty of murder of 190 children and one adult",
@@ -146,24 +170,6 @@
    "date": "2026-10-19T14:11:08.000Z"
   },
   {
-   "title": "Australian MP critically injured after being hit by car in apparent attack",
-   "link": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-19T14:09:54.000Z"
-  },
-  {
-   "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-   "link": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-19T13:44:57.000Z"
-  },
-  {
-   "title": "Exiled critic of Rwandan president found beheaded",
-   "link": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-19T13:42:41.000Z"
-  },
-  {
    "title": "Hurricane Trudy menaces Mexico’s Pacific coast and Greece hit by deadly floods",
    "link": "https://www.theguardian.com/news/2026/oct/19/hurricane-trudy-mexico-pacific-coast-greece-floods",
    "source": "Guardian World",
@@ -174,12 +180,6 @@
    "link": "https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype",
    "source": "Guardian World",
    "date": "2026-10-18T09:00:55.000Z"
-  },
-  {
-   "title": "An extraordinary life: descendant welcomes biography of woman ‘gifted’ to Queen Victoria",
-   "link": "https://www.theguardian.com/world/2026/oct/18/sarah-forbes-bonetta-biography-queen-victoria",
-   "source": "Guardian World",
-   "date": "2026-10-18T07:00:53.000Z"
   }
  ]
 }

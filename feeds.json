@@ -1,17 +1,125 @@
 {
- "updated": "2026-10-21T10:09:04.334Z",
+ "updated": "2026-10-21T15:15:10.713Z",
  "items": [
+  {
+   "title": "Russia to send first diesel tanker to the US amid Trump deal",
+   "link": "https://www.aljazeera.com/economy/2026/10/21/russia-to-send-first-diesel-tanker-to-the-us-amid-trump-deal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-21T14:54:55.000Z"
+  },
+  {
+   "title": "UN warns El Nino could be strongest on record as it urges world to prepare",
+   "link": "https://www.euronews.com/2026/10/21/un-warns-elnino-could-be-strongest-on-record",
+   "source": "Euronews",
+   "date": "2026-10-21T14:53:37.000Z"
+  },
+  {
+   "title": "Musk pledges $10bn in SpaceX shares for US children: Who really gains?",
+   "link": "https://www.aljazeera.com/news/2026/10/21/musk-pledges-10bn-in-spacex-shares-for-us-children-who-really-gains?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-21T14:41:03.000Z"
+  },
+  {
+   "title": "US envoy Witkoff calls Russia’s Putin a ‘humanitarian’",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/us-envoy-witkoff-calls-russias-putin-a?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-21T14:39:08.000Z"
+  },
+  {
+   "title": "Russia releases American Stephen Hubbard after four years in prison",
+   "link": "https://www.aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-21T14:31:53.000Z"
+  },
+  {
+   "title": "Macron calls for extreme caution in Gulf, secures critical gas deal in Qatar state visit",
+   "link": "https://www.euronews.com/2026/10/21/macron-calls-for-extreme-caution-in-gulf-secures-critical-gas-deal-for-france",
+   "source": "Euronews",
+   "date": "2026-10-21T14:31:04.000Z"
+  },
+  {
+   "title": "US congressional candidate Brad Lander freed after West Bank detention",
+   "link": "https://www.aljazeera.com/news/2026/10/21/us-congressional-candidate-brad-lander-freed-after-west-bank-detention?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-21T14:12:15.000Z"
+  },
+  {
+   "title": "Macron accuses foreign leaders of exploiting French riots",
+   "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-21T14:04:28.000Z"
+  },
+  {
+   "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+   "link": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+   "source": "Hacker News",
+   "date": "2026-10-21T14:03:43.000Z"
+  },
+  {
+   "title": "The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck",
+   "link": "https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/",
+   "source": "Hacker News",
+   "date": "2026-10-21T14:01:25.000Z"
+  },
+  {
+   "title": "DuckDB 2.0.0 LTS \"Cinnamon Teal\"",
+   "link": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+   "source": "Hacker News",
+   "date": "2026-10-21T14:01:22.000Z"
+  },
+  {
+   "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+   "link": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+   "source": "Hacker News",
+   "date": "2026-10-21T14:00:26.000Z"
+  },
+  {
+   "title": "How Qatar, Turkiye, Pakistan and Indonesia are deepening defence ties",
+   "link": "https://www.aljazeera.com/news/2026/10/21/how-qatar-turkiye-pakistan-and-indonesia-are-deepening-defence-ties?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-21T13:58:17.000Z"
+  },
+  {
+   "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
+   "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-21T13:49:50.000Z"
+  },
+  {
+   "title": "PHP 8.2.35",
+   "link": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+   "source": "Hacker News",
+   "date": "2026-10-21T13:45:33.000Z"
+  },
+  {
+   "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+   "link": "https://www.wiz.io/blog/php2shell-php-rce",
+   "source": "Hacker News",
+   "date": "2026-10-21T13:43:19.000Z"
+  },
+  {
+   "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
+   "link": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
+   "source": "Guardian World",
+   "date": "2026-10-21T13:40:08.000Z"
+  },
+  {
+   "title": "Russia frees detained American Stephen Hubbard during US envoy's visit",
+   "link": "https://www.euronews.com/2026/10/21/russia-frees-detained-american-stephen-hubbard-during-us-envoys-visit",
+   "source": "Euronews",
+   "date": "2026-10-21T11:45:30.000Z"
+  },
+  {
+   "title": "Large crowds watch as rescuers try to save stranded shark in South Korea",
+   "link": "https://www.euronews.com/video/2026/10/21/large-crowds-watch-as-rescuers-try-to-save-stranded-shark-in-south-korea",
+   "source": "Euronews",
+   "date": "2026-10-21T10:39:33.000Z"
+  },
   {
    "title": "Latest news bulletin | October 21st, 2026 – Midday",
    "link": "https://www.euronews.com/video/2026/10/21/latest-news-bulletin-october-21st-2026-midday",
    "source": "Euronews",
    "date": "2026-10-21T10:00:15.000Z"
-  },
-  {
-   "title": "Attack on Australian MP Haines: How threats against legislators have soared",
-   "link": "https://www.aljazeera.com/news/2026/10/21/attack-on-australian-mp-haines-how-threats-against-legislators-have-soared?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-21T09:24:47.000Z"
   },
   {
    "title": "More Russians are settling in the EU with each year of war in Ukraine",
@@ -20,82 +128,22 @@
    "date": "2026-10-21T09:24:28.000Z"
   },
   {
-   "title": "Russia frees US citizen Stephen Hubbard, state media reports",
-   "link": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-21T09:22:23.000Z"
-  },
-  {
-   "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
-   "link": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-21T09:02:18.000Z"
-  },
-  {
-   "title": "‘A house cannot be a privilege’: Thousands rally in Lisbon over housing crisis",
-   "link": "https://www.euronews.com/video/2026/10/21/a-house-cannot-be-a-privilege-thousands-rally-in-lisbon-over-housing-crisis",
-   "source": "Euronews",
-   "date": "2026-10-21T08:45:20.000Z"
-  },
-  {
    "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
    "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-21T08:42:49.000Z"
   },
   {
-   "title": "Australian MP loses both legs in vehicle attack as suspect appears in court",
-   "link": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-21T08:34:37.000Z"
-  },
-  {
-   "title": "LeBron James’s 76ers beat NY Knicks on NBA’s opening night at MSG",
-   "link": "https://www.aljazeera.com/sports/2026/10/21/lebron-jamess-76ers-beat-ny-knicks-on-nbas-opening-night-at-msg?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-21T08:30:55.000Z"
-  },
-  {
-   "title": "Trump snaps at reporter, ordering him to be quiet",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/trump-snaps-at-reporter-ordering-him-to-be-quiet?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-21T08:29:08.000Z"
-  },
-  {
-   "title": "Drone attack in disputed Sudan-South Sudan border region kills at least 153",
-   "link": "https://www.aljazeera.com/news/2026/10/21/drone-attack-in-disputed-sudan-south-sudan-border-region-kills-at-least-153?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-21T08:25:45.000Z"
+   "title": "Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion",
+   "link": "https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-21T08:31:48.000Z"
   },
   {
    "title": "Australian MP loses both legs after alleged car attack, husband says",
    "link": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-21T07:56:30.000Z"
-  },
-  {
-   "title": "Cleanup efforts begin in flood-hit eastern Spain after deadly torrential rain",
-   "link": "https://www.euronews.com/video/2026/10/21/cleanup-efforts-begin-in-flood-hit-eastern-spain-after-deadly-torrential-rain",
-   "source": "Euronews",
-   "date": "2026-10-21T07:22:40.000Z"
-  },
-  {
-   "title": "Katya Adler: France divided over who to blame for riots and what to learn from them",
-   "link": "https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-21T06:50:40.000Z"
-  },
-  {
-   "title": "Dramatic footage shows ferry engulfed in flames off Indonesia",
-   "link": "https://www.euronews.com/video/2026/10/21/dramatic-footage-shows-ferry-engulfed-in-flames-off-indonesia",
-   "source": "Euronews",
-   "date": "2026-10-21T06:49:23.000Z"
-  },
-  {
-   "title": "US envoy in Russia for Putin talks after 'positive' Zelenskyy meeting",
-   "link": "https://www.euronews.com/2026/10/21/us-envoy-in-russia-for-putin-talks-after-positive-zelenskyy-meeting",
-   "source": "Euronews",
-   "date": "2026-10-21T06:18:58.000Z"
   },
   {
    "title": "Pakistan arrests man wanted by US over $126m postage fraud case",
@@ -108,12 +156,6 @@
    "link": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
    "source": "Guardian World",
    "date": "2026-10-21T00:14:55.000Z"
-  },
-  {
-   "title": "Trump and Zelensky appear at loggerheads despite new optimism",
-   "link": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-20T20:00:57.000Z"
   },
   {
    "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
@@ -138,12 +180,6 @@
    "link": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children",
    "source": "Guardian World",
    "date": "2026-10-19T16:08:14.000Z"
-  },
-  {
-   "title": "Drone attack near market kills 80 in Sudan",
-   "link": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan",
-   "source": "Guardian World",
-   "date": "2026-10-19T14:45:53.000Z"
   }
  ]
 }

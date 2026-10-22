@@ -1,41 +1,107 @@
 {
- "updated": "2026-10-21T23:20:01.431Z",
+ "updated": "2026-10-22T04:47:00.719Z",
  "items": [
   {
-   "title": "Canadian publisher drops writer Thelyson Orelien over AI use in novel",
-   "link": "https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-21T22:16:50.000Z"
+   "title": "Canada unveils $6.2bn plan to shield manufacturers as Trump trade tariffs bite",
+   "link": "https://www.euronews.com/2026/10/22/canada-unveils-62bn-plan-to-shield-manufacturers-as-trump-trade-tariffs-bite",
+   "source": "Euronews",
+   "date": "2026-10-22T04:30:08.000Z"
   },
   {
-   "title": "Video shows Israeli settler assaulting Palestinian child",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-21T22:03:54.000Z"
+   "title": "El Salvador launches military operation in Haiti to free four kidnapped aviation technicians",
+   "link": "https://www.euronews.com/2026/10/22/el-salvador-launches-military-operation-in-haiti-to-free-four-kidnapped-aviation-technicia",
+   "source": "Euronews",
+   "date": "2026-10-22T04:10:23.000Z"
   },
   {
-   "title": "Railway Security Disclosure",
-   "link": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+   "title": "What is PHP and why did it spark a global cyber-security scramble?",
+   "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-22T03:48:50.000Z"
+  },
+  {
+   "title": "Trump administration seeks Supreme Court approval to build Big Bend wall",
+   "link": "https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-22T03:19:38.000Z"
+  },
+  {
+   "title": "Can Trump deport Congresswoman Ilhan Omar?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-22T02:34:46.000Z"
+  },
+  {
+   "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+   "link": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
    "source": "Hacker News",
-   "date": "2026-10-21T21:58:03.000Z"
+   "date": "2026-10-22T02:30:52.000Z"
   },
   {
-   "title": "Man United captain Fernandes slams Carrick’s tactics after Como hammering",
-   "link": "https://www.aljazeera.com/sports/2026/10/21/man-united-captain-fernandes-slams-carricks-tactics-after-como-hammering?traffic_source=rss",
+   "title": "Russia frees American Stephen Hubbard after 4 years behind bars",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/22/russia-frees-american-stephen-hubbard-after-4-years-behind-bars?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-10-21T21:50:28.000Z"
+   "date": "2026-10-22T02:16:25.000Z"
   },
   {
-   "title": "Tehran displays mock installation of Trump behind bars",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/21/aje-onl-nf_tehran-displays-mock-installation-of-trump-211026?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-21T21:43:06.000Z"
+   "title": "LLM agents play Pokemon showdown",
+   "link": "https://olivergrabner.com/research/pokemon/",
+   "source": "Hacker News",
+   "date": "2026-10-22T02:13:48.000Z"
   },
   {
-   "title": "Real Madrid rout RB Leipzig 4-1 to continue perfect Champions League start",
-   "link": "https://www.aljazeera.com/sports/2026/10/21/real-madrid-rout-leipzig-to-continue-perfect-champions-league-start?traffic_source=rss",
+   "title": "Tigray resumes daily life amid fears of wider war",
+   "link": "https://www.aljazeera.com/news/2026/10/22/tigray-resumes-daily-life-amid-fears-of-wider-war?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-10-21T21:36:31.000Z"
+   "date": "2026-10-22T02:08:05.000Z"
+  },
+  {
+   "title": "What is the FDLR, and why does its anti-Tutsi ideology endure?",
+   "link": "https://www.aljazeera.com/news/2026/10/22/what-is-the-fdlr-and-why-does-its-anti-tutsi-ideology-endure?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-22T02:02:55.000Z"
+  },
+  {
+   "title": "Epic Games Inc v Apple Inc",
+   "link": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+   "source": "Hacker News",
+   "date": "2026-10-22T01:52:03.000Z"
+  },
+  {
+   "title": "Qatar, France call for opening of Hormuz and Gaza ceasefire implementation",
+   "link": "https://www.aljazeera.com/news/2026/10/22/qatar-france-call-for-opening-of-hormuz-and-gaza-ceasefire-implementation?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-22T01:45:48.000Z"
+  },
+  {
+   "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+   "link": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-22T01:07:34.000Z"
+  },
+  {
+   "title": "mitmproxy adds --emudhra option",
+   "link": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+   "source": "Hacker News",
+   "date": "2026-10-21T23:51:37.000Z"
+  },
+  {
+   "title": "There isn't an easy exploit for this PHP vulnerability",
+   "link": "https://eliastaylor.com/noexploit/",
+   "source": "Hacker News",
+   "date": "2026-10-21T23:13:27.000Z"
+  },
+  {
+   "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+   "link": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-21T22:54:58.000Z"
+  },
+  {
+   "title": "Postgres recovery_prefetch can cause outages",
+   "link": "https://ardentperf.com/2026/10/20/postgres-recovery_prefetch-considered-harmful-and-causing-outages/",
+   "source": "Hacker News",
+   "date": "2026-10-21T22:33:08.000Z"
   },
   {
    "title": "Yemen: Tanks fire as fighting erupts on the outskirts of Taiz",
@@ -44,28 +110,10 @@
    "date": "2026-10-21T21:33:02.000Z"
   },
   {
-   "title": "Declan Rice grabs Arsenal draw at Bayern Munich in Champions League",
-   "link": "https://www.aljazeera.com/sports/2026/10/21/declan-rice-grabs-arsenal-draw-at-bayern-munich-in-champions-league?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-21T21:28:34.000Z"
-  },
-  {
    "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
    "link": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-21T21:27:41.000Z"
-  },
-  {
-   "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
-   "link": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
-   "source": "Hacker News",
-   "date": "2026-10-21T21:12:59.000Z"
-  },
-  {
-   "title": "CleanFrame: A quieter home screen for Samsung The Frame",
-   "link": "https://github.com/nthnclrk/CleanFrame",
-   "source": "Hacker News",
-   "date": "2026-10-21T21:08:59.000Z"
   },
   {
    "title": "Greece: Thousands flood Athens streets in education protest",
@@ -74,46 +122,22 @@
    "date": "2026-10-21T21:02:01.000Z"
   },
   {
-   "title": "Pope does not need further treatment after lung cancer surgery",
-   "link": "https://www.bbc.co.uk/news/articles/cqrly2dg5xzzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-21T20:09:10.000Z"
-  },
-  {
    "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
    "link": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-21T19:58:06.000Z"
   },
   {
-   "title": "Claude Duet",
-   "link": "https://claude.com/resources/articles/claude-duet",
-   "source": "Hacker News",
-   "date": "2026-10-21T19:40:18.000Z"
+   "title": "Websites taken down worldwide as critical cyber-security update issued",
+   "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-21T19:54:57.000Z"
   },
   {
    "title": "Colombia seizes 7.6 tonnes of Netherlands-bound cocaine at Cartagena port",
    "link": "https://www.euronews.com/2026/10/21/colombia-seizes-76-tonnes-of-netherlands-bound-cocaine-at-cartagena-port",
    "source": "Euronews",
    "date": "2026-10-21T19:20:29.000Z"
-  },
-  {
-   "title": "Claude Duet",
-   "link": "https://claude.com/product/claude-duet",
-   "source": "Hacker News",
-   "date": "2026-10-21T19:14:01.000Z"
-  },
-  {
-   "title": "Google's Rust Style Guide",
-   "link": "https://google.github.io/styleguide/rustguide.html",
-   "source": "Hacker News",
-   "date": "2026-10-21T19:11:57.000Z"
-  },
-  {
-   "title": "'Targeted' attack on much-loved MP leaves Australian town heartbroken",
-   "link": "https://www.bbc.co.uk/news/articles/cmgr8q88r5eqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-21T18:10:42.000Z"
   },
   {
    "title": "Dussehra: Giant effigies of demons go up in flames in India",
@@ -126,30 +150,6 @@
    "link": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
    "source": "Guardian World",
    "date": "2026-10-21T17:18:56.000Z"
-  },
-  {
-   "title": "Family of prison officer killed by IRA receives state apology",
-   "link": "https://www.bbc.co.uk/news/articles/ck20rver1j31o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-21T16:58:16.000Z"
-  },
-  {
-   "title": "Zelenskyy backs freezing front line as first step towards Ukraine ceasefire",
-   "link": "https://www.euronews.com/2026/10/21/zelenskyy-backs-freezing-front-line-as-first-step-towards-ukraine-ceasefire",
-   "source": "Euronews",
-   "date": "2026-10-21T16:44:34.000Z"
-  },
-  {
-   "title": "Nine Emperor Gods Festival: Devotees walk across burning embers for good luck",
-   "link": "https://www.euronews.com/video/2026/10/21/nine-emperor-gods-festival-devotees-walk-across-burning-embers-for-good-luck",
-   "source": "Euronews",
-   "date": "2026-10-21T16:20:33.000Z"
-  },
-  {
-   "title": "Macron accuses foreign leaders of exploiting French riots",
-   "link": "https://www.bbc.co.uk/news/articles/ckjrw044ggxgo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-21T14:04:28.000Z"
   },
   {
    "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",

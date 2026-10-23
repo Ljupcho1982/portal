@@ -1,101 +1,149 @@
 {
- "updated": "2026-10-23T07:32:56.795Z",
+ "updated": "2026-10-23T13:27:25.227Z",
  "items": [
   {
-   "title": "Taiwan: Deadly Typhoon Champi brings travel chaos and school closures",
-   "link": "https://www.euronews.com/video/2026/10/23/taiwan-deadly-typhoon-champi-brings-travel-chaos-and-school-closures",
-   "source": "Euronews",
-   "date": "2026-10-23T07:30:03.000Z"
-  },
-  {
-   "title": "Europe needs a war economy",
-   "link": "https://www.aljazeera.com/opinions/2026/10/23/europe-needs-a-war-economy?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-23T07:08:10.000Z"
-  },
-  {
-   "title": "Maradona death: Verdict in trial to be delivered on December 22",
-   "link": "https://www.aljazeera.com/sports/2026/10/23/maradona-death-verdict-in-trial-to-be-delivered-on-december-22?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-23T06:55:21.000Z"
-  },
-  {
-   "title": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden",
-   "link": "https://berget.ai/en/blog/per-request-co2-press-release",
-   "source": "Hacker News",
-   "date": "2026-10-23T06:41:11.000Z"
-  },
-  {
-   "title": "How the midterms could change Trump’s presidency",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_trumpmidterms-231026?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-23T06:28:05.000Z"
-  },
-  {
-   "title": "FIFA President Infantino’s re-election endorsed in U-turn by Asian football",
-   "link": "https://www.aljazeera.com/sports/2026/10/23/asian-football-endorses-infantino-re-election-as-fifa-president?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-23T06:11:27.000Z"
-  },
-  {
-   "title": "Manchester United labelled ‘babies’ by club legend Wayne Rooney",
-   "link": "https://www.aljazeera.com/sports/2026/10/23/manchester-united-labelled-clowns-by-club-legend-wayne-rooney?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-23T06:11:17.000Z"
-  },
-  {
-   "title": "EU entering winter with lowest gas reserves on record, IEA boss warns",
-   "link": "https://www.aljazeera.com/economy/2026/10/23/eu-entering-winter-with-lowest-gas-reserves-on-record-iea-boss-warns?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-23T06:02:15.000Z"
-  },
-  {
-   "title": "EU-Canada 'love story' needs more than warm words, senior MEP warns",
-   "link": "https://www.euronews.com/2026/10/23/eu-canada-love-story-needs-more-than-warm-words-senior-mep-warns",
-   "source": "Euronews",
-   "date": "2026-10-23T06:00:46.000Z"
-  },
-  {
-   "title": "Powerful earthquake hits Tibet killing 16 people, reports say",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ynd1z6e83o?at_medium=RSS&at_campaign=rss",
+   "title": "Anti-terror police investigate as one person killed in shooting near Paris",
+   "link": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-23T05:16:37.000Z"
+   "date": "2026-10-23T13:26:48.000Z"
   },
   {
-   "title": "Drones, AI and cybersecurity on display as Milipol Qatar brings together firms from 33 countries",
-   "link": "https://www.euronews.com/2026/10/23/drones-ai-and-cybersecurity-on-display-as-milipol-qatar-brings-together-firms-from-33-coun",
+   "title": "NFL would cancel Paris game if unsafe due to riots, Steelers’ Rodgers says",
+   "link": "https://www.aljazeera.com/sports/2026/10/23/nfl-would-cancel-paris-game-if-unsafe-due-to-riots-steelers-rodgers-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-23T13:19:19.000Z"
+  },
+  {
+   "title": "Trump ordered to testify in $10bn BBC lawsuit discovery: What happens now?",
+   "link": "https://www.aljazeera.com/news/2026/10/23/trump-ordered-to-testify-in-10bn-bbc-lawsuit-discovery-what-happens-now?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-23T13:17:46.000Z"
+  },
+  {
+   "title": "Russia drops cluster bombs on Ukraine as Kyiv consolidates front line",
+   "link": "https://www.aljazeera.com/news/2026/10/23/russia-drops-cluster-bombs-on-ukraine-as-kyiv-consolidates-front-line?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-23T13:17:18.000Z"
+  },
+  {
+   "title": "Storm Austen batters France and UK with winds of up to 160 km/h",
+   "link": "https://www.euronews.com/video/2026/10/23/storm-austen-batters-france-and-uk-with-winds-of-up-to-160-kmh",
    "source": "Euronews",
-   "date": "2026-10-23T05:00:47.000Z"
+   "date": "2026-10-23T13:16:54.000Z"
   },
   {
-   "title": "Latest news bulletin | October 23rd, 2026 – Morning",
-   "link": "https://www.euronews.com/video/2026/10/23/latest-news-bulletin-october-23rd-2026-morning",
+   "title": "El Clasico: All to know about the rivalry between Barcelona and Real Madrid",
+   "link": "https://www.aljazeera.com/sports/2026/10/23/el-clasico-barcelona-real-madrid-rivalry?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-23T13:12:36.000Z"
+  },
+  {
+   "title": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
+   "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-23T13:12:15.000Z"
+  },
+  {
+   "title": "Ukraine hits Russian data centres in blow to Moscow's AI capabilities",
+   "link": "https://www.euronews.com/2026/10/23/ukraine-hits-russian-data-centres-in-blow-to-moscows-ai-capabilities",
    "source": "Euronews",
-   "date": "2026-10-23T05:00:32.000Z"
+   "date": "2026-10-23T13:07:54.000Z"
   },
   {
-   "title": "Nigeria and Kenya Ebola patients may have crossed paths at Uganda airport, officials say",
+   "title": "Dortmund to reward football supporters who don’t use phone during matches",
+   "link": "https://www.aljazeera.com/sports/2026/10/23/dortmund-to-reward-football-supporters-who-dont-use-phone-during-matches?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-23T13:00:51.000Z"
+  },
+  {
+   "title": "Qatar Moto GP to go ahead despite regional tensions",
+   "link": "https://www.aljazeera.com/sports/2026/10/23/qatar-moto-gp-to-go-ahead-despite-regional-tensions?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-23T13:00:18.000Z"
+  },
+  {
+   "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
+   "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-23T12:48:52.000Z"
+  },
+  {
+   "title": "OpenSSL 4.1.0",
+   "link": "https://github.com/openssl/openssl/releases/tag/openssl-4.1.0",
+   "source": "Hacker News",
+   "date": "2026-10-23T12:42:44.000Z"
+  },
+  {
+   "title": "France: shops barricaded in Lyon and Orléans for possible unrest as protests loom",
+   "link": "https://www.euronews.com/video/2026/10/23/france-shops-barricaded-in-lyon-and-orleans-for-possible-unrest-as-protests-loom",
+   "source": "Euronews",
+   "date": "2026-10-23T12:32:20.000Z"
+  },
+  {
+   "title": "Swedish government offices to ban ChatGPT and Claude",
+   "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+   "source": "Hacker News",
+   "date": "2026-10-23T11:39:54.000Z"
+  },
+  {
+   "title": "Trapped miner in coal mine in Turkey confirmed dead, bringing death toll to three",
+   "link": "https://www.euronews.com/2026/10/23/explosion-at-coal-mine-in-turkey-kills-two-leaves-one-trapped",
+   "source": "Euronews",
+   "date": "2026-10-23T11:25:31.000Z"
+  },
+  {
+   "title": "Is this the new cyber normal?",
+   "link": "https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/",
+   "source": "Hacker News",
+   "date": "2026-10-23T11:04:53.000Z"
+  },
+  {
+   "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
+   "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-23T11:01:08.000Z"
+  },
+  {
+   "title": "No Need for Retirement When Utopia Is Around the Corner",
+   "link": "https://blog.jim-nielsen.com/2026/skip-retirement-for-utopia/",
+   "source": "Hacker News",
+   "date": "2026-10-23T10:58:52.000Z"
+  },
+  {
+   "title": "Dutch government had hacked into Jared Kushner's phone",
+   "link": "https://twitter.com/jaredkushner/status/2113376217415958767",
+   "source": "Hacker News",
+   "date": "2026-10-23T10:41:32.000Z"
+  },
+  {
+   "title": "Job Loss and Cortisone Mania",
+   "link": "https://tilschuenemann.de/job-loss-cortisone-mania",
+   "source": "Hacker News",
+   "date": "2026-10-23T10:31:24.000Z"
+  },
+  {
+   "title": "From education to cancer care: Global summit calls for better support for children",
+   "link": "https://www.euronews.com/2026/10/23/from-education-to-cancer-care-global-summit-calls-for-better-support-for-children",
+   "source": "Euronews",
+   "date": "2026-10-23T10:27:52.000Z"
+  },
+  {
+   "title": "Gaza: Moment Israeli airstrike hits building in Nuseirat caught on camera",
+   "link": "https://www.euronews.com/video/2026/10/23/gaza-moment-israeli-airstrike-hits-building-in-nuseirat-caught-on-camera",
+   "source": "Euronews",
+   "date": "2026-10-23T10:23:22.000Z"
+  },
+  {
+   "title": "Cyprus police open investigation into financial affairs of Roman Abramovich",
+   "link": "https://www.bbc.co.uk/news/articles/c875p1yy90ryo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-23T10:14:37.000Z"
+  },
+  {
+   "title": "Woman with Ebola in Nigeria confirmed as wife of Swiss diplomat",
    "link": "https://www.bbc.co.uk/news/articles/cmwy4wlzqz3zo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-23T04:54:25.000Z"
-  },
-  {
-   "title": "Albanian opposition and ruling party lawmakers scuffle in parliament over student protest tensions",
-   "link": "https://www.euronews.com/2026/10/23/albanian-opposition-and-ruling-party-lawmakers-scuffle-in-parliament-over-student-protest-",
-   "source": "Euronews",
-   "date": "2026-10-23T04:29:25.000Z"
-  },
-  {
-   "title": "Japan village looks to young Peruvians to tackle ageing population",
-   "link": "https://www.euronews.com/2026/10/23/japan-village-looks-to-young-peruvians-to-tackle-ageing-population",
-   "source": "Euronews",
-   "date": "2026-10-23T04:15:55.000Z"
-  },
-  {
-   "title": "This I Believe (1952)",
-   "link": "https://www.awakin.org/v2/read/view.php?tid=468",
-   "source": "Hacker News",
-   "date": "2026-10-23T02:19:38.000Z"
+   "date": "2026-10-23T10:14:33.000Z"
   },
   {
    "title": "Brazil’s election and the battle for the Amazon – podcast",
@@ -104,58 +152,10 @@
    "date": "2026-10-23T02:00:56.000Z"
   },
   {
-   "title": "Trump ordered to answer questions under oath in BBC lawsuit",
-   "link": "https://www.bbc.co.uk/news/articles/cmy0ryjx7741o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-23T01:38:44.000Z"
-  },
-  {
-   "title": "The foolishness of \"natural language programming\" (1978)",
-   "link": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
-   "source": "Hacker News",
-   "date": "2026-10-23T00:52:01.000Z"
-  },
-  {
-   "title": "Jank – The native Clojure dialect with seamless C++ interop",
-   "link": "https://jank-lang.org/",
-   "source": "Hacker News",
-   "date": "2026-10-22T23:56:36.000Z"
-  },
-  {
-   "title": "Docker is weird",
-   "link": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
-   "source": "Hacker News",
-   "date": "2026-10-22T23:45:56.000Z"
-  },
-  {
-   "title": "We have traits at home",
-   "link": "https://www.axelmagn.com/blog/202610-zig-traits/",
-   "source": "Hacker News",
-   "date": "2026-10-22T23:24:17.000Z"
-  },
-  {
-   "title": "Hospitals deliberately targeted by Sudan's RSF fighters, BBC finds",
-   "link": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-22T23:16:16.000Z"
-  },
-  {
-   "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
-   "link": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-22T22:27:53.000Z"
-  },
-  {
    "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
    "link": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
    "source": "Guardian World",
    "date": "2026-10-22T21:53:28.000Z"
-  },
-  {
-   "title": "Trump says Musk has restored access to Ukraine's Starlink network",
-   "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-22T21:42:39.000Z"
   },
   {
    "title": "Controversial US-backed vaccine trial in African newborns halted",

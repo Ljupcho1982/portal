@@ -1,83 +1,101 @@
 {
- "updated": "2026-10-24T20:50:19.559Z",
+ "updated": "2026-10-24T23:15:06.156Z",
  "items": [
   {
-   "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
-   "link": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-24T20:03:29.000Z"
+   "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+   "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-24T23:02:06.000Z"
   },
   {
-   "title": "No Signs of AI Payoff Outside the Tech Sector",
+   "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+   "link": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-24T22:35:45.000Z"
+  },
+  {
+   "title": "How have Democrats’ policies shifted since the last major US election?",
+   "link": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-24T22:28:37.000Z"
+  },
+  {
+   "title": "Argus – a free, open-source agentic security operations platform – MIT",
+   "link": "https://thomasunise.com/argus",
+   "source": "Hacker News",
+   "date": "2026-10-24T21:54:16.000Z"
+  },
+  {
+   "title": "We should be more ambitious with the software we build",
+   "link": "https://danluu.com/ambitious/",
+   "source": "Hacker News",
+   "date": "2026-10-24T21:47:31.000Z"
+  },
+  {
+   "title": "Small Programs and Languages",
+   "link": "https://ratfactor.com/cards/pl-small",
+   "source": "Hacker News",
+   "date": "2026-10-24T21:44:23.000Z"
+  },
+  {
+   "title": "The Importance of Limitations for Creativity and Learning",
+   "link": "https://ratfactor.com/cards/limitations",
+   "source": "Hacker News",
+   "date": "2026-10-24T21:42:47.000Z"
+  },
+  {
+   "title": "Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies",
+   "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-24T21:39:29.000Z"
+  },
+  {
+   "title": "Brazil’s candidates hold final rallies before knife-edge run off",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/brazils-candidates-hold-final-rallies-before-knife-edge-run-off?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-24T21:36:23.000Z"
+  },
+  {
+   "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
+   "link": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-24T21:30:11.000Z"
+  },
+  {
+   "title": "More than one million Lula supporters rally on eve of Brazilian election runoff",
+   "link": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+   "source": "Guardian World",
+   "date": "2026-10-24T21:10:23.000Z"
+  },
+  {
+   "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+   "link": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-24T21:09:27.000Z"
+  },
+  {
+   "title": "Houthis launch attacks on Saudi Arabia and Yemen’s Aden",
+   "link": "https://www.aljazeera.com/news/2026/10/24/houthis-launch-attacks-on-saudi-arabia-and-yemens-aden?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-24T21:08:51.000Z"
+  },
+  {
+   "title": "Young protesters clash with police on Rome streets",
+   "link": "https://www.euronews.com/2026/10/24/young-protesters-clash-with-police-on-rome-streets",
+   "source": "Euronews",
+   "date": "2026-10-24T20:51:03.000Z"
+  },
+  {
+   "title": "Show HN: Steal My Bitcoin",
+   "link": "https://stealmybitcoin.com/",
+   "source": "Hacker News",
+   "date": "2026-10-24T20:30:31.000Z"
+  },
+  {
+   "title": "No signs of AI payoff outside the tech sector",
    "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
    "source": "Hacker News",
    "date": "2026-10-24T19:47:19.000Z"
-  },
-  {
-   "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-   "link": "https://missileer.watch",
-   "source": "Hacker News",
-   "date": "2026-10-24T19:43:27.000Z"
-  },
-  {
-   "title": "The Goose Programming Language",
-   "link": "https://aardappel.github.io/goose/",
-   "source": "Hacker News",
-   "date": "2026-10-24T19:27:41.000Z"
-  },
-  {
-   "title": "Vanessa Trump says she is cancer-free six months after revealing diagnosis",
-   "link": "https://www.bbc.co.uk/news/articles/cm1dwzvn6227o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-24T19:12:51.000Z"
-  },
-  {
-   "title": "Thousands of Israelis rally against Netanyahu gov’t days before election",
-   "link": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-24T19:11:48.000Z"
-  },
-  {
-   "title": "John Carmack on the Goose Language: multiple data stacks and relative references",
-   "link": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
-   "source": "Hacker News",
-   "date": "2026-10-24T19:06:55.000Z"
-  },
-  {
-   "title": "PHP Foundation 'under-funded' with one full-time staff member, director says",
-   "link": "https://www.reuters.com/technology/php-foundation-under-funded-with-one-full-time-staff-member-director-says-2026-10-23/",
-   "source": "Hacker News",
-   "date": "2026-10-24T19:03:59.000Z"
-  },
-  {
-   "title": "Thousands join Paris protests as authorities clamp down on disorder",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-24T19:01:52.000Z"
-  },
-  {
-   "title": "Danish Government silently drops plan to dump MS Office",
-   "link": "https://www.computerworld.dk/art/297226/digitaliseringsministeriet-har-i-al-stilhed-droppet-stort-anlagt-forsoeg-med-open-source-alternativ-til-microsoft",
-   "source": "Hacker News",
-   "date": "2026-10-24T18:31:48.000Z"
-  },
-  {
-   "title": "Thousands gather at new Albanian antigovernment rally",
-   "link": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-24T18:30:56.000Z"
-  },
-  {
-   "title": "Tens of thousands of Lula supporters rally on eve of Brazilian election runoff",
-   "link": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
-   "source": "Guardian World",
-   "date": "2026-10-24T18:11:44.000Z"
-  },
-  {
-   "title": "Kim Jong Un crosses new bridge linking North Korea and China",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-24T18:00:20.000Z"
   },
   {
    "title": "Rallies, opinion polls and a final debate - Brazil gets ready for Sunday's knife-edge presidential election",
@@ -86,22 +104,10 @@
    "date": "2026-10-24T17:54:38.000Z"
   },
   {
-   "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
-   "link": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-24T17:21:42.000Z"
-  },
-  {
    "title": "British woman dies after trying to rescue sons swept away at sea in the Bahamas",
    "link": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-24T17:11:56.000Z"
-  },
-  {
-   "title": "Trump says he may move White House press corps to new location",
-   "link": "https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-24T17:01:34.000Z"
   },
   {
    "title": "Latest news bulletin | October 24th, 2026 – Evening",
@@ -138,12 +144,6 @@
    "link": "https://www.euronews.com/2026/10/24/soldiers-patrol-milan-streets-as-shops-board-up-ahead-of-protests",
    "source": "Euronews",
    "date": "2026-10-24T12:06:25.000Z"
-  },
-  {
-   "title": "Footage shows smoke plumes after deadly strike on Russian factory",
-   "link": "https://www.euronews.com/2026/10/24/footage-shows-smoke-plumes-after-deadly-strike-on-russian-factory",
-   "source": "Euronews",
-   "date": "2026-10-24T11:33:01.000Z"
   },
   {
    "title": "Father who killed Oregon school gunman describes anguish over children he couldn't save",

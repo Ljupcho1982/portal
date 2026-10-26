@@ -1,35 +1,155 @@
 {
- "updated": "2026-10-26T06:14:53.897Z",
+ "updated": "2026-10-26T13:11:05.506Z",
  "items": [
   {
-   "title": "Latest news bulletin | October 26th, 2026 – Morning",
-   "link": "https://www.euronews.com/video/2026/10/26/latest-news-bulletin-october-26th-2026-morning",
+   "title": "Algeria approves troop deployment to Niger: what is their mission?",
+   "link": "https://www.euronews.com/2026/10/26/algeria-approves-troop-deployment-to-niger-what-is-their-mission",
    "source": "Euronews",
-   "date": "2026-10-26T06:00:32.000Z"
+   "date": "2026-10-26T13:09:23.000Z"
   },
   {
-   "title": "The French government is hiding behind a ‘riots’ narrative",
-   "link": "https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-26T05:56:04.000Z"
+   "title": "Anthropic S-1",
+   "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+   "source": "Hacker News",
+   "date": "2026-10-26T13:04:50.000Z"
   },
   {
-   "title": "Brazil runoff live updates: Bolsonaro says it is ‘impossible to concede’ election result after historic Lula win",
+   "title": "Nurse killed in Ebola attack in DR Congo",
+   "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-26T12:57:58.000Z"
+  },
+  {
+   "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+   "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-26T12:52:16.000Z"
+  },
+  {
+   "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
    "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
    "source": "Guardian World",
-   "date": "2026-10-26T05:53:54.000Z"
+   "date": "2026-10-26T12:50:24.000Z"
   },
   {
-   "title": "China’s political elite gather for talks on Communist Party discipline",
-   "link": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-26T05:38:41.000Z"
+   "title": "Peter Thiel, the tech oligarch who believes in the Antichrist",
+   "link": "https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html",
+   "source": "Hacker News",
+   "date": "2026-10-26T12:49:31.000Z"
   },
   {
-   "title": "Aleksandar Vucic, the Serbian leader brought down by students",
-   "link": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
+   "title": "Writing Is Closer to Thought Than Code",
+   "link": "https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code",
+   "source": "Hacker News",
+   "date": "2026-10-26T12:32:15.000Z"
+  },
+  {
+   "title": "Key takeaways from Real Madrid’s El Clasico win over Barcelona",
+   "link": "https://www.aljazeera.com/sports/2026/10/26/real-madrid-barcelona-el-clasico-mourinho-mbappe-takeaways?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-10-26T05:24:59.000Z"
+   "date": "2026-10-26T12:23:44.000Z"
+  },
+  {
+   "title": "Manchester United crisis: What are the top five problems facing the club?",
+   "link": "https://www.aljazeera.com/sports/2026/10/26/manchester-united-crisis-what-are-the-top-five-problems-facing-the-club?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-26T12:18:12.000Z"
+  },
+  {
+   "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
+   "link": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-26T12:17:02.000Z"
+  },
+  {
+   "title": "Shadab Khan’s record-breaking innings gives Pakistan ODI win over England",
+   "link": "https://www.aljazeera.com/sports/2026/10/26/shadab-khans-record-breaking-innings-gives-pakistan-odi-win-over-england?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-26T12:11:59.000Z"
+  },
+  {
+   "title": "Serbia after Vucic: Who will be PM and when will a government be formed?",
+   "link": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-26T11:28:25.000Z"
+  },
+  {
+   "title": "Tasks as Code: Move Your Tickets into the Repository",
+   "link": "https://typemill.net/knowledge-hub/tasks-as-code",
+   "source": "Hacker News",
+   "date": "2026-10-26T11:15:43.000Z"
+  },
+  {
+   "title": "Trump officials back Orbán bid for UN secretary-general, WSJ reports",
+   "link": "https://www.euronews.com/2026/10/26/trump-officials-back-orban-bid-for-un-secretary-general-wsj-reports",
+   "source": "Euronews",
+   "date": "2026-10-26T11:11:58.000Z"
+  },
+  {
+   "title": "Jordan arrests three suspects over church attack in dawn raid: What to know",
+   "link": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-26T11:08:48.000Z"
+  },
+  {
+   "title": "Why Israel’s wartime election isn’t just about the battle with Iran and Hamas",
+   "link": "https://www.euronews.com/2026/10/26/why-israels-wartime-election-isnt-just-about-the-battle-with-iran-and-hamas",
+   "source": "Euronews",
+   "date": "2026-10-26T11:01:54.000Z"
+  },
+  {
+   "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
+   "link": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
+   "source": "Guardian World",
+   "date": "2026-10-26T11:00:40.000Z"
+  },
+  {
+   "title": "Latest news bulletin | October 26th, 2026 – Midday",
+   "link": "https://www.euronews.com/video/2026/10/26/latest-news-bulletin-october-26th-2026-midday",
+   "source": "Euronews",
+   "date": "2026-10-26T11:00:15.000Z"
+  },
+  {
+   "title": "Websites Should Be Printable",
+   "link": "https://brennenputh.me/blog/printable-websites/",
+   "source": "Hacker News",
+   "date": "2026-10-26T10:32:14.000Z"
+  },
+  {
+   "title": "Mexico: spectacular Catrina parade brings the dead to life",
+   "link": "https://www.euronews.com/video/2026/10/26/mexico-spectacular-catrina-parade-brings-the-dead-to-life",
+   "source": "Euronews",
+   "date": "2026-10-26T10:03:31.000Z"
+  },
+  {
+   "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
+   "link": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
+   "source": "Guardian World",
+   "date": "2026-10-26T09:59:27.000Z"
+  },
+  {
+   "title": "From metalworker to Brazil's president: Lula da Silva's rise",
+   "link": "https://www.euronews.com/2026/10/26/from-metalworker-to-brazils-president-lula-da-silvas-rise",
+   "source": "Euronews",
+   "date": "2026-10-26T09:18:13.000Z"
+  },
+  {
+   "title": "Switzerland. Block by block. At 1:1 scale",
+   "link": "https://blocks.manifold3d.ch/",
+   "source": "Hacker News",
+   "date": "2026-10-26T08:46:09.000Z"
+  },
+  {
+   "title": "UK poised to miss reduced aid spending target of 0.3% of national income",
+   "link": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
+   "source": "Guardian World",
+   "date": "2026-10-26T06:59:36.000Z"
+  },
+  {
+   "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
+   "link": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-26T06:16:15.000Z"
   },
   {
    "title": "Venezuelan opposition leader María Machado returns after months in exile",
@@ -38,88 +158,16 @@
    "date": "2026-10-26T05:20:19.000Z"
   },
   {
-   "title": "The Gambia’s first blind magistrate tests a system built for the sighted",
-   "link": "https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-26T05:18:00.000Z"
-  },
-  {
-   "title": "Israel’s election: Five key things to know",
-   "link": "https://www.aljazeera.com/news/2026/10/26/israels-election-five-key-things-to-know?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-26T05:16:38.000Z"
-  },
-  {
-   "title": "Social video captures moment Brazil’s election turned",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/social-video-captures-moment-brazils-election-turned?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-26T05:01:59.000Z"
-  },
-  {
-   "title": "Labour urged to plug predicted £400m shortfall in overseas aid funding in 2027",
-   "link": "https://www.theguardian.com/politics/2026/oct/26/uk-international-aid-target-spending-shortfall-budget-research",
-   "source": "Guardian World",
-   "date": "2026-10-26T05:00:22.000Z"
-  },
-  {
-   "title": "Brazil's Lula clinches election victory as Bolsonaro rejects results",
-   "link": "https://www.euronews.com/2026/10/26/brazils-lula-clinches-election-victory-as-bolsonaro-rejects-results",
-   "source": "Euronews",
-   "date": "2026-10-26T04:10:03.000Z"
-  },
-  {
    "title": "Australian murderer loses bid to eat Vegemite in prison",
    "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-26T04:05:28.000Z"
   },
   {
-   "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-   "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+   "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+   "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-26T01:07:05.000Z"
-  },
-  {
-   "title": "Serbia: crowds celebrate in Belgrade after Vučić admits defeat",
-   "link": "https://www.euronews.com/video/2026/10/25/serbia-crowds-celebrate-in-belgrade-after-vucic-admits-defeat",
-   "source": "Euronews",
-   "date": "2026-10-25T22:12:39.000Z"
-  },
-  {
-   "title": "Deeply divided Israel braces for pivotal election",
-   "link": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-25T22:11:13.000Z"
-  },
-  {
-   "title": "Brazil: long queues and river journeys mark decisive presidential vote",
-   "link": "https://www.euronews.com/video/2026/10/25/brazil-long-queues-and-river-journeys-mark-decisive-presidential-vote",
-   "source": "Euronews",
-   "date": "2026-10-25T17:49:05.000Z"
-  },
-  {
-   "title": "Latest news bulletin | October 25th, 2026 – Evening",
-   "link": "https://www.euronews.com/video/2026/10/25/latest-news-bulletin-october-25th-2026-evening",
-   "source": "Euronews",
-   "date": "2026-10-25T17:00:26.000Z"
-  },
-  {
-   "title": "María Corina Machado back in Venezuela after 10 months in exile",
-   "link": "https://www.euronews.com/2026/10/25/maria-corina-machado-back-in-venezuela-after-nearly-10-months-in-exile",
-   "source": "Euronews",
-   "date": "2026-10-25T16:54:12.000Z"
-  },
-  {
-   "title": "Suspect in deadly Paris suburb shooting sent for psychiatric observation",
-   "link": "https://www.bbc.co.uk/news/articles/c6e3xek2457wo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-25T15:32:51.000Z"
-  },
-  {
-   "title": "Russia to host first Olympic federation world event since Ukraine invasion",
-   "link": "https://www.bbc.co.uk/sport/olympics/articles/cmq5ny00gzy0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-25T14:34:33.000Z"
+   "date": "2026-10-25T23:33:19.000Z"
   },
   {
    "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
@@ -132,18 +180,6 @@
    "link": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
    "source": "Guardian World",
    "date": "2026-10-22T21:53:28.000Z"
-  },
-  {
-   "title": "Controversial US-backed vaccine trial in African newborns halted",
-   "link": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
-   "source": "Guardian World",
-   "date": "2026-10-21T17:18:56.000Z"
-  },
-  {
-   "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
-   "link": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
-   "source": "Guardian World",
-   "date": "2026-10-21T13:40:08.000Z"
   }
  ]
 }

@@ -1,35 +1,107 @@
 {
- "updated": "2026-10-26T19:19:58.640Z",
+ "updated": "2026-10-26T23:53:46.967Z",
  "items": [
   {
-   "title": "The EPA Is Quietly Killing Its Web Archive",
-   "link": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
-   "source": "Hacker News",
-   "date": "2026-10-26T19:05:41.000Z"
-  },
-  {
-   "title": "US designates helium as a critical material",
-   "link": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
-   "source": "Hacker News",
-   "date": "2026-10-26T18:31:39.000Z"
-  },
-  {
-   "title": "Trump faces private citizens lawsuit over limiting White House media access",
-   "link": "https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss",
+   "title": "England’s Harry Kane wins Ballon d’Or, Alexia Putellas takes women’s award",
+   "link": "https://www.aljazeera.com/sports/2026/10/26/englands-harry-kane-wins-ballon-dor-alexia-putellas-takes-womens-award?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-10-26T18:29:26.000Z"
+   "date": "2026-10-26T23:25:29.000Z"
   },
   {
-   "title": "Brazil’s real sinks after Lula’s re-election victory",
-   "link": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
+   "title": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-10-26T18:27:23.000Z"
+   "date": "2026-10-26T23:18:31.000Z"
+  },
+  {
+   "title": "Just Imagining a Workout Can Make You Stronger",
+   "link": "https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068",
+   "source": "Hacker News",
+   "date": "2026-10-26T23:08:27.000Z"
+  },
+  {
+   "title": "Brazil: defeated Flávio Bolsonaro ordered to surrender passports",
+   "link": "https://www.theguardian.com/world/2026/oct/26/flavio-bolsonaro-brazil-lula-election",
+   "source": "Guardian World",
+   "date": "2026-10-26T23:02:17.000Z"
+  },
+  {
+   "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+   "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+   "source": "Hacker News",
+   "date": "2026-10-26T22:41:48.000Z"
+  },
+  {
+   "title": "France: crowds fill Marseille's Old Port in anti-racism protest",
+   "link": "https://www.euronews.com/video/2026/10/26/france-crowds-fill-marseilles-old-port-in-anti-racism-protest",
+   "source": "Euronews",
+   "date": "2026-10-26T22:20:11.000Z"
+  },
+  {
+   "title": "Former FBI director James Comey hit with third set of charges under Trump",
+   "link": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-26T22:03:26.000Z"
+  },
+  {
+   "title": "The Exponential Time Hypothesis Is False [pdf]",
+   "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+   "source": "Hacker News",
+   "date": "2026-10-26T21:59:15.000Z"
+  },
+  {
+   "title": "Africa food security under threat due to Iran war, trade officials warn",
+   "link": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-26T21:42:18.000Z"
+  },
+  {
+   "title": "Trump says Brazil election looked 'rigged' without giving evidence",
+   "link": "https://www.euronews.com/2026/10/26/trump-says-brazil-election-looked-rigged-without-giving-evidence",
+   "source": "Euronews",
+   "date": "2026-10-26T21:37:22.000Z"
+  },
+  {
+   "title": "Working with academic communities to build scientific understanding",
+   "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+   "source": "Hacker News",
+   "date": "2026-10-26T21:35:28.000Z"
+  },
+  {
+   "title": "CorridorKey 2.0",
+   "link": "https://corridorkey.com/",
+   "source": "Hacker News",
+   "date": "2026-10-26T21:18:05.000Z"
   },
   {
    "title": "Lula wins fourth term in dramatic Brazil election comeback",
    "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-26T18:26:19.000Z"
+   "date": "2026-10-26T21:02:47.000Z"
+  },
+  {
+   "title": "What will Lula’s fourth term mean for Brazil?",
+   "link": "https://www.aljazeera.com/video/inside-story/2026/10/26/what-will-lulas-fourth-term-mean-for-brazil?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-26T20:55:47.000Z"
+  },
+  {
+   "title": "US court rules daughter of Trump critic James Comey was illegally fired",
+   "link": "https://www.aljazeera.com/news/2026/10/26/us-court-rules-daughter-of-trump-critic-james-comey-was-illegally-fired?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-26T20:55:37.000Z"
+  },
+  {
+   "title": "Magic state cultivation on a superconducting quantum processor",
+   "link": "https://arxiv.org/abs/2512.13908",
+   "source": "Hacker News",
+   "date": "2026-10-26T19:37:59.000Z"
+  },
+  {
+   "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+   "link": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-26T19:27:21.000Z"
   },
   {
    "title": "María Corina Machado seeks talks with Delcy Rodríguez after return from exile",
@@ -38,64 +110,10 @@
    "date": "2026-10-26T18:25:15.000Z"
   },
   {
-   "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
-   "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-   "source": "Hacker News",
-   "date": "2026-10-26T18:14:49.000Z"
-  },
-  {
-   "title": "Could the midterms change US military support for Israel?",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-26T18:05:12.000Z"
-  },
-  {
-   "title": "GPT-6.1 Terra",
-   "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
-   "source": "Hacker News",
-   "date": "2026-10-26T18:01:17.000Z"
-  },
-  {
-   "title": "US midterm elections 2026 in maps and charts",
-   "link": "https://www.aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-26T18:00:07.000Z"
-  },
-  {
    "title": "Pope Leo XIV confirms Latin America trip after recovering from surgery",
    "link": "https://www.euronews.com/2026/10/26/pope-leo-xiv-confirms-latin-america-trip-after-recovering-from-surgery",
    "source": "Euronews",
    "date": "2026-10-26T17:59:09.000Z"
-  },
-  {
-   "title": "Zelenskyy says peace talks with Russia, US to restart",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/zelenskyy-says-peace-talks-with-russia-us-to-restart?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-26T17:58:14.000Z"
-  },
-  {
-   "title": "Oldest GUI application that still runs on Windows 11",
-   "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-   "source": "Hacker News",
-   "date": "2026-10-26T17:56:55.000Z"
-  },
-  {
-   "title": "How the streets and social media drove Lula to a historic comeback in Brazil",
-   "link": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
-   "source": "Guardian World",
-   "date": "2026-10-26T17:56:50.000Z"
-  },
-  {
-   "title": "How Venezuela’s earthquake amputees adapt to life without limbs",
-   "link": "https://www.aljazeera.com/news/longform/2026/10/26/how-venezuelas-earthquake-amputees-adapt-to-life-without-limbs?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-26T17:55:59.000Z"
-  },
-  {
-   "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
-   "link": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
-   "source": "Hacker News",
-   "date": "2026-10-26T17:54:00.000Z"
   },
   {
    "title": "Russia: flames engulf buildings after Ukrainian drone attack in Voronezh region",
@@ -108,18 +126,6 @@
    "link": "https://www.euronews.com/2026/10/26/zelenskyy-calls-out-monthlong-wait-for-hegseth-to-sign-off-on-patriot-missiles",
    "source": "Euronews",
    "date": "2026-10-26T17:07:20.000Z"
-  },
-  {
-   "title": "Latest news bulletin | October 26th, 2026 – Evening",
-   "link": "https://www.euronews.com/video/2026/10/26/latest-news-bulletin-october-26th-2026-evening",
-   "source": "Euronews",
-   "date": "2026-10-26T17:00:26.000Z"
-  },
-  {
-   "title": "UK: Oxford Street pedestrianisation begins in central London",
-   "link": "https://www.euronews.com/video/2026/10/26/uk-oxford-street-pedestrianisation-begins-in-central-london",
-   "source": "Euronews",
-   "date": "2026-10-26T16:29:06.000Z"
   },
   {
    "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
@@ -144,12 +150,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-26T14:34:52.000Z"
-  },
-  {
-   "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
-   "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-26T14:16:09.000Z"
   },
   {
    "title": "US Marine indicted for murder and robbery of woman in Japan",

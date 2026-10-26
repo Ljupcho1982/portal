@@ -1,101 +1,161 @@
 {
- "updated": "2026-10-26T13:11:05.506Z",
+ "updated": "2026-10-26T19:19:58.640Z",
  "items": [
   {
-   "title": "Algeria approves troop deployment to Niger: what is their mission?",
-   "link": "https://www.euronews.com/2026/10/26/algeria-approves-troop-deployment-to-niger-what-is-their-mission",
-   "source": "Euronews",
-   "date": "2026-10-26T13:09:23.000Z"
-  },
-  {
-   "title": "Anthropic S-1",
-   "link": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm",
+   "title": "The EPA Is Quietly Killing Its Web Archive",
+   "link": "https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/",
    "source": "Hacker News",
-   "date": "2026-10-26T13:04:50.000Z"
+   "date": "2026-10-26T19:05:41.000Z"
   },
   {
-   "title": "Nurse killed in Ebola attack in DR Congo",
-   "link": "https://www.bbc.co.uk/news/articles/crx2dyd24188o?at_medium=RSS&at_campaign=rss",
+   "title": "US designates helium as a critical material",
+   "link": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
+   "source": "Hacker News",
+   "date": "2026-10-26T18:31:39.000Z"
+  },
+  {
+   "title": "Trump faces private citizens lawsuit over limiting White House media access",
+   "link": "https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-26T18:29:26.000Z"
+  },
+  {
+   "title": "Brazil’s real sinks after Lula’s re-election victory",
+   "link": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-26T18:27:23.000Z"
+  },
+  {
+   "title": "Lula wins fourth term in dramatic Brazil election comeback",
+   "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-26T12:57:58.000Z"
+   "date": "2026-10-26T18:26:19.000Z"
+  },
+  {
+   "title": "María Corina Machado seeks talks with Delcy Rodríguez after return from exile",
+   "link": "https://www.euronews.com/2026/10/26/maria-corina-machado-seeks-talks-with-delcy-rodriguez-after-return-from-exile",
+   "source": "Euronews",
+   "date": "2026-10-26T18:25:15.000Z"
+  },
+  {
+   "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
+   "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+   "source": "Hacker News",
+   "date": "2026-10-26T18:14:49.000Z"
+  },
+  {
+   "title": "Could the midterms change US military support for Israel?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-26T18:05:12.000Z"
+  },
+  {
+   "title": "GPT-6.1 Terra",
+   "link": "https://openai.com/index/introducing-gpt-6-1-terra/",
+   "source": "Hacker News",
+   "date": "2026-10-26T18:01:17.000Z"
+  },
+  {
+   "title": "US midterm elections 2026 in maps and charts",
+   "link": "https://www.aljazeera.com/news/2026/10/26/us-midterm-elections-2026-in-maps-and-charts?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-26T18:00:07.000Z"
+  },
+  {
+   "title": "Pope Leo XIV confirms Latin America trip after recovering from surgery",
+   "link": "https://www.euronews.com/2026/10/26/pope-leo-xiv-confirms-latin-america-trip-after-recovering-from-surgery",
+   "source": "Euronews",
+   "date": "2026-10-26T17:59:09.000Z"
+  },
+  {
+   "title": "Zelenskyy says peace talks with Russia, US to restart",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/26/zelenskyy-says-peace-talks-with-russia-us-to-restart?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-26T17:58:14.000Z"
+  },
+  {
+   "title": "Oldest GUI application that still runs on Windows 11",
+   "link": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+   "source": "Hacker News",
+   "date": "2026-10-26T17:56:55.000Z"
+  },
+  {
+   "title": "How the streets and social media drove Lula to a historic comeback in Brazil",
+   "link": "https://www.theguardian.com/world/2026/oct/26/lula-victory-brazil-bolsonaro-analysis",
+   "source": "Guardian World",
+   "date": "2026-10-26T17:56:50.000Z"
+  },
+  {
+   "title": "How Venezuela’s earthquake amputees adapt to life without limbs",
+   "link": "https://www.aljazeera.com/news/longform/2026/10/26/how-venezuelas-earthquake-amputees-adapt-to-life-without-limbs?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-26T17:55:59.000Z"
+  },
+  {
+   "title": "In Leaked Audio, Flock CEO Tells Cops Backlash to the Company Isn't Real",
+   "link": "https://www.404media.co/in-leaked-audio-flock-ceo-tells-cops-backlash-to-the-company-isnt-real/",
+   "source": "Hacker News",
+   "date": "2026-10-26T17:54:00.000Z"
+  },
+  {
+   "title": "Russia: flames engulf buildings after Ukrainian drone attack in Voronezh region",
+   "link": "https://www.euronews.com/video/2026/10/26/russia-flames-engulf-buildings-after-ukrainian-drone-attack-in-voronezh-region",
+   "source": "Euronews",
+   "date": "2026-10-26T17:19:45.000Z"
+  },
+  {
+   "title": "Zelenskyy calls out monthlong wait for Hegseth to sign off on Patriot missiles",
+   "link": "https://www.euronews.com/2026/10/26/zelenskyy-calls-out-monthlong-wait-for-hegseth-to-sign-off-on-patriot-missiles",
+   "source": "Euronews",
+   "date": "2026-10-26T17:07:20.000Z"
+  },
+  {
+   "title": "Latest news bulletin | October 26th, 2026 – Evening",
+   "link": "https://www.euronews.com/video/2026/10/26/latest-news-bulletin-october-26th-2026-evening",
+   "source": "Euronews",
+   "date": "2026-10-26T17:00:26.000Z"
+  },
+  {
+   "title": "UK: Oxford Street pedestrianisation begins in central London",
+   "link": "https://www.euronews.com/video/2026/10/26/uk-oxford-street-pedestrianisation-begins-in-central-london",
+   "source": "Euronews",
+   "date": "2026-10-26T16:29:06.000Z"
+  },
+  {
+   "title": "Anthropic warns of 'catastrophic risk' to humankind ahead of blockbuster share listing",
+   "link": "https://www.bbc.co.uk/news/articles/cq398p1wd1evo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-26T16:27:17.000Z"
+  },
+  {
+   "title": "Catholic bishops apologise for 'exploited' Trump meeting",
+   "link": "https://www.bbc.co.uk/news/articles/cw8rz1d286v3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-26T15:46:31.000Z"
+  },
+  {
+   "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
+   "link": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
+   "source": "Guardian World",
+   "date": "2026-10-26T15:07:23.000Z"
   },
   {
    "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
    "link": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-26T12:52:16.000Z"
+   "date": "2026-10-26T14:34:52.000Z"
   },
   {
-   "title": "Brazil runoff live updates: world leaders congratulate Lula on historic election win as Bolsonaro refuses to concede",
-   "link": "https://www.theguardian.com/world/live/2026/oct/25/brazil-election-runoff-live-updates-flavio-bolsonaro-lula",
-   "source": "Guardian World",
-   "date": "2026-10-26T12:50:24.000Z"
+   "title": "Chris Brown given suspended eight-month prison sentence over nightclub attack",
+   "link": "https://www.bbc.co.uk/news/articles/cq3dje4g4d5jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-26T14:16:09.000Z"
   },
   {
-   "title": "Peter Thiel, the tech oligarch who believes in the Antichrist",
-   "link": "https://english.elpais.com/technology/2026-10-25/peter-thiel-the-tech-oligarch-who-believes-in-the-antichrist.html",
-   "source": "Hacker News",
-   "date": "2026-10-26T12:49:31.000Z"
-  },
-  {
-   "title": "Writing Is Closer to Thought Than Code",
-   "link": "https://danielmiessler.com/blog/writing-is-closer-to-thought-than-code",
-   "source": "Hacker News",
-   "date": "2026-10-26T12:32:15.000Z"
-  },
-  {
-   "title": "Key takeaways from Real Madrid’s El Clasico win over Barcelona",
-   "link": "https://www.aljazeera.com/sports/2026/10/26/real-madrid-barcelona-el-clasico-mourinho-mbappe-takeaways?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-26T12:23:44.000Z"
-  },
-  {
-   "title": "Manchester United crisis: What are the top five problems facing the club?",
-   "link": "https://www.aljazeera.com/sports/2026/10/26/manchester-united-crisis-what-are-the-top-five-problems-facing-the-club?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-26T12:18:12.000Z"
-  },
-  {
-   "title": "Israeli forces kill at least five people in Gaza, including 7-year-old girl",
-   "link": "https://www.aljazeera.com/news/2026/10/26/israeli-forces-kill-at-least-five-people-in-gaza-including-7-year-old-girl?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-26T12:17:02.000Z"
-  },
-  {
-   "title": "Shadab Khan’s record-breaking innings gives Pakistan ODI win over England",
-   "link": "https://www.aljazeera.com/sports/2026/10/26/shadab-khans-record-breaking-innings-gives-pakistan-odi-win-over-england?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-26T12:11:59.000Z"
-  },
-  {
-   "title": "Serbia after Vucic: Who will be PM and when will a government be formed?",
-   "link": "https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-26T11:28:25.000Z"
-  },
-  {
-   "title": "Tasks as Code: Move Your Tickets into the Repository",
-   "link": "https://typemill.net/knowledge-hub/tasks-as-code",
-   "source": "Hacker News",
-   "date": "2026-10-26T11:15:43.000Z"
-  },
-  {
-   "title": "Trump officials back Orbán bid for UN secretary-general, WSJ reports",
-   "link": "https://www.euronews.com/2026/10/26/trump-officials-back-orban-bid-for-un-secretary-general-wsj-reports",
-   "source": "Euronews",
-   "date": "2026-10-26T11:11:58.000Z"
-  },
-  {
-   "title": "Jordan arrests three suspects over church attack in dawn raid: What to know",
-   "link": "https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-26T11:08:48.000Z"
-  },
-  {
-   "title": "Why Israel’s wartime election isn’t just about the battle with Iran and Hamas",
-   "link": "https://www.euronews.com/2026/10/26/why-israels-wartime-election-isnt-just-about-the-battle-with-iran-and-hamas",
-   "source": "Euronews",
-   "date": "2026-10-26T11:01:54.000Z"
+   "title": "US Marine indicted for murder and robbery of woman in Japan",
+   "link": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-26T14:13:18.000Z"
   },
   {
    "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
@@ -104,40 +164,10 @@
    "date": "2026-10-26T11:00:40.000Z"
   },
   {
-   "title": "Latest news bulletin | October 26th, 2026 – Midday",
-   "link": "https://www.euronews.com/video/2026/10/26/latest-news-bulletin-october-26th-2026-midday",
-   "source": "Euronews",
-   "date": "2026-10-26T11:00:15.000Z"
-  },
-  {
-   "title": "Websites Should Be Printable",
-   "link": "https://brennenputh.me/blog/printable-websites/",
-   "source": "Hacker News",
-   "date": "2026-10-26T10:32:14.000Z"
-  },
-  {
-   "title": "Mexico: spectacular Catrina parade brings the dead to life",
-   "link": "https://www.euronews.com/video/2026/10/26/mexico-spectacular-catrina-parade-brings-the-dead-to-life",
-   "source": "Euronews",
-   "date": "2026-10-26T10:03:31.000Z"
-  },
-  {
    "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
    "link": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
    "source": "Guardian World",
    "date": "2026-10-26T09:59:27.000Z"
-  },
-  {
-   "title": "From metalworker to Brazil's president: Lula da Silva's rise",
-   "link": "https://www.euronews.com/2026/10/26/from-metalworker-to-brazils-president-lula-da-silvas-rise",
-   "source": "Euronews",
-   "date": "2026-10-26T09:18:13.000Z"
-  },
-  {
-   "title": "Switzerland. Block by block. At 1:1 scale",
-   "link": "https://blocks.manifold3d.ch/",
-   "source": "Hacker News",
-   "date": "2026-10-26T08:46:09.000Z"
   },
   {
    "title": "UK poised to miss reduced aid spending target of 0.3% of national income",
@@ -146,40 +176,10 @@
    "date": "2026-10-26T06:59:36.000Z"
   },
   {
-   "title": "Eric Bauza, voice of Bugs Bunny and Daffy Duck, dies aged 46",
-   "link": "https://www.bbc.co.uk/news/articles/cwzd6q630vjeo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-26T06:16:15.000Z"
-  },
-  {
-   "title": "Venezuelan opposition leader María Machado returns after months in exile",
-   "link": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-26T05:20:19.000Z"
-  },
-  {
-   "title": "Australian murderer loses bid to eat Vegemite in prison",
-   "link": "https://www.bbc.co.uk/news/articles/cvwy7wz9x12go?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-26T04:05:28.000Z"
-  },
-  {
-   "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
-   "link": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-25T23:33:19.000Z"
-  },
-  {
    "title": "Mystery over source of Ebola infection in Nigeria fuels concern about spread of virus",
    "link": "https://www.theguardian.com/world/2026/oct/23/ebola-swiss-patient-nigeria-dr-congo-concerns-virus-spread",
    "source": "Guardian World",
    "date": "2026-10-23T13:57:11.000Z"
-  },
-  {
-   "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
-   "link": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
-   "source": "Guardian World",
-   "date": "2026-10-22T21:53:28.000Z"
   }
  ]
 }

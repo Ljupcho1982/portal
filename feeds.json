@@ -1,59 +1,119 @@
 {
- "updated": "2026-10-27T05:05:56.047Z",
+ "updated": "2026-10-27T10:34:50.496Z",
  "items": [
+  {
+   "title": "North Korean howitzer guns spotted close to border with South Korea",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/north-korean-howitzer-guns-spotted-close-to-border-with-south-korea?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-27T10:22:20.000Z"
+  },
+  {
+   "title": "Israel heads to polls for pivotal election defined by security and democracy",
+   "link": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T10:14:00.000Z"
+  },
+  {
+   "title": "‘It’s magical’: London’s iconic Oxford Street goes vehicle-free",
+   "link": "https://www.aljazeera.com/features/2026/10/27/its-magical-londons-iconic-oxford-street-goes-vehicle-free?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-27T10:03:32.000Z"
+  },
+  {
+   "title": "I will no longer upload to NEW",
+   "link": "https://lists.debian.org/debian-devel/2026/10/msg00263.html",
+   "source": "Hacker News",
+   "date": "2026-10-27T09:59:05.000Z"
+  },
+  {
+   "title": "WNBA Finals: Valkyries beat Dream to reach the brink of their first title",
+   "link": "https://www.aljazeera.com/sports/2026/10/27/wnba-finals-valkyries-beat-dream-to-reach-the-brink-of-their-first-title?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-27T09:52:36.000Z"
+  },
+  {
+   "title": "Heavy rains trigger massive flooding in Ecuador’s largest city",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/heavy-rains-trigger-massive-flooding-in-ecuadors-largest-city?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-27T09:38:59.000Z"
+  },
+  {
+   "title": "Ukraine: firefighters battle flames and rescue dog from Kyiv ruins",
+   "link": "https://www.euronews.com/video/2026/10/27/ukraine-firefighters-battle-flames-and-rescue-dog-from-kyiv-ruins",
+   "source": "Euronews",
+   "date": "2026-10-27T09:35:08.000Z"
+  },
+  {
+   "title": "Kylian Mbappe loses Chinese sponsors for calling Mao ‘Chinese dictator’",
+   "link": "https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-loses-chinese-sponsors-for-calling-mao-chinese-dictator?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-27T09:24:49.000Z"
+  },
+  {
+   "title": "Israel election results 2026: When will we know who won and what’s next?",
+   "link": "https://www.aljazeera.com/news/2026/10/27/israel-election-results-2026-when-will-we-know-who-won-and-whats-next?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-27T09:22:45.000Z"
+  },
+  {
+   "title": "Truce begins in Ukraine city where residents ate weeds to survive",
+   "link": "https://www.bbc.co.uk/news/articles/ck20wjnv3w0jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T09:18:44.000Z"
+  },
+  {
+   "title": "Israelis head to polls in first general election since 7 October attacks with no clear favourite",
+   "link": "https://www.euronews.com/2026/10/27/israelis-head-to-polls-in-first-general-election-since-7-october-attacks-with-no-clear-fav",
+   "source": "Euronews",
+   "date": "2026-10-27T09:12:16.000Z"
+  },
+  {
+   "title": "Trump calls Norway a ‘shithouse country’ over Nobel Peace Prize snub",
+   "link": "https://www.euronews.com/2026/10/27/trump-calls-norway-a-shithouse-country-over-nobel-peace-prize-snub",
+   "source": "Euronews",
+   "date": "2026-10-27T09:07:27.000Z"
+  },
+  {
+   "title": "AI is ruining haunted houses",
+   "link": "https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/",
+   "source": "Hacker News",
+   "date": "2026-10-27T08:50:33.000Z"
+  },
+  {
+   "title": "Merz courts Asian investors as he insists Europe remains a safe bet",
+   "link": "https://www.euronews.com/2026/10/27/merz-courts-asian-investors-as-he-insists-europe-remains-a-safe-bet",
+   "source": "Euronews",
+   "date": "2026-10-27T08:17:44.000Z"
+  },
+  {
+   "title": "Israel: October 7 families remember victims as voters head to polls",
+   "link": "https://www.euronews.com/video/2026/10/27/israel-october-7-families-remember-victims-as-voters-head-to-polls",
+   "source": "Euronews",
+   "date": "2026-10-27T08:08:49.000Z"
+  },
+  {
+   "title": "The Mythical Man-Month in the Age of AI",
+   "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+   "source": "Hacker News",
+   "date": "2026-10-27T06:25:37.000Z"
+  },
+  {
+   "title": "Writing about pratt parsing so I remember it",
+   "link": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+   "source": "Hacker News",
+   "date": "2026-10-27T06:02:23.000Z"
+  },
+  {
+   "title": "Latest news bulletin | October 27th, 2026 – Morning",
+   "link": "https://www.euronews.com/video/2026/10/27/latest-news-bulletin-october-27th-2026-morning",
+   "source": "Euronews",
+   "date": "2026-10-27T06:00:32.000Z"
+  },
   {
    "title": "Jay-Z to perform at Super Bowl half-time show",
    "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-27T05:05:15.000Z"
-  },
-  {
-   "title": "US-brokered ceasefire begins in Russian-occupied Oleshky as strikes hit Kyiv",
-   "link": "https://www.euronews.com/2026/10/27/us-brokered-ceasefire-begins-in-russian-occupied-oleshky-as-strikes-hit-kyiv",
-   "source": "Euronews",
-   "date": "2026-10-27T05:02:00.000Z"
-  },
-  {
-   "title": "AI makes discoveries in mathematics, computer science, physics, OpenAI says",
-   "link": "https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-27T05:01:13.000Z"
-  },
-  {
-   "title": "Iran, Saudi, Turkiye and Pakistan agree to more talks amid Houthi attacks",
-   "link": "https://www.aljazeera.com/news/2026/10/27/iran-saudi-turkiye-and-pakistan-agree-to-more-talks-amid-houthi-attacks?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-27T04:54:26.000Z"
-  },
-  {
-   "title": "People missing after massive drilling platform sinks off Gabon",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/people-missing-after-massive-drilling-platform-sinks-off-gabon?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-27T04:45:16.000Z"
-  },
-  {
-   "title": "Israel heads to the polls as shift to the right dominates critical election",
-   "link": "https://www.aljazeera.com/news/2026/10/27/israel-heads-to-the-polls-as-shift-to-the-right-dominates-critical-election?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-27T04:44:14.000Z"
-  },
-  {
-   "title": "Meghan to co-host Junior MasterChef Australia",
-   "link": "https://www.bbc.co.uk/news/articles/crgqwg3ll1v1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T04:43:56.000Z"
-  },
-  {
-   "title": "Israel election 2026 live: Netanyahu faces tough test in high-stakes polls",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-27T04:30:00.000Z"
-  },
-  {
-   "title": "Man with fake gun shot after using abused partner as shield",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/man-with-fake-gun-shot-after-using-abused-partner-as-shield?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-27T03:48:41.000Z"
   },
   {
    "title": "Jordan carries out deadly strike in Syria in retaliation for church attack",
@@ -62,10 +122,22 @@
    "date": "2026-10-27T02:40:17.000Z"
   },
   {
+   "title": "I still teach OpenGL ES 3.0",
+   "link": "https://eliasfarhan.ch/graphics/cpp/2026/01/27/why-i-teach-opengles.html",
+   "source": "Hacker News",
+   "date": "2026-10-27T02:15:10.000Z"
+  },
+  {
    "title": "Ex-FBI chief James Comey faces federal charges for third time",
    "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-27T02:01:27.000Z"
+  },
+  {
+   "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
+   "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-27T01:46:38.000Z"
   },
   {
    "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
@@ -74,82 +146,10 @@
    "date": "2026-10-27T01:15:04.000Z"
   },
   {
-   "title": "Opposition leader María Machado returns from exile to a Venezuela reshaped by Trump",
-   "link": "https://www.bbc.co.uk/news/articles/c8vgx3pvdeq1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-27T00:31:11.000Z"
-  },
-  {
    "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
    "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
    "source": "Guardian World",
    "date": "2026-10-27T00:00:03.000Z"
-  },
-  {
-   "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-   "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-   "source": "Hacker News",
-   "date": "2026-10-26T22:41:48.000Z"
-  },
-  {
-   "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
-   "link": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
-   "source": "Hacker News",
-   "date": "2026-10-26T22:27:17.000Z"
-  },
-  {
-   "title": "France: crowds fill Marseille's Old Port in anti-racism protest",
-   "link": "https://www.euronews.com/video/2026/10/26/france-crowds-fill-marseilles-old-port-in-anti-racism-protest",
-   "source": "Euronews",
-   "date": "2026-10-26T22:20:11.000Z"
-  },
-  {
-   "title": "The Exponential Time Hypothesis Is False [pdf]",
-   "link": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-   "source": "Hacker News",
-   "date": "2026-10-26T21:59:15.000Z"
-  },
-  {
-   "title": "Trump says Brazil election looked 'rigged' without giving evidence",
-   "link": "https://www.euronews.com/2026/10/26/trump-says-brazil-election-looked-rigged-without-giving-evidence",
-   "source": "Euronews",
-   "date": "2026-10-26T21:37:22.000Z"
-  },
-  {
-   "title": "Three new discoveries in mathematics, computer science, and physics",
-   "link": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-   "source": "Hacker News",
-   "date": "2026-10-26T21:35:28.000Z"
-  },
-  {
-   "title": "Lula wins fourth term in dramatic Brazil election comeback",
-   "link": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-26T21:02:47.000Z"
-  },
-  {
-   "title": "María Corina Machado seeks talks with Delcy Rodríguez after return from exile",
-   "link": "https://www.euronews.com/2026/10/26/maria-corina-machado-seeks-talks-with-delcy-rodriguez-after-return-from-exile",
-   "source": "Euronews",
-   "date": "2026-10-26T18:25:15.000Z"
-  },
-  {
-   "title": "Type Server Protocol",
-   "link": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-   "source": "Hacker News",
-   "date": "2026-10-26T18:14:49.000Z"
-  },
-  {
-   "title": "Pope Leo XIV confirms Latin America trip after recovering from surgery",
-   "link": "https://www.euronews.com/2026/10/26/pope-leo-xiv-confirms-latin-america-trip-after-recovering-from-surgery",
-   "source": "Euronews",
-   "date": "2026-10-26T17:59:09.000Z"
-  },
-  {
-   "title": "Russia: flames engulf buildings after Ukrainian drone attack in Voronezh region",
-   "link": "https://www.euronews.com/video/2026/10/26/russia-flames-engulf-buildings-after-ukrainian-drone-attack-in-voronezh-region",
-   "source": "Euronews",
-   "date": "2026-10-26T17:19:45.000Z"
   },
   {
    "title": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",

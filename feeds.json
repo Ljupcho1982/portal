@@ -1,95 +1,125 @@
 {
- "updated": "2026-10-28T21:05:19.609Z",
+ "updated": "2026-10-29T00:57:13.044Z",
  "items": [
   {
-   "title": "Flávio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+   "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-29T00:36:33.000Z"
+  },
+  {
+   "title": "Israelis rally for Jewish-Arab government after election gains",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israelis-rally-for-jewish-arab-government-after-election-gains?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-29T00:34:24.000Z"
+  },
+  {
+   "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+   "link": "https://divagr.com/blog/qwenputer",
+   "source": "Hacker News",
+   "date": "2026-10-29T00:25:45.000Z"
+  },
+  {
+   "title": "New York Times adds more AI features to its Cooking app. Users aren't thrilled",
+   "link": "https://www.niemanlab.org/2026/10/the-new-york-times-is-adding-more-ai-features-to-its-cooking-app-and-users-arent-thrilled/",
+   "source": "Hacker News",
+   "date": "2026-10-29T00:16:08.000Z"
+  },
+  {
+   "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
+   "link": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-29T00:01:07.000Z"
+  },
+  {
+   "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-29T00:00:00.000Z"
+  },
+  {
+   "title": "Get Ready for Touch on Mac",
+   "link": "https://developer.apple.com/touch-on-mac/",
+   "source": "Hacker News",
+   "date": "2026-10-28T23:58:20.000Z"
+  },
+  {
+   "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+   "link": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+   "source": "Hacker News",
+   "date": "2026-10-28T23:45:46.000Z"
+  },
+  {
+   "title": "The first wired XR glasses powered by Android XR",
+   "link": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+   "source": "Hacker News",
+   "date": "2026-10-28T23:45:19.000Z"
+  },
+  {
+   "title": "Romania extends pre-trial detention of far-right politician Calin Georgescu",
+   "link": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-28T23:43:06.000Z"
+  },
+  {
+   "title": "StackOverflow now gets fewer than 1000 questions a month",
+   "link": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+   "source": "Hacker News",
+   "date": "2026-10-28T23:35:02.000Z"
+  },
+  {
+   "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
    "link": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-28T21:03:49.000Z"
+   "date": "2026-10-28T23:21:48.000Z"
   },
   {
-   "title": "Nango (YC W23) Is Hiring Across Eng, FDE, Marketing, DevRel",
-   "link": "https://nango.dev/careers",
-   "source": "Hacker News",
-   "date": "2026-10-28T21:00:06.000Z"
+   "title": "Spain: Madrid mourns train crash victims as rescuers work through the night",
+   "link": "https://www.euronews.com/video/2026/10/29/spain-madrid-mourns-train-crash-victims-as-rescuers-work-through-the-night",
+   "source": "Euronews",
+   "date": "2026-10-28T23:10:38.000Z"
   },
   {
-   "title": "What’s next for Brazil’s Flavio Bolsonaro after election defeat?",
-   "link": "https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss",
+   "title": "UN experts sound alarm at excessive use of force in French student protests",
+   "link": "https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-10-28T20:38:01.000Z"
+   "date": "2026-10-28T22:34:51.000Z"
+  },
+  {
+   "title": "Girl seriously injured in wolf attack at German wildlife park",
+   "link": "https://www.bbc.co.uk/news/articles/c678prm55gzzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-28T22:08:52.000Z"
+  },
+  {
+   "title": "Flávio Bolsonaro calls himself the ‘leader of Brazil’ after fleeing to Miami",
+   "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+   "source": "Guardian World",
+   "date": "2026-10-28T22:06:46.000Z"
+  },
+  {
+   "title": "Support for UN vote to end US embargo on Cuba falls to 30-year low",
+   "link": "https://www.euronews.com/2026/10/28/support-for-un-vote-to-end-us-embargo-on-cuba-falls-to-30-year-low",
+   "source": "Euronews",
+   "date": "2026-10-28T21:45:20.000Z"
+  },
+  {
+   "title": "High-speed train crash kills at least 68 people in Spain",
+   "link": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-28T21:38:54.000Z"
+  },
+  {
+   "title": "Bloodied, dazed and angry - how passengers' rail journey turned to disaster in Spain",
+   "link": "https://www.bbc.co.uk/news/articles/cm9qzd47ng98o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-28T21:24:41.000Z"
   },
   {
    "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
    "link": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-10-28T20:24:39.000Z"
-  },
-  {
-   "title": "UN votes to condemn embargo of Cuba despite US lobbying push",
-   "link": "https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-28T20:22:16.000Z"
-  },
-  {
-   "title": "US ambassador suggests Trump could blame Canada if midterms don’t go his way",
-   "link": "https://www.theguardian.com/world/2026/oct/28/canada-ambassador-republicans-midterms",
-   "source": "Guardian World",
-   "date": "2026-10-28T20:15:07.000Z"
-  },
-  {
-   "title": "Rwanda’s milk bars",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/rwandas-milk-bars?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-28T20:14:13.000Z"
-  },
-  {
-   "title": "Alphabet Announces Third Quarter 2026 Results [pdf]",
-   "link": "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf",
-   "source": "Hacker News",
-   "date": "2026-10-28T20:11:55.000Z"
-  },
-  {
-   "title": "US envoy reads anti-Castro book during Cuban FM’s UN address",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/us-envoy-reads-anti-castro-book-during-cuban-fms-un-address?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-28T20:02:42.000Z"
-  },
-  {
-   "title": "Spain demands answers after deadliest train disaster in over a decade",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/spain-demands-answers-after-deadliest-train-disaster-in-over-a-decade?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-28T19:32:57.000Z"
-  },
-  {
-   "title": "Putin: Russia is African continent’s best partner, not ‘colonial’ West",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/putin-russia-is-african-continents-best-partner-not-colonial-west?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-28T19:13:32.000Z"
-  },
-  {
-   "title": "Big Tech's thirst for water is sparking a global resistance",
-   "link": "https://restofworld.org/2026/ai-datacenters-water-resistance-global/",
-   "source": "Hacker News",
-   "date": "2026-10-28T18:34:51.000Z"
-  },
-  {
-   "title": "Spiders Spin 'Silk Dope' into Nature's Toughest Material",
-   "link": "https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/",
-   "source": "Hacker News",
-   "date": "2026-10-28T17:45:24.000Z"
-  },
-  {
-   "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
-   "link": "https://nullpt.rs/fingerprinting-bioweapons",
-   "source": "Hacker News",
-   "date": "2026-10-28T17:13:29.000Z"
-  },
-  {
-   "title": "MacBook Pro with PROLED XDR Display and Touch",
-   "link": "https://www.apple.com/macbook-pro/proled-xdr-display/",
-   "source": "Hacker News",
-   "date": "2026-10-28T17:10:37.000Z"
   },
   {
    "title": "Latest news bulletin | October 28th, 2026 – Evening",
@@ -126,36 +156,6 @@
    "link": "https://www.euronews.com/2026/10/28/trump-rolls-back-methane-rules-for-us-oil-and-gas-industry",
    "source": "Euronews",
    "date": "2026-10-28T13:29:45.000Z"
-  },
-  {
-   "title": "Spain: First footage reveals wreckage of deadly high-speed train crash",
-   "link": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
-   "source": "Euronews",
-   "date": "2026-10-28T11:16:14.000Z"
-  },
-  {
-   "title": "Flavio Bolsonaro arrives in Miami after fleeing Brazil",
-   "link": "https://www.euronews.com/2026/10/28/us-to-grant-flavio-bolsonaro-visa-as-he-flees-brazil-and-makes-brief-stop-in-ecuador-via-a",
-   "source": "Euronews",
-   "date": "2026-10-28T11:14:24.000Z"
-  },
-  {
-   "title": "Luxury cruise passengers stranded in Cambodia due to soaring fuel costs",
-   "link": "https://www.bbc.co.uk/news/articles/cwj342k62exyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-28T10:31:22.000Z"
-  },
-  {
-   "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
-   "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-28T10:18:40.000Z"
-  },
-  {
-   "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-   "link": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-28T10:17:54.000Z"
   },
   {
    "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",

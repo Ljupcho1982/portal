@@ -1,35 +1,137 @@
 {
- "updated": "2026-10-30T00:59:58.661Z",
+ "updated": "2026-10-30T07:07:04.355Z",
  "items": [
   {
-   "title": "Houthi forces claim six attacks on Saudi airports, oil facilities",
-   "link": "https://www.aljazeera.com/news/2026/10/30/houthi-forces-claim-six-attacks-on-saudi-airports-oil-facilities?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-30T00:11:20.000Z"
+   "title": "Europe Today: Rare Oleshky truce holds in Ukraine, Albania imposes heavy fines on protesters",
+   "link": "https://www.euronews.com/2026/10/30/europe-today-rare-oleshky-truce-holds-in-ukraine-albania-imposes-heavy-fines-on-protesters",
+   "source": "Euronews",
+   "date": "2026-10-30T07:01:54.000Z"
   },
   {
-   "title": "What does bourbon have to do with the US midterms?",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/what-does-bourbon-have-to-do-with-the-us-midterms?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-30T00:08:50.000Z"
-  },
-  {
-   "title": "Iran war live: IRGC says four tankers struck mines in Strait of Hormuz",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/10/30/iran-war-live-irgc-says-four-tankers-struck-mines-in-strait-of-hormuz?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-30T00:00:00.000Z"
-  },
-  {
-   "title": "France braces for ‘very high risk’ of disorder at Halloween protests",
-   "link": "https://www.aljazeera.com/news/2026/10/29/france-braces-for-very-high-risk-of-disorder-at-halloween-protests?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-29T23:52:30.000Z"
-  },
-  {
-   "title": "Show HN: I Turned DOOM into a Transformer",
-   "link": "https://github.com/mottopanikeiku/doomformer",
+   "title": "Wasmer (YC S19) Is Hiring OS/Hypervisor Experts in Europe",
+   "link": "https://www.workatastartup.com/jobs/98722",
    "source": "Hacker News",
-   "date": "2026-10-29T23:25:46.000Z"
+   "date": "2026-10-30T07:00:35.000Z"
+  },
+  {
+   "title": "Swedish academic says denied entry to UK over Palestine event",
+   "link": "https://www.aljazeera.com/news/2026/10/30/swedish-academic-says-denied-entry-to-uk-over-palestine-event?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-30T06:50:35.000Z"
+  },
+  {
+   "title": "Survivors of Spain’s worst train crashes urge action after latest disaster",
+   "link": "https://www.aljazeera.com/news/2026/10/30/survivors-of-spains-worst-train-crashes-urge-action-after-latest-disaster?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-30T06:46:28.000Z"
+  },
+  {
+   "title": "US midterms: 4 days to go – What the polls say as Trump cancels two rallies",
+   "link": "https://www.aljazeera.com/news/2026/10/30/us-midterms-4-days-to-go-what-the-polls-say-as-trump-cancels-two-rallies?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-30T06:36:11.000Z"
+  },
+  {
+   "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
+   "link": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-30T06:02:23.000Z"
+  },
+  {
+   "title": "Latest news bulletin | October 30th, 2026 – Morning",
+   "link": "https://www.euronews.com/video/2026/10/30/latest-news-bulletin-october-30th-2026-morning",
+   "source": "Euronews",
+   "date": "2026-10-30T06:00:32.000Z"
+  },
+  {
+   "title": "The change vote turns: Why America's midterms could punish the party that promised it",
+   "link": "https://www.euronews.com/2026/10/30/the-change-vote-turns-why-americas-midterms-could-punish-the-party-that-promised-it",
+   "source": "Euronews",
+   "date": "2026-10-30T05:30:06.000Z"
+  },
+  {
+   "title": "Crypto giant Binance hit by $6.3bn hack suspected to be largest in history",
+   "link": "https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-30T05:15:16.000Z"
+  },
+  {
+   "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
+   "link": "https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg",
+   "source": "Guardian World",
+   "date": "2026-10-30T05:00:45.000Z"
+  },
+  {
+   "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
+   "link": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
+   "source": "Guardian World",
+   "date": "2026-10-30T05:00:45.000Z"
+  },
+  {
+   "title": "Venezuela’s Machado lauds Trump for ‘freedom’, urges 2027 elections",
+   "link": "https://www.aljazeera.com/news/2026/10/30/machado-lauds-trump-for-freedom-floodgate-urges-2027-elections?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-30T04:40:07.000Z"
+  },
+  {
+   "title": "US judge blocks Trump’s Medicaid rule forcing ill to prove impairment",
+   "link": "https://www.aljazeera.com/news/2026/10/30/us-judge-blocks-trumps-medicaid-rule-forcing-ill-to-prove-impairment?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-30T04:38:24.000Z"
+  },
+  {
+   "title": "‘You look like hell’, Trump lashes out at reporter in tarmac tirade",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/you-look-like-hell-trump-lashes-out-at-reporter-in-tarmac-tirade?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-30T04:31:16.000Z"
+  },
+  {
+   "title": "Record number of purges as Xi emphasises 'party discipline' at China political gathering",
+   "link": "https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-30T03:24:12.000Z"
+  },
+  {
+   "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+   "link": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
+   "source": "Hacker News",
+   "date": "2026-10-30T02:33:04.000Z"
+  },
+  {
+   "title": "Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge",
+   "link": "https://github.com/Millillion/lasm",
+   "source": "Hacker News",
+   "date": "2026-10-30T02:05:41.000Z"
+  },
+  {
+   "title": "Pico CSS is no longer maintained",
+   "link": "https://github.com/picocss/pico/discussions/754",
+   "source": "Hacker News",
+   "date": "2026-10-30T01:58:44.000Z"
+  },
+  {
+   "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
+   "link": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-30T01:35:40.000Z"
+  },
+  {
+   "title": "Herdr has released native app",
+   "link": "https://github.com/herdrdev/herdr-app",
+   "source": "Hacker News",
+   "date": "2026-10-30T00:42:41.000Z"
+  },
+  {
+   "title": "Cormac McCarthy's Library",
+   "link": "https://cormacmccarthy.lib.utk.edu/",
+   "source": "Hacker News",
+   "date": "2026-10-30T00:31:00.000Z"
+  },
+  {
+   "title": "Student-backed election winners demand sweeping resignations in Serbia",
+   "link": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-30T00:17:28.000Z"
   },
   {
    "title": "Ukraine: Russian strike kills two teenage girls in Chernihiv",
@@ -44,58 +146,10 @@
    "date": "2026-10-29T22:47:58.000Z"
   },
   {
-   "title": "Patrick Stewart, ‘Star Trek’ Captain Picard and ‘X-Men’ actor, dies at 86",
-   "link": "https://www.aljazeera.com/editorial/2026/10/29/patrick-stewart-star-trek-captain-picard-and-x-men-actor-dies-at-86?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-29T22:36:06.000Z"
-  },
-  {
-   "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-   "link": "https://journal.animationstudies.org/article/id/66/",
-   "source": "Hacker News",
-   "date": "2026-10-29T22:26:38.000Z"
-  },
-  {
-   "title": "Trump administration attempts to take down leak of ICE personnel data",
-   "link": "https://www.aljazeera.com/news/2026/10/29/trump-administration-attempts-to-take-down-leak-of-ice-personnel-data?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-29T22:16:51.000Z"
-  },
-  {
-   "title": "The Great American Rascal: Tom Sawyer at 150",
-   "link": "https://claremontreviewofbooks.com/the-great-american-rascal/",
-   "source": "Hacker News",
-   "date": "2026-10-29T22:14:23.000Z"
-  },
-  {
-   "title": "Proton goes all in on using AI",
-   "link": "https://convo.casa/@b/117525936178835007",
-   "source": "Hacker News",
-   "date": "2026-10-29T21:49:28.000Z"
-  },
-  {
-   "title": "El Niño Is Flooding California's Coasts with the Highest Tides to Come",
-   "link": "https://gizmodo.com/el-nino-is-already-flooding-californias-coasts-and-the-years-highest-tides-havent-arrived-2000832574",
-   "source": "Hacker News",
-   "date": "2026-10-29T21:48:35.000Z"
-  },
-  {
-   "title": "We ran AI agent swarms in Minecraft and Mindustry",
-   "link": "https://labs.ycombinator.com/projects/games/index.html",
-   "source": "Hacker News",
-   "date": "2026-10-29T21:40:28.000Z"
-  },
-  {
-   "title": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
-   "link": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss",
+   "title": "Google value plunges by $500bn as AI fears rattle Wall Street",
+   "link": "https://www.bbc.co.uk/news/articles/cm9qzdqpxy48o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-29T20:21:54.000Z"
-  },
-  {
-   "title": "'The city is alive': A brief peace in Kherson, but residents fear what comes next",
-   "link": "https://www.bbc.co.uk/news/articles/ck1l393pyrylo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-29T20:05:57.000Z"
+   "date": "2026-10-29T22:17:52.000Z"
   },
   {
    "title": "Kazakhstan's Tokayev calls for faster construction of nuclear power plants",
@@ -108,48 +162,6 @@
    "link": "https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song",
    "source": "Guardian World",
    "date": "2026-10-29T17:49:47.000Z"
-  },
-  {
-   "title": "Latest news bulletin | October 29th, 2026 – Evening",
-   "link": "https://www.euronews.com/video/2026/10/29/latest-news-bulletin-october-29th-2026-evening",
-   "source": "Euronews",
-   "date": "2026-10-29T17:00:26.000Z"
-  },
-  {
-   "title": "Netenyahu's Likud party alleges interference and fraud in Israel's election",
-   "link": "https://www.euronews.com/2026/10/29/netenyahus-likud-party-alleges-interference-and-fraud-in-israels-election",
-   "source": "Euronews",
-   "date": "2026-10-29T16:13:39.000Z"
-  },
-  {
-   "title": "Vatican: Century of Mercedes-Benz popemobiles goes on display",
-   "link": "https://www.euronews.com/video/2026/10/29/vatican-century-of-mercedes-benz-popemobiles-goes-on-display",
-   "source": "Euronews",
-   "date": "2026-10-29T15:40:02.000Z"
-  },
-  {
-   "title": "Flávio Bolsonaro calls himself 'leader of Brazil' after election loss",
-   "link": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-29T14:58:28.000Z"
-  },
-  {
-   "title": "Russian drone attack on Ukrainian train station kills at least 14, officials say",
-   "link": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-29T14:17:35.000Z"
-  },
-  {
-   "title": "Philippine police obtain warrant to search Thomas Markle's devices",
-   "link": "https://www.bbc.co.uk/news/articles/cm0j06y3pn75o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-29T13:25:07.000Z"
-  },
-  {
-   "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
-   "link": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-29T11:07:35.000Z"
   },
   {
    "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
@@ -168,18 +180,6 @@
    "link": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
    "source": "Guardian World",
    "date": "2026-10-26T15:07:23.000Z"
-  },
-  {
-   "title": "US forces accused of ‘weaponising’ Somalia’s floods by trapping women and children in the path of El Niño",
-   "link": "https://www.theguardian.com/global-development/2026/oct/26/us-forces-accused-of-weaponising-somalia-flood-el-nino",
-   "source": "Guardian World",
-   "date": "2026-10-26T11:00:40.000Z"
-  },
-  {
-   "title": "Sudan paramilitary drone strikes cause mass power cuts in eastern states",
-   "link": "https://www.theguardian.com/world/2026/oct/26/sudan-paramilitary-drone-strikes-rapid-support-forces-power-cuts-eastern-states",
-   "source": "Guardian World",
-   "date": "2026-10-26T09:59:27.000Z"
   }
  ]
 }

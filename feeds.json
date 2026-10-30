@@ -1,83 +1,113 @@
 {
- "updated": "2026-10-30T19:23:03.722Z",
+ "updated": "2026-10-30T23:47:28.047Z",
  "items": [
   {
-   "title": "‘Deepest possible partnership’: Canada and EU announce new alliance",
-   "link": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
-   "source": "Guardian World",
-   "date": "2026-10-30T18:54:51.000Z"
-  },
-  {
-   "title": "Israel demolishes homes of Palestinians blamed for attack on soldiers",
-   "link": "https://www.aljazeera.com/news/2026/10/30/israel-demolishes-homes-of-palestinians-blamed-for-attack-on-soldiers?traffic_source=rss",
+   "title": "Why AI could threaten much of the world’s digital infrastructure",
+   "link": "https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-10-30T18:35:44.000Z"
+   "date": "2026-10-30T23:13:51.000Z"
   },
   {
-   "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
-   "link": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz?traffic_source=rss",
+   "title": "US judge orders ethics inquiry into Trump lawyers over golf course case",
+   "link": "https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-10-30T18:33:29.000Z"
+   "date": "2026-10-30T22:58:38.000Z"
   },
   {
-   "title": "French national assembly votes 0.055€/GB internet tax",
-   "link": "https://www.lesnumeriques.com/societe-numerique/netflix-steam-cloud-vos-abonnements-et-telechargements-bientot-plus-chers-a-cause-d-une-nouvelle-taxe-n264035.html",
+   "title": "US approves sale of 500 Patriot missiles to Ukraine",
+   "link": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-30T22:20:52.000Z"
+  },
+  {
+   "title": "France is getting download tax for content providers (€0.055/GB)",
+   "link": "https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/",
    "source": "Hacker News",
-   "date": "2026-10-30T18:31:56.000Z"
+   "date": "2026-10-30T22:10:12.000Z"
   },
   {
-   "title": "Kim Jong Un calls for North Korea’s drone technology superiority",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_north-korea-seeks-absolute-superiority-in-drone-301026?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-30T18:03:45.000Z"
-  },
-  {
-   "title": "GitHub Incident with Actions, Pages, and Webhooks",
-   "link": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+   "title": "Linode Security Incident",
+   "link": "https://status.linode.com/incidents/nt58zhx3pmgm",
    "source": "Hacker News",
-   "date": "2026-10-30T17:57:35.000Z"
+   "date": "2026-10-30T21:57:40.000Z"
   },
   {
-   "title": "How cuts under Colombia’s de la Espriella threaten a key human rights court",
-   "link": "https://www.aljazeera.com/news/longform/2026/10/30/how-cuts-under-colombias-de-la-espriella-threaten-a-key-human-rights-court?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-10-30T17:43:21.000Z"
+   "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+   "link": "https://www.firezone.dev/blog/introducing-sanstun",
+   "source": "Hacker News",
+   "date": "2026-10-30T21:30:00.000Z"
+  },
+  {
+   "title": "AO3 Down for Maintenance",
+   "link": "https://www.otwstatus.org",
+   "source": "Hacker News",
+   "date": "2026-10-30T21:17:23.000Z"
   },
   {
    "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
    "link": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-10-30T17:39:43.000Z"
+   "date": "2026-10-30T21:13:14.000Z"
   },
   {
-   "title": "Report reveals campaign promoting racist, Islamophobic, anti-Qatar views",
-   "link": "https://www.aljazeera.com/news/2026/10/30/report-reveals-campaign-promoting-racist-islamophobic-anti-qatar-views?traffic_source=rss",
+   "title": "Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence",
+   "link": "https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-10-30T17:34:27.000Z"
+   "date": "2026-10-30T21:00:51.000Z"
   },
   {
-   "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
-   "link": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
-   "source": "Hacker News",
-   "date": "2026-10-30T17:27:25.000Z"
+   "title": "Police deployed during stand-off over control of top Poland court",
+   "link": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-30T20:52:01.000Z"
   },
   {
-   "title": "My favourite PowerMac is a Nintendo Wii",
-   "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-   "source": "Hacker News",
-   "date": "2026-10-30T17:25:15.000Z"
+   "title": "They strangled us, says founder of Russian newspaper shut under pressure from authorities",
+   "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-10-30T20:41:51.000Z"
   },
   {
-   "title": "Proton's CEO Cancels AI 'Re-Interviews'",
-   "link": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
-   "source": "Hacker News",
-   "date": "2026-10-30T17:24:45.000Z"
-  },
-  {
-   "title": "Barcelona’s Flick praises Yamal’s ‘mentality’ after missing out on Ballon d’Or",
-   "link": "https://www.aljazeera.com/sports/2026/10/30/barcelonas-flick-praises-yamal-mentality-in-missing-out-on-ballon-dor?traffic_source=rss",
+   "title": "US appeals court again rejects Trump bid to set aside California ballots",
+   "link": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-10-30T17:13:32.000Z"
+   "date": "2026-10-30T20:39:50.000Z"
+  },
+  {
+   "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
+   "link": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-30T20:37:20.000Z"
+  },
+  {
+   "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+   "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+   "source": "Hacker News",
+   "date": "2026-10-30T20:23:30.000Z"
+  },
+  {
+   "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-10-30T20:13:36.000Z"
+  },
+  {
+   "title": "Brazil claims it questioned Argentina over Bolsonaro's escape, Buenos Aires denies it",
+   "link": "https://www.euronews.com/2026/10/30/brazil-claims-it-questioned-argentina-over-bolsonaros-escape-buenos-aires-denies-it",
+   "source": "Euronews",
+   "date": "2026-10-30T20:07:10.000Z"
+  },
+  {
+   "title": "Jules Verne's Lost Novel",
+   "link": "https://blue-continuum.com/verne-paris",
+   "source": "Hacker News",
+   "date": "2026-10-30T19:55:10.000Z"
+  },
+  {
+   "title": "Canada and EU announce new alliance open to like-minded countries",
+   "link": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance",
+   "source": "Guardian World",
+   "date": "2026-10-30T19:42:15.000Z"
   },
   {
    "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
@@ -90,12 +120,6 @@
    "link": "https://www.euronews.com/2026/10/30/eu-diplomats-object-to-g20-photo-with-lavrov-prompting-us-cancellation",
    "source": "Euronews",
    "date": "2026-10-30T17:03:13.000Z"
-  },
-  {
-   "title": "Show HN: Spinf-serve – inference server for bulk scoring and decisions",
-   "link": "https://github.com/spinfinc/spinf-serve",
-   "source": "Hacker News",
-   "date": "2026-10-30T17:03:12.000Z"
   },
   {
    "title": "Latest news bulletin | October 30th, 2026 – Evening",
@@ -126,30 +150,6 @@
    "link": "https://www.euronews.com/2026/10/30/russian-independent-newspaper-novaya-gazeta-says-it-will-shut-down-following-pressure-from",
    "source": "Euronews",
    "date": "2026-10-30T15:08:00.000Z"
-  },
-  {
-   "title": "Spain transport minister says he won't resign over high-speed rail disaster",
-   "link": "https://www.bbc.co.uk/news/articles/c6zxj2e5qlxxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-30T15:03:39.000Z"
-  },
-  {
-   "title": "Pope Leo XIV becomes first pontiff to vote in a US election",
-   "link": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-30T14:48:22.000Z"
-  },
-  {
-   "title": "Iran’s Revolutionary Guard reports three tankers on fire in Strait of Hormuz as talks continue",
-   "link": "https://www.euronews.com/2026/10/30/irans-revolutionary-guard-reports-two-tankers-on-fire-in-strait-of-hormuz-as-talks-continu",
-   "source": "Euronews",
-   "date": "2026-10-30T14:43:36.000Z"
-  },
-  {
-   "title": "Prominent Russian newspaper shuts down under pressure from authorities",
-   "link": "https://www.bbc.co.uk/news/articles/cmewepdr109do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-10-30T11:23:06.000Z"
   },
   {
    "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",

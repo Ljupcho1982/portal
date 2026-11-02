@@ -1,11 +1,101 @@
 {
- "updated": "2026-11-01T23:36:31.152Z",
+ "updated": "2026-11-02T06:04:05.901Z",
  "items": [
   {
-   "title": "High-ranking US Democratic senator suffers stroke",
-   "link": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
+   "title": "Trump rallies in Iowa and Kansas in final push as Democratic divisions shake up Michigan",
+   "link": "https://www.euronews.com/2026/11/02/trump-wraps-up-campaign-rallies-in-final-push-as-democratic-divisions-shake-up-michigan",
+   "source": "Euronews",
+   "date": "2026-11-02T05:51:30.000Z"
+  },
+  {
+   "title": "Kimi Antonelli becomes youngest F1 champion as Max Verstappen wins race",
+   "link": "https://www.euronews.com/2026/11/02/kimi-antonelli-becomes-youngest-f1-champion-as-max-verstappen-wins-race",
+   "source": "Euronews",
+   "date": "2026-11-02T04:54:49.000Z"
+  },
+  {
+   "title": "Write-In Ralph: South Carolina Republicans challenge Trump’s Senate pick",
+   "link": "https://www.aljazeera.com/news/2026/11/2/write-in-ralph-south-carolina-republicans-challenge-trumps-senate-pick?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-01T22:32:54.000Z"
+   "date": "2026-11-02T04:31:02.000Z"
+  },
+  {
+   "title": "Bulgaria has its first elected female president",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-02T04:25:56.000Z"
+  },
+  {
+   "title": "Trump leans into Islamophobia and conspiracy in last-ditch campaign rallies",
+   "link": "https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-02T04:08:54.000Z"
+  },
+  {
+   "title": "US midterms: What to know about independent voters and candidates",
+   "link": "https://www.aljazeera.com/news/2026/11/2/us-midterms-what-to-know-about-independent-voters-and-candidates?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-02T03:53:42.000Z"
+  },
+  {
+   "title": "Kimi Antonelli becomes Formula One’s youngest world champion in Mexico City",
+   "link": "https://www.aljazeera.com/sports/2026/11/2/kimi-antonelli-becomes-formula-ones-youngest-world-champion-in-mexico-city?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-02T03:51:57.000Z"
+  },
+  {
+   "title": "Muhammad Ali’s daughter and grandson endorse El-Sayed",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/2/muhammad-alis-daughter-and-grandson-endorse-el-sayed?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-02T03:17:41.000Z"
+  },
+  {
+   "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+   "link": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+   "source": "Hacker News",
+   "date": "2026-11-02T01:59:38.000Z"
+  },
+  {
+   "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+   "link": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+   "source": "Hacker News",
+   "date": "2026-11-02T01:47:07.000Z"
+  },
+  {
+   "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
+   "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-02T01:45:42.000Z"
+  },
+  {
+   "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+   "link": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-02T01:18:27.000Z"
+  },
+  {
+   "title": "Trigger.dev customer environment variables exposed",
+   "link": "https://trigger.dev/blog/security-incident-nov-2026",
+   "source": "Hacker News",
+   "date": "2026-11-02T01:09:16.000Z"
+  },
+  {
+   "title": "OccupySaaS",
+   "link": "https://occupysaas.com/",
+   "source": "Hacker News",
+   "date": "2026-11-02T00:17:27.000Z"
+  },
+  {
+   "title": "France launches attempted murder investigation after petrol bomb thrown at police",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg05z184j0o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-02T00:15:30.000Z"
+  },
+  {
+   "title": "The Megadonors Who Have Poured $1.2B into the Midterms",
+   "link": "https://www.nytimes.com/interactive/2026/08/28/us/politics/billionaire-midterms-donors.html",
+   "source": "Hacker News",
+   "date": "2026-11-01T23:46:59.000Z"
   },
   {
    "title": "UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda",
@@ -14,88 +104,16 @@
    "date": "2026-11-01T22:26:11.000Z"
   },
   {
-   "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
-   "link": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-01T22:15:14.000Z"
-  },
-  {
-   "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
-   "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-   "source": "Hacker News",
-   "date": "2026-11-01T22:10:45.000Z"
-  },
-  {
    "title": "Russian strikes cut power to thousands in Ukraine as Kherson ceasefire ends",
    "link": "https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-01T21:55:01.000Z"
   },
   {
-   "title": "So I guess everyone uses LLMs to think now",
-   "link": "https://eva.ac/blog/llms/",
-   "source": "Hacker News",
-   "date": "2026-11-01T21:49:04.000Z"
-  },
-  {
-   "title": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-01T21:29:43.000Z"
-  },
-  {
-   "title": "Thousands displaced from Hebron as Israel carries on siege",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/1/thousands-displaced-from-hebron-as-israel-carries-on-siege?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-01T21:28:47.000Z"
-  },
-  {
-   "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-   "link": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-01T21:16:45.000Z"
-  },
-  {
-   "title": "Carney signals progress on Canada-US trade deal talks as midterms loom",
-   "link": "https://www.aljazeera.com/news/2026/11/1/carney-signals-progress-on-canada-us-trade-deal-talks-as-midterms-loom?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-01T21:01:33.000Z"
-  },
-  {
-   "title": "Why did Democrat Haley Stevens just endorse a Republican for US Senate?",
-   "link": "https://www.aljazeera.com/news/2026/11/1/why-did-democrat-haley-stevens-just-endorse-a-republican-for-us-senate?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-01T21:00:52.000Z"
-  },
-  {
-   "title": "John Leeson (the voice of K9) has died",
-   "link": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
-   "source": "Hacker News",
-   "date": "2026-11-01T20:48:04.000Z"
-  },
-  {
    "title": "Ask HN: Which TV do you recommend for privacy?",
    "link": "https://news.ycombinator.com/item?id=50328896",
    "source": "Hacker News",
    "date": "2026-11-01T19:35:27.000Z"
-  },
-  {
-   "title": "Mathematics has changed. Let's act like it",
-   "link": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
-   "source": "Hacker News",
-   "date": "2026-11-01T18:28:42.000Z"
-  },
-  {
-   "title": "Armed police start patrols in Sydney after Bondi Beach attack",
-   "link": "https://www.bbc.co.uk/news/articles/c9kgj7k7ry0ro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-01T17:56:47.000Z"
-  },
-  {
-   "title": "Patrick Stewart taught us what good men do with power",
-   "link": "https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism",
-   "source": "Hacker News",
-   "date": "2026-11-01T17:28:16.000Z"
   },
   {
    "title": "Israeli strikes in Gaza kill eight including child, hospitals say",
@@ -132,24 +150,6 @@
    "link": "https://www.euronews.com/video/2026/11/01/heidi-klum-turns-herself-into-a-giant-severed-hand-for-halloween",
    "source": "Euronews",
    "date": "2026-11-01T13:11:00.000Z"
-  },
-  {
-   "title": "Flags, banners and chants at youth protest in Berlin",
-   "link": "https://www.euronews.com/video/2026/11/01/flags-banners-and-chants-at-youth-protest-in-berlin",
-   "source": "Euronews",
-   "date": "2026-11-01T12:39:08.000Z"
-  },
-  {
-   "title": "Iran’s supreme leader warns of 'geographically unrestricted response' if US attacks again",
-   "link": "https://www.euronews.com/2026/11/01/irans-supreme-leader-warns-of-geographically-unrestricted-response-if-us-attacks-again",
-   "source": "Euronews",
-   "date": "2026-11-01T12:10:19.000Z"
-  },
-  {
-   "title": "Shops looted as German cost-of-living protests turn violent",
-   "link": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-01T11:57:48.000Z"
   },
   {
    "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",

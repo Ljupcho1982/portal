@@ -1,11 +1,95 @@
 {
- "updated": "2026-11-03T20:59:35.358Z",
+ "updated": "2026-11-04T01:21:38.818Z",
  "items": [
+  {
+   "title": "FBI arrests man for sending over 700 threatening letters to US officials",
+   "link": "https://www.aljazeera.com/news/2026/11/4/fbi-arrests-man-for-sending-700-white-powder-letters-to-us-officials?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-04T00:44:04.000Z"
+  },
+  {
+   "title": "Bomb threats disrupt flights across Europe, no explosive devices found",
+   "link": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-04T00:35:44.000Z"
+  },
+  {
+   "title": "US Department of Justice expands its probe into Alaska’s US Senate election",
+   "link": "https://www.aljazeera.com/news/2026/11/4/us-department-of-justice-expands-its-probe-into-alaskas-us-senate-election?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-04T00:33:57.000Z"
+  },
+  {
+   "title": "Stevie Wonder endorses Abdul El-Sayed",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/stevie-wonder-endorses-abdul-el-sayed?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-04T00:13:41.000Z"
+  },
+  {
+   "title": "Ballot scanner glitch disrupts voting in New York",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/ballot-scanner-glitch-disrupts-voting-in-new-york?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-04T00:08:02.000Z"
+  },
+  {
+   "title": "Iran war live: Tehran prepares ‘maximum deterrence’ plan for any new attack",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/11/4/iran-war-live-tehran-prepares-maximum-deterrence-plan-for-any-new-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-04T00:00:00.000Z"
+  },
+  {
+   "title": "First results in as polls begin to close in key US midterm elections",
+   "link": "https://www.euronews.com/2026/11/04/live-updates-on-the-2026-midterm-elections-in-the-us",
+   "source": "Euronews",
+   "date": "2026-11-03T23:35:24.000Z"
+  },
   {
    "title": "Spanish transport minister resigns days after deadly train crash",
    "link": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-03T20:56:32.000Z"
+   "date": "2026-11-03T22:45:59.000Z"
+  },
+  {
+   "title": "One dead and another missing in suspected grizzly bear attack in Canada",
+   "link": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
+   "source": "Guardian World",
+   "date": "2026-11-03T22:08:50.000Z"
+  },
+  {
+   "title": "NTSB says crucial plane parts found three miles from Florida crash site",
+   "link": "https://www.bbc.co.uk/news/articles/c9e8lk5dpj7no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-03T21:53:38.000Z"
+  },
+  {
+   "title": "The Internals of PostgreSQL",
+   "link": "https://www.interdb.jp/pg/index.html",
+   "source": "Hacker News",
+   "date": "2026-11-03T21:51:06.000Z"
+  },
+  {
+   "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+   "link": "https://arxiv.org/abs/2605.29713",
+   "source": "Hacker News",
+   "date": "2026-11-03T21:40:53.000Z"
+  },
+  {
+   "title": "Safari introduces Adaptive Dark Mode in 27.3",
+   "link": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+   "source": "Hacker News",
+   "date": "2026-11-03T21:39:05.000Z"
+  },
+  {
+   "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+   "link": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+   "source": "Hacker News",
+   "date": "2026-11-03T21:26:44.000Z"
+  },
+  {
+   "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+   "link": "https://github.com/finic-ai/kairos",
+   "source": "Hacker News",
+   "date": "2026-11-03T21:16:48.000Z"
   },
   {
    "title": "Seven flights across Europe targeted by suspected bomb threats",
@@ -14,64 +98,10 @@
    "date": "2026-11-03T20:42:47.000Z"
   },
   {
-   "title": "Subvocal raised $1.3M. A developer recreated it with AirPods in 9 minutes",
-   "link": "https://github.com/joeblau/subvox",
-   "source": "Hacker News",
-   "date": "2026-11-03T20:40:00.000Z"
-  },
-  {
    "title": "Pratt parsing is a black box",
    "link": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
    "source": "Hacker News",
    "date": "2026-11-03T20:07:41.000Z"
-  },
-  {
-   "title": "Michigan voters face crucial choice as Trump’s grip on Congress is tested",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-03T20:00:30.000Z"
-  },
-  {
-   "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
-   "link": "https://flipper.net/pages/flipper-one",
-   "source": "Hacker News",
-   "date": "2026-11-03T19:32:13.000Z"
-  },
-  {
-   "title": "Introduction to Programming in ATS",
-   "link": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
-   "source": "Hacker News",
-   "date": "2026-11-03T19:25:18.000Z"
-  },
-  {
-   "title": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
-   "link": "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-03T19:13:49.000Z"
-  },
-  {
-   "title": "Severe weather disrupts election day across several US states",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_severe-weather-disrupts-election-day-across-us-031126?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-03T19:13:19.000Z"
-  },
-  {
-   "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
-   "link": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-03T19:09:09.000Z"
-  },
-  {
-   "title": "Palestinian Americans turn to US flags to protect West Bank homes",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/palestinian-americans-turn-to-us-flags-to-protect-west-bank-homes?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-03T18:38:50.000Z"
-  },
-  {
-   "title": "UK’s King Charles expresses ‘sorrow’ in Antigua over slave trade",
-   "link": "https://www.aljazeera.com/news/2026/11/3/uks-king-charles-expresses-profound-sorrow-over-transatlantic-slave-era?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-03T18:32:46.000Z"
   },
   {
    "title": "Trump says US will end military aid to Israel as Americans vote in midterms",
@@ -80,28 +110,10 @@
    "date": "2026-11-03T18:10:17.000Z"
   },
   {
-   "title": "How to write comparison content that doesn't age like milk",
-   "link": "https://posthog.com/blog/comparison-content-guide",
-   "source": "Hacker News",
-   "date": "2026-11-03T17:46:58.000Z"
-  },
-  {
-   "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-   "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
-   "source": "Hacker News",
-   "date": "2026-11-03T17:40:00.000Z"
-  },
-  {
    "title": "Latest news bulletin | November 3rd, 2026 – Evening",
    "link": "https://www.euronews.com/video/2026/11/03/latest-news-bulletin-november-3rd-2026-evening",
    "source": "Euronews",
    "date": "2026-11-03T17:00:26.000Z"
-  },
-  {
-   "title": "Death toll rises in Ukraine after Russia attacks aid centre, hospice and hospital",
-   "link": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-03T16:57:41.000Z"
   },
   {
    "title": "Tents return to Lisbon square after Portugal protest victory",
@@ -128,12 +140,6 @@
    "date": "2026-11-03T15:25:21.000Z"
   },
   {
-   "title": "South Korea and Turkey sign financing pact as Seoul seeks role in planned nuclear power plant",
-   "link": "https://www.euronews.com/2026/11/03/south-korea-and-turkey-sign-financing-pact-as-seoul-seeks-role-in-planned-nuclear-power-pl",
-   "source": "Euronews",
-   "date": "2026-11-03T15:21:21.000Z"
-  },
-  {
    "title": "Libya's top religious authority rules against wearing Nike clothes",
    "link": "https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
@@ -144,12 +150,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-03T13:55:47.000Z"
-  },
-  {
-   "title": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
-   "link": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels",
-   "source": "Guardian World",
-   "date": "2026-11-03T13:00:07.000Z"
   },
   {
    "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",

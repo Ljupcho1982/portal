@@ -1,29 +1,113 @@
 {
- "updated": "2026-11-07T16:26:58.215Z",
+ "updated": "2026-11-07T20:53:11.630Z",
  "items": [
   {
-   "title": "Guatemalan lawmaker and three police officers killed in armed attack",
-   "link": "https://www.aljazeera.com/news/2026/11/7/guatemalan-lawmaker-and-three-police-officers-killed-in-armed-attack?traffic_source=rss",
+   "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+   "link": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-07T16:15:18.000Z"
+   "date": "2026-11-07T20:26:58.000Z"
   },
   {
-   "title": "Hundreds march in Pau, France against high living costs",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/hundreds-march-in-pau-france-against-high-living-costs?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-07T16:09:11.000Z"
+   "title": "What we know so far after Polish gunman opens fire in Krakow main square",
+   "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-07T20:23:17.000Z"
   },
   {
-   "title": "Five killed and at least 10 injured in Krakow shooting",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-poland-krakow-shooting?traffic_source=rss",
+   "title": "More than 140,000 rally as new protests against rising costs sweep France",
+   "link": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-07T16:06:58.000Z"
+   "date": "2026-11-07T20:12:22.000Z"
   },
   {
-   "title": "Google Described Its Agent Sandbox. I Built One with Firecracker and Measured It",
-   "link": "https://antonau.tech/posts/2026/11/agents-microvm-firecracker/",
+   "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-07T20:10:38.000Z"
+  },
+  {
+   "title": "Paraguay’s ousted president appears before prosecutors after impeachment",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-clip-paraguay-former-president-detained-appears?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-07T20:08:47.000Z"
+  },
+  {
+   "title": "Masked protesters set off firecrackers and block roads in Albania",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/masked-protesters-set-off-firecrackers-and-block-roads-in-albania?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-07T19:49:19.000Z"
+  },
+  {
+   "title": "Trump orders DOJ to investigate Democrats for ‘threatening’ people",
+   "link": "https://www.aljazeera.com/news/2026/11/7/trump-orders-doj-to-investigate-democrats-for-threatening-people?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-07T19:42:46.000Z"
+  },
+  {
+   "title": "Video shows people fleeing as gunman opens fire in Kraków, Poland",
+   "link": "https://www.euronews.com/2026/11/07/video-shows-people-fleeing-as-gunman-opens-fire-in-krakow-poland",
+   "source": "Euronews",
+   "date": "2026-11-07T19:15:23.000Z"
+  },
+  {
+   "title": "'Peace is possible and we are called to build it' Pope Leo XIV says in Uruguay",
+   "link": "https://www.euronews.com/2026/11/07/peace-is-possible-and-we-are-called-to-build-it-pope-leo-xiv-says-in-uruguay",
+   "source": "Euronews",
+   "date": "2026-11-07T18:15:36.000Z"
+  },
+  {
+   "title": "US offers $20m reward for information about Iran's nuclear programme",
+   "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-07T18:14:38.000Z"
+  },
+  {
+   "title": "What I run on my $10 USD OpenStick homelab",
+   "link": "https://blog.bosscher.ch/posts/openstick/",
    "source": "Hacker News",
-   "date": "2026-11-07T16:01:40.000Z"
+   "date": "2026-11-07T18:12:12.000Z"
+  },
+  {
+   "title": "The end of Microsoft Research's AI Frontiers group",
+   "link": "https://hunch.net/?p=13764006",
+   "source": "Hacker News",
+   "date": "2026-11-07T18:02:17.000Z"
+  },
+  {
+   "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor",
+   "link": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+   "source": "Hacker News",
+   "date": "2026-11-07T17:54:56.000Z"
+  },
+  {
+   "title": "Five memorable books about programming (2008)",
+   "link": "https://prog21.dadgum.com/19.html",
+   "source": "Hacker News",
+   "date": "2026-11-07T17:30:49.000Z"
+  },
+  {
+   "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+   "link": "https://github.com/hedgerow-dev/coldframe",
+   "source": "Hacker News",
+   "date": "2026-11-07T17:27:30.000Z"
+  },
+  {
+   "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+   "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+   "source": "Hacker News",
+   "date": "2026-11-07T17:19:00.000Z"
+  },
+  {
+   "title": "Houthis say at least 25 killed in Saudi air strike",
+   "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-07T17:09:24.000Z"
+  },
+  {
+   "title": "Latest news bulletin | November 7th, 2026 – Evening",
+   "link": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-evening",
+   "source": "Euronews",
+   "date": "2026-11-07T17:00:26.000Z"
   },
   {
    "title": "No clear winner after tight New Zealand general election",
@@ -32,46 +116,10 @@
    "date": "2026-11-07T15:56:28.000Z"
   },
   {
-   "title": "Iran’s IRGC says building underground sites for weapons production, storage",
-   "link": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-07T15:34:58.000Z"
-  },
-  {
-   "title": "Trump’s new chief of staff Stephen Miller says he ‘saved America’",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-07T15:29:11.000Z"
-  },
-  {
-   "title": "At least five people killed in shooting in Poland’s Krakow",
-   "link": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-07T15:22:55.000Z"
-  },
-  {
-   "title": "Ask HN: How did you convince family and friends to join your XMPP/Matrix server?",
-   "link": "https://news.ycombinator.com/item?id=50405250",
-   "source": "Hacker News",
-   "date": "2026-11-07T15:14:40.000Z"
-  },
-  {
-   "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf]",
-   "link": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
-   "source": "Hacker News",
-   "date": "2026-11-07T14:18:45.000Z"
-  },
-  {
-   "title": "The $8 Linux Computer (2022)",
-   "link": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
-   "source": "Hacker News",
-   "date": "2026-11-07T14:00:20.000Z"
-  },
-  {
-   "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
-   "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+   "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+   "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-07T12:49:36.000Z"
+   "date": "2026-11-07T15:19:35.000Z"
   },
   {
    "title": "US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran",
@@ -90,54 +138,6 @@
    "link": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-midday",
    "source": "Euronews",
    "date": "2026-11-07T11:00:15.000Z"
-  },
-  {
-   "title": "Pedro Alliana sworn in as Paraguay president after Santiago Peña's impeachment",
-   "link": "https://www.euronews.com/2026/11/07/pedro-alliana-sworn-in-as-paraguay-president-after-santiago-penas-impeachment",
-   "source": "Euronews",
-   "date": "2026-11-07T10:36:19.000Z"
-  },
-  {
-   "title": "Upload Your RAM",
-   "link": "https://uploadyourram.org",
-   "source": "Hacker News",
-   "date": "2026-11-07T10:15:26.000Z"
-  },
-  {
-   "title": "Every Mac comes with an (undocumented) family member classifier",
-   "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-   "source": "Hacker News",
-   "date": "2026-11-07T09:46:03.000Z"
-  },
-  {
-   "title": "US Secret Service arrests man parked near White House with 'multiple guns' in vehicle",
-   "link": "https://www.euronews.com/2026/11/07/us-secret-service-arrests-man-parked-near-white-house-with-multiple-guns-in-vehicle",
-   "source": "Euronews",
-   "date": "2026-11-07T09:22:35.000Z"
-  },
-  {
-   "title": "New Zealand counts votes in razor-thin election after campaign centred on cost of living",
-   "link": "https://www.euronews.com/2026/11/07/new-zealand-counts-votes-in-razor-thin-election-after-campaign-centred-on-cost-of-living",
-   "source": "Euronews",
-   "date": "2026-11-07T08:33:53.000Z"
-  },
-  {
-   "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
-   "link": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-07T07:27:44.000Z"
-  },
-  {
-   "title": "Paraguay's president impeached and under house arrest after bank collapse",
-   "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-07T07:20:00.000Z"
-  },
-  {
-   "title": "Pope in 'pretty good health' as he starts Latin America tour",
-   "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-07T06:59:48.000Z"
   },
   {
    "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",

@@ -1,11 +1,77 @@
 {
- "updated": "2026-11-06T23:09:01.675Z",
+ "updated": "2026-11-07T02:48:19.083Z",
  "items": [
   {
-   "title": "US urges China to honour Busan trade deal commitments",
-   "link": "https://www.aljazeera.com/economy/2026/11/6/us-urges-china-to-honour-busan-trade-deal-commitments?traffic_source=rss",
+   "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+   "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+   "source": "Guardian World",
+   "date": "2026-11-07T01:55:11.000Z"
+  },
+  {
+   "title": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+   "link": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-06T23:00:37.000Z"
+   "date": "2026-11-07T01:55:03.000Z"
+  },
+  {
+   "title": "EU prosecutor office investigates fatal train crash in Spain",
+   "link": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-07T01:33:39.000Z"
+  },
+  {
+   "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+   "link": "https://josef.cn/blog/unitree",
+   "source": "Hacker News",
+   "date": "2026-11-07T01:05:16.000Z"
+  },
+  {
+   "title": "Pope Leo XIV arrives for South American tour after cancer surgery",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-07T00:55:51.000Z"
+  },
+  {
+   "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+   "link": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-07T00:31:41.000Z"
+  },
+  {
+   "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-07T00:21:49.000Z"
+  },
+  {
+   "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-07T00:00:00.000Z"
+  },
+  {
+   "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+   "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+   "source": "Hacker News",
+   "date": "2026-11-06T23:37:19.000Z"
+  },
+  {
+   "title": "Libghostty 1.0",
+   "link": "https://mitchellh.com/writing/libghostty-1-0",
+   "source": "Hacker News",
+   "date": "2026-11-06T23:30:52.000Z"
+  },
+  {
+   "title": "Outbound SIP calling is now available to all organizations",
+   "link": "https://developers.openai.com/api/docs/guides/voice-sip",
+   "source": "Hacker News",
+   "date": "2026-11-06T23:03:55.000Z"
+  },
+  {
+   "title": "Sodium-ion batteries approach cost parity with LFP",
+   "link": "https://www.pv-magazine.com/2026/11/06/sodium-ion-batteries-approach-cost-parity-with-lfp-with-70-gwh-covered-by-supply-agreements/",
+   "source": "Hacker News",
+   "date": "2026-11-06T23:00:46.000Z"
   },
   {
    "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
@@ -14,82 +80,16 @@
    "date": "2026-11-06T22:50:43.000Z"
   },
   {
-   "title": "*sshole, or when are we going to get rid of C?",
-   "link": "https://sunshowers.io/posts/sshole/",
-   "source": "Hacker News",
-   "date": "2026-11-06T22:34:04.000Z"
-  },
-  {
-   "title": "Palestinian couples tie the knot in mass wedding in Gaza",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-06T21:37:30.000Z"
-  },
-  {
-   "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
-   "link": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-06T21:22:57.000Z"
-  },
-  {
    "title": "AI stocks climb after trillions wiped from market values",
    "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-06T21:06:25.000Z"
   },
   {
-   "title": "Protesters break into Microsoft data centre site in Amsterdam",
-   "link": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-06T21:04:40.000Z"
-  },
-  {
-   "title": "Trump promotes Stephen Miller to Chief of Staff ‘to run things well’",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/6/trump-promotes-stephen-miller-to-chief-of-staff-to-run-things?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-06T20:48:25.000Z"
-  },
-  {
-   "title": "Meghan Markle’s father arrested in US over alleged child sex abuse photos",
-   "link": "https://www.aljazeera.com/news/2026/11/6/meghan-markles-father-arrested-in-us-over-alleged-child-sex-abuse-photos?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-06T20:28:07.000Z"
-  },
-  {
-   "title": "AI is dramatically accelerating AI research",
-   "link": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
-   "source": "Hacker News",
-   "date": "2026-11-06T20:27:23.000Z"
-  },
-  {
-   "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-   "link": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-   "source": "Hacker News",
-   "date": "2026-11-06T20:09:14.000Z"
-  },
-  {
    "title": "Trump appoints immigration hardliner Stephen Miller as new chief of staff",
    "link": "https://www.euronews.com/2026/11/06/trump-appoints-immigration-hardliner-stephen-miller-as-new-chief-of-staff",
    "source": "Euronews",
    "date": "2026-11-06T19:52:20.000Z"
-  },
-  {
-   "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-   "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
-   "source": "Hacker News",
-   "date": "2026-11-06T19:48:51.000Z"
-  },
-  {
-   "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
-   "link": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
-   "source": "Hacker News",
-   "date": "2026-11-06T19:41:20.000Z"
-  },
-  {
-   "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
-   "link": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
-   "source": "Guardian World",
-   "date": "2026-11-06T19:23:24.000Z"
   },
   {
    "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",

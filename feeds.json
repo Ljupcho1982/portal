@@ -1,47 +1,107 @@
 {
- "updated": "2026-11-08T00:36:24.360Z",
+ "updated": "2026-11-08T07:21:18.128Z",
  "items": [
   {
-   "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-08T00:00:56.000Z"
+   "title": "Trump offers UFC boss White House press secretary role: 'Dana, please take the job!'",
+   "link": "https://www.euronews.com/2026/11/08/trump-offers-ufc-boss-press-secretary-role-dana-please-take-the-job",
+   "source": "Euronews",
+   "date": "2026-11-08T07:04:37.000Z"
   },
   {
-   "title": "Eisenkot chosen over Netanyahu to form Israel’s next government",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/eisenkot-chosen-over-netanyahu-to-form-israels-next-government?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-07T23:45:45.000Z"
+   "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+   "link": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
+   "source": "Guardian World",
+   "date": "2026-11-08T07:00:34.000Z"
   },
   {
-   "title": "GitHub New pull request overview page in public preview",
-   "link": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+   "title": "Photos: Heavy rains leave tens of thousands without shelter in Gaza",
+   "link": "https://www.aljazeera.com/gallery/2026/11/8/photos-heavy-rains-leave-tens-of-thousands-without-shelter-in-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-08T06:55:24.000Z"
+  },
+  {
+   "title": "Is unconditional support for Israel becoming a liability for Republicans?",
+   "link": "https://www.aljazeera.com/opinions/2026/11/8/is-unconditional-support-for-israel-becoming-a-liability-for-republicans?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-08T06:52:14.000Z"
+  },
+  {
+   "title": "There is reason to hope that the Democrats might deliver this time",
+   "link": "https://www.aljazeera.com/opinions/2026/11/8/there-is-reason-to-hope-that-the-democrats-might-deliver-this-time?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-08T06:39:33.000Z"
+  },
+  {
+   "title": "Latest news bulletin | November 8th, 2026 – Morning",
+   "link": "https://www.euronews.com/video/2026/11/08/latest-news-bulletin-november-8th-2026-morning",
+   "source": "Euronews",
+   "date": "2026-11-08T06:00:32.000Z"
+  },
+  {
+   "title": "Haitians cheer El Salvador’s Bukele amid gang war",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-08T05:09:39.000Z"
+  },
+  {
+   "title": "Plane clips truck during emergency landing on busy Florida road",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_plane-clips-truck-during-emergency-landing-florida-071126?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-08T04:59:02.000Z"
+  },
+  {
+   "title": "Drone attack on Colombian army base kills three soldiers and wounds 16",
+   "link": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-08T04:56:37.000Z"
+  },
+  {
+   "title": "Kirlian Photography: Building Your Own Equipment",
+   "link": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
    "source": "Hacker News",
-   "date": "2026-11-07T23:09:40.000Z"
+   "date": "2026-11-08T04:14:12.000Z"
+  },
+  {
+   "title": "Houthis say at least 33 killed in Saudi air strike",
+   "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-08T04:03:12.000Z"
+  },
+  {
+   "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+   "link": "https://github.com/dmunozv04/isponsorblocktv",
+   "source": "Hacker News",
+   "date": "2026-11-08T03:47:19.000Z"
+  },
+  {
+   "title": "Goodbye Claude, Hello Pi",
+   "link": "https://caleb.software/posts/claude-to-pi.html",
+   "source": "Hacker News",
+   "date": "2026-11-08T03:11:48.000Z"
+  },
+  {
+   "title": "Consumer brain wave headsets threaten privacy",
+   "link": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
+   "source": "Hacker News",
+   "date": "2026-11-08T02:02:38.000Z"
+  },
+  {
+   "title": "ZapFast: A fast, native WhatsApp client in Rust and egui",
+   "link": "https://github.com/crmne/zapfast",
+   "source": "Hacker News",
+   "date": "2026-11-08T02:02:27.000Z"
   },
   {
    "title": "What we know so far after Krakow gun attack",
    "link": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-07T22:58:49.000Z"
+   "date": "2026-11-08T01:47:41.000Z"
   },
   {
-   "title": "IRA Velinsky – Commodore's Industrial Designer",
-   "link": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
+   "title": "Commodore PET – The Worlds First Personal Computer",
+   "link": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
    "source": "Hacker News",
-   "date": "2026-11-07T22:45:39.000Z"
-  },
-  {
-   "title": "Making any integer with four 2s (2025)",
-   "link": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
-   "source": "Hacker News",
-   "date": "2026-11-07T22:38:58.000Z"
-  },
-  {
-   "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
-   "link": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-07T22:21:58.000Z"
+   "date": "2026-11-07T23:15:34.000Z"
   },
   {
    "title": "Israel's president tasks opposition leader Eisenkot with forming government",
@@ -56,46 +116,16 @@
    "date": "2026-11-07T22:10:08.000Z"
   },
   {
-   "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
-   "link": "https://eyesrhythm.com/",
-   "source": "Hacker News",
-   "date": "2026-11-07T21:47:47.000Z"
-  },
-  {
    "title": "Ukraine: Russian strikes hit Kyiv region, damaging infrastructure",
    "link": "https://www.euronews.com/video/2026/11/07/ukraine-russian-strikes-hit-kyiv-region-damaging-infrastructure",
    "source": "Euronews",
    "date": "2026-11-07T21:45:27.000Z"
   },
   {
-   "title": "Police clash with protesters as anti-government rallies sweep France",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-07T21:24:10.000Z"
-  },
-  {
-   "title": "MeccanicOS",
-   "link": "https://meccanicos.com/",
-   "source": "Hacker News",
-   "date": "2026-11-07T21:13:44.000Z"
-  },
-  {
-   "title": "Shadow of the Sun (2021)",
-   "link": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
-   "source": "Hacker News",
-   "date": "2026-11-07T21:11:05.000Z"
-  },
-  {
-   "title": "Mélenchon promises action against Israeli annexation if elected President",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-07T20:53:47.000Z"
-  },
-  {
-   "title": "Who is behind Europe’s suspected hybrid attacks?",
-   "link": "https://www.aljazeera.com/video/inside-story/2026/11/7/who-is-behind-europes-suspected-hybrid-attacks?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-07T20:48:58.000Z"
+   "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+   "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-07T21:36:16.000Z"
   },
   {
    "title": "Video shows people fleeing as gunman opens fire in Kraków, Poland",
@@ -116,40 +146,10 @@
    "date": "2026-11-07T18:14:38.000Z"
   },
   {
-   "title": "Houthis say at least 25 killed in Saudi air strike",
-   "link": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-07T17:09:24.000Z"
-  },
-  {
-   "title": "Latest news bulletin | November 7th, 2026 – Evening",
-   "link": "https://www.euronews.com/video/2026/11/07/latest-news-bulletin-november-7th-2026-evening",
-   "source": "Euronews",
-   "date": "2026-11-07T17:00:26.000Z"
-  },
-  {
-   "title": "No clear winner after tight New Zealand general election",
-   "link": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-07T15:56:28.000Z"
-  },
-  {
    "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
    "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-07T15:19:35.000Z"
-  },
-  {
-   "title": "US launches new targeted strikes on Iran as Trump claims progress in talks with Tehran",
-   "link": "https://www.euronews.com/2026/11/07/us-launches-new-targeted-strikes-on-iran-as-trump-claims-progress-in-talks-with-tehran",
-   "source": "Euronews",
-   "date": "2026-11-07T11:35:53.000Z"
-  },
-  {
-   "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
-   "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
-   "source": "Guardian World",
-   "date": "2026-11-07T01:55:11.000Z"
   },
   {
    "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",

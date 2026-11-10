@@ -1,17 +1,137 @@
 {
- "updated": "2026-11-09T17:29:45.680Z",
+ "updated": "2026-11-10T01:31:40.756Z",
  "items": [
   {
-   "title": "Trump questions midterm elections integrity after previously accepting results",
-   "link": "https://www.bbc.co.uk/news/articles/ck79p9350zp9o?at_medium=RSS&at_campaign=rss",
+   "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "link": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-09T17:16:42.000Z"
+   "date": "2026-11-10T01:22:10.000Z"
   },
   {
-   "title": "Nine Zimbabweans caught allegedly trying to leave South Africa to fight in Ukraine",
-   "link": "https://www.bbc.co.uk/news/articles/cm93z3lp5lnpo?at_medium=RSS&at_campaign=rss",
+   "title": "France blames Iran for October supermarket cyberattack",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-10T01:01:47.000Z"
+  },
+  {
+   "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-10T01:00:00.000Z"
+  },
+  {
+   "title": "Verdict delayed in Honduras sex-trafficking case linked to disappearance",
+   "link": "https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-10T00:57:58.000Z"
+  },
+  {
+   "title": "Trump says FBI probing Nvidia CEO’s affair with alleged spy",
+   "link": "https://www.aljazeera.com/economy/2026/11/10/trump-says-fbi-probing-nvidia-ceos-affair-with-alleged-spy?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-10T00:44:28.000Z"
+  },
+  {
+   "title": "Epstein associate who still runs model agency 'put me in danger' says abuse survivor",
+   "link": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-09T17:06:18.000Z"
+   "date": "2026-11-10T00:14:03.000Z"
+  },
+  {
+   "title": "Ukraine peace talks resume with 'some flexibility' by warring sides, US officials say",
+   "link": "https://www.bbc.co.uk/news/articles/cqpvgvrpjvv8o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-10T00:09:49.000Z"
+  },
+  {
+   "title": "Horible public key tricks",
+   "link": "https://maurycyz.com/projects/badcert/",
+   "source": "Hacker News",
+   "date": "2026-11-10T00:07:17.000Z"
+  },
+  {
+   "title": "Iran war live: Iran demands US ‘surrender’ to its conditions",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-09T23:55:23.000Z"
+  },
+  {
+   "title": "US congressman files resolution to impeach Defence Secretary Pete Hegseth",
+   "link": "https://www.aljazeera.com/news/2026/11/9/us-congressman-files-resolution-to-impeach-defence-secretary-pete-hegseth?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-09T23:53:03.000Z"
+  },
+  {
+   "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+   "link": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-09T23:45:14.000Z"
+  },
+  {
+   "title": "Fable 5.2 one-shotted my nephew's dream game",
+   "link": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+   "source": "Hacker News",
+   "date": "2026-11-09T23:08:13.000Z"
+  },
+  {
+   "title": "Exact – a new cross platform UI framework by the Expo team",
+   "link": "https://github.com/expo/exact",
+   "source": "Hacker News",
+   "date": "2026-11-09T22:59:13.000Z"
+  },
+  {
+   "title": "A year after the 100% AI mandate nobody understands our code",
+   "link": "https://www.reddit.com/r/ClaudeCode/comments/1xq2n3t/a_year_after_the_100_ai_mandate_nobody/",
+   "source": "Hacker News",
+   "date": "2026-11-09T22:19:12.000Z"
+  },
+  {
+   "title": "Turkey: Steel plant explosion kills 17 in Izmir province",
+   "link": "https://www.euronews.com/video/2026/11/09/turkey-steel-plant-explosion-kills-17-in-izmir-province",
+   "source": "Euronews",
+   "date": "2026-11-09T22:02:16.000Z"
+  },
+  {
+   "title": "TPU 8tx and TPU 8i Max",
+   "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+   "source": "Hacker News",
+   "date": "2026-11-09T21:56:57.000Z"
+  },
+  {
+   "title": "Poland: Tusk and Nawrocki honour six victims of Kraków shooting",
+   "link": "https://www.euronews.com/video/2026/11/09/poland-tusk-and-nawrocki-honour-six-victims-of-krakow-shooting",
+   "source": "Euronews",
+   "date": "2026-11-09T21:34:14.000Z"
+  },
+  {
+   "title": "Turkey: Delegates arrive in Antalya as COP31 climate talks begin",
+   "link": "https://www.euronews.com/video/2026/11/09/turkey-delegates-arrive-in-antalya-as-cop31-climate-talks-begin",
+   "source": "Euronews",
+   "date": "2026-11-09T21:23:15.000Z"
+  },
+  {
+   "title": "France accuses Iran of supermarket fridge hacking",
+   "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-09T20:20:08.000Z"
+  },
+  {
+   "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+   "link": "https://artificialanalysis.ai/models/claude-fable-5-2",
+   "source": "Hacker News",
+   "date": "2026-11-09T20:04:55.000Z"
+  },
+  {
+   "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
+   "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-09T19:58:01.000Z"
+  },
+  {
+   "title": "Argentina: Pope Leo XIV urges Milei's government to protect the most vulnerable",
+   "link": "https://www.euronews.com/2026/11/09/argentina-pope-leo-xiv-urges-mileis-government-to-protect-the-most-vulnerable",
+   "source": "Euronews",
+   "date": "2026-11-09T18:54:15.000Z"
   },
   {
    "title": "Argentina: Pope Leo XIV receives warm welcome in Claypole",
@@ -26,130 +146,10 @@
    "date": "2026-11-09T17:00:26.000Z"
   },
   {
-   "title": "Y/N (YC S23) Is Hiring a Growth Lead to Distribute Superhuman A.I. Storytelling",
-   "link": "https://www.ycombinator.com/companies/yn/jobs/TjDn3YZ-founding-growth-marketer",
-   "source": "Hacker News",
-   "date": "2026-11-09T17:00:06.000Z"
-  },
-  {
-   "title": "France accuses Iran of supermarket fridge hacking",
-   "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T16:55:07.000Z"
-  },
-  {
-   "title": "Al Jazeera tries skateboarding at Youth Olympics",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/al-jazeera-tries-skateboarding-at-youth-olympics?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-09T16:48:34.000Z"
-  },
-  {
-   "title": "France accuses Iran of cyberattack on supermarket fridges",
-   "link": "https://www.aljazeera.com/news/2026/11/9/france-accuses-iran-of-cyberattack-on-european-fridges?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-09T16:33:33.000Z"
-  },
-  {
-   "title": "Norway dropped from junior hockey championship to make room for Russia",
-   "link": "https://www.euronews.com/2026/11/09/norway-dropped-from-junior-hockey-championship-to-make-room-for-russia",
-   "source": "Euronews",
-   "date": "2026-11-09T16:28:06.000Z"
-  },
-  {
-   "title": "Israel’s Shin Bet finds no evidence of foreign election meddling: Report",
-   "link": "https://www.aljazeera.com/news/2026/11/9/israels-shin-bet-finds-no-evidence-of-foreign-election-meddling-report?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-09T16:18:28.000Z"
-  },
-  {
-   "title": "Man uses excavator to destroy Chinese government building",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/9/man-uses-excavator-to-destroy-chinese-government-building?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-09T16:15:04.000Z"
-  },
-  {
-   "title": "Castration extends life span, but in a surprising way, mouse study suggests",
-   "link": "https://www.science.org/content/article/castration-extends-life-span-surprising-way-mouse-study-suggests",
-   "source": "Hacker News",
-   "date": "2026-11-09T16:01:45.000Z"
-  },
-  {
-   "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-   "link": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
-   "source": "Hacker News",
-   "date": "2026-11-09T16:00:45.000Z"
-  },
-  {
-   "title": "Nvidia shares slump amid investigation into CEO Jensen Huang",
-   "link": "https://www.aljazeera.com/economy/2026/11/9/nvidia-shares-slump-amid-investigation-into-ceo-jensen-huang?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-09T16:00:10.000Z"
-  },
-  {
-   "title": "More than 50,000 displaced by deadly Ethiopia border clashes",
-   "link": "https://www.aljazeera.com/news/2026/11/9/more-than-50000-displaced-by-deadly-ethiopia-border-clashes?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-09T15:55:27.000Z"
-  },
-  {
-   "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
-   "link": "https://github.com/datareceipts/data-receipts/tree/main/109-gpu-pricing",
-   "source": "Hacker News",
-   "date": "2026-11-09T15:39:01.000Z"
-  },
-  {
-   "title": "Ukraine hits Russia’s second-largest refinery as fuel rationing spreads",
-   "link": "https://www.euronews.com/2026/11/09/ukraine-hits-russias-second-largest-refinery-as-fuel-rationing-spreads",
-   "source": "Euronews",
-   "date": "2026-11-09T15:30:50.000Z"
-  },
-  {
-   "title": "British comedian Russell Brand sentenced to 10 years and six months for rape, sexual assault",
-   "link": "https://www.euronews.com/2026/11/09/british-comedian-russell-brand-sentenced-to-10-years-and-six-months-for-rape-sexual-assaul",
-   "source": "Euronews",
-   "date": "2026-11-09T15:29:33.000Z"
-  },
-  {
-   "title": "Pigshell: Unix the Web",
-   "link": "http://pigshell.com/v/0.6.4/",
-   "source": "Hacker News",
-   "date": "2026-11-09T15:18:19.000Z"
-  },
-  {
-   "title": "I Saw Your HN Comment",
-   "link": "https://joshstrange.com/2026/11/09/i-saw-your-hn-comment/",
-   "source": "Hacker News",
-   "date": "2026-11-09T15:01:03.000Z"
-  },
-  {
-   "title": "Krakow shooting suspect has died in hospital, police say",
-   "link": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T11:56:25.000Z"
-  },
-  {
-   "title": "Egypt: Seven dead, 125 injured in collision between two trains",
-   "link": "https://www.euronews.com/video/2026/11/09/egypt-seven-dead-125-injured-in-collision-between-two-trains",
-   "source": "Euronews",
-   "date": "2026-11-09T11:33:37.000Z"
-  },
-  {
    "title": "Deadly floods hit Iraq as thunderstorms sweep across region",
    "link": "https://www.theguardian.com/environment/2026/nov/09/deadly-floods-iraq-thunderstorms-iran-portugal-japan-snow",
    "source": "Guardian World",
    "date": "2026-11-09T10:59:06.000Z"
-  },
-  {
-   "title": "Inside the French drug gangs recruiting children to kill",
-   "link": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T06:00:26.000Z"
-  },
-  {
-   "title": "Cruise ship pianist rescued from sea after nine hours in Pacific Ocean",
-   "link": "https://www.bbc.co.uk/news/articles/ck1wvrrgln13o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-09T02:50:13.000Z"
   },
   {
    "title": "Collision of two trains in Egypt kills at least seven",

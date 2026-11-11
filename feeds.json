@@ -1,89 +1,143 @@
 {
- "updated": "2026-11-11T15:13:10.308Z",
+ "updated": "2026-11-11T21:58:24.662Z",
  "items": [
+  {
+   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+   "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+   "source": "Hacker News",
+   "date": "2026-11-11T21:24:35.000Z"
+  },
+  {
+   "title": "Play GTA5 on Browser",
+   "link": "https://playgta5.com/",
+   "source": "Hacker News",
+   "date": "2026-11-11T21:10:35.000Z"
+  },
+  {
+   "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+   "link": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-11T21:03:40.000Z"
+  },
+  {
+   "title": "Thousands march to mark Poland’s Independence Day",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/thousands-march-to-mark-polands-independence-day?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-11T21:02:02.000Z"
+  },
+  {
+   "title": "Hoax bomb threats target schools across Italy, UK and Ireland",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-11T21:01:42.000Z"
+  },
+  {
+   "title": "GitHub Incident with Webhooks, Actions, etc.",
+   "link": "https://www.githubstatus.com/incidents/dvy0t3mvh1lg",
+   "source": "Hacker News",
+   "date": "2026-11-11T20:54:37.000Z"
+  },
+  {
+   "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+   "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-11T20:52:52.000Z"
+  },
+  {
+   "title": "Tools for exploring the souls of large language models",
+   "link": "https://oshea00.github.io/posts/tinygpt-visualizer/",
+   "source": "Hacker News",
+   "date": "2026-11-11T20:45:50.000Z"
+  },
+  {
+   "title": "Oil production nears pre-Iran war levels, OPEC says",
+   "link": "https://www.aljazeera.com/news/2026/11/11/oil-production-near-pre-iran-war-levels-opec-says?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-11T20:45:30.000Z"
+  },
+  {
+   "title": "Gaza goalkeeper killed in Israeli attack",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/gaza-goalkeeper-killed-in-israeli-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-11T20:44:34.000Z"
+  },
+  {
+   "title": "Trump’s White House calls Democratic plans for congressional probes ‘abuse’",
+   "link": "https://www.aljazeera.com/news/2026/11/11/trumps-white-house-calls-democratic-plans-for-congressional-probes-abuse?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-11T20:39:50.000Z"
+  },
+  {
+   "title": "Emacs in the Age of Magic",
+   "link": "https://commandlinesystems.com/magic.txt",
+   "source": "Hacker News",
+   "date": "2026-11-11T20:26:32.000Z"
+  },
+  {
+   "title": "Huawei releases MACaQ, its internal quantizer for local inference",
+   "link": "https://github.com/huawei-csl/MACaQ",
+   "source": "Hacker News",
+   "date": "2026-11-11T20:23:57.000Z"
+  },
+  {
+   "title": "German tech company signs €60 million contract with Elon Musk for satellite solar cell supply",
+   "link": "https://www.euronews.com/2026/11/11/german-tech-company-signs-60-million-contract-with-elon-musk-for-satellite-solar-cell-supp",
+   "source": "Euronews",
+   "date": "2026-11-11T19:01:03.000Z"
+  },
+  {
+   "title": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
+   "link": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
+   "source": "Guardian World",
+   "date": "2026-11-11T19:00:33.000Z"
+  },
+  {
+   "title": "Schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax",
+   "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-11T18:38:45.000Z"
+  },
+  {
+   "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
+   "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-11T18:04:58.000Z"
+  },
+  {
+   "title": "Russian ambassador to the US dies, Russia's foreign ministry announced",
+   "link": "https://www.euronews.com/2026/11/11/russian-ambassador-to-the-us-dies-russias-foreign-ministry-announced",
+   "source": "Euronews",
+   "date": "2026-11-11T17:09:10.000Z"
+  },
+  {
+   "title": "Latest news bulletin | November 11th, 2026 – Evening",
+   "link": "https://www.euronews.com/video/2026/11/11/latest-news-bulletin-november-11th-2026-evening",
+   "source": "Euronews",
+   "date": "2026-11-11T17:00:26.000Z"
+  },
+  {
+   "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+   "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-11T16:45:11.000Z"
+  },
+  {
+   "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
+   "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-11T16:38:07.000Z"
+  },
+  {
+   "title": "Trinidad and Tobago highest court overturns gay sex ban",
+   "link": "https://www.euronews.com/2026/11/11/trinidad-and-tobago-highest-court-overturns-gay-sex-ban",
+   "source": "Euronews",
+   "date": "2026-11-11T16:27:15.000Z"
+  },
   {
    "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
    "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-11T14:56:11.000Z"
-  },
-  {
-   "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-   "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-11T14:51:26.000Z"
-  },
-  {
-   "title": "Italy vs France: UEFA Nations League – preview, team news, predictions",
-   "link": "https://www.aljazeera.com/sports/2026/11/11/italy-vs-france-uefa-nations-league-preview-team-news?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-11T14:43:46.000Z"
-  },
-  {
-   "title": "Pharo in the Browser with WebAssembly",
-   "link": "https://massimo-nocentini.github.io/pharo-vm/world.html",
-   "source": "Hacker News",
-   "date": "2026-11-11T14:21:27.000Z"
-  },
-  {
-   "title": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
-   "link": "https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-11T14:10:47.000Z"
-  },
-  {
-   "title": "Atuin Threads: All your agent sessions on every machine",
-   "link": "https://blog.atuin.sh/threads-agent-sessions/",
-   "source": "Hacker News",
-   "date": "2026-11-11T14:10:46.000Z"
-  },
-  {
-   "title": "South Africans divided over Olympic swimmer’s switch to Netherlands",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/south-africans-divided-over-olympic-swimmers-switch-to-netherlands-2?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-11T14:09:42.000Z"
-  },
-  {
-   "title": "Spain sees widespread disruption in first general strike for 14 years",
-   "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-11T14:06:27.000Z"
-  },
-  {
-   "title": "‘Our neighbours are gone’: Gaza survivors recount horrors of deadly floods",
-   "link": "https://www.aljazeera.com/features/2026/11/11/as-gaza-flood-waters-subside-palestinians-assess-human-and-material-damage?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-11T14:04:17.000Z"
-  },
-  {
-   "title": "Apple is killing its Support Community forum next week",
-   "link": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
-   "source": "Hacker News",
-   "date": "2026-11-11T14:02:11.000Z"
-  },
-  {
-   "title": "Killing of journalist underscores deteriorating conditions in Ecuador",
-   "link": "https://www.theguardian.com/world/2026/nov/11/ecuador-journalist-killing",
-   "source": "Guardian World",
-   "date": "2026-11-11T14:00:52.000Z"
-  },
-  {
-   "title": "Why is Pochettino the favourite to replace Carrick at Manchester United?",
-   "link": "https://www.aljazeera.com/sports/2026/11/11/why-is-pochettino-the-favourite-to-replace-carrick-at-manchester-united?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-11T13:56:53.000Z"
-  },
-  {
-   "title": "I asked every TV manufacturer 17 questions about how they spy on you",
-   "link": "https://www.theverge.com/tech/1012372/tv-privacy-acr-questions",
-   "source": "Hacker News",
-   "date": "2026-11-11T13:56:05.000Z"
-  },
-  {
-   "title": "Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)",
-   "link": "https://github.com/0xdeadf1sh/AssemblyForNeovim",
-   "source": "Hacker News",
-   "date": "2026-11-11T13:34:24.000Z"
   },
   {
    "title": "Storm Charles: Heavy rain and strong winds batter Portugal",
@@ -92,64 +146,10 @@
    "date": "2026-11-11T13:27:43.000Z"
   },
   {
-   "title": "Four grizzly bears killed in Canada after fatal attack on mother and daughter",
-   "link": "https://www.bbc.co.uk/news/articles/cwg5r8zrm11mo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-11T13:24:29.000Z"
-  },
-  {
-   "title": "Trump ‘Foot Soldier’ statue mocks his Vietnam draft deferment",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/trump-foot-soldier-statue-mocks-his-vietnam-draft-deferment?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-11T13:20:49.000Z"
-  },
-  {
-   "title": "EventSourcingDB 1.3.0 Is Available",
-   "link": "https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available",
-   "source": "Hacker News",
-   "date": "2026-11-11T13:19:45.000Z"
-  },
-  {
    "title": "EU plans Doha defence talks to strengthen security ties with Gulf countries",
    "link": "https://www.euronews.com/2026/11/11/eu-plans-doha-defence-talks-to-strengthen-security-ties-with-gulf-countries",
    "source": "Euronews",
    "date": "2026-11-11T13:13:43.000Z"
-  },
-  {
-   "title": "Hundreds of Italian schools hit by threats in suspected bomb hoax",
-   "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-11T12:30:29.000Z"
-  },
-  {
-   "title": "Protesters outside Israel’s Knesset oppose Arab lawmakers, call for new elections",
-   "link": "https://www.euronews.com/video/2026/11/11/protesters-outside-israels-knesset-oppose-arab-lawmakers-call-for-new-elections",
-   "source": "Euronews",
-   "date": "2026-11-11T11:55:10.000Z"
-  },
-  {
-   "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
-   "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-11T11:47:22.000Z"
-  },
-  {
-   "title": "Russia’s last openly critical newspaper Novaya Gazeta shuts its Moscow office",
-   "link": "https://www.euronews.com/2026/11/11/russias-last-openly-critical-newspaper-novaya-gazeta-shuts-its-moscow-office",
-   "source": "Euronews",
-   "date": "2026-11-11T11:33:11.000Z"
-  },
-  {
-   "title": "Latest news bulletin | November 11th, 2026 – Midday",
-   "link": "https://www.euronews.com/video/2026/11/11/latest-news-bulletin-november-11th-2026-midday",
-   "source": "Euronews",
-   "date": "2026-11-11T11:00:15.000Z"
-  },
-  {
-   "title": "Trump’s defamation lawsuit against the BBC over Panorama edit can proceed, judge rules",
-   "link": "https://www.euronews.com/2026/11/11/trumps-defamation-lawsuit-against-the-bbc-over-panorama-edit-can-proceed-judge-rules",
-   "source": "Euronews",
-   "date": "2026-11-11T10:57:02.000Z"
   },
   {
    "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",

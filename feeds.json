@@ -1,149 +1,155 @@
 {
- "updated": "2026-11-12T11:11:30.374Z",
+ "updated": "2026-11-12T18:56:43.977Z",
  "items": [
   {
-   "title": "Latest news bulletin | November 12th, 2026 – Midday",
-   "link": "https://www.euronews.com/video/2026/11/12/latest-news-bulletin-november-12th-2026-midday",
+   "title": "Russia and Iran criticise US Caspian task force as study outlines joint sanction evasion",
+   "link": "https://www.euronews.com/2026/11/12/russia-and-iran-criticise-us-caspian-task-force-as-study-outlines-joint-sanction-evasion",
    "source": "Euronews",
-   "date": "2026-11-12T11:00:15.000Z"
+   "date": "2026-11-12T18:53:36.000Z"
   },
   {
-   "title": "Doomsday study calculated humanity's end on Friday 13 November 2026",
-   "link": "https://www.euronews.com/2026/11/12/doomsday-study-calculated-humanitys-end-on-friday-13-november-2026",
-   "source": "Euronews",
-   "date": "2026-11-12T10:54:52.000Z"
-  },
-  {
-   "title": "Russian officer killed by car bomb in St Petersburg as murder investigation begins",
-   "link": "https://www.euronews.com/2026/11/12/russian-officer-killed-by-car-bomb-in-st-petersburg-as-murder-investigation-begins",
-   "source": "Euronews",
-   "date": "2026-11-12T10:48:52.000Z"
-  },
-  {
-   "title": "New York building collapse kills at least two, officials say",
-   "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
+   "title": "Hegseth awards medal to war memorial guard who reprimanded him and group",
+   "link": "https://www.bbc.co.uk/news/articles/cmvg2r3dq7xno?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-12T10:40:49.000Z"
+   "date": "2026-11-12T18:47:35.000Z"
   },
   {
-   "title": "Baby buried in dog crate in US found alive after 24 hours",
-   "link": "https://www.euronews.com/2026/11/12/baby-buried-in-dog-crate-in-us-found-alive-after-24-hours",
-   "source": "Euronews",
-   "date": "2026-11-12T10:36:33.000Z"
-  },
-  {
-   "title": "Drones deliver food to chimpanzees stranded by flooding",
-   "link": "https://www.euronews.com/2026/11/12/drones-deliver-food-to-chimpanzees-stranded-by-flooding",
-   "source": "Euronews",
-   "date": "2026-11-12T10:35:51.000Z"
-  },
-  {
-   "title": "Manchester United sack Michael Carrick as manager",
-   "link": "https://www.aljazeera.com/news/2026/11/12/manchester-united-sack-michael-carrick-as-manager?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-12T10:33:29.000Z"
-  },
-  {
-   "title": "Why Writing Correct Software Is Hard",
-   "link": "https://pron.github.io/posts/correctness-and-complexity",
-   "source": "Hacker News",
-   "date": "2026-11-12T10:28:26.000Z"
-  },
-  {
-   "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
+   "title": "US envoys head to meet Zelensky after talks with Putin in Moscow",
    "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-12T10:08:38.000Z"
+   "date": "2026-11-12T18:28:59.000Z"
+  },
+  {
+   "title": "Rust 1.100.0",
+   "link": "https://github.com/rust-lang/rust/releases/tag/1.100.0",
+   "source": "Hacker News",
+   "date": "2026-11-12T18:24:06.000Z"
+  },
+  {
+   "title": "Outlook is down, and so is Microsoft's status page",
+   "link": "https://gvwire.com/2026/11/12/microsoft-outlook-down-for-thousands-of-users-downdetector-shows/",
+   "source": "Hacker News",
+   "date": "2026-11-12T18:20:48.000Z"
+  },
+  {
+   "title": "Ask HN: Microsoft/Azure Outage?",
+   "link": "https://news.ycombinator.com/item?id=50471668",
+   "source": "Hacker News",
+   "date": "2026-11-12T18:17:13.000Z"
+  },
+  {
+   "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+   "link": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+   "source": "Hacker News",
+   "date": "2026-11-12T18:15:48.000Z"
+  },
+  {
+   "title": "Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company",
+   "link": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+   "source": "Hacker News",
+   "date": "2026-11-12T18:14:18.000Z"
+  },
+  {
+   "title": "Al Jazeera reports from Gaza hospital attacked by Israel",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/al-jazeera-reports-from-gaza-hospital-attacked-by-israel?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-12T18:03:02.000Z"
+  },
+  {
+   "title": "Suspect turns gun on himself after deadly shooting in Washington DC",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/suspect-turns-gun-on-himself-after-deadly-shooting-in-washington-dc?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-12T18:02:32.000Z"
+  },
+  {
+   "title": "Gemini 4 Hydrogen",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+   "source": "Hacker News",
+   "date": "2026-11-12T18:01:48.000Z"
+  },
+  {
+   "title": "“The rules-based international order is breaking down,” Thailand’s Foreign Minister warns",
+   "link": "https://www.euronews.com/2026/11/12/the-rules-based-international-order-is-breaking-down-thailands-foreign-minister-warns",
+   "source": "Euronews",
+   "date": "2026-11-12T17:30:04.000Z"
+  },
+  {
+   "title": "Nvidia CEO Jensen Huang steps down, more affair details revealed",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-12T17:25:58.000Z"
+  },
+  {
+   "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
+   "link": "https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-12T17:18:13.000Z"
+  },
+  {
+   "title": "Latest news bulletin | November 12th, 2026 – Evening",
+   "link": "https://www.euronews.com/video/2026/11/12/latest-news-bulletin-november-12th-2026-evening",
+   "source": "Euronews",
+   "date": "2026-11-12T17:00:26.000Z"
+  },
+  {
+   "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-12T16:55:10.000Z"
+  },
+  {
+   "title": "Italy vs France LIVE: UEFA Nations League",
+   "link": "https://www.aljazeera.com/sports/liveblog/2026/11/12/italy-vs-france-live-uefa-nations-league?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-12T16:45:00.000Z"
+  },
+  {
+   "title": "Gunman kills one and barricades himself in building after gym shooting in Washington, DC",
+   "link": "https://www.euronews.com/2026/11/12/gunman-kills-one-and-barricades-himself-in-building-after-gym-shooting-in-washington-dc",
+   "source": "Euronews",
+   "date": "2026-11-12T16:28:39.000Z"
+  },
+  {
+   "title": "Gaza: Devastation inside Nasser Hospital after deadly Israeli strike",
+   "link": "https://www.euronews.com/video/2026/11/12/gaza-devastation-inside-nasser-hospital-after-deadly-israeli-strike",
+   "source": "Euronews",
+   "date": "2026-11-12T16:10:23.000Z"
+  },
+  {
+   "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+   "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-12T15:18:20.000Z"
+  },
+  {
+   "title": "Russia: Soldier killed in car explosion in Saint Petersburg",
+   "link": "https://www.euronews.com/video/2026/11/12/russia-soldier-killed-in-car-explosion-in-saint-petersburg",
+   "source": "Euronews",
+   "date": "2026-11-12T14:57:59.000Z"
+  },
+  {
+   "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+   "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+   "source": "Guardian World",
+   "date": "2026-11-12T13:14:38.000Z"
+  },
+  {
+   "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+   "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-12T13:02:46.000Z"
   },
   {
    "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-12T10:02:32.000Z"
+   "date": "2026-11-12T12:56:55.000Z"
   },
   {
-   "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
-   "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+   "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+   "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-12T09:43:11.000Z"
-  },
-  {
-   "title": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
-   "link": "https://www.aljazeera.com/news-analysis/2026/11/12/from-the-uk-to-the-gulf-are-us-overseas-bases-becoming-liabilities?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-12T09:38:00.000Z"
-  },
-  {
-   "title": "Peru: Pope Leo XIV returns to his adopted homeland on historic visit",
-   "link": "https://www.euronews.com/video/2026/11/12/peru-pope-leo-xiv-returns-to-his-adopted-homeland-on-historic-visit",
-   "source": "Euronews",
-   "date": "2026-11-12T09:07:55.000Z"
-  },
-  {
-   "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
-   "link": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-12T09:01:24.000Z"
-  },
-  {
-   "title": "India bypasses own rules to buy Israeli phone-hacking tech",
-   "link": "https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-12T08:40:08.000Z"
-  },
-  {
-   "title": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
-   "link": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-12T08:35:20.000Z"
-  },
-  {
-   "title": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-12T08:34:45.000Z"
-  },
-  {
-   "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-   "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-12T07:59:33.000Z"
-  },
-  {
-   "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
-   "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-12T07:45:52.000Z"
-  },
-  {
-   "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
-   "link": "https://www.getlazarus.org/forums/topic/17/",
-   "source": "Hacker News",
-   "date": "2026-11-12T05:49:34.000Z"
-  },
-  {
-   "title": "Darling Development Update – Q4 2026",
-   "link": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
-   "source": "Hacker News",
-   "date": "2026-11-12T04:32:31.000Z"
-  },
-  {
-   "title": "Lean Grimoire",
-   "link": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
-   "source": "Hacker News",
-   "date": "2026-11-12T02:36:48.000Z"
-  },
-  {
-   "title": "Critical RCE Vulnerability in Apache HTTP Server",
-   "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-   "source": "Hacker News",
-   "date": "2026-11-12T02:11:11.000Z"
-  },
-  {
-   "title": "A general purpose Apple Silicon layer for x86-64 PCs",
-   "link": "https://github.com/tylertms/Stela",
-   "source": "Hacker News",
-   "date": "2026-11-11T23:02:38.000Z"
+   "date": "2026-11-12T12:39:39.000Z"
   },
   {
    "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
@@ -174,12 +180,6 @@
    "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
    "source": "Guardian World",
    "date": "2026-11-06T15:08:43.000Z"
-  },
-  {
-   "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
-   "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
-   "source": "Guardian World",
-   "date": "2026-11-06T12:48:37.000Z"
   }
  ]
 }

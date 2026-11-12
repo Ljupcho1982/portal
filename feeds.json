@@ -1,53 +1,143 @@
 {
- "updated": "2026-11-12T02:59:47.284Z",
+ "updated": "2026-11-12T11:11:30.374Z",
  "items": [
   {
-   "title": "New York building collapse kills one person and injures 12",
-   "link": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_medium=RSS&at_campaign=rss",
+   "title": "Latest news bulletin | November 12th, 2026 – Midday",
+   "link": "https://www.euronews.com/video/2026/11/12/latest-news-bulletin-november-12th-2026-midday",
+   "source": "Euronews",
+   "date": "2026-11-12T11:00:15.000Z"
+  },
+  {
+   "title": "Doomsday study calculated humanity's end on Friday 13 November 2026",
+   "link": "https://www.euronews.com/2026/11/12/doomsday-study-calculated-humanitys-end-on-friday-13-november-2026",
+   "source": "Euronews",
+   "date": "2026-11-12T10:54:52.000Z"
+  },
+  {
+   "title": "Russian officer killed by car bomb in St Petersburg as murder investigation begins",
+   "link": "https://www.euronews.com/2026/11/12/russian-officer-killed-by-car-bomb-in-st-petersburg-as-murder-investigation-begins",
+   "source": "Euronews",
+   "date": "2026-11-12T10:48:52.000Z"
+  },
+  {
+   "title": "New York building collapse kills at least two, officials say",
+   "link": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-12T02:33:12.000Z"
+   "date": "2026-11-12T10:40:49.000Z"
   },
   {
-   "title": "Indonesian VP resigns over education qualification row",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
+   "title": "Baby buried in dog crate in US found alive after 24 hours",
+   "link": "https://www.euronews.com/2026/11/12/baby-buried-in-dog-crate-in-us-found-alive-after-24-hours",
+   "source": "Euronews",
+   "date": "2026-11-12T10:36:33.000Z"
+  },
+  {
+   "title": "Drones deliver food to chimpanzees stranded by flooding",
+   "link": "https://www.euronews.com/2026/11/12/drones-deliver-food-to-chimpanzees-stranded-by-flooding",
+   "source": "Euronews",
+   "date": "2026-11-12T10:35:51.000Z"
+  },
+  {
+   "title": "Manchester United sack Michael Carrick as manager",
+   "link": "https://www.aljazeera.com/news/2026/11/12/manchester-united-sack-michael-carrick-as-manager?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-12T02:22:48.000Z"
+   "date": "2026-11-12T10:33:29.000Z"
   },
   {
-   "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+   "title": "Why Writing Correct Software Is Hard",
+   "link": "https://pron.github.io/posts/correctness-and-complexity",
+   "source": "Hacker News",
+   "date": "2026-11-12T10:28:26.000Z"
+  },
+  {
+   "title": "US envoys arrive in Moscow for Ukraine talks with Vladimir Putin",
+   "link": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-12T10:08:38.000Z"
+  },
+  {
+   "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
    "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-12T02:09:08.000Z"
+   "date": "2026-11-12T10:02:32.000Z"
   },
   {
-   "title": "Argentina’s Milei cries as he bids farewell to the Pope",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-12T02:03:30.000Z"
+   "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+   "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-12T09:43:11.000Z"
   },
   {
-   "title": "Three-storey building collapses in Brooklyn",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/three-storey-building-collapses-in-brooklyn?traffic_source=rss",
+   "title": "From the UK to the Gulf, are US overseas bases becoming liabilities?",
+   "link": "https://www.aljazeera.com/news-analysis/2026/11/12/from-the-uk-to-the-gulf-are-us-overseas-bases-becoming-liabilities?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-12T01:50:36.000Z"
+   "date": "2026-11-12T09:38:00.000Z"
   },
   {
-   "title": "What could Chinese intelligence have learned from Nvidia CEO’s affair?",
-   "link": "https://www.aljazeera.com/news/2026/11/12/what-could-chinese-intelligence-have-learned-from-nvidia-ceos-affair?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-12T01:33:09.000Z"
+   "title": "Peru: Pope Leo XIV returns to his adopted homeland on historic visit",
+   "link": "https://www.euronews.com/video/2026/11/12/peru-pope-leo-xiv-returns-to-his-adopted-homeland-on-historic-visit",
+   "source": "Euronews",
+   "date": "2026-11-12T09:07:55.000Z"
   },
   {
-   "title": "Israel strikes intensive care at Gaza’s Nasser Hospital",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/israel-strikes-intensive-care-at-gazas-nasser-hospital?traffic_source=rss",
+   "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
+   "link": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-12T01:20:55.000Z"
+   "date": "2026-11-12T09:01:24.000Z"
   },
   {
-   "title": "Former Italian Red Brigades member escapes house arrest in Argentina",
-   "link": "https://www.aljazeera.com/news/2026/11/12/former-italian-red-brigades-member-escapes-house-arrest-in-argentina?traffic_source=rss",
+   "title": "India bypasses own rules to buy Israeli phone-hacking tech",
+   "link": "https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-12T01:04:28.000Z"
+   "date": "2026-11-12T08:40:08.000Z"
+  },
+  {
+   "title": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
+   "link": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-12T08:35:20.000Z"
+  },
+  {
+   "title": "Xi Jinping says Taiwan ‘reunification’ with China must happen",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/xi-jinping-says-taiwan-reunification-with-china-must-happen?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-12T08:34:45.000Z"
+  },
+  {
+   "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+   "link": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-12T07:59:33.000Z"
+  },
+  {
+   "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+   "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-12T07:45:52.000Z"
+  },
+  {
+   "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+   "link": "https://www.getlazarus.org/forums/topic/17/",
+   "source": "Hacker News",
+   "date": "2026-11-12T05:49:34.000Z"
+  },
+  {
+   "title": "Darling Development Update – Q4 2026",
+   "link": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
+   "source": "Hacker News",
+   "date": "2026-11-12T04:32:31.000Z"
+  },
+  {
+   "title": "Lean Grimoire",
+   "link": "https://terrytao.wordpress.com/2026/11/11/lean-grimoire/",
+   "source": "Hacker News",
+   "date": "2026-11-12T02:36:48.000Z"
+  },
+  {
+   "title": "Critical RCE Vulnerability in Apache HTTP Server",
+   "link": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+   "source": "Hacker News",
+   "date": "2026-11-12T02:11:11.000Z"
   },
   {
    "title": "A general purpose Apple Silicon layer for x86-64 PCs",
@@ -56,100 +146,10 @@
    "date": "2026-11-11T23:02:38.000Z"
   },
   {
-   "title": "Spain: Clashes erupt in Barcelona after peaceful general strike march",
-   "link": "https://www.euronews.com/video/2026/11/11/spain-clashes-erupt-in-barcelona-after-peaceful-general-strike-march",
-   "source": "Euronews",
-   "date": "2026-11-11T22:54:27.000Z"
-  },
-  {
    "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
    "link": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
    "source": "Guardian World",
    "date": "2026-11-11T22:50:37.000Z"
-  },
-  {
-   "title": "Spain: 120,000 brave rain to demand affordable housing and better wages",
-   "link": "https://www.euronews.com/video/2026/11/11/spain-120000-brave-rain-to-demand-affordable-housing-and-better-wages",
-   "source": "Euronews",
-   "date": "2026-11-11T22:36:54.000Z"
-  },
-  {
-   "title": "93% of paint splatters are valid Perl programs (2019)",
-   "link": "https://www.mcmillen.dev/sigbovik/",
-   "source": "Hacker News",
-   "date": "2026-11-11T22:34:23.000Z"
-  },
-  {
-   "title": "Nvidia is preparing to oust Jensen Huang",
-   "link": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-   "source": "Hacker News",
-   "date": "2026-11-11T22:31:06.000Z"
-  },
-  {
-   "title": "Lock Your GitHub Actions",
-   "link": "https://hugovk.dev/blog/2026/lock-github-actions/",
-   "source": "Hacker News",
-   "date": "2026-11-11T22:16:41.000Z"
-  },
-  {
-   "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
-   "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-11T22:07:37.000Z"
-  },
-  {
-   "title": "Jensen Huang said to have had relationship with executive who reports to him",
-   "link": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
-   "source": "Hacker News",
-   "date": "2026-11-11T22:03:58.000Z"
-  },
-  {
-   "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-   "link": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-   "source": "Hacker News",
-   "date": "2026-11-11T21:24:35.000Z"
-  },
-  {
-   "title": "German tech company signs €60 million contract with Elon Musk for satellite solar cell supply",
-   "link": "https://www.euronews.com/2026/11/11/german-tech-company-signs-60-million-contract-with-elon-musk-for-satellite-solar-cell-supp",
-   "source": "Euronews",
-   "date": "2026-11-11T19:01:03.000Z"
-  },
-  {
-   "title": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
-   "link": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-11T18:04:58.000Z"
-  },
-  {
-   "title": "Russian ambassador to the US dies, Russia's foreign ministry announced",
-   "link": "https://www.euronews.com/2026/11/11/russian-ambassador-to-the-us-dies-russias-foreign-ministry-announced",
-   "source": "Euronews",
-   "date": "2026-11-11T17:09:10.000Z"
-  },
-  {
-   "title": "Latest news bulletin | November 11th, 2026 – Evening",
-   "link": "https://www.euronews.com/video/2026/11/11/latest-news-bulletin-november-11th-2026-evening",
-   "source": "Euronews",
-   "date": "2026-11-11T17:00:26.000Z"
-  },
-  {
-   "title": "Indonesia's vice president resigns amid signs ruling alliance is fraying",
-   "link": "https://www.bbc.co.uk/news/articles/cmvgxgz87qqro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-11T16:38:07.000Z"
-  },
-  {
-   "title": "Trinidad and Tobago highest court overturns gay sex ban",
-   "link": "https://www.euronews.com/2026/11/11/trinidad-and-tobago-highest-court-overturns-gay-sex-ban",
-   "source": "Euronews",
-   "date": "2026-11-11T16:27:15.000Z"
-  },
-  {
-   "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-   "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-11T14:56:11.000Z"
   },
   {
    "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",

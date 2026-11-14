@@ -1,47 +1,95 @@
 {
- "updated": "2026-11-13T22:38:11.230Z",
+ "updated": "2026-11-14T03:16:37.336Z",
  "items": [
   {
-   "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-   "link": "https://orcasairband.com/",
+   "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
+   "link": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-14T02:34:50.000Z"
+  },
+  {
+   "title": "Ggml v1.0.0",
+   "link": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
    "source": "Hacker News",
-   "date": "2026-11-13T22:04:24.000Z"
+   "date": "2026-11-14T02:28:29.000Z"
   },
   {
-   "title": "LIVE: FAA issues nationwide ground stop after communications outage in US",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
+   "title": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
+   "link": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+   "source": "Hacker News",
+   "date": "2026-11-14T02:02:42.000Z"
+  },
+  {
+   "title": "GigChain Keys – a free, open-source MainStage alternative",
+   "link": "https://github.com/xDarkzx/GigChain-Keys",
+   "source": "Hacker News",
+   "date": "2026-11-14T01:47:30.000Z"
+  },
+  {
+   "title": "Tanker collision leaves riverboat passengers clinging to railings",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-13T22:02:07.000Z"
+   "date": "2026-11-14T01:37:08.000Z"
   },
   {
-   "title": "FAA grounds US flights nationwide after ‘communication issue’",
-   "link": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
+   "title": "FAA lifted National Ground Stop at 0119Z",
+   "link": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&advn=5",
+   "source": "Hacker News",
+   "date": "2026-11-14T01:30:01.000Z"
+  },
+  {
+   "title": "Former FAA official says ‘nobody really knows what is going on’",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-13T21:32:08.000Z"
+   "date": "2026-11-14T01:28:46.000Z"
   },
   {
-   "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+   "title": "Ukraine knocks out 36% of Russia's oil refining capacity in under two weeks",
+   "link": "https://english.nv.ua/nation/thirteen-day-drone-blitz-paralyzes-36-of-moscow-s-oil-50658616.html",
+   "source": "Hacker News",
+   "date": "2026-11-14T01:10:22.000Z"
+  },
+  {
+   "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+   "link": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
+   "source": "Hacker News",
+   "date": "2026-11-14T00:52:29.000Z"
+  },
+  {
+   "title": "UK police open sex offence probe into comedian and author David Walliams",
+   "link": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-14T00:22:07.000Z"
+  },
+  {
+   "title": "Microsoft services begin recovering after global outage",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-14T00:17:59.000Z"
+  },
+  {
+   "title": "Afghanistan’s new road to China ends at a closed border",
+   "link": "https://www.aljazeera.com/features/2026/11/14/wakhan-corridor-afghanistan-china-taliban?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-14T00:06:43.000Z"
+  },
+  {
+   "title": "Setback for SpaceX Starship rocket's double-catch test",
+   "link": "https://www.bbc.co.uk/news/articles/ckregdgnl0xpo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-14T00:01:01.000Z"
+  },
+  {
+   "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+   "link": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-13T23:40:45.000Z"
+  },
+  {
+   "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
    "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-13T21:14:22.000Z"
-  },
-  {
-   "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
-   "link": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
-   "source": "Hacker News",
-   "date": "2026-11-13T21:08:49.000Z"
-  },
-  {
-   "title": "All US airports are currently ground stopped",
-   "link": "https://twitter.com/flightradar24/status/2121347654714077605",
-   "source": "Hacker News",
-   "date": "2026-11-13T21:06:52.000Z"
-  },
-  {
-   "title": "FAA Issues National Ground Stop",
-   "link": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
-   "source": "Hacker News",
-   "date": "2026-11-13T21:05:53.000Z"
   },
   {
    "title": "Tanker collides with New Orleans river cruise carrying 129 passengers, rescue operation underway",
@@ -50,58 +98,10 @@
    "date": "2026-11-13T21:04:32.000Z"
   },
   {
-   "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-   "link": "https://atg.science/careers",
-   "source": "Hacker News",
-   "date": "2026-11-13T21:01:11.000Z"
-  },
-  {
-   "title": "Pope Leo cheered on return to Peru city where he served as bishop",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-13T20:52:31.000Z"
-  },
-  {
-   "title": "Qatar and Turkiye send message of deterrence with new defence pact",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/qatar-and-turkiye-send-message-of-deterrence-with-new-defence-pact?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-13T20:48:02.000Z"
-  },
-  {
-   "title": "Australia captain Cummins denies involvement in ‘Sandpapergate’",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/australia-captain-cummins-denies-involvement-in?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-13T20:32:42.000Z"
-  },
-  {
-   "title": "Pope thanks crowds on emotional return to ‘second home’ in Peru’s Chiclayo",
-   "link": "https://www.aljazeera.com/news/2026/11/13/pope-thanks-crowds-on-emotional-return-to-second-home-in-perus-chiclayo?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-13T20:28:20.000Z"
-  },
-  {
-   "title": "Big tech is here to let us down",
-   "link": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
-   "source": "Hacker News",
-   "date": "2026-11-13T20:20:30.000Z"
-  },
-  {
-   "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-   "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-13T19:53:57.000Z"
-  },
-  {
    "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
    "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-13T18:36:57.000Z"
-  },
-  {
-   "title": "The Peruvian city that has embraced Pope Leo as one of its own",
-   "link": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-13T18:34:45.000Z"
   },
   {
    "title": "Russia sends major business delegation to Kabul for business talks with the Taliban",

@@ -1,17 +1,101 @@
 {
- "updated": "2026-11-17T22:24:43.602Z",
+ "updated": "2026-11-18T04:21:28.506Z",
  "items": [
+  {
+   "title": "Rubio rules out cyberattacks or links between tech outages",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/rubio-rules-out-cyberattacks-or-links-between-tech-outages?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-18T04:01:16.000Z"
+  },
+  {
+   "title": "Engineering Vitals in the Age of AI",
+   "link": "https://octopus.com/blog/engineering-vitals-in-the-age-of-ai",
+   "source": "Hacker News",
+   "date": "2026-11-18T03:36:12.000Z"
+  },
+  {
+   "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
+   "link": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
+   "source": "Hacker News",
+   "date": "2026-11-18T03:35:47.000Z"
+  },
+  {
+   "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
+   "link": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-18T03:28:41.000Z"
+  },
+  {
+   "title": "Nvidia shoots down calls for Jensen Huang’s return amid strong earnings",
+   "link": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-18T03:00:22.000Z"
+  },
+  {
+   "title": "Rare images of Indigenous group in Amazon highlight threats, advocates say",
+   "link": "https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-18T02:36:09.000Z"
+  },
+  {
+   "title": "Hungary on the hunt for a football hero",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/hungary-on-the-hunt-for-a-football-hero?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-18T02:32:57.000Z"
+  },
+  {
+   "title": "ICE agents shove and pepper-spray pregnant woman",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ice-agents-shove-and-pepper-spray-pregnant-woman?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-18T02:17:12.000Z"
+  },
+  {
+   "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+   "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-18T01:18:18.000Z"
+  },
+  {
+   "title": "Cerebras Disaggregated Inference",
+   "link": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+   "source": "Hacker News",
+   "date": "2026-11-18T00:56:23.000Z"
+  },
+  {
+   "title": "ID.me terms required for IRS sign-in",
+   "link": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+   "source": "Hacker News",
+   "date": "2026-11-18T00:51:45.000Z"
+  },
+  {
+   "title": "Google's AI answers reducing search traffic by 40%",
+   "link": "https://revscope.co/blog/search-seo-geo-2026/",
+   "source": "Hacker News",
+   "date": "2026-11-18T00:17:58.000Z"
+  },
+  {
+   "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+   "link": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+   "source": "Hacker News",
+   "date": "2026-11-17T23:32:58.000Z"
+  },
+  {
+   "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+   "link": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-17T22:44:15.000Z"
+  },
+  {
+   "title": "US criticises Ukraine's 'deep strike' campaign against Russia",
+   "link": "https://www.euronews.com/2026/11/17/us-criticises-ukraines-deep-strike-campaign-against-russia",
+   "source": "Euronews",
+   "date": "2026-11-17T22:34:29.000Z"
+  },
   {
    "title": "Five viral moments from Pope Leo XIV's South American tour",
    "link": "https://www.euronews.com/2026/11/17/five-viral-moments-from-pope-leo-xivs-south-american-tour",
    "source": "Euronews",
    "date": "2026-11-17T22:10:25.000Z"
-  },
-  {
-   "title": "US Fed’s Lisa Cook refuses to attend White House hearing",
-   "link": "https://www.aljazeera.com/economy/2026/11/17/us-feds-lisa-cook-refuses-to-attend-white-house-hearing?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-17T22:01:27.000Z"
   },
   {
    "title": "Caribbean nations fear economic impact of shuttering citizenship program after EU threats",
@@ -20,46 +104,10 @@
    "date": "2026-11-17T21:49:29.000Z"
   },
   {
-   "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
-   "link": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-17T21:35:24.000Z"
-  },
-  {
-   "title": "UK sanctions Israeli settlement firms to protect two-state solution",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-17T21:28:31.000Z"
-  },
-  {
-   "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
-   "link": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-17T21:26:42.000Z"
-  },
-  {
-   "title": "Moment Russian military plane crashes in Siberia, killing 19",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/moment-russian-military-plane-crashes-in-siberia-killing-19?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-17T21:25:43.000Z"
-  },
-  {
    "title": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
    "link": "https://www.bbc.co.uk/news/articles/cw772jk4rvmxo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-17T21:24:35.000Z"
-  },
-  {
-   "title": "Whistleblower: Deadly drone strike in Kuwait could’ve been avoided",
-   "link": "https://www.aljazeera.com/news/2026/11/17/whistleblower-deadly-drone-strike-in-kuwait-couldve-been-avoided?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-17T21:14:31.000Z"
-  },
-  {
-   "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-   "link": "https://calif.io/java4shell/",
-   "source": "Hacker News",
-   "date": "2026-11-17T21:11:28.000Z"
   },
   {
    "title": "Dead Melbourne Cup racehorse found dumped in Sydney waste facility",
@@ -68,16 +116,10 @@
    "date": "2026-11-17T21:10:32.000Z"
   },
   {
-   "title": "Russian military plane crashes killing all 19 on board",
+   "title": "Russian military plane crashes, killing all 19 on board",
    "link": "https://www.bbc.co.uk/news/articles/cw8085rykkmgo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-17T21:06:11.000Z"
-  },
-  {
-   "title": "US loses measles elimination status after 26 years amid record case numbers",
-   "link": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T21:04:00.000Z"
   },
   {
    "title": "US strikes targets in Qeshm Island after Iranian mines hit five ships in Hormuz",
@@ -86,46 +128,10 @@
    "date": "2026-11-17T20:54:43.000Z"
   },
   {
-   "title": "Human.md",
-   "link": "https://www.human-md.ai/",
-   "source": "Hacker News",
-   "date": "2026-11-17T20:47:36.000Z"
-  },
-  {
-   "title": "Web Browser Engineering (2021)",
-   "link": "https://browser.engineering/",
-   "source": "Hacker News",
-   "date": "2026-11-17T20:01:35.000Z"
-  },
-  {
-   "title": "jQuery 4.1.0",
-   "link": "https://github.com/jquery/jquery/releases/tag/4.1.0",
-   "source": "Hacker News",
-   "date": "2026-11-17T19:50:40.000Z"
-  },
-  {
-   "title": "Effects of a Nuclear Detonation in Low Earth Orbit",
-   "link": "https://arxiv.org/abs/2611.09827",
-   "source": "Hacker News",
-   "date": "2026-11-17T19:46:57.000Z"
-  },
-  {
-   "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
-   "link": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
-   "source": "Hacker News",
-   "date": "2026-11-17T19:25:27.000Z"
-  },
-  {
    "title": "New anti-regime protests erupt in flashpoint Iranian city",
    "link": "https://www.euronews.com/2026/11/17/new-anti-regime-protests-erupt-in-flashpoint-iranian-city",
    "source": "Euronews",
    "date": "2026-11-17T19:06:03.000Z"
-  },
-  {
-   "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-   "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-17T18:24:21.000Z"
   },
   {
    "title": "Beyond the green premium: Competitive advantage through decarbonization",
@@ -138,12 +144,6 @@
    "link": "https://www.bbc.co.uk/news/articles/cq7825234lgmo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-17T17:19:57.000Z"
-  },
-  {
-   "title": "Latest news bulletin | November 17th, 2026 – Evening",
-   "link": "https://www.euronews.com/video/2026/11/17/latest-news-bulletin-november-17th-2026-evening",
-   "source": "Euronews",
-   "date": "2026-11-17T17:00:27.000Z"
   },
   {
    "title": "How the attack on Crimean Bridge unfolded",

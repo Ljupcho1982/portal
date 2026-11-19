@@ -1,83 +1,155 @@
 {
- "updated": "2026-11-19T03:28:42.157Z",
+ "updated": "2026-11-19T13:08:09.954Z",
  "items": [
   {
-   "title": "Google’s driverless car hits a roadblock",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-19T02:57:56.000Z"
-  },
-  {
-   "title": "What do Trump, Putin and Xi want from their Shenzhen meeting?",
-   "link": "https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-19T02:57:19.000Z"
-  },
-  {
-   "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-   "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-19T02:20:15.000Z"
-  },
-  {
-   "title": "ICJ to rule on Rohingya genocide case against Myanmar",
-   "link": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-19T02:10:43.000Z"
-  },
-  {
-   "title": "AI will not make you rich (2025)",
-   "link": "https://colossus.com/article/ai-will-not-make-you-rich/",
-   "source": "Hacker News",
-   "date": "2026-11-19T01:51:28.000Z"
-  },
-  {
-   "title": "Hegseth unveils new US-Venezuela military deal",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-19T01:48:46.000Z"
-  },
-  {
-   "title": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
-   "link": "https://github.com/Ri4dH/failtrace",
-   "source": "Hacker News",
-   "date": "2026-11-19T01:30:43.000Z"
-  },
-  {
-   "title": "Unreal Tournament 2004 in the Browser",
-   "link": "https://ut2004.dev/",
-   "source": "Hacker News",
-   "date": "2026-11-19T01:29:29.000Z"
-  },
-  {
-   "title": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction",
-   "link": "https://arxiv.org/abs/2607.29378",
-   "source": "Hacker News",
-   "date": "2026-11-19T01:27:02.000Z"
-  },
-  {
-   "title": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
-   "link": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-19T01:17:08.000Z"
-  },
-  {
-   "title": "Settler rams into Palestinians at multiple locations in central Israel",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/settler-rams-into-palestinians-at-multiple-locations-in-central-israel?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-19T01:13:45.000Z"
-  },
-  {
-   "title": "Crimean Bridge attacked again, Russian official says",
+   "title": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
    "link": "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-19T01:05:03.000Z"
+   "date": "2026-11-19T13:07:35.000Z"
   },
   {
-   "title": "Black high school students sue after AI mistakes Doritos bag for gun",
-   "link": "https://www.lawyerscommittee.org/lawyers-committee-files-lawsuit-on-behalf-of-black-students-detained-and-searched-due-to-ai-alert-falsely-identifying-a-bag-of-chips-as-a-firearm/",
+   "title": "Can Anthropic afford to put AI safety first?",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/can-anthropic-afford-to-put-ai-safety-first?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-19T12:43:31.000Z"
+  },
+  {
+   "title": "Home of Bangladesh’s former leader Muhammad Yunus set on fire",
+   "link": "https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-19T12:21:33.000Z"
+  },
+  {
+   "title": "ICJ rules Myanmar committed genocide against the Rohingya",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-19T12:20:19.000Z"
+  },
+  {
+   "title": "The AI Superintelligence Debate Has Serious Flaws",
+   "link": "https://spectrum.ieee.org/ai-superintelligence-debate",
    "source": "Hacker News",
-   "date": "2026-11-19T00:57:20.000Z"
+   "date": "2026-11-19T12:17:10.000Z"
+  },
+  {
+   "title": "What is a ‘nuclear briefcase’, spotted at the APEC summit?",
+   "link": "https://www.aljazeera.com/news/2026/11/19/what-is-a-nuclear-briefcase-spotted-at-the-apec-summit?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-19T12:11:42.000Z"
+  },
+  {
+   "title": "Myanmar guilty of genocide against Rohingya UN court rules",
+   "link": "https://www.euronews.com/2026/11/19/myanmar-guilty-of-genocide-against-rohingya-un-court-rules",
+   "source": "Euronews",
+   "date": "2026-11-19T11:59:09.000Z"
+  },
+  {
+   "title": "Argentina mourns teen footballer Nunez who died after on-pitch collision",
+   "link": "https://www.aljazeera.com/sports/2026/11/19/argentina-mourns-teen-footballer-nunez-who-died-after-on-pitch-collision?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-19T11:57:34.000Z"
+  },
+  {
+   "title": "Trump claims Iran is developing bioweapons: Is there any evidence?",
+   "link": "https://www.aljazeera.com/news/2026/11/19/trump-claims-iran-is-developing-bioweapons-is-there-any-evidence?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-19T11:38:39.000Z"
+  },
+  {
+   "title": "Race to replant five South African baobabs after export blocked",
+   "link": "https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe",
+   "source": "Guardian World",
+   "date": "2026-11-19T11:03:24.000Z"
+  },
+  {
+   "title": "Latest news bulletin | November 19th, 2026 – Midday",
+   "link": "https://www.euronews.com/video/2026/11/19/latest-news-bulletin-november-19th-2026-midday",
+   "source": "Euronews",
+   "date": "2026-11-19T11:00:15.000Z"
+  },
+  {
+   "title": "How the European Commission rolled out Matrix to more than 40k staff",
+   "link": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+   "source": "Hacker News",
+   "date": "2026-11-19T10:58:29.000Z"
+  },
+  {
+   "title": "Anthropic raises $81bn in record-breaking stock market debut",
+   "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-19T10:48:04.000Z"
+  },
+  {
+   "title": "APEC summit, GTA VI launch, wine parade... Today’s top No Comment videos from around the world",
+   "link": "https://www.euronews.com/video/2026/11/19/apec-summit-gta-vi-launch-wine-parade-todays-top-no-comment-videos-from-around-the-world",
+   "source": "Euronews",
+   "date": "2026-11-19T09:50:26.000Z"
+  },
+  {
+   "title": "DeepMind Employees Are Unionising",
+   "link": "https://www.gdmunion.co.uk",
+   "source": "Hacker News",
+   "date": "2026-11-19T09:28:56.000Z"
+  },
+  {
+   "title": "What's New in PHP 8.6",
+   "link": "https://www.php.net/releases/8.6/en.php",
+   "source": "Hacker News",
+   "date": "2026-11-19T09:27:15.000Z"
+  },
+  {
+   "title": "Survivors of Uganda's deadly landslide seek justice at the UN",
+   "link": "https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-19T09:21:54.000Z"
+  },
+  {
+   "title": "Watch: Trump, Putin and Xi sit down for historic three-way talks",
+   "link": "https://www.euronews.com/2026/11/19/watch-trump-putin-and-xi-sit-down-for-historic-three-way-talks",
+   "source": "Euronews",
+   "date": "2026-11-19T09:20:23.000Z"
+  },
+  {
+   "title": "SSD prices will start going down the second half of next year",
+   "link": "https://www.drivevault.io/blog/when-will-hard-drive-prices-come-down.html",
+   "source": "Hacker News",
+   "date": "2026-11-19T09:05:34.000Z"
+  },
+  {
+   "title": "Dozens missing after boat carrying 100 migrants sinks off Senegal's coast",
+   "link": "https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-19T09:02:52.000Z"
+  },
+  {
+   "title": "Distributed, high-performance blob storage on SQLite",
+   "link": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+   "source": "Hacker News",
+   "date": "2026-11-19T08:39:45.000Z"
+  },
+  {
+   "title": "China: Trump calls Putin his \"friend\" as leaders meet in Shenzhen",
+   "link": "https://www.euronews.com/video/2026/11/19/china-trump-calls-putin-his-friend-as-leaders-meet-amid-in-shenzhen",
+   "source": "Euronews",
+   "date": "2026-11-19T07:56:00.000Z"
+  },
+  {
+   "title": "Ukraine: Four killed and at least 13 injured in Russian strike on Odesa",
+   "link": "https://www.euronews.com/video/2026/11/19/ukraine-four-killed-and-at-least-13-injured-in-russian-strike-on-odesa",
+   "source": "Euronews",
+   "date": "2026-11-19T07:45:11.000Z"
+  },
+  {
+   "title": "This is a remarkable diplomatic moment for China's Xi - but it comes with pitfalls",
+   "link": "https://www.bbc.co.uk/news/articles/cr9d75we51j1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-19T04:42:52.000Z"
+  },
+  {
+   "title": "One in four women globally unable to refuse sex within marriage, says UN",
+   "link": "https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa",
+   "source": "Guardian World",
+   "date": "2026-11-19T04:00:16.000Z"
   },
   {
    "title": "Van Gogh painting sells for record $190.4m after row over its Nazi history",
@@ -86,70 +158,10 @@
    "date": "2026-11-19T00:49:19.000Z"
   },
   {
-   "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-   "link": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
-   "source": "Hacker News",
-   "date": "2026-11-19T00:29:45.000Z"
-  },
-  {
-   "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
-   "link": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-18T23:04:06.000Z"
-  },
-  {
    "title": "Florida pastor found guilty over 2021 assassination of Haitian president",
    "link": "https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination",
    "source": "Guardian World",
    "date": "2026-11-18T22:31:41.000Z"
-  },
-  {
-   "title": "Alleged Russian agent arrested for spying on Silicon Valley tech firm",
-   "link": "https://www.euronews.com/2026/11/18/alleged-russian-agent-arrested-for-spying-on-silicon-valley-tech-firm",
-   "source": "Euronews",
-   "date": "2026-11-18T22:05:07.000Z"
-  },
-  {
-   "title": "Bukele confirms airstrike on Haitian gang leader Jeff's luxury mansion",
-   "link": "https://www.euronews.com/2026/11/18/bukele-confirms-airstrike-on-haitian-gang-leader-jeffs-luxury-mansion",
-   "source": "Euronews",
-   "date": "2026-11-18T21:58:48.000Z"
-  },
-  {
-   "title": "US Defence Secretary announces military cooperation in surprise Caracas visit",
-   "link": "https://www.euronews.com/2026/11/18/us-defence-secretary-announces-military-cooperation-in-surprise-caracas-visit",
-   "source": "Euronews",
-   "date": "2026-11-18T21:02:43.000Z"
-  },
-  {
-   "title": "Hakeem Jeffries moves closer to becoming first Black US House speaker",
-   "link": "https://www.euronews.com/2026/11/18/hakeem-jeffries-moves-closer-to-becoming-first-black-us-house-speaker",
-   "source": "Euronews",
-   "date": "2026-11-18T17:44:05.000Z"
-  },
-  {
-   "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
-   "link": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-18T17:00:40.000Z"
-  },
-  {
-   "title": "Latest news bulletin | November 18th, 2026 – Evening",
-   "link": "https://www.euronews.com/video/2026/11/18/latest-news-bulletin-november-18th-2026-evening",
-   "source": "Euronews",
-   "date": "2026-11-18T17:00:26.000Z"
-  },
-  {
-   "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
-   "link": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-18T17:00:04.000Z"
-  },
-  {
-   "title": "Waymo pulls driverless taxis off US highways after California ban",
-   "link": "https://www.euronews.com/2026/11/18/waymo-pulls-driverless-taxis-off-us-highways-after-california-ban",
-   "source": "Euronews",
-   "date": "2026-11-18T16:55:30.000Z"
   },
   {
    "title": "Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling",
@@ -168,18 +180,6 @@
    "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
    "source": "Guardian World",
    "date": "2026-11-17T01:10:59.000Z"
-  },
-  {
-   "title": "US basketball player arrested with 75lb of marijuana at Nigerian airport, say authorities",
-   "link": "https://www.theguardian.com/sport/2026/nov/16/us-basketball-player-arrested-with-75lb-of-marijuana-at-nigerian-airport-say-authorities",
-   "source": "Guardian World",
-   "date": "2026-11-16T13:16:36.000Z"
-  },
-  {
-   "title": "Relocation of Cape Town baboons to sanctuary ignites heated protests",
-   "link": "https://www.theguardian.com/world/2026/nov/16/cape-town-baboons-relocation-protests",
-   "source": "Guardian World",
-   "date": "2026-11-16T10:19:08.000Z"
   }
  ]
 }

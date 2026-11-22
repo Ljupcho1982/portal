@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-21T23:16:23.736Z",
+ "updated": "2026-11-22T03:15:26.088Z",
  "items": [
+  {
+   "title": "Displaced Palestinians protest as Israeli air strikes continue in Gaza",
+   "link": "https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-22T02:14:18.000Z"
+  },
+  {
+   "title": "Data Processing Incidents on Inference Providers",
+   "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+   "source": "Hacker News",
+   "date": "2026-11-22T02:14:14.000Z"
+  },
+  {
+   "title": "Bessent confirms he’s living on US military base over Iran fears",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-22T02:05:50.000Z"
+  },
+  {
+   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+   "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-22T01:25:03.000Z"
+  },
+  {
+   "title": "Moviegoers head for the exits as quake strikes Peru",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-22T01:07:19.000Z"
+  },
+  {
+   "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+   "link": "https://github.com/ItsNotRexed/Leonida",
+   "source": "Hacker News",
+   "date": "2026-11-22T00:57:26.000Z"
+  },
+  {
+   "title": "Clashes erupt across France in another night of protest",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-22T00:37:32.000Z"
+  },
+  {
+   "title": "FBI reportedly investigating apparent hack of its criminal database",
+   "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-22T00:10:44.000Z"
+  },
+  {
+   "title": "Sandwich Simulator",
+   "link": "https://stulle.app/",
+   "source": "Hacker News",
+   "date": "2026-11-22T00:07:59.000Z"
+  },
+  {
+   "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-21T23:59:03.000Z"
+  },
+  {
+   "title": "Lebanese president demands Israel withdrawal, decries Iran’s interference",
+   "link": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-21T23:44:00.000Z"
+  },
   {
    "title": "Ukraine: Dashcam captures massive explosion on Lviv street",
    "link": "https://www.euronews.com/video/2026/11/22/ukraine-dashcam-captures-massive-explosion-on-lviv-street",
@@ -20,22 +86,10 @@
    "date": "2026-11-21T22:09:58.000Z"
   },
   {
-   "title": "Bahrain says Iranian attack hits industrial facility",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-21T22:02:03.000Z"
-  },
-  {
    "title": "Iran attacks US bases in Bahrain as its tankers get ready to break the US blockade",
    "link": "https://www.euronews.com/2026/11/21/iran-attacks-us-bases-in-bahrain-as-its-tankers-get-ready-to-break-the-us-blockade",
    "source": "Euronews",
    "date": "2026-11-21T21:32:51.000Z"
-  },
-  {
-   "title": "Bahrain says Iranian attack causes fire at industrial facility",
-   "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-21T21:31:03.000Z"
   },
   {
    "title": "Advice for the next 100 Rust GUIs",
@@ -44,46 +98,10 @@
    "date": "2026-11-21T21:17:53.000Z"
   },
   {
-   "title": "Impunity fuels surge in settler violence across occupied West Bank",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-21T21:11:54.000Z"
-  },
-  {
    "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
    "link": "https://tasklet.ai/careers",
    "source": "Hacker News",
    "date": "2026-11-21T21:11:08.000Z"
-  },
-  {
-   "title": "Indian man jailed over plot to kill Sikh separatist in US",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-21T21:09:18.000Z"
-  },
-  {
-   "title": "The Emergence of Inequality in the Czech Corded Ware Culture",
-   "link": "https://www.jna.uni-kiel.de/index.php/jna/article/view/1560/1746",
-   "source": "Hacker News",
-   "date": "2026-11-21T21:06:14.000Z"
-  },
-  {
-   "title": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-   "link": "https://www.bbc.co.uk/news/articles/ckz749ey0r75o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-21T21:05:29.000Z"
-  },
-  {
-   "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
-   "link": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-21T21:02:18.000Z"
-  },
-  {
-   "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
-   "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-21T20:56:35.000Z"
   },
   {
    "title": "Video shows Mexican forces capturing 'El Chapo Isidro', FBI most-wanted cartel boss",
@@ -98,18 +116,6 @@
    "date": "2026-11-21T19:20:22.000Z"
   },
   {
-   "title": "Upload2Shell (CVE-2026-125396)",
-   "link": "https://pwn.ai/upload2shell",
-   "source": "Hacker News",
-   "date": "2026-11-21T18:29:29.000Z"
-  },
-  {
-   "title": "Inkling-2-Mini in 5.4 GB Memory",
-   "link": "https://github.com/ShinMegamiBoson/lookatmyquant",
-   "source": "Hacker News",
-   "date": "2026-11-21T18:02:19.000Z"
-  },
-  {
    "title": "Alleged Mexican drug cartel boss ‘El Chapo Isidro’ arrested in special forces raid",
    "link": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
    "source": "Guardian World",
@@ -120,12 +126,6 @@
    "link": "https://www.euronews.com/video/2026/11/21/latest-news-bulletin-november-21st-2026-evening",
    "source": "Euronews",
    "date": "2026-11-21T17:00:26.000Z"
-  },
-  {
-   "title": "FBI reportedly investigating apparent hack of its criminal database",
-   "link": "https://www.bbc.co.uk/news/articles/cvze7de86pk3o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-21T16:35:15.000Z"
   },
   {
    "title": "Brazil ex-president Bolsonaro in intensive care over intestinal problem",

@@ -1,35 +1,113 @@
 {
- "updated": "2026-11-22T19:41:05.982Z",
+ "updated": "2026-11-23T00:53:58.334Z",
  "items": [
   {
-   "title": "On China, is Trump bucking the US national security establishment?",
-   "link": "https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss",
+   "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+   "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-23T00:50:35.000Z"
+  },
+  {
+   "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+   "link": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
    "source": "Al Jazeera",
-   "date": "2026-11-22T19:30:00.000Z"
+   "date": "2026-11-23T00:39:51.000Z"
+  },
+  {
+   "title": "South Korea’s stock market tumbles as AI bubble fears mount",
+   "link": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-23T00:18:03.000Z"
+  },
+  {
+   "title": "Cameroon’s ex-rebels caught between hiding and broken promises",
+   "link": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-23T00:03:30.000Z"
+  },
+  {
+   "title": "Iran war live: Tankers set ablaze in Hormuz as IRGC warns of unrest threat",
+   "link": "https://www.aljazeera.com/news/liveblog/2026/11/22/iran-war-live-tankers-set-ablaze-in-hormuz-as-irgc-warns-of-unrest-threat?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-22T23:59:22.000Z"
+  },
+  {
+   "title": "FBI is having a mass hire for IT specialists",
+   "link": "https://apply.fbijobs.gov/psc/ps/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Action=U&FOCUS=Applicant&JobOpeningId=68871&Page=HRS_APP_JBPST_FL&PostingSeq=1&SiteId=1&",
+   "source": "Hacker News",
+   "date": "2026-11-22T23:58:22.000Z"
+  },
+  {
+   "title": "Mystery of the red stream in Turkiye",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/mystery-of-the-red-stream-in-turkiye?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-22T23:57:58.000Z"
+  },
+  {
+   "title": "Nespresso's project to reduce grams of coffee per capsule",
+   "link": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+   "source": "Hacker News",
+   "date": "2026-11-22T23:57:45.000Z"
+  },
+  {
+   "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+   "link": "https://0rwx.com/",
+   "source": "Hacker News",
+   "date": "2026-11-22T23:53:00.000Z"
+  },
+  {
+   "title": "What should AAA game devs do",
+   "link": "https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/",
+   "source": "Hacker News",
+   "date": "2026-11-22T23:51:00.000Z"
+  },
+  {
+   "title": "Lion on the loose in Turkiye sparks fear among residents",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/lion-on-the-loose-in-turkiye-sparks-fear-among-residents?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-22T23:40:48.000Z"
+  },
+  {
+   "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+   "link": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+   "source": "Hacker News",
+   "date": "2026-11-22T23:12:10.000Z"
+  },
+  {
+   "title": "GL.iNet Security Notice 2026-11-20",
+   "link": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+   "source": "Hacker News",
+   "date": "2026-11-22T23:06:37.000Z"
+  },
+  {
+   "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
+   "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-22T22:37:43.000Z"
+  },
+  {
+   "title": "Morocco: A surreal sculpture park turns the world upside down",
+   "link": "https://www.euronews.com/video/2026/11/22/morocco-a-surreal-sculpture-park-turns-the-world-upside-down",
+   "source": "Euronews",
+   "date": "2026-11-22T22:33:48.000Z"
+  },
+  {
+   "title": "Russian warship sinks in Benghazi after suspected Ukrainian drone attack",
+   "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
+   "source": "Guardian World",
+   "date": "2026-11-22T21:33:44.000Z"
+  },
+  {
+   "title": "Midterms: US Democrats secure biggest House majority in decades",
+   "link": "https://www.euronews.com/2026/11/22/midterms-us-democrats-secure-biggest-house-majority-in-decades",
+   "source": "Euronews",
+   "date": "2026-11-22T21:29:39.000Z"
   },
   {
    "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
    "link": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-22T19:26:54.000Z"
-  },
-  {
-   "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
-   "link": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-22T19:18:29.000Z"
-  },
-  {
-   "title": "\"A government that 'gets it'\": Canada recommits to federal funding for news",
-   "link": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
-   "source": "Hacker News",
-   "date": "2026-11-22T19:10:38.000Z"
-  },
-  {
-   "title": "‘Horrific’ and ‘chilling’: Officials condemn ICE arrests at Seattle airport",
-   "link": "https://www.aljazeera.com/news/2026/11/22/horrific-and-chilling-officials-condemn-ice-arrests-at-seattle-airport?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-22T19:10:00.000Z"
+   "date": "2026-11-22T20:28:09.000Z"
   },
   {
    "title": "What's next after no deal at COP31 climate talks?",
@@ -38,46 +116,10 @@
    "date": "2026-11-22T18:57:24.000Z"
   },
   {
-   "title": "Russian ship hit in Benghazi by suspected Ukrainian drone attack, say Libyan officials",
-   "link": "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
-   "source": "Guardian World",
-   "date": "2026-11-22T18:50:56.000Z"
-  },
-  {
-   "title": "Liverpool thrash 10-man Man United in nightmare start for Pochettino",
-   "link": "https://www.aljazeera.com/sports/2026/11/22/liverpool-thrash-10-man-man-united-in-nightmare-start-for-pochettino?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-22T18:44:24.000Z"
-  },
-  {
-   "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
-   "link": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-22T18:17:59.000Z"
-  },
-  {
-   "title": "Civilians killed in RSF drone strikes in Sudan",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/civilians-killed-in-rsf-drone-strikes-in-sudan?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-22T18:12:07.000Z"
-  },
-  {
-   "title": "Suspected drone attack causes explosion on Russian ship in Libya",
-   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/suspected-drone-attack-causes-explosion-on-russian-ship-in-libya?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-22T18:11:30.000Z"
-  },
-  {
    "title": "Tanker incident “involving military forces” reported in Strait of Hormuz",
    "link": "https://www.euronews.com/2026/11/22/tanker-incident-involving-military-forces-reported-in-strait-of-hormuz",
    "source": "Euronews",
    "date": "2026-11-22T18:07:13.000Z"
-  },
-  {
-   "title": "'Danger seems greater all the time': Ukrainians search for missing after Russian strikes",
-   "link": "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-22T17:57:43.000Z"
   },
   {
    "title": "Russia-bound ship towed away after it was attacked in Gulf of Finland",
@@ -92,12 +134,6 @@
    "date": "2026-11-22T17:11:34.000Z"
   },
   {
-   "title": "Perplexity and Intelligence",
-   "link": "https://openai.com/index/perplexity-and-intelligence/",
-   "source": "Hacker News",
-   "date": "2026-11-22T17:06:27.000Z"
-  },
-  {
    "title": "Latest news bulletin | November 22nd, 2026 – Evening",
    "link": "https://www.euronews.com/video/2026/11/22/latest-news-bulletin-november-22nd-2026-evening",
    "source": "Euronews",
@@ -108,42 +144,6 @@
    "link": "https://www.euronews.com/video/2026/11/22/west-bank-four-palestinian-villages-targeted-in-suspected-settler-attacks",
    "source": "Euronews",
    "date": "2026-11-22T15:52:31.000Z"
-  },
-  {
-   "title": "Europe weakens chemical rules as science links them to 'lifestyle diseases'",
-   "link": "https://www.lemonde.fr/en/opinion/article/2026/11/22/as-science-increasingly-shows-the-role-chemical-substances-play-in-lifestyle-diseases-europe-weakens-its-regulations_6786595_23.html",
-   "source": "Hacker News",
-   "date": "2026-11-22T15:42:40.000Z"
-  },
-  {
-   "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
-   "link": "https://www.jeffgeerling.com/blog/2026/i-joined-the-ntp-pool/",
-   "source": "Hacker News",
-   "date": "2026-11-22T15:35:24.000Z"
-  },
-  {
-   "title": "Fascism and Monopoly",
-   "link": "https://repository.law.umich.edu/mlr/vol118/iss7/2/",
-   "source": "Hacker News",
-   "date": "2026-11-22T15:25:29.000Z"
-  },
-  {
-   "title": "Open Social Web Alliance",
-   "link": "https://osw-alliance.net/en/",
-   "source": "Hacker News",
-   "date": "2026-11-22T15:24:32.000Z"
-  },
-  {
-   "title": "Emergency workers recover at least six body bags after Indonesian factory fire",
-   "link": "https://www.euronews.com/2026/11/22/emergency-workers-recover-at-least-six-body-bags-after-indonesian-factory-fire",
-   "source": "Euronews",
-   "date": "2026-11-22T12:22:47.000Z"
-  },
-  {
-   "title": "Latest news bulletin | November 22nd, 2026 – Midday",
-   "link": "https://www.euronews.com/video/2026/11/22/latest-news-bulletin-november-22nd-2026-midday",
-   "source": "Euronews",
-   "date": "2026-11-22T11:00:15.000Z"
   },
   {
    "title": "South Korea education minister resigns over exam cheating scandal",

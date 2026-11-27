@@ -1,137 +1,143 @@
 {
- "updated": "2026-11-27T00:35:01.288Z",
+ "updated": "2026-11-27T09:40:57.333Z",
  "items": [
+  {
+   "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+   "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC World",
+   "date": "2026-11-27T09:07:48.000Z"
+  },
+  {
+   "title": "South Korea sends rescued fishermen back to North",
+   "link": "https://www.aljazeera.com/news/2026/11/27/south-korea-sends-rescued-fishermen-back-to-north?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T09:02:20.000Z"
+  },
+  {
+   "title": "India upbeat about first Olympics after ‘very good’ 2036 presentation",
+   "link": "https://www.aljazeera.com/sports/2026/11/27/india-upbeat-about-first-olympics-after-very-good-2036-presentation?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T08:57:37.000Z"
+  },
+  {
+   "title": "Estonia prepares to close all five road border crossings with Russia",
+   "link": "https://www.euronews.com/video/2026/11/27/estonia-prepares-to-close-all-five-road-border-crossings-with-russia",
+   "source": "Euronews",
+   "date": "2026-11-27T08:57:16.000Z"
+  },
+  {
+   "title": "Costa Rica denies entry to UN’s Albanese over ‘links to terrorist acts’",
+   "link": "https://www.aljazeera.com/news/2026/11/27/costa-rica-denies-entry-to-uns-albanese-over-links-to-terrorist?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T08:39:50.000Z"
+  },
+  {
+   "title": "‘Will I get taller?’: Gaza’s children suffer stunting amid war, blockade",
+   "link": "https://www.aljazeera.com/features/2026/11/27/will-i-get-taller-gazas-children-suffer-stunting-amid-war-blockade?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T08:37:52.000Z"
+  },
+  {
+   "title": "Claude sabotaging SOTA ML research tasks",
+   "link": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+   "source": "Hacker News",
+   "date": "2026-11-27T08:28:08.000Z"
+  },
+  {
+   "title": "Police bodycam shows rescue of man from burning car in US",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/police-bodycam-shows-rescue-of-man-from-burning-car-in-us?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T08:24:59.000Z"
+  },
+  {
+   "title": "Deadly floods leave parts of Ecuador under water",
+   "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/deadly-floods-leave-parts-of-ecuador-under-water?traffic_source=rss",
+   "source": "Al Jazeera",
+   "date": "2026-11-27T08:24:18.000Z"
+  },
+  {
+   "title": "Thanksgiving turkeys fall from the sky for families in remote Alaska",
+   "link": "https://www.euronews.com/2026/11/27/thanksgiving-turkeys-fall-from-the-sky-for-families-in-remote-alaska",
+   "source": "Euronews",
+   "date": "2026-11-27T08:20:44.000Z"
+  },
+  {
+   "title": "Russia: Moscow's iconic Soviet-era expo park opens its 20,000-square-metre outdoor ice rink",
+   "link": "https://www.euronews.com/video/2026/11/27/russia-moscows-iconic-soviet-era-expo-park-opens-its-20000-square-metre-outdoor-ice-rink",
+   "source": "Euronews",
+   "date": "2026-11-27T08:08:29.000Z"
+  },
+  {
+   "title": "Clashes erupt at Besiktas Europa League match against Israeli club",
+   "link": "https://www.euronews.com/2026/11/27/clashes-erupt-at-besiktas-europa-league-match-against-israeli-club",
+   "source": "Euronews",
+   "date": "2026-11-27T06:57:35.000Z"
+  },
+  {
+   "title": "The group chat where your AI talks behind your back",
+   "link": "https://construct22.com/",
+   "source": "Hacker News",
+   "date": "2026-11-27T06:44:34.000Z"
+  },
+  {
+   "title": "Mad about mara: the DIY dance movement helping young Nigerians escape the daily grind",
+   "link": "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind",
+   "source": "Guardian World",
+   "date": "2026-11-27T06:00:56.000Z"
+  },
+  {
+   "title": "Latest news bulletin | November 27th, 2026 – Morning",
+   "link": "https://www.euronews.com/video/2026/11/27/latest-news-bulletin-november-27th-2026-morning",
+   "source": "Euronews",
+   "date": "2026-11-27T06:00:33.000Z"
+  },
+  {
+   "title": "Buy Nothing Day – Friday November 27th 2026",
+   "link": "https://www.buynothingday.co.uk/",
+   "source": "Hacker News",
+   "date": "2026-11-27T05:52:42.000Z"
+  },
+  {
+   "title": "New Zealand election: newcomer centrist party to decide as Luxon scrambles for a majority",
+   "link": "https://www.euronews.com/2026/11/27/new-zealand-election-newcomer-centrist-party-holds-the-key-as-luxon-scrambles-for-a-majori",
+   "source": "Euronews",
+   "date": "2026-11-27T05:47:52.000Z"
+  },
+  {
+   "title": "The need for a formally verifiable mainstream programming language",
+   "link": "https://blainehansen.me/post/mainstream-verifiable-language/",
+   "source": "Hacker News",
+   "date": "2026-11-27T05:22:06.000Z"
+  },
   {
    "title": "Major Thanksgiving storm brings flooding, flight delays across US",
    "link": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-27T00:29:48.000Z"
+   "date": "2026-11-27T05:15:26.000Z"
   },
   {
-   "title": "Argentina bars Central Bank from printing money to fund government spending",
-   "link": "https://www.aljazeera.com/news/2026/11/27/argentina-bars-central-bank-from-printing-money-to-fund-government-spending?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-27T00:11:16.000Z"
-  },
-  {
-   "title": "Iran war live: Iran’s Araghchi calls deadly Kuwait attack ‘suspicious’",
-   "link": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-27T00:00:00.000Z"
-  },
-  {
-   "title": "Georgian police clash with Turkiye’s Besiktas fans over Palestinian flag",
-   "link": "https://www.aljazeera.com/sports/2026/11/26/georgian-police-clash-with-turkiyes-besiktas-fans-over-palestinian-flag?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-26T23:37:17.000Z"
-  },
-  {
-   "title": "Israeli settlers damage Palestinian family’s homes in West Bank attack",
-   "link": "https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-26T23:07:36.000Z"
-  },
-  {
-   "title": "In Canada, Quebec’s religious symbols ban faces a Supreme Court test",
-   "link": "https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-26T22:51:55.000Z"
-  },
-  {
-   "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-   "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+   "title": "New Zealand's ruling coalition falls short of parliamentary majority by one seat",
+   "link": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
-   "date": "2026-11-26T22:49:27.000Z"
+   "date": "2026-11-27T03:28:15.000Z"
   },
   {
-   "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
-   "link": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
-   "source": "Al Jazeera",
-   "date": "2026-11-26T22:06:54.000Z"
-  },
-  {
-   "title": "Germany: Christmas markets open across the country amid tight security",
-   "link": "https://www.euronews.com/video/2026/11/26/germany-christmas-markets-open-across-the-country-amid-tight-security",
-   "source": "Euronews",
-   "date": "2026-11-26T22:05:21.000Z"
-  },
-  {
-   "title": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
-   "link": "https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss",
-   "source": "BBC World",
-   "date": "2026-11-26T22:01:22.000Z"
-  },
-  {
-   "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
-   "link": "https://kendell.dev/blog/arkwrapper/",
+   "title": "The Cutthroat Business of Shipwrecks",
+   "link": "https://daily.jstor.org/the-cutthroat-business-of-shipwrecks/",
    "source": "Hacker News",
-   "date": "2026-11-26T21:59:19.000Z"
+   "date": "2026-11-27T01:21:49.000Z"
   },
   {
-   "title": "Thanksgiving storms flood US coasts and disrupt holiday travel",
-   "link": "https://www.euronews.com/2026/11/26/thanksgiving-storms-flood-us-coasts-and-disrupt-holiday-travel",
-   "source": "Euronews",
-   "date": "2026-11-26T21:57:53.000Z"
-  },
-  {
-   "title": "AI made self-hosting fun again",
-   "link": "https://janlukas.blog/posts/ai-self-hosting",
+   "title": "Hard Drive pricing has gotten bad",
+   "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
    "source": "Hacker News",
-   "date": "2026-11-26T21:47:45.000Z"
-  },
-  {
-   "title": "Denver man traps Waymo robotaxis with cones, eggs them at least 30 times",
-   "link": "https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/",
-   "source": "Hacker News",
-   "date": "2026-11-26T21:16:41.000Z"
-  },
-  {
-   "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-   "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-   "source": "Hacker News",
-   "date": "2026-11-26T21:08:05.000Z"
-  },
-  {
-   "title": "Company Culture = Slack Emoji ÷ √Headcount",
-   "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
-   "source": "Hacker News",
-   "date": "2026-11-26T20:49:49.000Z"
-  },
-  {
-   "title": "UK: London's Gingerbread City returns with 50 edible architectural creations",
-   "link": "https://www.euronews.com/video/2026/11/26/uk-londons-gingerbread-city-returns-with-50-edible-architectural-creations",
-   "source": "Euronews",
-   "date": "2026-11-26T20:37:07.000Z"
-  },
-  {
-   "title": "Belgium: Farmers and tractors descend on Brussels to defend EU subsidies",
-   "link": "https://www.euronews.com/video/2026/11/26/belgium-farmers-and-tractors-descend-on-brussels-to-defend-eu-subsidies",
-   "source": "Euronews",
-   "date": "2026-11-26T20:10:25.000Z"
-  },
-  {
-   "title": "Top-cited AI scientists at four US companies compared",
-   "link": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
-   "source": "Hacker News",
-   "date": "2026-11-26T19:44:31.000Z"
-  },
-  {
-   "title": "Son of Myanmar's Suu Kyi 'relieved' by first call in five years, questions military's motives",
-   "link": "https://www.euronews.com/2026/11/26/son-of-myanmars-suu-kyi-relieved-by-first-call-in-five-years-questions-militarys-motives",
-   "source": "Euronews",
-   "date": "2026-11-26T19:43:33.000Z"
+   "date": "2026-11-27T01:13:49.000Z"
   },
   {
    "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
    "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss",
    "source": "BBC World",
    "date": "2026-11-26T19:26:16.000Z"
-  },
-  {
-   "title": "NATO deploys AWACS airborne radar to monitor Polish airspace",
-   "link": "https://www.euronews.com/2026/11/26/nato-deploys-awacs-airborne-radar-to-monitor-polish-airspace",
-   "source": "Euronews",
-   "date": "2026-11-26T17:35:10.000Z"
   },
   {
    "title": "‘I’m no longer a UAE official’: UN hopeful Lana Nusseibeh tries to shake off Sudan record",
@@ -174,12 +180,6 @@
    "link": "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
    "source": "Guardian World",
    "date": "2026-11-25T11:28:05.000Z"
-  },
-  {
-   "title": "More than 300 Russians killed as Moscow props up Mali’s junta, leaked data reveals",
-   "link": "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
-   "source": "Guardian World",
-   "date": "2026-11-24T16:00:50.000Z"
   }
  ]
 }
